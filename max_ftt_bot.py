@@ -63,23 +63,32 @@ def detect_flag(text):
     return '🌍'
 
 
-def fetch_article_text(url):
+def fetch_article(url):
+    """Возвращает (text, image_url)."""
     try:
         r = requests.get(url, timeout=12, headers=HEADERS)
         if not r.ok:
-            return ''
+            return '', ''
+        # og:image
+        image_url = ''
+        og_match = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', r.text)
+        if not og_match:
+            og_match = re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', r.text)
+        if og_match:
+            image_url = og_match.group(1)
+
         text = trafilatura.extract(r.text, include_comments=False, include_tables=False)
         if not text:
-            return ''
+            return '', image_url
         if len(text) > TEXT_LIMIT:
             chunk = text[:TEXT_LIMIT]
             dot = chunk.rfind('.')
             chunk = chunk[:dot + 1] if dot > TEXT_LIMIT // 2 else chunk.rstrip() + '...'
-            return chunk
-        return text
+            return chunk, image_url
+        return text, image_url
     except Exception as e:
         print(f'Text fetch error: {e}')
-        return ''
+        return '', ''
 
 
 def format_post(title, body, source_name, pub_dt):
@@ -88,13 +97,16 @@ def format_post(title, body, source_name, pub_dt):
     return text
 
 
-def send_message(text):
+def send_message(text, image_url=''):
     import json as _json
     try:
+        payload = {'text': text}
+        if image_url:
+            payload['attachments'] = [{'type': 'image', 'payload': {'url': image_url}}]
         resp = requests.post(
             f'{MAX_API}/messages',
             params={'chat_id': CHAT_ID},
-            data=_json.dumps({'text': text}).encode('utf-8'),
+            data=_json.dumps(payload).encode('utf-8'),
             headers={
                 'Authorization': ACCESS_TOKEN,
                 'Content-Type': 'application/json',
@@ -103,7 +115,17 @@ def send_message(text):
         )
         if not resp.ok:
             print(f'MAX API error: {resp.status_code} {resp.text}')
-        else:
+            # Попытка без фото если с фото упало
+            if image_url:
+                payload.pop('attachments')
+                resp = requests.post(
+                    f'{MAX_API}/messages',
+                    params={'chat_id': CHAT_ID},
+                    data=_json.dumps(payload).encode('utf-8'),
+                    headers={'Authorization': ACCESS_TOKEN, 'Content-Type': 'application/json'},
+                    timeout=15,
+                )
+        if resp.ok:
             print(f'MAX API ok')
         return resp.ok
     except Exception as e:
@@ -185,9 +207,9 @@ def main():
 
     posted_count = 0
     for article in to_post:
-        body = fetch_article_text(article['url'])
+        body, image_url = fetch_article(article['url'])
         text = format_post(article['title'], body, article['source'], article['pub_dt'])
-        if send_message(text):
+        if send_message(text, image_url):
             posted.add(article['id'])
             posted_count += 1
             print(f'Posted: {article["title"]}')
