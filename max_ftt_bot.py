@@ -82,15 +82,11 @@ def fetch_article_text(url):
 
 
 def format_post(title, body, source_name, pub_dt):
-    msk = timezone(timedelta(hours=3))
-    time_str = pub_dt.astimezone(msk).strftime('%H:%M') if pub_dt else ''
     flag = detect_flag(title + ' ' + body)
     text = f'{flag} {title}'
     if body:
         text += f'\n\n{body}'
     text += f'\n\n📰 {source_name}'
-    if time_str:
-        text += f' | 🕐 {time_str} МСК'
     return text
 
 
