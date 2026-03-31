@@ -16,10 +16,12 @@ CHAT_ID = -72873687632407  # канал "Боже, Спартак храни!" �
 MAX_API = 'https://botapi.max.ru'
 
 SOURCES = [
-    {'name': 'Лента',       'url': 'https://lenta.ru/rss/news'},
-    {'name': 'Известия',    'url': 'https://iz.ru/xml/rss/all.xml'},
-    {'name': 'Коммерсантъ', 'url': 'https://www.kommersant.ru/RSS/main.xml'},
-    {'name': 'RT',          'url': 'https://russian.rt.com/rss'},
+    {'name': 'ТАСС',        'url': 'https://tass.ru/rss/v2.xml',                  'no_image': False},
+    {'name': 'РИА',         'url': 'https://ria.ru/export/rss2/archive/index.xml', 'no_image': False},
+    {'name': 'Коммерсантъ', 'url': 'https://www.kommersant.ru/RSS/main.xml',       'no_image': False},
+    {'name': 'RT',          'url': 'https://russian.rt.com/rss',                   'no_image': False},
+    {'name': 'Ведомости',   'url': 'https://www.vedomosti.ru/rss/news',            'no_image': False},
+    {'name': 'Лента',       'url': 'https://lenta.ru/rss/news',                    'no_image': True},
 ]
 
 HEADERS = {
@@ -184,6 +186,7 @@ def main():
                     'url': url,
                     'source': source['name'],
                     'pub_dt': pub_dt,
+                    'no_image': source.get('no_image', False),
                 })
 
         except Exception as e:
@@ -208,6 +211,8 @@ def main():
     posted_count = 0
     for article in to_post:
         body, image_url = fetch_article(article['url'])
+        if article.get('no_image'):
+            image_url = ''
         text = format_post(article['title'], body, article['source'], article['pub_dt'])
         if send_message(text, image_url):
             posted.add(article['id'])
