@@ -16,9 +16,10 @@ CHAT_ID = -72873687632407  # канал "Боже, Спартак храни!" �
 MAX_API = 'https://botapi.max.ru'
 
 SOURCES = [
-    {'name': 'ТАСС',  'url': 'https://tass.ru/rss/v2.xml'},
-    {'name': 'РИА',   'url': 'https://ria.ru/export/rss2/archive/index.xml'},
-    {'name': 'Лента', 'url': 'https://lenta.ru/rss/news'},
+    {'name': 'Лента',       'url': 'https://lenta.ru/rss/news'},
+    {'name': 'РБК',         'url': 'https://rbc.ru/rss/news'},
+    {'name': 'Коммерсантъ', 'url': 'https://www.kommersant.ru/RSS/main.xml'},
+    {'name': 'RT',          'url': 'https://russian.rt.com/rss'},
 ]
 
 HEADERS = {
