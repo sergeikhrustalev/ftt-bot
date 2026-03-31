@@ -4,7 +4,6 @@ import trafilatura
 import os
 import hashlib
 import json
-import time
 import re
 import socket
 from datetime import datetime, timezone, timedelta
@@ -26,7 +25,7 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
 }
 
-TEXT_LIMIT = 3500
+TEXT_LIMIT = 500
 
 FLAGS = [
     ('🇷🇺', ['россия', 'российск', 'москва', 'кремль', 'путин', 'медведев']),
@@ -183,21 +182,15 @@ def main():
             unique.append(a)
 
     unique.sort(key=lambda x: x['pub_dt'])
-    to_post = unique[:4]
+    to_post = unique[:1]
 
     if not to_post:
         print('No new articles found.')
         save_posted(posted)
         return
 
-    WINDOW = 28 * 60
-    interval = WINDOW / (len(to_post) - 1) if len(to_post) > 1 else 0
-
     posted_count = 0
-    for i, article in enumerate(to_post):
-        if i > 0:
-            time.sleep(interval)
-
+    for article in to_post:
         body = fetch_article_text(article['url'])
         text = format_post(article['title'], body, article['source'], article['pub_dt'])
         if send_message(text):
