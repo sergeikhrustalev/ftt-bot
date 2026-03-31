@@ -17,7 +17,7 @@ MAX_API = 'https://botapi.max.ru'
 
 SOURCES = [
     {'name': 'Лента',       'url': 'https://lenta.ru/rss/news'},
-    {'name': 'РБК',         'url': 'https://rbc.ru/rss/news'},
+    {'name': 'Газета.Ru',   'url': 'https://www.gazeta.ru/export/rss/index.xml'},
     {'name': 'Коммерсантъ', 'url': 'https://www.kommersant.ru/RSS/main.xml'},
     {'name': 'RT',          'url': 'https://russian.rt.com/rss'},
 ]
@@ -84,10 +84,7 @@ def fetch_article_text(url):
 
 def format_post(title, body, source_name, pub_dt):
     flag = detect_flag(title + ' ' + body)
-    text = f'{flag} {title}'
-    if body:
-        text += f'\n\n{body}'
-    text += f'\n\n📰 {source_name}'
+    text = f'{flag} {body}' if body else f'{flag} {title}'
     return text
 
 
