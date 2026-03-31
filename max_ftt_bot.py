@@ -17,7 +17,7 @@ MAX_API = 'https://botapi.max.ru'
 
 SOURCES = [
     {'name': 'Лента',       'url': 'https://lenta.ru/rss/news'},
-    {'name': 'Газета.Ru',   'url': 'https://www.gazeta.ru/export/rss/index.xml'},
+    {'name': 'Известия',    'url': 'https://iz.ru/xml/rss/all.xml'},
     {'name': 'Коммерсантъ', 'url': 'https://www.kommersant.ru/RSS/main.xml'},
     {'name': 'RT',          'url': 'https://russian.rt.com/rss'},
 ]
