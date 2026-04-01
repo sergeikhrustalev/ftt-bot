@@ -1,13 +1,5 @@
 [
   {
-    "id": "bb0328bb23a79690f12d69cb3ce08c86",
-    "title": "«Возвращает в состояние защищённости»: эксперты — о природе смеха и его связи с интеллектом",
-    "url": "https://russian.rt.com/science/article/1613812-smeh-intervyu-yumor-intellekt?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T06:30:18+00:00",
-    "no_image": false
-  },
-  {
     "id": "37629c484cb5667ce142caa73b30b253",
     "title": "Оборот РВБ по МСФО увеличился на 49% в 2025 году",
     "url": "https://www.vedomosti.ru/business/news/2026/04/01/1187036-oborot-rvb",
@@ -2389,6 +2381,14 @@
     "url": "https://www.kommersant.ru/doc/8552929",
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-01T16:20:39+00:00",
+    "no_image": false
+  },
+  {
+    "id": "ead17034278a37d2dfde031e4a91514c",
+    "title": "Над российскими регионами сбили 17 украинских дронов",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187257-sbili-dronov",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-01T16:31:08+00:00",
     "no_image": false
   }
 ]
