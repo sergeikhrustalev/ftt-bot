@@ -1,13 +1,5 @@
 [
   {
-    "id": "6ddaf46360ebde488e2ab24c1c36c21c",
-    "title": "Венгрия возмутилась ложью ЕС словами «такого никогда не было»",
-    "url": "https://lenta.ru/news/2026/04/01/vengriya-vozmutilas-lozhyu-es-slovami-takogo-nikogda-ne-bylo/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:10:29+00:00",
-    "no_image": true
-  },
-  {
     "id": "64eea7018d8b254c3f1d03fbf657d2a2",
     "title": "Активиста \"Альтернативы для Германии\" внесли в базу \"Миротворца\"",
     "url": "https://ria.ru/20260401/germanija-2084186306.html",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-01T12:51:32+00:00",
     "no_image": false
+  },
+  {
+    "id": "ee98957c9284d6d4743bb7ed86ab13a5",
+    "title": "Главком ВСУ высказался об ударах по Ленобласти",
+    "url": "https://lenta.ru/news/2026/04/01/glavkom-vsu-vyskazalsya-ob-udarah-po-lenoblasti/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T13:01:00+00:00",
+    "no_image": true
   }
 ]
