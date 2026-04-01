@@ -1,13 +1,5 @@
 [
   {
-    "id": "7a9b55158edc14c486f43de7228a5322",
-    "title": "Москвичам пообещали 19-градусное тепло",
-    "url": "https://lenta.ru/news/2026/04/01/moskvicham-poobeschali-19-gradusnoe-teplo/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T04:47:35+00:00",
-    "no_image": true
-  },
-  {
     "id": "6182c05087ff25a7326314db710ca1fd",
     "title": "В Европе забили тревогу из-за «апокалиптического энергокризиса»",
     "url": "https://lenta.ru/news/2026/04/01/v-evrope-zabili-trevogu-iz-za-nadvigayuschegosya-apokalipticheskogo-energokrizisa/",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-01T08:24:35+00:00",
     "no_image": false
+  },
+  {
+    "id": "7b8bfd7d1833a3cafbe6bb0978f06ab2",
+    "title": "В России спрогнозировали судьбу Зеленского",
+    "url": "https://lenta.ru/news/2026/04/01/v-rossii-sprognozirovali-sudbu-zelenskogo/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T08:26:00+00:00",
+    "no_image": true
   }
 ]
