@@ -1,13 +1,5 @@
 [
   {
-    "id": "e3a281b66e7b48cf31d7b9328f44edbd",
-    "title": "В бывшей республике СССР заявили об исчерпании запасов газа",
-    "url": "https://lenta.ru/news/2026/04/01/v-byvshey-respublike-sssr-zayavili-ob-ischerpanii-zapasov-gaza/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:39:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "a2687bf99dd0d9b38beaf93031740015",
     "title": "В Карелии ищут лыжника, пропавшего на Онежском озере",
     "url": "https://ria.ru/20260401/lyzhnik-2084190697.html",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T18:12:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "86352c785306bfd1a8b55d127da75015",
+    "title": "Армия, церковь и особенности здоровья шуток не терпят // ВЦИОМ: юмор стал для зумеров зоной риска",
+    "url": "https://www.kommersant.ru/doc/8553253",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-01T18:13:06+00:00",
+    "no_image": false
   }
 ]
