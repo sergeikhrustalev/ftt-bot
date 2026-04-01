@@ -1,13 +1,5 @@
 [
   {
-    "id": "495579cb64e071db6a166e0f01ea4579",
-    "title": "С 1 апреля в гостиницы разрешили заселяться через «Госуслуги»",
-    "url": "https://www.vedomosti.ru/society/news/2026/04/01/1187038-s-1-aprelya-gostinitsi",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T06:40:38+00:00",
-    "no_image": false
-  },
-  {
     "id": "bc02851026874079279618e9cc8972e3",
     "title": "В Литве выбрали переговорщика для диалога с Белоруссией",
     "url": "https://lenta.ru/news/2026/04/01/v-litve-vybrali-peregovorschika-dlya-dialoga-s-belorussiey/",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/politics/news/2026/03/31/1187274-nemetskom-napadenii-nozhom",
     "source": "Ведомости",
     "pub_dt": "2026-04-01T18:22:55+00:00",
+    "no_image": false
+  },
+  {
+    "id": "91d76a27aaf881622e3dbf4d4d9c0871",
+    "title": "FT: Трамп угрожал Европе прекратить поставки оружия для Украины",
+    "url": "https://russian.rt.com/world/news/1614504-tramp-ugrozy-oruzhie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-01T18:40:39+00:00",
     "no_image": false
   }
 ]
