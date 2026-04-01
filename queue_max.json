@@ -1,13 +1,5 @@
 [
   {
-    "id": "3bcc8a9cf623640b5fd91d1c540315cf",
-    "title": "Овечкин обошел Ягра по одному показателю",
-    "url": "https://lenta.ru/news/2026/04/01/ovechkin-oboshel-yagra-po-odnomu-pokazatelyu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:49:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "efcee42bb41df65f4e4d338a814121ed",
     "title": "Появились подробности об одной из жертв взрыва и пожара на заводе в Нижнекамске",
     "url": "https://lenta.ru/news/2026/04/01/poyavilis-podrobnosti-ob-odnoy-iz-zhertv-vzryva-i-pozhara-na-zavode-v-nizhnekamske/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/alferova-vspomnila-posledniy-razgovor-s-abdulovym/",
     "source": "Лента",
     "pub_dt": "2026-04-01T09:52:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "fd67de25cea6124134f108582570b257",
+    "title": "В США признали укрепление позиций России",
+    "url": "https://lenta.ru/news/2026/04/01/v-ssha-priznali-ukreplenie-pozitsiy-rossii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T10:01:00+00:00",
     "no_image": true
   }
 ]
