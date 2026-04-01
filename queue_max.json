@@ -1,13 +1,5 @@
 [
   {
-    "id": "2d02e4a950ea1848695e33477e9d0507",
-    "title": "В России отреагировали на заявление Зеленского о передаче Украине ядерного оружия",
-    "url": "https://lenta.ru/news/2026/04/01/v-rossii-otreagirovali-na-zayavlenie-zelenskogo-o-peredache-ukraine-yadernogo-oruzhiya/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:18:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "29f2d4e87ce30d58774bf7e1d93494bb",
     "title": "ЦАХАЛ: из Йемена запустили ракету в сторону Израиля",
     "url": "https://russian.rt.com/world/news/1614187-iemen-izrail-rakety?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T14:00:25+00:00",
     "no_image": true
+  },
+  {
+    "id": "3dc1c65146f9a6e708e1100df5a902ba",
+    "title": "Дмитриев посоветовал Стармеру прилететь в Россию за топливом",
+    "url": "https://www.vedomosti.ru/politics/news/2026/03/31/1187208-dmitriev-starmeru-toplivo",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-01T14:10:50+00:00",
+    "no_image": false
   }
 ]
