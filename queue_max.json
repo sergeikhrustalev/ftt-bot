@@ -1,13 +1,5 @@
 [
   {
-    "id": "efcee42bb41df65f4e4d338a814121ed",
-    "title": "Появились подробности об одной из жертв взрыва и пожара на заводе в Нижнекамске",
-    "url": "https://lenta.ru/news/2026/04/01/poyavilis-podrobnosti-ob-odnoy-iz-zhertv-vzryva-i-pozhara-na-zavode-v-nizhnekamske/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:52:50+00:00",
-    "no_image": true
-  },
-  {
     "id": "ad8412d9833f5d0fcae25068cdf1b241",
     "title": "В России рассказали о будущем крупнейшего в Восточной Европе склада с боеприпасами",
     "url": "https://lenta.ru/news/2026/04/01/v-rossii-rasskazali-o-buduschem-krupneyshego-v-vostochnoy-evrope-sklada-s-boepripasami/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/v-ssha-priznali-ukreplenie-pozitsiy-rossii/",
     "source": "Лента",
     "pub_dt": "2026-04-01T10:01:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "3755ea2429238e4c2f8c678519a9b493",
+    "title": "В России анонсировали восстановление ЛНР",
+    "url": "https://lenta.ru/news/2026/04/01/vosstanovlenye/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T10:10:41+00:00",
     "no_image": true
   }
 ]
