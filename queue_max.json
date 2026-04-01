@@ -1,13 +1,5 @@
 [
   {
-    "id": "54bd454d77d91119b28280dd47db7ccb",
-    "title": "СК: ущерб от атаки по Хорлам в новогоднюю ночь составил 60 млн рублей",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187037-uscherb-ataki-horlam",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T06:30:10+00:00",
-    "no_image": false
-  },
-  {
     "id": "bb0328bb23a79690f12d69cb3ce08c86",
     "title": "«Возвращает в состояние защищённости»: эксперты — о природе смеха и его связи с интеллектом",
     "url": "https://russian.rt.com/science/article/1613812-smeh-intervyu-yumor-intellekt?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T16:13:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "c5f8b6773beb2a3e7271c5d818b0f366",
+    "title": "Воздух ностальгии // Вышел альбом «Трудный возраст. Трибьют МакSим»",
+    "url": "https://www.kommersant.ru/doc/8552929",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-01T16:20:39+00:00",
+    "no_image": false
   }
 ]
