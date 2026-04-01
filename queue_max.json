@@ -1,13 +1,5 @@
 [
   {
-    "id": "41dba0635b06a4900a1bc607fa0796b2",
-    "title": "Путин утвердил заявку на председательство России в АТЭС в 2035 году",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187027-putin-utverdil-zayavku",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T05:05:16+00:00",
-    "no_image": false
-  },
-  {
     "id": "f0f2e5966b9e08c8a167f7dd8bfa6cce",
     "title": "На Западе сообщили о закупках российской нефти «отчаянной Азией»",
     "url": "https://lenta.ru/news/2026/04/01/na-zapade-soobschili-o-zakupkah-rossiyskoy-nefti-otchayannoy-aziey/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T08:31:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "a2f863505593a65061a79051fd8761a2",
+    "title": "Нарышкин рассказал о контактах СВР и ЦРУ по поводу Ирана",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187074-o-kontaktah-tsru",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-01T08:31:44+00:00",
+    "no_image": false
   }
 ]
