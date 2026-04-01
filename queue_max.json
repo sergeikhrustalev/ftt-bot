@@ -1,13 +1,5 @@
 [
   {
-    "id": "319f13f43ea848f5d270f3a33ba15dd0",
-    "title": "Культовый гаджет Apple признан устаревшим",
-    "url": "https://lenta.ru/news/2026/04/01/old-apple/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:46:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "5fd4f7bf6c0f10a0f85049ea8d25fcbe",
     "title": "ПВО утром сбила 16 украинских беспилотников над тремя регионами",
     "url": "https://ria.ru/20260401/pvo-2084191483.html",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T19:12:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "d4cfd203dbcb894020d5417bd15aa388",
+    "title": "Зеленский сообщил о встрече с Уиткоффом и Кушнером",
+    "url": "https://russian.rt.com/world/news/1614514-zelenskii-vstrecha-uitkoff-kushner?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-01T19:22:12+00:00",
+    "no_image": false
   }
 ]
