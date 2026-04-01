@@ -1,13 +1,5 @@
 [
   {
-    "id": "93a9622c3438b35946ba59042eb5e115",
-    "title": "Мужчина и женщина занялись сексом на детской площадке на глазах у прохожих",
-    "url": "https://lenta.ru/news/2026/04/01/muzhchina-i-zhenschina-zanyalis-seksom-na-detskoy-ploschadke-na-glazah-u-prohozhih/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:01:14+00:00",
-    "no_image": true
-  },
-  {
     "id": "41dba0635b06a4900a1bc607fa0796b2",
     "title": "Путин утвердил заявку на председательство России в АТЭС в 2035 году",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187027-putin-utverdil-zayavku",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/voenno-transportnyy-samolet-an-26-mog-razbitsya-iz-za-tehnicheskoy-neispravnosti-zhertvami-krusheniya-stali-30-chelovek/",
     "source": "Лента",
     "pub_dt": "2026-04-01T08:30:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "9eea0fdb0460e833833a35d52be3f253",
+    "title": "Рядовой совершил два теракта на территории воинских частей в России",
+    "url": "https://lenta.ru/news/2026/04/01/ryadovoy-sovershil-dva-terakta-na-territorii-voinskih-chastey-v-rossii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T08:31:00+00:00",
     "no_image": true
   }
 ]
