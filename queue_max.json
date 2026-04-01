@@ -1,13 +1,5 @@
 [
   {
-    "id": "696a24d13117d9799d0c897e9a10c15e",
-    "title": "В России изменился климат",
-    "url": "https://lenta.ru/news/2026/04/01/v-rossii-izmenilsya-klimat/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:08:33+00:00",
-    "no_image": true
-  },
-  {
     "id": "0f7a848736800b735c39edcc032050a5",
     "title": "Спрогнозированы сроки экономического коллапса Евросоюза",
     "url": "https://lenta.ru/news/2026/04/01/sprognozirovany-sroki-ekonomicheskogo-kollapsa-es/",
@@ -2387,6 +2379,14 @@
     "id": "84c3c3c16f99dfbd8f25f61d93022745",
     "title": "В США обвинили окружение Трампа в сокрытии правды об Иране",
     "url": "https://lenta.ru/news/2026/04/01/v-ssha-obvinil-okruzhenie-trampa-v-sokrytii-pravdy-ob-irane/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T08:35:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "f74a1e9fddf2088c33befbe082a69abe",
+    "title": "В Казахстане прокомментировали конфликт в Усть-Луге",
+    "url": "https://lenta.ru/news/2026/04/01/v-kazahstane-prokommentirovali-konflikt-v-ust-luge/",
     "source": "Лента",
     "pub_dt": "2026-04-01T08:35:00+00:00",
     "no_image": true
