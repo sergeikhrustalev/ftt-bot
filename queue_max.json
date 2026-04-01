@@ -1,13 +1,5 @@
 [
   {
-    "id": "19016a5eef37e3f615bbd8dedfaf38b5",
-    "title": "Трамп выступит с обращением к нации по Ирану",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187030-tramp-vistupit",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T05:41:59+00:00",
-    "no_image": false
-  },
-  {
     "id": "e87b2b5bbdb553f215010e9200092c3c",
     "title": "Приставы нашли свыше 762 000 нарушений у частных сборщиков долгов",
     "url": "https://www.vedomosti.ru/society/news/2026/04/01/1187029-pristavi-nashli-svishe",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/rybolov-lishilsya-vyigrysha-i-okazalsya-pod-ugrozoy-tyurmy-iz-za-zhulnichestva-na-turnire/",
     "source": "Лента",
     "pub_dt": "2026-04-01T09:01:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "f4363f1954268eb6133c8199c047bb3b",
+    "title": "Молодой человек оригинально проехался в московском метро и попал на видео",
+    "url": "https://lenta.ru/news/2026/04/01/molodoy-chelovek-originalno-proehalsya-v-moskovskom-metro-i-popal-na-video/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T09:11:00+00:00",
     "no_image": true
   }
 ]
