@@ -1,13 +1,5 @@
 [
   {
-    "id": "f0f2e5966b9e08c8a167f7dd8bfa6cce",
-    "title": "На Западе сообщили о закупках российской нефти «отчаянной Азией»",
-    "url": "https://lenta.ru/news/2026/04/01/na-zapade-soobschili-o-zakupkah-rossiyskoy-nefti-otchayannoy-aziey/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:06:21+00:00",
-    "no_image": true
-  },
-  {
     "id": "bf0bd7976e782a19c50f28aca9986b16",
     "title": "Сын Усольцевой высказался о гибели пропавшей семьи в тайге",
     "url": "https://lenta.ru/news/2026/04/01/syn-usoltsevoy-vyskazalsya-o-gibeli-propavshey-semi-v-tayge/",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-01T08:31:44+00:00",
     "no_image": false
+  },
+  {
+    "id": "b6d683ff35d517d445319f1a8b5a4337",
+    "title": "Раскрыта причина стрельбы в российской школе",
+    "url": "https://lenta.ru/news/2026/04/01/raskryta-prichina-strelby-v-rossiyskoy-shkole/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T08:33:57+00:00",
+    "no_image": true
   }
 ]
