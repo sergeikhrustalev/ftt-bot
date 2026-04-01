@@ -1,13 +1,5 @@
 [
   {
-    "id": "d032bc003ee4abfb01987c4b184f26fe",
-    "title": "«Елка» сбила пять дронов ВСУ",
-    "url": "https://lenta.ru/news/2026/04/01/elka-sbila-pyat-dronov-vsu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:46:37+00:00",
-    "no_image": true
-  },
-  {
     "id": "3bcc8a9cf623640b5fd91d1c540315cf",
     "title": "Овечкин обошел Ягра по одному показателю",
     "url": "https://lenta.ru/news/2026/04/01/ovechkin-oboshel-yagra-po-odnomu-pokazatelyu/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/vrachi-rasskazali-o-posledstviyah-ezhednevnogo-upotrebleniya-apelsinov/",
     "source": "Лента",
     "pub_dt": "2026-04-01T09:43:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "44fff41f78c6389e93829ab696a1adff",
+    "title": "Алферова вспомнила последний разговор с Абдуловым",
+    "url": "https://lenta.ru/news/2026/04/01/alferova-vspomnila-posledniy-razgovor-s-abdulovym/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T09:52:00+00:00",
     "no_image": true
   }
 ]
