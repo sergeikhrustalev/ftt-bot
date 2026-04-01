@@ -1,13 +1,5 @@
 [
   {
-    "id": "52854924ebf489d51b2824046377dd04",
-    "title": "Профсоюзы: недостаток рабочей силы можно закрыть благодаря закону о сверхурочных",
-    "url": "https://www.vedomosti.ru/economics/news/2026/04/01/1187035-profsoyuzi-nedostatok-rabochei",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T06:17:13+00:00",
-    "no_image": false
-  },
-  {
     "id": "2d02e4a950ea1848695e33477e9d0507",
     "title": "В России отреагировали на заявление Зеленского о передаче Украине ядерного оружия",
     "url": "https://lenta.ru/news/2026/04/01/v-rossii-otreagirovali-na-zayavlenie-zelenskogo-o-peredache-ukraine-yadernogo-oruzhiya/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/bastrykin-raskryl-dinamiku-po-nesovershennoletnim-terroristam/",
     "source": "Лента",
     "pub_dt": "2026-04-01T13:51:44+00:00",
+    "no_image": true
+  },
+  {
+    "id": "5ee64026bf017765c9a6ef5ec24c08f7",
+    "title": "Невеста пожаловалась на обман популярного в России свадебного салона",
+    "url": "https://lenta.ru/news/2026/04/01/zhenschina-pozhalovalas-na-obman-populyarnogo-svadebnogo-salona-v-rossii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T14:00:25+00:00",
     "no_image": true
   }
 ]
