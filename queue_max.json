@@ -1,13 +1,5 @@
 [
   {
-    "id": "ff9ef422613b62e2be5e884338884431",
-    "title": "Запад начал вмешиваться в выборы своих партнеров, заявила Захарова",
-    "url": "https://ria.ru/20260401/zapad-2084187530.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:22:28+00:00",
-    "no_image": false
-  },
-  {
     "id": "2fb6dab2e7238d3a0b6b370c13fa6bc7",
     "title": "Замминистра российского региона оказался покровителем «Чистой воды»",
     "url": "https://lenta.ru/news/2026/04/01/zamministra-rossiyskogo-regiona-okazalsya-pokrovitelem-chistoy-vody/",
@@ -2390,5 +2382,13 @@
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-01T14:32:02+00:00",
     "no_image": false
+  },
+  {
+    "id": "7fc0fa3ddd1851c63d34910bd57c403a",
+    "title": "Самойлова прокомментировала развод с Джиганом",
+    "url": "https://lenta.ru/news/2026/04/01/samoylova-prokommentirovala-razvod-s-dzhiganom/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T14:41:36+00:00",
+    "no_image": true
   }
 ]
