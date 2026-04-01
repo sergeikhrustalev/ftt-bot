@@ -1,13 +1,5 @@
 [
   {
-    "id": "bdd166262898a0a82dbcefcbcaa6f592",
-    "title": "Определились все участники чемпионата мира по футболу 2026 года",
-    "url": "https://lenta.ru/news/2026/04/01/opredelilis-vse-uchastniki-chempionata-mira-po-futbolu-2026-goda/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:38:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "cb7b5c8e7e0652e5cd71b597ab3360b4",
     "title": "Глава РАН Красников отметил изменение климата в России на резко континентальный",
     "url": "https://russian.rt.com/nopolitics/news/1614202-akademik-izmenenie-klimat-rossiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-01T17:30:39+00:00",
     "no_image": false
+  },
+  {
+    "id": "c5e8e7df3462e2a2234e21f627fc44bf",
+    "title": "Зеленский встретился со спецпосланником и зятем Трампа",
+    "url": "https://lenta.ru/news/2026/04/01/zelenskiy-vstretilsya-so-spetsposlannikom-i-zyatem-trampa/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T17:46:00+00:00",
+    "no_image": true
   }
 ]
