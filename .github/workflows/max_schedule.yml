@@ -10,6 +10,9 @@ permissions:
 
 jobs:
   post-news:
+    concurrency:
+      group: ftt-max-posting
+      cancel-in-progress: false
     runs-on: ubuntu-latest
 
     steps:
@@ -27,12 +30,12 @@ jobs:
       - name: Run MAX bot
         env:
           ACCESS_TOKEN: ${{ secrets.MAX_ACCESS_TOKEN }}
-        run: python max_ftt_bot.py
+        run: python max_ftt_bot.py run
 
-      - name: Save posted articles list
+      - name: Save bot state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add posted.json
-          git diff --staged --quiet || git commit -m "Update posted articles"
+          git add posted.json queue_max.json
+          git diff --staged --quiet || git commit -m "Update FTT MAX state"
           git push
