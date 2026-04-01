@@ -1,13 +1,5 @@
 [
   {
-    "id": "66cdc3979d00f78e7af3157e81026e65",
-    "title": "Хирург оценила внешность 31-летней звезды «Папиных дочек» словами «делается ювелирно»",
-    "url": "https://lenta.ru/news/2026/04/01/plasticheskiy-hirurg-otsenila-vneshnost-31-letney-zvezdy-papinyh-dochek-slovami/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:05:36+00:00",
-    "no_image": true
-  },
-  {
     "id": "156b24f5218bd9adec95690ae522a6f4",
     "title": "Стало известно о состоянии пострадавших при взрыве на заводе в Нижнекамске",
     "url": "https://lenta.ru/news/2026/04/01/stalo-izvestno-o-sostoyanii-postradavshih-pri-vzryve-na-zavode-v-nizhnekamske/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/tokaev-rasskazal-o-sotrudnichestve-s-partnerom-ukrainy-v-oboronnoy-sfere/",
     "source": "Лента",
     "pub_dt": "2026-04-01T12:01:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "340f1beed444efaa1f166d0a1d5a61da",
+    "title": "Клон клона клона клона клона клона мыши оказался мутантом",
+    "url": "https://lenta.ru/news/2026/04/01/klon-klona-klona-klona-klona-klona-myshi-okazalsya-mutantom/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T12:10:38+00:00",
     "no_image": true
   }
 ]
