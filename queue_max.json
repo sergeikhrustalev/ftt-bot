@@ -1,13 +1,5 @@
 [
   {
-    "id": "d20990da75737525075673acf288c981",
-    "title": "Politico: ЕС готовится к сравнимому с пандемией COVID-19 экономическому шоку",
-    "url": "https://russian.rt.com/world/news/1614197-evrosoyuz-ekonomicheskii-shok-pandemiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T06:27:28+00:00",
-    "no_image": false
-  },
-  {
     "id": "2fd36234915d8c4f871605f10a46ada8",
     "title": "В четырех регионах Сибири произошли подтопления",
     "url": "https://ria.ru/20260401/vody-2084188495.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/updates/",
     "source": "Лента",
     "pub_dt": "2026-04-01T15:01:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "a58a56a5438f5d4b2329860a822a7c69",
+    "title": "Одно действие детей с доступной одеждой назвали смертельно опасным",
+    "url": "https://lenta.ru/news/2026/04/01/odno-deystvie-detey-s-dostupnoy-odezhdoy-nazvali-smertelno-opasnym/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T15:12:00+00:00",
     "no_image": true
   }
 ]
