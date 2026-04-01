@@ -1,13 +1,5 @@
 [
   {
-    "id": "452b7630cf0cbc38ef3d78081634eeaa",
-    "title": "Топливный кризис в стране БРИКС усугубился",
-    "url": "https://lenta.ru/news/2026/04/01/toplivnyy-krizis-v-strane-briks-usugubilsya/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:29:37+00:00",
-    "no_image": true
-  },
-  {
     "id": "862636dd680795507f97ad1f3cb89105",
     "title": "Путин поздравил евреев с праздником Песах",
     "url": "https://ria.ru/20260401/putin-2084188861.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/revnivaya-rossiyanka-p/",
     "source": "Лента",
     "pub_dt": "2026-04-01T15:42:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "7664d0ded751fc9ae4ee7a5cb7eafdb9",
+    "title": "В России разрешили строить деревянные пятиэтажки",
+    "url": "https://lenta.ru/news/2026/04/01/v-rossii-razreshili-stroit-derevyannye-pyatietazhki/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T15:53:50+00:00",
     "no_image": true
   }
 ]
