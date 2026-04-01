@@ -1,13 +1,5 @@
 [
   {
-    "id": "fc6988d6535550135ac0085370b26e8b",
-    "title": "В России заявили о проблемной ситуации в ключевой отрасли",
-    "url": "https://lenta.ru/news/2026/04/01/v-rossii-zayavili-o-problemnoy-situatsii-v-klyuchevoy-otrasli/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:40:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "19016a5eef37e3f615bbd8dedfaf38b5",
     "title": "Трамп выступит с обращением к нации по Ирану",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187030-tramp-vistupit",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-01T08:50:48+00:00",
     "no_image": false
+  },
+  {
+    "id": "185fcd6ee99697d689b0aaa2929974e0",
+    "title": "Рыболов лишился выигрыша и оказался под угрозой тюрьмы из-за жульничества на турнире",
+    "url": "https://lenta.ru/news/2026/04/01/rybolov-lishilsya-vyigrysha-i-okazalsya-pod-ugrozoy-tyurmy-iz-za-zhulnichestva-na-turnire/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T09:01:00+00:00",
+    "no_image": true
   }
 ]
