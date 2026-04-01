@@ -1,13 +1,5 @@
 [
   {
-    "id": "eb0cfc686123da22c392b92d0feb03f3",
-    "title": "Названа возможная причина крушения военно-транспортного самолета в Крыму",
-    "url": "https://lenta.ru/news/2026/04/01/nazvana-vozmozhnaya-prichina-krusheniya-voenno-transportnogo-samoleta-v-krymu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:57:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "b16d76e77a0c71c357d7006ab8cb93fa",
     "title": "В МИД заявили о попытках Киева затянуть возобновление «Дружбы»",
     "url": "https://lenta.ru/news/2026/04/01/v-mid-zayavili-o-popytkah-kieva-zatyanut-vozobnovlenie-druzhby/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/rossiyane-nazvali-motivatsiyu-rabotat/",
     "source": "Лента",
     "pub_dt": "2026-04-01T10:22:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "7a52dcb79c2cd8c5954a46dbed815767",
+    "title": "В Россию прибыл европейский наркотик",
+    "url": "https://lenta.ru/news/2026/04/01/v-rossiyu-pribyl-evropeyskiy-narkotik/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T10:31:00+00:00",
     "no_image": true
   }
 ]
