@@ -1,13 +1,5 @@
 [
   {
-    "id": "4db753caae187498eb172a77fbc8ab85",
-    "title": "Десять пострадавших при пожаре в Нижнекамске доставили в больницы Москвы",
-    "url": "https://ria.ru/20260401/postradavshie-2084185252.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:03:11+00:00",
-    "no_image": false
-  },
-  {
     "id": "1620f5fe2cefea56b6846dbb4cb50ac3",
     "title": "Россиянка описала цены на продукты в Испании фразой «это просто какой-то нонсенс»",
     "url": "https://lenta.ru/news/2026/04/01/rossiyanka-opisala-tseny-na-produkty-v-ispanii-frazoy-eto-prosto-kakoy-to-nonsens/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/nevrolog-predupredila-o-tayascheysya-za-podergivaniem-vek-skrytoy-opasnosti/",
     "source": "Лента",
     "pub_dt": "2026-04-01T11:31:12+00:00",
+    "no_image": true
+  },
+  {
+    "id": "3f749fdf9a92e04fb77f8f358bfa393e",
+    "title": "В России арестовали основателя трех ЧВК. Его бойцов подозревали в подготовке переворота в Белоруссии",
+    "url": "https://lenta.ru/news/2026/04/01/osnovatelya-chvk-yastreb-obvinili-v-obmane-kontraktnikov-1/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T11:43:00+00:00",
     "no_image": true
   }
 ]
