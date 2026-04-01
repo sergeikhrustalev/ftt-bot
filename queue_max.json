@@ -1,13 +1,5 @@
 [
   {
-    "id": "9c0d43aeab45020a6c41a4e21aeec3e9",
-    "title": "После взрыва и пожара на одном из главных российских заводов полимеров объявили траур",
-    "url": "https://lenta.ru/news/2026/04/01/posle-vzryva-i-pozhara-na-odnom-iz-glavnyh-rossiyskih-zavodov-polimerov-ob-yavili-traur/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:35:35+00:00",
-    "no_image": true
-  },
-  {
     "id": "b819581dbacf19a83dc5b19c6ccd20bd",
     "title": "Венгерские оппозиционеры насторожились из-за Орбана",
     "url": "https://lenta.ru/news/2026/04/01/vengerskie-oppozitsionery/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/poyavilis-podrobnosti-o-sbezhavshem-iz-rossiyskoy-kolonii/",
     "source": "Лента",
     "pub_dt": "2026-04-01T08:44:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "16e73eb3b3890cca31e38bc426575d31",
+    "title": "Волочкова резко ответила заявившему о ее скорой смерти наркологу",
+    "url": "https://lenta.ru/news/2026/04/01/volochkova-rezko-otvetila-zayavivshemu-o-ee-skoroy-smerti-narkologu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T08:46:00+00:00",
     "no_image": true
   }
 ]
