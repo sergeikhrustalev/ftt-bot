@@ -1,13 +1,5 @@
 [
   {
-    "id": "b16d76e77a0c71c357d7006ab8cb93fa",
-    "title": "В МИД заявили о попытках Киева затянуть возобновление «Дружбы»",
-    "url": "https://lenta.ru/news/2026/04/01/v-mid-zayavili-o-popytkah-kieva-zatyanut-vozobnovlenie-druzhby/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:58:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "7fdbbda2056d108088c119df75390744",
     "title": "В Ивано-Франковске прогремели взрывы",
     "url": "https://ria.ru/20260401/vzryv-2084184862.html",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T10:31:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "88bae8a596bbf6301aa2f87b4bc35f5a",
+    "title": "Дерипаска вновь призвал работать по 12 часов шесть дней в неделю",
+    "url": "https://www.vedomosti.ru/economics/news/2026/04/01/1187119-deripaska-prizval-rabotat",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-01T10:40:47+00:00",
+    "no_image": false
   }
 ]
