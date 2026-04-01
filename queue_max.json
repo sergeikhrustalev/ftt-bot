@@ -1,13 +1,5 @@
 [
   {
-    "id": "f6c917d98985fe75fa7d37fd21e0568c",
-    "title": "В России рассказали о планах Запада в Центральной Азии",
-    "url": "https://lenta.ru/news/2026/04/01/v-rossii-rasskazali-o-planah-zapada-v-tsentralnoy-azii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:35:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "18569e86194c79e9eea577481ab3e919",
     "title": "Врач подсказал трехсекундный тест для определения уровня хронического стресса",
     "url": "https://lenta.ru/news/2026/04/01/vrach-podskazal-trehsekundnyy-test-dlya-opredeleniya-urovnya-hronicheskogo-stressa/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/vybrany-samye-smeshnye-nazvaniya-naselennyh-punktov-v-rossii/",
     "source": "Лента",
     "pub_dt": "2026-04-01T17:01:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "25060e358685ac8aedea05dab73b0d1a",
+    "title": "Букмекеры назвали участников плей-офф ЧМ-2026",
+    "url": "https://lenta.ru/news/2026/04/01/bukmekery-nazvali-uchastnikov-pley-off-chm-2026/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T17:13:00+00:00",
     "no_image": true
   }
 ]
