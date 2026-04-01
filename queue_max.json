@@ -1,13 +1,5 @@
 [
   {
-    "id": "30887a3c1e38245b8533abf3b4495862",
-    "title": "Раскрыты детали удара ВСУ по регионам России на фоне заявлений об изменении хода СВО",
-    "url": "https://lenta.ru/news/2026/04/01/raskryty-detali-udara-vsu-po-regionam-rossii-na-fone-zayavleniy-ob-izmenenii-hoda-svo/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T04:45:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "7a9b55158edc14c486f43de7228a5322",
     "title": "Москвичам пообещали 19-градусное тепло",
     "url": "https://lenta.ru/news/2026/04/01/moskvicham-poobeschali-19-gradusnoe-teplo/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/spb-news/26960515",
     "source": "ТАСС",
     "pub_dt": "2026-04-01T08:24:00+00:00",
+    "no_image": false
+  },
+  {
+    "id": "f39aca975272ad0fc94aff8e62e73b44",
+    "title": "Новгородский депутат отвез в зону СВО авто, масксети и стройматериал",
+    "url": "https://ria.ru/20260401/deputat-2084217103.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-01T08:24:35+00:00",
     "no_image": false
   }
 ]
