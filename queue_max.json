@@ -1,13 +1,5 @@
 [
   {
-    "id": "686a956db529fa9e102c5264d9df3fe6",
-    "title": "Выполнение просьбы обернулось для российского гендиректора реальным сроком",
-    "url": "https://lenta.ru/news/2026/04/01/vypolnenie-prosby-obernulos-dlya-rossiyskogo-gendirektora-realnym-srokom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:39:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "e3a281b66e7b48cf31d7b9328f44edbd",
     "title": "В бывшей республике СССР заявили об исчерпании запасов газа",
     "url": "https://lenta.ru/news/2026/04/01/v-byvshey-respublike-sssr-zayavili-ob-ischerpanii-zapasov-gaza/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/raskryto-uslovie-trampa-dlya-vyhoda-ssha-iz-nato/",
     "source": "Лента",
     "pub_dt": "2026-04-01T17:51:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "41e1ab7a1e868012be11e03ad01792ad",
+    "title": "Коалиция по Ормузскому проливу подготовила санкции против Ирана",
+    "url": "https://lenta.ru/news/2026/04/01/koalitsiya-po-ormuzskomu-prolivu-podgotovila-sanktsii-protiv-irana/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T18:12:00+00:00",
     "no_image": true
   }
 ]
