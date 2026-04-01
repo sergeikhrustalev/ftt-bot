@@ -1,13 +1,5 @@
 [
   {
-    "id": "37629c484cb5667ce142caa73b30b253",
-    "title": "Оборот РВБ по МСФО увеличился на 49% в 2025 году",
-    "url": "https://www.vedomosti.ru/business/news/2026/04/01/1187036-oborot-rvb",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T06:31:17+00:00",
-    "no_image": false
-  },
-  {
     "id": "77a886d9a1f760b90d72307ceded0ad3",
     "title": "Шестеркин поблагодарил тренера по боксу после драки в матче НХЛ",
     "url": "https://ria.ru/20260401/shesterkin-2084189216.html",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-01T16:31:08+00:00",
     "no_image": false
+  },
+  {
+    "id": "7a4df62b1d076a5ed33a4a0764d5bbea",
+    "title": "Россиян предупредили о возросшем риске задержания в Европе по запросу США",
+    "url": "https://lenta.ru/news/2026/04/01/rossiyan-predupredili-o-vozrosshem-riske-zaderzhaniya-za-granitsey-po-zaprosu-ssha/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T16:44:00+00:00",
+    "no_image": true
   }
 ]
