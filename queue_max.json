@@ -1,13 +1,5 @@
 [
   {
-    "id": "5ff962557fb964ea32f8e77c0f712ba8",
-    "title": "Соцфонд проиндексировал пенсии 4 млн россиян",
-    "url": "https://www.vedomosti.ru/society/news/2026/04/01/1187028-sotsfond-proindeksiroval",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T05:33:43+00:00",
-    "no_image": false
-  },
-  {
     "id": "113e506207fe95f25222c71227f40acf",
     "title": "Массовое ДТП в Москве заблокировало движение по двум полосам",
     "url": "https://lenta.ru/news/2026/04/01/massovoe-dtp-v-moskve-zablokirovalo-dvizhenie-po-dvum-polosam/",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-01T08:43:47+00:00",
     "no_image": false
+  },
+  {
+    "id": "f6fa546c2e69d2bf4a2e6606b6681cf2",
+    "title": "Раскрыты новые подробности о последствиях взрыва на российском химзаводе",
+    "url": "https://lenta.ru/news/2026/04/01/raskryty-novye-podrobnosti-o-posledstviyah-vzryva-na-rossiyskom-himzavode/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T08:44:00+00:00",
+    "no_image": true
   }
 ]
