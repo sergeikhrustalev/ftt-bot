@@ -1,13 +1,5 @@
 [
   {
-    "id": "77a886d9a1f760b90d72307ceded0ad3",
-    "title": "Шестеркин поблагодарил тренера по боксу после драки в матче НХЛ",
-    "url": "https://ria.ru/20260401/shesterkin-2084189216.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:32:12+00:00",
-    "no_image": false
-  },
-  {
     "id": "7d30f2dce0ebe4ff56a7e6dea5e8994f",
     "title": "Ученые \"потеряли\" гигантское облако плазмы между Солнцем и Землей",
     "url": "https://ria.ru/20260401/zemlja-2084189365.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/rossiyan-predupredili-o-vozrosshem-riske-zaderzhaniya-za-granitsey-po-zaprosu-ssha/",
     "source": "Лента",
     "pub_dt": "2026-04-01T16:44:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "a96d96a3cb40d9381df98f310b83f5c3",
+    "title": "Производитель ракет «Фламинго» раскрыл планы удара по Москве новыми снарядами",
+    "url": "https://lenta.ru/news/2026/04/01/proizvoditel-raket-flamingo-raskryl-plany-ataki-na-moskvu-novymi-snaryadami/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T16:50:49+00:00",
     "no_image": true
   }
 ]
