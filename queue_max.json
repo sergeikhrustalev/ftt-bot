@@ -1,13 +1,5 @@
 [
   {
-    "id": "64eea7018d8b254c3f1d03fbf657d2a2",
-    "title": "Активиста \"Альтернативы для Германии\" внесли в базу \"Миротворца\"",
-    "url": "https://ria.ru/20260401/germanija-2084186306.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:12:39+00:00",
-    "no_image": false
-  },
-  {
     "id": "557d224f4bdf283c5f9893bd3d57ecfc",
     "title": "Малкин вышел на чистое 23-е место в списке лучших бомбардиров регулярных чемпионатов НХЛ",
     "url": "https://russian.rt.com/sport/news/1614194-malkin-nhl-spisok-bombardiry?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/glavkom-vsu-vyskazalsya-ob-udarah-po-lenoblasti/",
     "source": "Лента",
     "pub_dt": "2026-04-01T13:01:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "d6aff43fbb2899e0a6d6ba708619772d",
+    "title": "Главком ВСУ назвал преимущества Армии России над украинскими войсками",
+    "url": "https://lenta.ru/news/2026/04/01/glavkom-vsu-nazval-preimuschestva-armii-rossii-nad-ukrainskimi-voyskami/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T13:12:17+00:00",
     "no_image": true
   }
 ]
