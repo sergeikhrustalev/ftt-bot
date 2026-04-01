@@ -1,13 +1,5 @@
 [
   {
-    "id": "a93e3cd1d3b433a9b52143b14588b94c",
-    "title": "Мужчинам подсказали избавляющее от преждевременной эякуляции упражнение",
-    "url": "https://lenta.ru/news/2026/04/01/muzhchinam-podskazali-izbavlyayuschee-ot-prezhdevremennoy-eyakulyatsii-uprazhnenie/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:30:14+00:00",
-    "no_image": true
-  },
-  {
     "id": "5ff962557fb964ea32f8e77c0f712ba8",
     "title": "Соцфонд проиндексировал пенсии 4 млн россиян",
     "url": "https://www.vedomosti.ru/society/news/2026/04/01/1187028-sotsfond-proindeksiroval",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T08:42:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "10cdfe7ab2c95c6851f807981365fbb0",
+    "title": "«Вкусвилл» закрыл почти 300 магазинов в 2025 году",
+    "url": "https://www.vedomosti.ru/business/news/2026/04/01/1187075-vkusvill-zakril",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-01T08:43:47+00:00",
+    "no_image": false
   }
 ]
