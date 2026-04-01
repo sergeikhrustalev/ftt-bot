@@ -1,13 +1,5 @@
 [
   {
-    "id": "ad8412d9833f5d0fcae25068cdf1b241",
-    "title": "В России рассказали о будущем крупнейшего в Восточной Европе склада с боеприпасами",
-    "url": "https://lenta.ru/news/2026/04/01/v-rossii-rasskazali-o-buduschem-krupneyshego-v-vostochnoy-evrope-sklada-s-boepripasami/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:56:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "eb0cfc686123da22c392b92d0feb03f3",
     "title": "Названа возможная причина крушения военно-транспортного самолета в Крыму",
     "url": "https://lenta.ru/news/2026/04/01/nazvana-vozmozhnaya-prichina-krusheniya-voenno-transportnogo-samoleta-v-krymu/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/vosstanovlenye/",
     "source": "Лента",
     "pub_dt": "2026-04-01T10:10:41+00:00",
+    "no_image": true
+  },
+  {
+    "id": "bf21affb0bf8a1f49d1c3defd1896dc1",
+    "title": "Россияне назвали мотивацию работать",
+    "url": "https://lenta.ru/news/2026/04/01/rossiyane-nazvali-motivatsiyu-rabotat/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T10:22:00+00:00",
     "no_image": true
   }
 ]
