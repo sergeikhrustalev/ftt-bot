@@ -1,13 +1,5 @@
 [
   {
-    "id": "acc3d4fca9ff38595d9ff2d83bc06a58",
-    "title": "Apple выпустит изогнутый iPhone",
-    "url": "https://lenta.ru/news/2026/04/01/iphone20/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:00:28+00:00",
-    "no_image": true
-  },
-  {
     "id": "4db753caae187498eb172a77fbc8ab85",
     "title": "Десять пострадавших при пожаре в Нижнекамске доставили в больницы Москвы",
     "url": "https://ria.ru/20260401/postradavshie-2084185252.html",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-01T11:21:47+00:00",
     "no_image": false
+  },
+  {
+    "id": "79e64f6c099f10f277d7f3fb04a4c550",
+    "title": "Невролог предупредила о таящейся за подергиванием век скрытой опасности",
+    "url": "https://lenta.ru/news/2026/04/01/nevrolog-predupredila-o-tayascheysya-za-podergivaniem-vek-skrytoy-opasnosti/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T11:31:12+00:00",
+    "no_image": true
   }
 ]
