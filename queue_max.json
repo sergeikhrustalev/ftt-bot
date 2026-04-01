@@ -1,13 +1,5 @@
 [
   {
-    "id": "bf0bd7976e782a19c50f28aca9986b16",
-    "title": "Сын Усольцевой высказался о гибели пропавшей семьи в тайге",
-    "url": "https://lenta.ru/news/2026/04/01/syn-usoltsevoy-vyskazalsya-o-gibeli-propavshey-semi-v-tayge/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:08:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "696a24d13117d9799d0c897e9a10c15e",
     "title": "В России изменился климат",
     "url": "https://lenta.ru/news/2026/04/01/v-rossii-izmenilsya-klimat/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/raskryta-prichina-strelby-v-rossiyskoy-shkole/",
     "source": "Лента",
     "pub_dt": "2026-04-01T08:33:57+00:00",
+    "no_image": true
+  },
+  {
+    "id": "84c3c3c16f99dfbd8f25f61d93022745",
+    "title": "В США обвинили окружение Трампа в сокрытии правды об Иране",
+    "url": "https://lenta.ru/news/2026/04/01/v-ssha-obvinil-okruzhenie-trampa-v-sokrytii-pravdy-ob-irane/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T08:35:00+00:00",
     "no_image": true
   }
 ]
