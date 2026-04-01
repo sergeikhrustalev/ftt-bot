@@ -1,13 +1,5 @@
 [
   {
-    "id": "cd8b4e762241c746652e49ff14f36b43",
-    "title": "Вратарь сборной Мали: Россия могла бы дойти до четвертьфинала Кубка Африки",
-    "url": "https://russian.rt.com/sport/news/1614203-rossiya-afrika-uroven?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T06:45:38+00:00",
-    "no_image": false
-  },
-  {
     "id": "319f13f43ea848f5d270f3a33ba15dd0",
     "title": "Культовый гаджет Apple признан устаревшим",
     "url": "https://lenta.ru/news/2026/04/01/old-apple/",
@@ -2390,5 +2382,13 @@
     "source": "RT",
     "pub_dt": "2026-04-01T19:03:15+00:00",
     "no_image": false
+  },
+  {
+    "id": "6ea2651cb63e3a3cf8fb791f89c122bd",
+    "title": "Херсонская область оказалась обесточенной",
+    "url": "https://lenta.ru/news/2026/04/01/hersonskaya-oblast-okazalas-obestochennoy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T19:12:00+00:00",
+    "no_image": true
   }
 ]
