@@ -1,13 +1,5 @@
 [
   {
-    "id": "3bc8e34c0c6a5b4054e1c01683f9f029",
-    "title": "Ефимов: в Коммунарке построят кампус МГТУ \"Станкин\"",
-    "url": "https://ria.ru/20260401/efimov-2084154173.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:07:18+00:00",
-    "no_image": false
-  },
-  {
     "id": "b6d396cfd7f9c83bbe50d3ff10b95bd3",
     "title": "Прохор Шаляпин высказался о Пугачевой и ее «хитроумном Максимке»",
     "url": "https://lenta.ru/news/2026/04/01/prohor-shalyapin-vyskazalsya-o-pugachevoy-i-ee-hitroumnom-maksimke/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/rossiyskaya-politseyskaya-poluchila-vzyatku-ot-svidetelya-pod-kameroy-fsb/",
     "source": "Лента",
     "pub_dt": "2026-04-01T12:32:40+00:00",
+    "no_image": true
+  },
+  {
+    "id": "9cbd0bc68599745842f8cab65753d88a",
+    "title": "В Финляндии выступили со срочным призывом из-за России",
+    "url": "https://lenta.ru/news/2026/04/01/v-finlyandii-vystupili-so-srochnym-prizyvom-iz-za-rossii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T12:41:00+00:00",
     "no_image": true
   }
 ]
