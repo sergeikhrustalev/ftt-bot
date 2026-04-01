@@ -1,13 +1,5 @@
 [
   {
-    "id": "c982eb3f73e0090a933313ea6a5887e7",
-    "title": "ВТБ Мои Инвестиции: во II квартале инвесторов могут привлечь ИТ и финсектор",
-    "url": "https://ria.ru/20260401/vtb-2084116493.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:00:00+00:00",
-    "no_image": false
-  },
-  {
     "id": "cbbeddc7cd4e9294668f280af24bc568",
     "title": "Саратовские ученые создали прибор, способный предсказать болезнь сердца",
     "url": "https://ria.ru/20260401/nauka-2084035925.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/ukraina-stala-importirovat-menshe-gaza/",
     "source": "Лента",
     "pub_dt": "2026-04-01T11:00:43+00:00",
+    "no_image": true
+  },
+  {
+    "id": "6c16ea904c70bd12b1cfed805099b9b7",
+    "title": "Названа причина невостребованности в Китае лидеров автопродаж в России",
+    "url": "https://lenta.ru/news/2026/04/01/nazvana-prichina-nevostrebovannosti-v-kitae-liderov-avtoprodazh-v-rossii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T11:10:57+00:00",
     "no_image": true
   }
 ]
