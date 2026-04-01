@@ -1,13 +1,5 @@
 [
   {
-    "id": "ebb253c38067cf95a6a6885b20bd50a8",
-    "title": "Тренер сборной Мали — об отстранении России: очень глупое решение ФИФА",
-    "url": "https://russian.rt.com/sport/news/1614198-mali-trener-rossiya-otstranenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T06:29:22+00:00",
-    "no_image": false
-  },
-  {
     "id": "87d5961272bde500115348acdbeebbed",
     "title": "Почти половина россиян собирается отказаться от летнего отпуска",
     "url": "https://ria.ru/20260401/otpusk-2084188674.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/pashinyan-obsudil-s-putinym-ogranicheniya-interneta/",
     "source": "Лента",
     "pub_dt": "2026-04-01T15:21:26+00:00",
+    "no_image": true
+  },
+  {
+    "id": "3092d7e0bed4a251f6974d8d21512707",
+    "title": "Сексолог посоветовала мужчинам способ стать увереннее в себе",
+    "url": "https://lenta.ru/news/2026/04/01/seksolog-posovetovala-muzhchinam-sposob-stat-uverennee-v-sebe/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T15:34:00+00:00",
     "no_image": true
   }
 ]
