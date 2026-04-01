@@ -1,13 +1,5 @@
 [
   {
-    "id": "2fd36234915d8c4f871605f10a46ada8",
-    "title": "В четырех регионах Сибири произошли подтопления",
-    "url": "https://ria.ru/20260401/vody-2084188495.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:29:16+00:00",
-    "no_image": false
-  },
-  {
     "id": "ebb253c38067cf95a6a6885b20bd50a8",
     "title": "Тренер сборной Мали — об отстранении России: очень глупое решение ФИФА",
     "url": "https://russian.rt.com/sport/news/1614198-mali-trener-rossiya-otstranenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/odno-deystvie-detey-s-dostupnoy-odezhdoy-nazvali-smertelno-opasnym/",
     "source": "Лента",
     "pub_dt": "2026-04-01T15:12:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "66f1e52b47e2694130e45174e0771cd8",
+    "title": "Пашинян обсудил с Путиным ограничения интернета",
+    "url": "https://lenta.ru/news/2026/04/01/pashinyan-obsudil-s-putinym-ogranicheniya-interneta/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T15:21:26+00:00",
     "no_image": true
   }
 ]
