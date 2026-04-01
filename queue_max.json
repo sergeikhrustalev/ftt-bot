@@ -1,13 +1,5 @@
 [
   {
-    "id": "155bae83d5afaba2f9fa85228f510981",
-    "title": "В Челябинске задержали ярославского чиновника по делу о взятке",
-    "url": "https://ria.ru/20260401/zamglavy-2084186998.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:16:15+00:00",
-    "no_image": false
-  },
-  {
     "id": "52854924ebf489d51b2824046377dd04",
     "title": "Профсоюзы: недостаток рабочей силы можно закрыть благодаря закону о сверхурочных",
     "url": "https://www.vedomosti.ru/economics/news/2026/04/01/1187035-profsoyuzi-nedostatok-rabochei",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/arsenal-ssha-otsenili-na-vosem-dney-voyny-s-kitaem/",
     "source": "Лента",
     "pub_dt": "2026-04-01T13:41:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "10a09acc7d06f915637d0be622edbb62",
+    "title": "Бастрыкин раскрыл динамику по несовершеннолетним террористам",
+    "url": "https://lenta.ru/news/2026/04/01/bastrykin-raskryl-dinamiku-po-nesovershennoletnim-terroristam/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T13:51:44+00:00",
     "no_image": true
   }
 ]
