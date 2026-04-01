@@ -1,13 +1,5 @@
 [
   {
-    "id": "157cd51cd2a390a1d1c059b6487801bd",
-    "title": "Российские туристы нашли альтернативу отдыху в Европе на родине",
-    "url": "https://lenta.ru/news/2026/04/01/rossiyskie-turisty-nashli-alternativu-otdyhu-v-evrope-na-rodine/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:47:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "7bd8a0548ec4fcb81a050bf6bf333af4",
     "title": "Синоптик Шувалов: в Москве не стоит ожидать сильных дождей",
     "url": "https://russian.rt.com/nopolitics/news/1614205-sinoptik-moskva-dozhdi?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T19:31:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "d759973d83b49cc8ef2137e0565a10d6",
+    "title": "Отключение электроснабжения произошло в девяти районах Крыма",
+    "url": "https://russian.rt.com/russia/news/1614519-otklyuchenie-elektrosnabzhenie-krym?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-01T19:41:57+00:00",
+    "no_image": false
   }
 ]
