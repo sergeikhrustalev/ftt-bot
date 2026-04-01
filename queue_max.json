@@ -1,13 +1,5 @@
 [
   {
-    "id": "bc02851026874079279618e9cc8972e3",
-    "title": "В Литве выбрали переговорщика для диалога с Белоруссией",
-    "url": "https://lenta.ru/news/2026/04/01/v-litve-vybrali-peregovorschika-dlya-dialoga-s-belorussiey/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:42:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "3c925710be802c35f5692ed78664b21a",
     "title": "В Запорожской области четыре человека пострадали при ударе ВСУ по дому",
     "url": "https://ria.ru/20260401/udar-2084190980.html",
@@ -2390,5 +2382,13 @@
     "source": "RT",
     "pub_dt": "2026-04-01T18:40:39+00:00",
     "no_image": false
+  },
+  {
+    "id": "81ed21d458f8d0c472842aa7aaaf1079",
+    "title": "Силовики сообщили о ликвидации служившего 12 лет в Нацгвардии США наемника",
+    "url": "https://lenta.ru/news/2026/04/01/siloviki-soobschili-o-likvidatsii-sluzhivshego-12-let-v-natsgvardii-ssha-naemnika/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T18:50:41+00:00",
+    "no_image": true
   }
 ]
