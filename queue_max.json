@@ -1,13 +1,5 @@
 [
   {
-    "id": "3c925710be802c35f5692ed78664b21a",
-    "title": "В Запорожской области четыре человека пострадали при ударе ВСУ по дому",
-    "url": "https://ria.ru/20260401/udar-2084190980.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:42:25+00:00",
-    "no_image": false
-  },
-  {
     "id": "cd8b4e762241c746652e49ff14f36b43",
     "title": "Вратарь сборной Мали: Россия могла бы дойти до четвертьфинала Кубка Африки",
     "url": "https://russian.rt.com/sport/news/1614203-rossiya-afrika-uroven?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T18:50:41+00:00",
     "no_image": true
+  },
+  {
+    "id": "0856cb085bd17bc076edd202921e378f",
+    "title": "«Локомотив» победил «Спартак» и вышел в четвертьфинал Кубка Гагарина",
+    "url": "https://russian.rt.com/sport/news/1614507-lokomotiv-spartak-kubok-gagarina?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-01T19:03:15+00:00",
+    "no_image": false
   }
 ]
