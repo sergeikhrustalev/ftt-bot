@@ -1,13 +1,5 @@
 [
   {
-    "id": "9a2d7d9136e4850efb61404245bbea6e",
-    "title": "Россиян предупредили об аномальном лете",
-    "url": "https://lenta.ru/news/2026/04/01/rossiyan-predupredili-ob-anomalnom-lete/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:25:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "a93e3cd1d3b433a9b52143b14588b94c",
     "title": "Мужчинам подсказали избавляющее от преждевременной эякуляции упражнение",
     "url": "https://lenta.ru/news/2026/04/01/muzhchinam-podskazali-izbavlyayuschee-ot-prezhdevremennoy-eyakulyatsii-uprazhnenie/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/odin-iz-samyh-bogatyh-sportsmenov-mira-prokommentiroval-svoy-arest/",
     "source": "Лента",
     "pub_dt": "2026-04-01T08:37:59+00:00",
+    "no_image": true
+  },
+  {
+    "id": "95913afef2d5d67f9c40d2706f0ce481",
+    "title": "Настроения в российской промышленности ухудшились",
+    "url": "https://lenta.ru/news/2026/04/01/upalo/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T08:42:00+00:00",
     "no_image": true
   }
 ]
