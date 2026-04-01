@@ -1,13 +1,5 @@
 [
   {
-    "id": "5dda7d8ee574731d9dcfc203ce6c28d9",
-    "title": "Россияне назвали самых смешных персонажей в литературе",
-    "url": "https://ria.ru/20260401/rossijane-2084185709.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:06:56+00:00",
-    "no_image": false
-  },
-  {
     "id": "3bc8e34c0c6a5b4054e1c01683f9f029",
     "title": "Ефимов: в Коммунарке построят кампус МГТУ \"Станкин\"",
     "url": "https://ria.ru/20260401/efimov-2084154173.html",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-01T12:20:39+00:00",
     "no_image": false
+  },
+  {
+    "id": "fbdd6c1426f23f80a5c249526187ddaa",
+    "title": "Российская полицейская получила взятку от свидетеля под камерой ФСБ",
+    "url": "https://lenta.ru/news/2026/04/01/rossiyskaya-politseyskaya-poluchila-vzyatku-ot-svidetelya-pod-kameroy-fsb/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T12:32:40+00:00",
+    "no_image": true
   }
 ]
