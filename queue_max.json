@@ -1,13 +1,5 @@
 [
   {
-    "id": "18569e86194c79e9eea577481ab3e919",
-    "title": "Врач подсказал трехсекундный тест для определения уровня хронического стресса",
-    "url": "https://lenta.ru/news/2026/04/01/vrach-podskazal-trehsekundnyy-test-dlya-opredeleniya-urovnya-hronicheskogo-stressa/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:36:28+00:00",
-    "no_image": true
-  },
-  {
     "id": "29fad85a558c2a5033f5f95af16b8875",
     "title": "В России изменились правила перевода денежных средств",
     "url": "https://ria.ru/20260401/rossija-2084190379.html",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T17:13:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "a0bdd2422b5f1979b1502b496a546ba9",
+    "title": "ВВП России в феврале снизился на 1,5%",
+    "url": "https://www.vedomosti.ru/economics/news/2026/04/01/1187264-vvp-rossii-snizilsya",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-01T17:21:02+00:00",
+    "no_image": false
   }
 ]
