@@ -1,13 +1,5 @@
 [
   {
-    "id": "87d5961272bde500115348acdbeebbed",
-    "title": "Почти половина россиян собирается отказаться от летнего отпуска",
-    "url": "https://ria.ru/20260401/otpusk-2084188674.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:29:32+00:00",
-    "no_image": false
-  },
-  {
     "id": "452b7630cf0cbc38ef3d78081634eeaa",
     "title": "Топливный кризис в стране БРИКС усугубился",
     "url": "https://lenta.ru/news/2026/04/01/toplivnyy-krizis-v-strane-briks-usugubilsya/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/seksolog-posovetovala-muzhchinam-sposob-stat-uverennee-v-sebe/",
     "source": "Лента",
     "pub_dt": "2026-04-01T15:34:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "a3c3e2e7fd8e3dd1569e9df073198504",
+    "title": "Ревнивая россиянка достала ножом до мозга возлюбленного",
+    "url": "https://lenta.ru/news/2026/04/01/revnivaya-rossiyanka-p/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T15:42:00+00:00",
     "no_image": true
   }
 ]
