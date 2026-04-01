@@ -1,13 +1,5 @@
 [
   {
-    "id": "92adb52ff22a2ad186cf98a10d5c4be5",
-    "title": "На Украине промышленное предприятие вспыхнуло после удара",
-    "url": "https://lenta.ru/news/2026/04/01/na-ukraine-promyshlennoe-predpriyatie-vspyhnulo-posle-udara/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:39:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "fc6988d6535550135ac0085370b26e8b",
     "title": "В России заявили о проблемной ситуации в ключевой отрасли",
     "url": "https://lenta.ru/news/2026/04/01/v-rossii-zayavili-o-problemnoy-situatsii-v-klyuchevoy-otrasli/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T08:46:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "90fc1c51c3798706ac604b40f6bca872",
+    "title": "Одобрено создание сегмента РФ лунной станции по совместному проекту с Китаем",
+    "url": "https://www.vedomosti.ru/technology/news/2026/04/01/1187079-sozdanie-segmenta",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-01T08:50:48+00:00",
+    "no_image": false
   }
 ]
