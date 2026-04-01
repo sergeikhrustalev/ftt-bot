@@ -1,13 +1,5 @@
 [
   {
-    "id": "7d30f2dce0ebe4ff56a7e6dea5e8994f",
-    "title": "Ученые \"потеряли\" гигантское облако плазмы между Солнцем и Землей",
-    "url": "https://ria.ru/20260401/zemlja-2084189365.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:33:08+00:00",
-    "no_image": false
-  },
-  {
     "id": "f6c917d98985fe75fa7d37fd21e0568c",
     "title": "В России рассказали о планах Запада в Центральной Азии",
     "url": "https://lenta.ru/news/2026/04/01/v-rossii-rasskazali-o-planah-zapada-v-tsentralnoy-azii/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/proizvoditel-raket-flamingo-raskryl-plany-ataki-na-moskvu-novymi-snaryadami/",
     "source": "Лента",
     "pub_dt": "2026-04-01T16:50:49+00:00",
+    "no_image": true
+  },
+  {
+    "id": "84e2e0a061a039825746d305f64a70de",
+    "title": "Выбраны самые смешные названия населенных пунктов в России",
+    "url": "https://lenta.ru/news/2026/04/01/vybrany-samye-smeshnye-nazvaniya-naselennyh-punktov-v-rossii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T17:01:00+00:00",
     "no_image": true
   }
 ]
