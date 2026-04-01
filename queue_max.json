@@ -1,13 +1,5 @@
 [
   {
-    "id": "b6d396cfd7f9c83bbe50d3ff10b95bd3",
-    "title": "Прохор Шаляпин высказался о Пугачевой и ее «хитроумном Максимке»",
-    "url": "https://lenta.ru/news/2026/04/01/prohor-shalyapin-vyskazalsya-o-pugachevoy-i-ee-hitroumnom-maksimke/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:08:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "6ddaf46360ebde488e2ab24c1c36c21c",
     "title": "Венгрия возмутилась ложью ЕС словами «такого никогда не было»",
     "url": "https://lenta.ru/news/2026/04/01/vengriya-vozmutilas-lozhyu-es-slovami-takogo-nikogda-ne-bylo/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T12:41:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "895c8073d42220e847809f0691f341a6",
+    "title": "МИД РФ: США хотят разрушить международно-правовые режимы",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187175-ssha-hotyat-razrushit",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-01T12:51:32+00:00",
+    "no_image": false
   }
 ]
