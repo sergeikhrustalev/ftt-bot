@@ -1,13 +1,5 @@
 [
   {
-    "id": "6bf6a338a3e19eccf1e82a109cab0ce8",
-    "title": "Спецборт МЧС доставит в Москву пострадавших при взрыве на российском заводе",
-    "url": "https://lenta.ru/news/2026/04/01/spetsbort-mchs-dostavit-v-moskvu-postradavshih-pri-vzryve-na-rossiyskom-zavode/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:00:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "6fababc1a5eeaa9f9262d14338132ae5",
     "title": "Рост рынка игрушек в России замедлился",
     "url": "https://lenta.ru/news/2026/04/01/rost-rynka-igrushek-v-rossii-zamedlilsya/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T08:27:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "cccf6866bf098cc2d0f52d5955fad80e",
+    "title": "Орешкин: платформенная экономика снизит транзакционные издержки для бизнеса",
+    "url": "https://www.vedomosti.ru/business/news/2026/04/01/1187065-snizit-izderzhki",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-01T08:27:52+00:00",
+    "no_image": false
   }
 ]
