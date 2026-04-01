@@ -1,13 +1,5 @@
 [
   {
-    "id": "7bd8a0548ec4fcb81a050bf6bf333af4",
-    "title": "Синоптик Шувалов: в Москве не стоит ожидать сильных дождей",
-    "url": "https://russian.rt.com/nopolitics/news/1614205-sinoptik-moskva-dozhdi?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T06:47:06+00:00",
-    "no_image": false
-  },
-  {
     "id": "3798529b8b2f290b22e64fcc8003e454",
     "title": "Столичные набережные начали готовить к открытию летней навигации",
     "url": "https://ria.ru/20260401/moskva-2084191589.html",
@@ -2390,5 +2382,13 @@
     "source": "RT",
     "pub_dt": "2026-04-01T19:41:57+00:00",
     "no_image": false
+  },
+  {
+    "id": "c533ac8202dfff21d9ce856ca8f73dcd",
+    "title": "Мощный удар российских FPV-дронов по технике ВСУ попал на видео",
+    "url": "https://lenta.ru/news/2026/04/01/moschnyy-udar-rossiyskih-fpv-dronov-po-tehnike-vsu-popal-na-video/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T19:51:00+00:00",
+    "no_image": true
   }
 ]
