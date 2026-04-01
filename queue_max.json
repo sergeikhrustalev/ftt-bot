@@ -1,13 +1,5 @@
 [
   {
-    "id": "c757576b301ffb56b6df5fd35dd2a4f6",
-    "title": "В Чечне вода ушла с территории более 200 жилых домов",
-    "url": "https://ria.ru/20260401/chechnja-2084186637.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:15:08+00:00",
-    "no_image": false
-  },
-  {
     "id": "155bae83d5afaba2f9fa85228f510981",
     "title": "В Челябинске задержали ярославского чиновника по делу о взятке",
     "url": "https://ria.ru/20260401/zamglavy-2084186998.html",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-01T13:32:11+00:00",
     "no_image": false
+  },
+  {
+    "id": "d5ccb4b4add1564e3158fa002a108333",
+    "title": "Арсенал США оценили на восемь дней войны с Китаем",
+    "url": "https://lenta.ru/news/2026/04/01/arsenal-ssha-otsenili-na-vosem-dney-voyny-s-kitaem/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T13:41:00+00:00",
+    "no_image": true
   }
 ]
