@@ -1,13 +1,5 @@
 [
   {
-    "id": "cbbeddc7cd4e9294668f280af24bc568",
-    "title": "Саратовские ученые создали прибор, способный предсказать болезнь сердца",
-    "url": "https://ria.ru/20260401/nauka-2084035925.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:00:00+00:00",
-    "no_image": false
-  },
-  {
     "id": "acc3d4fca9ff38595d9ff2d83bc06a58",
     "title": "Apple выпустит изогнутый iPhone",
     "url": "https://lenta.ru/news/2026/04/01/iphone20/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T11:10:57+00:00",
     "no_image": true
+  },
+  {
+    "id": "3e5d35b8bb86df00feaa4cdcba57285b",
+    "title": "Пентагон обсуждает с Данией получение доступа на военные базы в Гренландии",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187137-pentagon-obsuzhdaet-daniei",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-01T11:21:47+00:00",
+    "no_image": false
   }
 ]
