@@ -1,13 +1,5 @@
 [
   {
-    "id": "6182c05087ff25a7326314db710ca1fd",
-    "title": "В Европе забили тревогу из-за «апокалиптического энергокризиса»",
-    "url": "https://lenta.ru/news/2026/04/01/v-evrope-zabili-trevogu-iz-za-nadvigayuschegosya-apokalipticheskogo-energokrizisa/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T04:57:53+00:00",
-    "no_image": true
-  },
-  {
     "id": "29dd79a109a51889eca293fe3dbd9137",
     "title": "Основателя ЧВК «Ястреб» обвинили в обмане контрактников",
     "url": "https://lenta.ru/news/2026/04/01/osnovatelya-chvk-yastreb-obvinili-v-obmane-kontraktnikov/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T08:26:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "ce19289b003b1daa2d510430deb435e5",
+    "title": "В Свердловской области школьник выстрелил в девочку из пневматического пистолета",
+    "url": "https://www.vedomosti.ru/society/news/2026/04/01/1187064-shkolnik-vistrelil",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-01T08:26:29+00:00",
+    "no_image": false
   }
 ]
