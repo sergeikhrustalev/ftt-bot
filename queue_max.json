@@ -1,13 +1,5 @@
 [
   {
-    "id": "862636dd680795507f97ad1f3cb89105",
-    "title": "Путин поздравил евреев с праздником Песах",
-    "url": "https://ria.ru/20260401/putin-2084188861.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:29:52+00:00",
-    "no_image": false
-  },
-  {
     "id": "b7a6ecb8ad300ef84e35b7bd62ea58ac",
     "title": "Израиль за сутки атаковал 32 населенных пункта на юге Ливана",
     "url": "https://ria.ru/20260401/aviatsija-2084189022.html",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T15:53:50+00:00",
     "no_image": true
+  },
+  {
+    "id": "4d27f8cb330d06c44225fcebfadd7f14",
+    "title": "Недельная инфляция в России с 24 по 30 марта составила 0,17%",
+    "url": "https://www.vedomosti.ru/economics/news/2026/04/01/1187251-nedelnaya-inflyatsiya",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-01T16:00:53+00:00",
+    "no_image": false
   }
 ]
