@@ -1,13 +1,5 @@
 [
   {
-    "id": "156b24f5218bd9adec95690ae522a6f4",
-    "title": "Стало известно о состоянии пострадавших при взрыве на заводе в Нижнекамске",
-    "url": "https://lenta.ru/news/2026/04/01/stalo-izvestno-o-sostoyanii-postradavshih-pri-vzryve-na-zavode-v-nizhnekamske/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:06:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "5dda7d8ee574731d9dcfc203ce6c28d9",
     "title": "Россияне назвали самых смешных персонажей в литературе",
     "url": "https://ria.ru/20260401/rossijane-2084185709.html",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T12:10:38+00:00",
     "no_image": true
+  },
+  {
+    "id": "bb65129611b840ad295711165858fc4c",
+    "title": "Выручка ЮГК по РСБУ выросла на 7% в 2025 году",
+    "url": "https://www.vedomosti.ru/investments/news/2026/04/01/1187167-viruchka-yugk",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-01T12:20:39+00:00",
+    "no_image": false
   }
 ]
