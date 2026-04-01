@@ -1,13 +1,5 @@
 [
   {
-    "id": "b7a6ecb8ad300ef84e35b7bd62ea58ac",
-    "title": "Израиль за сутки атаковал 32 населенных пункта на юге Ливана",
-    "url": "https://ria.ru/20260401/aviatsija-2084189022.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:29:56+00:00",
-    "no_image": false
-  },
-  {
     "id": "54bd454d77d91119b28280dd47db7ccb",
     "title": "СК: ущерб от атаки по Хорлам в новогоднюю ночь составил 60 млн рублей",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187037-uscherb-ataki-horlam",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-01T16:00:53+00:00",
     "no_image": false
+  },
+  {
+    "id": "17eb9cc1d3d8b397b5d485e9da995699",
+    "title": "На российский город за сутки вылилось более месячной нормы осадков",
+    "url": "https://lenta.ru/news/2026/04/01/na-rossiyskiy-gorod-za-sutki-vylilos-bolee-mesyachnoy-normy-osadkov/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T16:13:00+00:00",
+    "no_image": true
   }
 ]
