@@ -1,13 +1,5 @@
 [
   {
-    "id": "cd11be8df90c639dea9e3ed77de5b4af",
-    "title": "В Нижнекамске объявили трехдневный траур",
-    "url": "https://www.vedomosti.ru/society/news/2026/04/01/1187032-v-nizhnekamske",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T06:14:44+00:00",
-    "no_image": false
-  },
-  {
     "id": "c757576b301ffb56b6df5fd35dd2a4f6",
     "title": "В Чечне вода ушла с территории более 200 жилых домов",
     "url": "https://ria.ru/20260401/chechnja-2084186637.html",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T13:22:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "897d7148876c17fb66f2441a7f7bdc0e",
+    "title": "ЦБ ожидает сохранения наличных и банковских карт в ближайшие пять лет",
+    "url": "https://www.vedomosti.ru/finance/news/2026/04/01/1187192-nalichnih-i-kart",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-01T13:32:11+00:00",
+    "no_image": false
   }
 ]
