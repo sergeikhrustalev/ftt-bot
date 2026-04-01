@@ -1,13 +1,5 @@
 [
   {
-    "id": "7fdbbda2056d108088c119df75390744",
-    "title": "В Ивано-Франковске прогремели взрывы",
-    "url": "https://ria.ru/20260401/vzryv-2084184862.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T05:59:45+00:00",
-    "no_image": false
-  },
-  {
     "id": "4eb08d4b065b1dffa8b3e86c2e746b04",
     "title": "В Минздраве рассказали о лечении пострадавших на заводе в Нижнекамске",
     "url": "https://ria.ru/20260401/postradavshie-2084184995.html",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/economics/news/2026/04/01/1187119-deripaska-prizval-rabotat",
     "source": "Ведомости",
     "pub_dt": "2026-04-01T10:40:47+00:00",
+    "no_image": false
+  },
+  {
+    "id": "2a16e865aa26ee4cd8889558983cfd7c",
+    "title": "Лукашенко: Белоруссия готовится к войне, хотя не хочет ее",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187121-belorussiya-gotovitsya",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-01T10:50:29+00:00",
     "no_image": false
   }
 ]
