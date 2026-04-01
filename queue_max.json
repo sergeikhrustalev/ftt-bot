@@ -1,13 +1,5 @@
 [
   {
-    "id": "1620f5fe2cefea56b6846dbb4cb50ac3",
-    "title": "Россиянка описала цены на продукты в Испании фразой «это просто какой-то нонсенс»",
-    "url": "https://lenta.ru/news/2026/04/01/rossiyanka-opisala-tseny-na-produkty-v-ispanii-frazoy-eto-prosto-kakoy-to-nonsens/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:03:18+00:00",
-    "no_image": true
-  },
-  {
     "id": "413a49c7ba8ab0b2f04d96c5fd1a7f76",
     "title": "55-летняя женщина нашла жениха на 30 лет моложе и подарила ему 600 миллионов рублей",
     "url": "https://lenta.ru/news/2026/04/01/55-letnyaya-zhenschina-nashla-zheniha-na-30-let-molozhe-i-podarila-emu-600-millionov-rubley/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/osnovatelya-chvk-yastreb-obvinili-v-obmane-kontraktnikov-1/",
     "source": "Лента",
     "pub_dt": "2026-04-01T11:43:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "a7ed1d2210737a84088b915ccc45aa9b",
+    "title": "Фетисов заявил о готовности России провести Олимпиаду",
+    "url": "https://lenta.ru/news/2026/04/01/fetisov-zayavil-o-gotovnosti-rossii-provesti-olimpiadu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T11:51:00+00:00",
     "no_image": true
   }
 ]
