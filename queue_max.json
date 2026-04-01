@@ -1,13 +1,5 @@
 [
   {
-    "id": "557d224f4bdf283c5f9893bd3d57ecfc",
-    "title": "Малкин вышел на чистое 23-е место в списке лучших бомбардиров регулярных чемпионатов НХЛ",
-    "url": "https://russian.rt.com/sport/news/1614194-malkin-nhl-spisok-bombardiry?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T06:13:09+00:00",
-    "no_image": false
-  },
-  {
     "id": "cd11be8df90c639dea9e3ed77de5b4af",
     "title": "В Нижнекамске объявили трехдневный траур",
     "url": "https://www.vedomosti.ru/society/news/2026/04/01/1187032-v-nizhnekamske",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/glavkom-vsu-nazval-preimuschestva-armii-rossii-nad-ukrainskimi-voyskami/",
     "source": "Лента",
     "pub_dt": "2026-04-01T13:12:17+00:00",
+    "no_image": true
+  },
+  {
+    "id": "595744639b0c751bb3030e2e94e367a9",
+    "title": "В одной стране клоуны вышли на улицу с протестом",
+    "url": "https://lenta.ru/news/2026/04/01/v-odnoy-strane-klouny-vyshli-na-ulitsu-s-protestom/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T13:22:00+00:00",
     "no_image": true
   }
 ]
