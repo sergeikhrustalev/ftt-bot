@@ -1,13 +1,5 @@
 [
   {
-    "id": "7034e0469402fa2843b40d9d2fd9a0f0",
-    "title": "Предсказано опасное явление на российских реках",
-    "url": "https://lenta.ru/news/2026/04/01/predskazano-opasnoe-yavlenie-na-rossiyskih-rekah/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T05:43:32+00:00",
-    "no_image": true
-  },
-  {
     "id": "a0ccddebe32cb8ee97df946035a08f0c",
     "title": "Российский полицейский много лет «крышевал» мигрантов",
     "url": "https://lenta.ru/news/2026/04/01/rossiyskiy-politseyskiy-mnogo-let-krysheval-migrantov/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/v-kieve-bez-preduprezhdeniya-razdalis-vzryvy/",
     "source": "Лента",
     "pub_dt": "2026-04-01T09:20:42+00:00",
+    "no_image": true
+  },
+  {
+    "id": "5dc4d100a20dc77ea66f4a773968f2fe",
+    "title": "Женщина отравила отца ради любимого и через три года попалась из-за него полиции",
+    "url": "https://lenta.ru/news/2026/04/01/zhenschina-otravila-ottsa-radi-lyubimogo-i-cherez-tri-goda-popalas-iz-za-nego-politsii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T09:31:00+00:00",
     "no_image": true
   }
 ]
