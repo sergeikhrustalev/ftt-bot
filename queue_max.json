@@ -1,13 +1,5 @@
 [
   {
-    "id": "2fb6dab2e7238d3a0b6b370c13fa6bc7",
-    "title": "Замминистра российского региона оказался покровителем «Чистой воды»",
-    "url": "https://lenta.ru/news/2026/04/01/zamministra-rossiyskogo-regiona-okazalsya-pokrovitelem-chistoy-vody/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:27:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "80f8da9becebd18c16121d141a7144a2",
     "title": "В Карелии пропал очередной лыжник, пишут СМИ",
     "url": "https://ria.ru/20260401/lyzhnik-2084188244.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/01/samoylova-prokommentirovala-razvod-s-dzhiganom/",
     "source": "Лента",
     "pub_dt": "2026-04-01T14:41:36+00:00",
+    "no_image": true
+  },
+  {
+    "id": "de700e2132cc87e70b1b79c12e4a798a",
+    "title": "В России предложили ввести налоговый вычет на страховку по ипотеке",
+    "url": "https://lenta.ru/news/2026/04/01/v-rossii-predlozhili-vvesti-nalogovyy-vychet-na-strahovku-po-ipoteke/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T14:50:24+00:00",
     "no_image": true
   }
 ]
