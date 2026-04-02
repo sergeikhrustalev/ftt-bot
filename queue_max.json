@@ -1,13 +1,5 @@
 [
   {
-    "id": "6665ce25dac92b4f16fc62ff8db1c7ff",
-    "title": "Россиянка получила глубокий ожог во время плановой операции",
-    "url": "https://lenta.ru/news/2026/04/01/rossiyanka-poluchila-glubokiy-ozhog-vo-vremya-planovoy-operatsii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:00:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "36b0d91a14bddec333d30031a0005602",
     "title": "Гидрометцентр: летом 2026 года в России ожидается температура выше нормы",
     "url": "https://russian.rt.com/nopolitics/news/1614209-leto-rossiya-pogoda?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "RT",
     "pub_dt": "2026-04-01T23:52:56+00:00",
     "no_image": false
+  },
+  {
+    "id": "b2b1565f1a9e10981670975303b97e89",
+    "title": "Мужчинам назвали ухудшающие вкус спермы продукты",
+    "url": "https://lenta.ru/news/2026/04/02/muzhchinam-nazvali-uhudshayuschie-vkus-spermy-produkty/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T00:00:40+00:00",
+    "no_image": true
   }
 ]
