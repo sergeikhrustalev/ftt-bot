@@ -1,13 +1,5 @@
 [
   {
-    "id": "7f4de5bc7301f3e2a5501aaa7cbb957f",
-    "title": "Мэр Беляев: в Нижнекамске создали оперштаб после ЧП на заводе",
-    "url": "https://russian.rt.com/russia/news/1614226-nizhnekamsk-opershtab-chp?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:33:19+00:00",
-    "no_image": false
-  },
-  {
     "id": "964da462dcd5a21018a38a9c0ab0a8f8",
     "title": "Ракета из Ирана поразила нефтяной танкер в территориальных водах Катара",
     "url": "https://russian.rt.com/world/news/1614225-katar-iran-raketa-tanker?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/investments/news/2026/04/02/1187383-rusgidro-dividendi",
     "source": "Ведомости",
     "pub_dt": "2026-04-02T09:03:51+00:00",
+    "no_image": false
+  },
+  {
+    "id": "34b0b969af9b7cca417fbcb99142d488",
+    "title": "Парламент Молдавии одобрил проект денонсации устава СНГ",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187391-parlament-moldavii-odobril",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-02T09:10:31+00:00",
     "no_image": false
   }
 ]
