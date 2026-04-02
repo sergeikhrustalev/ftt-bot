@@ -1,13 +1,5 @@
 [
   {
-    "id": "6085dacfac0d26938e0d345feefbda46",
-    "title": "Цены проскользнули к границам // Экспортная стоимость подсолнечного масла выросла на 20,1% год к году",
-    "url": "https://www.kommersant.ru/doc/8552346",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-01T07:30:00+00:00",
-    "no_image": false
-  },
-  {
     "id": "5ddab06d5ab764b821c98fdb5def6baa",
     "title": "Для Windows пришлось выпустить экстренное обновление",
     "url": "https://lenta.ru/news/2026/04/01/urgent-update/",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187348-gladkov-otmenil-soveschaniya",
     "source": "Ведомости",
     "pub_dt": "2026-04-02T07:30:42+00:00",
+    "no_image": false
+  },
+  {
+    "id": "d0d674a4c027eb3ba9dbdea9470f96b2",
+    "title": "Оверчук оценил потери Армении в $5,1 млрд из-за сближения с ЕС",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187351-overchuk-otsenil-poteri",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-02T07:40:32+00:00",
     "no_image": false
   }
 ]
