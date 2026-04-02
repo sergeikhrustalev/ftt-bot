@@ -1,13 +1,5 @@
 [
   {
-    "id": "605c7969e3341bdd631a97be5a54c7a8",
-    "title": "МЧС сообщило о подтоплениях в 32 российских регионах",
-    "url": "https://ria.ru/20260401/rossija-2084209245.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T07:58:48+00:00",
-    "no_image": false
-  },
-  {
     "id": "1ffb79143ca4edfcaec8abe7102035d8",
     "title": "В Омск прибыли все задержанные из-за тумана рейсы",
     "url": "https://tass.ru/obschestvo/26959995",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-02T15:40:19+00:00",
     "no_image": false
+  },
+  {
+    "id": "5a94dd8763420b09232deabfd46c40e0",
+    "title": "Верный пес защитил хозяев от медведя",
+    "url": "https://lenta.ru/news/2026/04/02/vernyy-pes-spas-hozyaev-ot-medvedya/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T15:52:26+00:00",
+    "no_image": true
   }
 ]
