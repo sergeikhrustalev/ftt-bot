@@ -1,13 +1,5 @@
 [
   {
-    "id": "45e55f422cebbc816e684acbc38741eb",
-    "title": "ВСУ совершили попытку контрнаступления на одном из направлений",
-    "url": "https://lenta.ru/news/2026/04/01/vsu-sovershili-popytku-kontrnastupleniya-na-odnom-iz-napraaleniy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:09:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "2debf5b04a56c5033687f835e56705df",
     "title": "Бухгалтерша скрутила устроившего стрельбу в российской школе ученика",
     "url": "https://lenta.ru/news/2026/04/01/buhgaltersha-skrutila-ustroivshego-strelbu-v-rossiyskoy-shkole-uchenika/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T01:00:29+00:00",
     "no_image": true
+  },
+  {
+    "id": "122aaaafb8989eabcc358c9271f92e84",
+    "title": "Politico: в Европе заявили, что НАТО парализовано и уже разваливается",
+    "url": "https://russian.rt.com/world/news/1614572-evropa-nato-paralizovana?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-02T01:14:38+00:00",
+    "no_image": false
   }
 ]
