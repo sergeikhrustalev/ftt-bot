@@ -1,13 +1,5 @@
 [
   {
-    "id": "e8340ce8c2d3563e7655c39f48aff6ff",
-    "title": "Иранская ракета попала в танкер Катара",
-    "url": "https://lenta.ru/news/2026/04/01/iranskaya-raketa-popala-v-tanker-katara/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:28:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "27c2107c453dda35e54947c1dff1c14a",
     "title": "Глава «Роснефти» назвал главных бенефициаров роста цен на нефть",
     "url": "https://russian.rt.com/business/news/1614221-glava-rosnefti-beneficiar?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187342-mvd-oproverglo",
     "source": "Ведомости",
     "pub_dt": "2026-04-02T07:14:15+00:00",
+    "no_image": false
+  },
+  {
+    "id": "cb6c5ec5a6910feedfaa0307a2c82bf4",
+    "title": "Wildberries купила «Ситимобил», «Таксовичкоф» и «Грузовичкоф»",
+    "url": "https://www.vedomosti.ru/business/news/2026/04/02/1187345-podtverdila-pokupku",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-02T07:20:31+00:00",
     "no_image": false
   }
 ]
