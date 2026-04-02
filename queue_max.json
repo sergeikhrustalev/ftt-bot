@@ -1,13 +1,5 @@
 [
   {
-    "id": "e7d83b43fd3f784cdd0ad69405aeaed5",
-    "title": "Полиция: найденный в Финляндии у границы с Россией дрон был иностранным",
-    "url": "https://russian.rt.com/world/news/1614219-finlyandiya-politsia-dron?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:22:53+00:00",
-    "no_image": false
-  },
-  {
     "id": "e90dca620bce175f27b1a0c5576eca16",
     "title": "Робототехника открывает новые возможности в сфере транспорта, заявил Путин",
     "url": "https://ria.ru/20260401/putin-2084198054.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/rossiyanam-perechislili-otrasli-s-zarplatoy-vyshe-200-tysyach-rubley/",
     "source": "Лента",
     "pub_dt": "2026-04-02T06:11:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "824728e915190eaedb828a0c560fb9d6",
+    "title": "Россияне стали меньше интересоваться туризмом",
+    "url": "https://lenta.ru/news/2026/04/02/rossiyane-stali-menshe-interesovatsya-turizmom/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T06:22:00+00:00",
     "no_image": true
   }
 ]
