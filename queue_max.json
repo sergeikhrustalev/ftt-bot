@@ -1,13 +1,5 @@
 [
   {
-    "id": "3798529b8b2f290b22e64fcc8003e454",
-    "title": "Столичные набережные начали готовить к открытию летней навигации",
-    "url": "https://ria.ru/20260401/moskva-2084191589.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:48:50+00:00",
-    "no_image": false
-  },
-  {
     "id": "d2f65e83da58a2c0ef5a862e5b383ede",
     "title": "Трем украинским агентам вынесли приговор за попытку теракта",
     "url": "https://ria.ru/20260401/fsb-2084191743.html",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T19:51:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "7497449d769a3d19dcd7bf3c388fba9a",
+    "title": "«Вершина персонализированной медицины»: в России начали использовать вакцину от рака «Неоонковак»",
+    "url": "https://russian.rt.com/science/article/1614279-vakcina-neoonkovak-melanoma?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-01T20:07:31+00:00",
+    "no_image": false
   }
 ]
