@@ -1,13 +1,5 @@
 [
   {
-    "id": "27c2107c453dda35e54947c1dff1c14a",
-    "title": "Глава «Роснефти» назвал главных бенефициаров роста цен на нефть",
-    "url": "https://russian.rt.com/business/news/1614221-glava-rosnefti-beneficiar?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:28:20+00:00",
-    "no_image": false
-  },
-  {
     "id": "6085dacfac0d26938e0d345feefbda46",
     "title": "Цены проскользнули к границам // Экспортная стоимость подсолнечного масла выросла на 20,1% год к году",
     "url": "https://www.kommersant.ru/doc/8552346",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/business/news/2026/04/02/1187345-podtverdila-pokupku",
     "source": "Ведомости",
     "pub_dt": "2026-04-02T07:20:31+00:00",
+    "no_image": false
+  },
+  {
+    "id": "4e622fc0136e5f8063f0b067cd0dd346",
+    "title": "Гладков отменил совещания из-за сведений о возможных атаках ВСУ",
+    "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187348-gladkov-otmenil-soveschaniya",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-02T07:30:42+00:00",
     "no_image": false
   }
 ]
