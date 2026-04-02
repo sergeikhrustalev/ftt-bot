@@ -1,13 +1,5 @@
 [
   {
-    "id": "e6bea11833b6430bbb5c261796f5e5c6",
-    "title": "Появились подробности о крушении военно-транспортного самолета Ан-26 в Крыму",
-    "url": "https://lenta.ru/news/2026/04/01/poyavilis-podrobnosti-o-krushenii-voenno-transportnogo-samoleta-an-26-v-krymu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:05:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "4b7ed2bf9726c0692ab2a212af714fa4",
     "title": "В Нижнекамске создали оперативный штаб по ликвидации последствий ЧП",
     "url": "https://ria.ru/20260401/nizhnekamsk-2084195321.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/otseneny-shansy-nazemnoy-operatsii-ssha-protiv-irana/",
     "source": "Лента",
     "pub_dt": "2026-04-02T00:21:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "fc17204e6dd122b3a0ea67c78c412d1f",
+    "title": "Канада направит Украине новый денежный транш",
+    "url": "https://lenta.ru/news/2026/04/02/kanada-napravit-ukraine-novyy-denezhnyy-transh/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T00:32:00+00:00",
     "no_image": true
   }
 ]
