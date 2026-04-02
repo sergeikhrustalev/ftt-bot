@@ -1,13 +1,5 @@
 [
   {
-    "id": "206073976ebf54799ee08440c927f900",
-    "title": "В США проигнорировали рекомендации военных по защите баз от Ирана",
-    "url": "https://lenta.ru/news/2026/04/01/v-ssha-proignorirovali-rekomendatsii-voennyh-po-zaschite-baz-ot-irana/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:49:05+00:00",
-    "no_image": true
-  },
-  {
     "id": "76256add6363ffbac49b76b42e0d16ec",
     "title": "В Дагестане мужчины спасают коров и ягнят из затопленных дворов и сараев",
     "url": "https://ria.ru/20260401/dagestan-2084205726.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/stalo-izvestno-o-taynyh-obsuzhdeniyah-trampom-zameny-glavy-natsrazvedki-ssha/",
     "source": "Лента",
     "pub_dt": "2026-04-02T12:21:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "3e96c76d87e08e8227292a1bef32802e",
+    "title": "Назван полезный для здоровья сердца ферментированный продукт",
+    "url": "https://lenta.ru/news/2026/04/02/nazvan-poleznyy-dlya-zdorovya-serdtsa-fermentirovannyy-produkt/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T12:31:55+00:00",
     "no_image": true
   }
 ]
