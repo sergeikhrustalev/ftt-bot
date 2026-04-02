@@ -1,13 +1,5 @@
 [
   {
-    "id": "58ed8003847bd1a9199a5bef556d386f",
-    "title": "Пресс-конференция о профилактике подростковой преступности",
-    "url": "https://ria.ru/20260401/prestupnost-2084198154.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T07:25:10+00:00",
-    "no_image": false
-  },
-  {
     "id": "82cc8d82537b1103883f272a5948c16f",
     "title": "Преступник явился в суд по делу о наркоторговле с наркотиками в заднем проходе",
     "url": "https://lenta.ru/news/2026/04/01/prestupnik-yavilsya-v-sud-po-delu-o-narkotorgovle-s-narkotikami-v-zadnem-prohode/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/samyy-doverennyy-chelovek-glavy-rossiyskogo-regiona-popytalsya-vyyti-iz-sizo/",
     "source": "Лента",
     "pub_dt": "2026-04-02T06:42:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "1245c8e8ae716632256f6d674dc8f45a",
+    "title": "Жители российского региона остались без бензина",
+    "url": "https://lenta.ru/news/2026/04/02/zhiteli-rossiyskogo-regiona-ostalis-bez-benzina/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T06:54:50+00:00",
     "no_image": true
   }
 ]
