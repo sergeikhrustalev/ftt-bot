@@ -1,13 +1,5 @@
 [
   {
-    "id": "e90dca620bce175f27b1a0c5576eca16",
-    "title": "Робототехника открывает новые возможности в сфере транспорта, заявил Путин",
-    "url": "https://ria.ru/20260401/putin-2084198054.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T07:23:14+00:00",
-    "no_image": false
-  },
-  {
     "id": "fbfaf78aadad9334f0d2c9e5ba40111d",
     "title": "В Финляндии упал беспилотник",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187050-upal-bespilotnik",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T06:22:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "2218cd2ff7cc482e06c75074379eca58",
+    "title": "Правительство ввело запрет на экспорт бензина для производителей",
+    "url": "https://www.vedomosti.ru/business/news/2026/04/02/1187337-pravitelstvo-vvelo-zapret",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-02T06:30:58+00:00",
+    "no_image": false
   }
 ]
