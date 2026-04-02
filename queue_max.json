@@ -1,13 +1,5 @@
 [
   {
-    "id": "5942c14e18911ee14dbcda53e7932216",
-    "title": "Названы два приводящих к развитию рака продукта",
-    "url": "https://lenta.ru/news/2026/04/01/nazvany-dva-privodyaschih-k-razvitiyu-raka-produkta/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:32:59+00:00",
-    "no_image": true
-  },
-  {
     "id": "7f4de5bc7301f3e2a5501aaa7cbb957f",
     "title": "Мэр Беляев: в Нижнекамске создали оперштаб после ЧП на заводе",
     "url": "https://russian.rt.com/russia/news/1614226-nizhnekamsk-opershtab-chp?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T08:52:11+00:00",
     "no_image": true
+  },
+  {
+    "id": "b60e19790c12fdb72125f9018962d218",
+    "title": "«Русгидро» не будет платить дивиденды до стабилизации финансового состояния",
+    "url": "https://www.vedomosti.ru/investments/news/2026/04/02/1187383-rusgidro-dividendi",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-02T09:03:51+00:00",
+    "no_image": false
   }
 ]
