@@ -1,13 +1,5 @@
 [
   {
-    "id": "ebe7f96afc5c0b7a7e964856eaa9ff33",
-    "title": "67-летняя Мишель Пфайффер показала лицо без макияжа и удивила фанатов",
-    "url": "https://lenta.ru/news/2026/04/01/67-letnyaya-mishel-pfayffer-pokazala-litso-bez-makiyazha-i-udivila-fanatov/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:18:45+00:00",
-    "no_image": true
-  },
-  {
     "id": "d46d44086675b8e6aaebcb18f04bdc51",
     "title": "Участник переговоров по Украине высказался об ужесточении требований к Киеву",
     "url": "https://lenta.ru/news/2026/04/01/uchastnik-peregovorov-po-ukraine-vyskazalsya-ob-uzhestochenii-trebovaniy-k-kievu/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/nasa-soobschilo-o-problemah-na-zapuschennom-k-lune-korable-orion/",
     "source": "Лента",
     "pub_dt": "2026-04-02T04:54:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "44c2c33a66a645812745ee14411b47d6",
+    "title": "Известная актриса пожаловалась на сексуально озабоченных ухажеров",
+    "url": "https://lenta.ru/news/2026/04/02/izvestnaya-aktrisa-pozhalovalas-na-seksualno-ozabochennyh-uhazherov/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T05:00:46+00:00",
     "no_image": true
   }
 ]
