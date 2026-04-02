@@ -1,13 +1,5 @@
 [
   {
-    "id": "613dcfa0477133c12aacb62f277225d1",
-    "title": "Тренер сборной Италии оценил непопадание команды на третий чемпионат мира подряд",
-    "url": "https://lenta.ru/news/2026/04/01/trener-sbornoy-italii-otsenil-nepopadanie-komandy-na-tretiy-chempionat-mira-podryad/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:49:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "206073976ebf54799ee08440c927f900",
     "title": "В США проигнорировали рекомендации военных по защите баз от Ирана",
     "url": "https://lenta.ru/news/2026/04/01/v-ssha-proignorirovali-rekomendatsii-voennyh-po-zaschite-baz-ot-irana/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/vs-rossii-peredali-partiyu-krasnopoley-m2/",
     "source": "Лента",
     "pub_dt": "2026-04-02T12:11:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "7e7feb3b0caf99cf2115fe82800e365d",
+    "title": "Стало известно о недовольстве Трампа главой Нацразведки США из-за Ирана",
+    "url": "https://lenta.ru/news/2026/04/02/stalo-izvestno-o-taynyh-obsuzhdeniyah-trampom-zameny-glavy-natsrazvedki-ssha/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T12:21:00+00:00",
     "no_image": true
   }
 ]
