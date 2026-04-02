@@ -1,13 +1,5 @@
 [
   {
-    "id": "86c3a78dbe82e1a097287c9ed40137c1",
-    "title": "Россиянка описала таксиста во Вьетнаме фразой «положил руку на бедро и стал лезть вверх»",
-    "url": "https://lenta.ru/news/2026/04/01/rossiyanka-opisala-taksista-vo-vietname-frazoy-polozhil-ruku-na-bedro-i-stal-lezt-vverh/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:49:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "613dcfa0477133c12aacb62f277225d1",
     "title": "Тренер сборной Италии оценил непопадание команды на третий чемпионат мира подряд",
     "url": "https://lenta.ru/news/2026/04/01/trener-sbornoy-italii-otsenil-nepopadanie-komandy-na-tretiy-chempionat-mira-podryad/",
@@ -2390,5 +2382,13 @@
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-02T12:01:54+00:00",
     "no_image": false
+  },
+  {
+    "id": "03069fe74f03d5735d407d6a58e314b2",
+    "title": "ВС России передали партию «Краснополей-М2»",
+    "url": "https://lenta.ru/news/2026/04/02/vs-rossii-peredali-partiyu-krasnopoley-m2/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T12:11:00+00:00",
+    "no_image": true
   }
 ]
