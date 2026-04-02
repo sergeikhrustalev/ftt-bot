@@ -1,13 +1,5 @@
 [
   {
-    "id": "064917eca9beab308a2bb495e3b75502",
-    "title": "В Финляндии испугались последствий сотрудничества с Украиной",
-    "url": "https://lenta.ru/news/2026/04/01/v-finlyandii-ispugalis-posledstviy-sotrudnichestva-s-ukrainoy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:14:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "9c07fc1f25bf57aa206b336ba909bb2c",
     "title": "События в Иране оказывают прямое влияние на энергорынки, заявил Путин",
     "url": "https://ria.ru/20260401/sobytija-2084196311.html",
@@ -2389,6 +2381,14 @@
     "url": "https://russian.rt.com/world/news/1614583-chernyshenko-avtomobil-gaz-kuba?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-02T02:41:15+00:00",
+    "no_image": false
+  },
+  {
+    "id": "2288fd68105f7dd45270dc951a61ddc8",
+    "title": "Боец Врангель: пленный сдал позиции ВСУ и их маршруты в Бойково",
+    "url": "https://russian.rt.com/ussr/news/1614585-boec-vrangel-plennyi-pozicii-vsu?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-02T02:53:54+00:00",
     "no_image": false
   }
 ]
