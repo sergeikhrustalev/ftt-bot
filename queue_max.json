@@ -1,13 +1,5 @@
 [
   {
-    "id": "0193eabc5c091748fd3e3f3ef0de96d1",
-    "title": "В ЛНР ввели особый противопожарный режим",
-    "url": "https://tass.ru/proisshestviya/26960001",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:00:34+00:00",
-    "no_image": false
-  },
-  {
     "id": "dffab78d66d062e1d39a77543017b63e",
     "title": "В России к 2030 году построят четыре атомных ледокола",
     "url": "https://tass.ru/ekonomika/26960049",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-02T17:11:01+00:00",
     "no_image": false
+  },
+  {
+    "id": "1f3a234fd9f22c8e2ff7c05d40eb937d",
+    "title": "Ответственным за массовые беспорядки в российском аэропорту стал экс-депутат Госдумы",
+    "url": "https://lenta.ru/news/2026/04/02/otvetstvennym-za-massovye-besporyadki-v-rossiyskom-aeroportu-stal-eks-deputat-gosdumy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T17:23:00+00:00",
+    "no_image": true
   }
 ]
