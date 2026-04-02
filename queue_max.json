@@ -1,13 +1,5 @@
 [
   {
-    "id": "92014c2f1f9b179bacd5a5530573884d",
-    "title": "GIE: запасы газа в хранилищах Нидерландов упали до исторического минимума",
-    "url": "https://russian.rt.com/world/news/1614208-niderlandy-gaz-zapasy-minimum?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T06:53:13+00:00",
-    "no_image": false
-  },
-  {
     "id": "73793e191c6816d03a02b56550864a80",
     "title": "Посольство США: американские объекты в Саудовской Аравии могут стать целями атак",
     "url": "https://russian.rt.com/world/news/1614201-posolstvo-ssha-saudovskaya-araviya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260402/vashington-2084666492.html",
     "source": "РИА",
     "pub_dt": "2026-04-01T21:41:00+00:00",
+    "no_image": false
+  },
+  {
+    "id": "3f073508bd9f87366ee85e13bb9d07c3",
+    "title": "Член ЦИК Сысоев пообещал Путину помогать на выборах ветеранам",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187317-sisoev-veteranam-spetsoperatsii",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-01T21:50:41+00:00",
     "no_image": false
   }
 ]
