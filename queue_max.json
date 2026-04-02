@@ -1,13 +1,5 @@
 [
   {
-    "id": "b70baa8df1c4e4ba18753560f34090d2",
-    "title": "Спад деловой активности в обрабатывающих отраслях ускорился в марте",
-    "url": "https://www.vedomosti.ru/investments/news/2026/04/01/1187042-spad-delovoi-aktivnosti",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T06:55:59+00:00",
-    "no_image": false
-  },
-  {
     "id": "db1da83ca26d454b9443d1f516f71acf",
     "title": "Женщины готовили покушение на офицеров Минобороны России",
     "url": "https://lenta.ru/news/2026/04/01/zhenschiny-gotovili-pokushenie-na-ofitserov-minoborony-rossii/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/bpla-vsu-atakovali-krasnodarskiy-kray/",
     "source": "Лента",
     "pub_dt": "2026-04-01T22:10:42+00:00",
+    "no_image": true
+  },
+  {
+    "id": "334fb6ffce0d9721531a0f94ad0a5cb3",
+    "title": "Раскрыта позиция разведки США по переговорам с Ираном",
+    "url": "https://lenta.ru/news/2026/04/02/raskryta-pozitsiya-razvedki-ssha-po-peregovoram-s-iranom/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T22:24:00+00:00",
     "no_image": true
   }
 ]
