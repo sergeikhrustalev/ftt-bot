@@ -1,13 +1,5 @@
 [
   {
-    "id": "d4df96a2212d4a4016a1eedb22da9d07",
-    "title": "Российский вратарь НХЛ подрался с голкипером соперника",
-    "url": "https://lenta.ru/news/2026/04/01/rossiyskiy-vratar-nhl-podralsya-s-golkiperom-sopernika/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:21:41+00:00",
-    "no_image": true
-  },
-  {
     "id": "9bcf00c93df38a79fad503dc2bd9758c",
     "title": "Появились новые данные о жертвах крушения военно-транспортного Ан-26 в Крыму",
     "url": "https://lenta.ru/news/2026/04/01/poyavilis-dannye-o-zhertvah-krusheniya-voenno-transportnogo-an-26-v-krymu/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/raskryt-riskovannyy-plan-ssha-po-vyvozu-urana-iz-irana/",
     "source": "Лента",
     "pub_dt": "2026-04-02T05:52:59+00:00",
+    "no_image": true
+  },
+  {
+    "id": "3a43c36fc6bd2641cbc33dd58ca9fb5b",
+    "title": "Россиянин описал жизнь на Чукотке словами «сто человек, белые медведи и ни одной дороги»",
+    "url": "https://lenta.ru/news/2026/04/02/rossiyanin-opisal-zhizn-na-chukotke-slovami-sto-chelovek-belye-medvedi-i-ni-odnoy-dorogi/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T06:00:39+00:00",
     "no_image": true
   }
 ]
