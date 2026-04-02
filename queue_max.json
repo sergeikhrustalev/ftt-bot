@@ -1,13 +1,5 @@
 [
   {
-    "id": "ae975e60e6c303b057ad5341e88c9a1a",
-    "title": "Россия готова делиться опытом развития транспорта и логистики, заявил Путин",
-    "url": "https://ria.ru/20260401/putin-2084197611.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T07:20:44+00:00",
-    "no_image": false
-  },
-  {
     "id": "30418b0a06f6b91862dd47907beb51d3",
     "title": "Самойлова и Джиган заключили мировое соглашение по делу о разводе",
     "url": "https://ria.ru/20260401/samojlova-2084197699.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/vrach-razveyala-mif-o-kofe-natoschak/",
     "source": "Лента",
     "pub_dt": "2026-04-02T05:30:45+00:00",
+    "no_image": true
+  },
+  {
+    "id": "7d1f1c9eae64e441f8430109b5ca8585",
+    "title": "Союзник США заявил о достижении ключевых целей в Иране",
+    "url": "https://lenta.ru/news/2026/04/02/soyuznik-ssha-zayavil-o-dostizhenii-klyuchevyh-tseley-v-irane/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T05:41:00+00:00",
     "no_image": true
   }
 ]
