@@ -1,13 +1,5 @@
 [
   {
-    "id": "003d6251f666b2e59d68ac3d87cbd20b",
-    "title": "Раскрыта судьба роскошного имущества Самойловой и Джигана после развода",
-    "url": "https://lenta.ru/news/2026/04/01/raskryta-sudba-roskoshnogo-imuschestva-samoylovoy-i-dzhigana-posle-razvoda/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:41:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "35711363f025be611160e814b0eb08d8",
     "title": "\"Аэрофлот\" в летние месяцы увеличит число рейсов между Москвой и Антальей",
     "url": "https://ria.ru/20260401/aeroflot-2084203769.html",
@@ -2390,5 +2382,13 @@
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-02T10:30:51+00:00",
     "no_image": false
+  },
+  {
+    "id": "81ac4a01ef764b51284a51e4bc47b02c",
+    "title": "Набор продуктов для приготовления кулича подешевел",
+    "url": "https://lenta.ru/news/2026/04/02/nabor-produktov-dlya-prigotovleniya-kulicha-podeshevel/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T10:41:00+00:00",
+    "no_image": true
   }
 ]
