@@ -1,13 +1,5 @@
 [
   {
-    "id": "2debf5b04a56c5033687f835e56705df",
-    "title": "Бухгалтерша скрутила устроившего стрельбу в российской школе ученика",
-    "url": "https://lenta.ru/news/2026/04/01/buhgaltersha-skrutila-ustroivshego-strelbu-v-rossiyskoy-shkole-uchenika/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:09:25+00:00",
-    "no_image": true
-  },
-  {
     "id": "7c7c3bb3bf35c57d85e7461f95d8b365",
     "title": "Оплата сервисов Apple с мобильного телефона стала недоступна в России",
     "url": "https://lenta.ru/news/2026/04/01/oplata-servisov-apple-s-mobilnogo-telefona-stala-nedostupna-v-rossii/",
@@ -2389,6 +2381,14 @@
     "url": "https://russian.rt.com/world/news/1614572-evropa-nato-paralizovana?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-02T01:14:38+00:00",
+    "no_image": false
+  },
+  {
+    "id": "4d5158e897f05d77f6ffce42e5a4e4d3",
+    "title": "Трамп пообещал отбросить Иран в \"каменный век\"",
+    "url": "https://ria.ru/20260402/tramp-2084677163.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-02T01:21:05+00:00",
     "no_image": false
   }
 ]
