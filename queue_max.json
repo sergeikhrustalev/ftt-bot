@@ -1,13 +1,5 @@
 [
   {
-    "id": "64bf8d262e7f4dbc4b03a39ef95d2bf1",
-    "title": "Сумевшая отследить командующего Минобороны России Настя попала на видео",
-    "url": "https://lenta.ru/news/2026/04/01/sumevshaya-otsledit-komanduyuschego-minoborony-rossii-nastya-popala-na-video/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:00:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "e7ae558e5d260a2756752cbf3d688d1a",
     "title": "В ТАСС  расскажут о подготовке парков и скверов Новосибирска к летнему сезону – 2026",
     "url": "https://tass.ru/novosti-regionov/26958509",
@@ -2390,5 +2382,13 @@
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-02T16:43:08+00:00",
     "no_image": false
+  },
+  {
+    "id": "0b27efbe179284fc90d724b40eab465c",
+    "title": "Алиев раскрыл подробности строительства маршрута Трампа",
+    "url": "https://lenta.ru/news/2026/04/02/aliev-raskryl-podrobnosti-stroitelstva-marshruta-trampa/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T16:51:00+00:00",
+    "no_image": true
   }
 ]
