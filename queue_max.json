@@ -1,13 +1,5 @@
 [
   {
-    "id": "5fcb59dddba8ee7136ac1d8ef033ccff",
-    "title": "Россиянкам назвали законные средства самообороны для ношения на улице",
-    "url": "https://lenta.ru/news/2026/04/01/samooborona/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:47:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "e616a4c35459b53f1d772b3fa82456f7",
     "title": "Путин: РФ должна смотреть на десятилетия вперед в сфере транспорта и логистики",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187056-smotret-na-desyatiletiya",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/syn-gazmanova-udivil-fanatov-kardinalnoy-smenoy-imidzha/",
     "source": "Лента",
     "pub_dt": "2026-04-02T11:40:22+00:00",
+    "no_image": true
+  },
+  {
+    "id": "18f60bdb113bd99efacfb8b0d564aaa0",
+    "title": "Макрон попросил Трампа поменьше говорить и побольше делать",
+    "url": "https://lenta.ru/news/2026/04/02/makron-poprosil-trampa-pomenshe-govorit-i-pobolshe-delat/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T11:51:00+00:00",
     "no_image": true
   }
 ]
