@@ -1,13 +1,5 @@
 [
   {
-    "id": "6f9ec131c1b947612ca64b815d3baf99",
-    "title": "В Казахстане отменено шоу Тутберидзе после продажи 7500 билетов",
-    "url": "https://russian.rt.com/sport/news/1614231-kazahstan-tutberidze-shou-otmena?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:43:01+00:00",
-    "no_image": false
-  },
-  {
     "id": "34e2dea71286773b17afa81b5afc5b40",
     "title": "Ксения Алферова рассказала о болезненном разводе матери с Абдуловым",
     "url": "https://lenta.ru/news/2026/04/01/kseniya-alferova-rasskazala-o-boleznennom-razvode-materi-s-abdulovym/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T11:01:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "38a4cb8b56ef3eca73b1df825151849a",
+    "title": "АКОРТ: стоимость ингредиентов для кулича снизилась на 9%",
+    "url": "https://www.vedomosti.ru/economics/news/2026/04/02/1187457-stoimost-kulicha",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-02T11:10:48+00:00",
+    "no_image": false
   }
 ]
