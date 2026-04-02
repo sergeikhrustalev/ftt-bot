@@ -1,13 +1,5 @@
 [
   {
-    "id": "34e2dea71286773b17afa81b5afc5b40",
-    "title": "Ксения Алферова рассказала о болезненном разводе матери с Абдуловым",
-    "url": "https://lenta.ru/news/2026/04/01/kseniya-alferova-rasskazala-o-boleznennom-razvode-materi-s-abdulovym/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:43:28+00:00",
-    "no_image": true
-  },
-  {
     "id": "a3300420573470502038f525e3958565",
     "title": "Эррол Маск рассказал о любви сына к лёгкой атлетике",
     "url": "https://russian.rt.com/world/news/1614228-errol-mask-syn?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-02T11:10:48+00:00",
     "no_image": false
+  },
+  {
+    "id": "7a77a24ddd731ee66d0abaeea7354d51",
+    "title": "Фон дер Ляйен высказалась по вопросу Ирана",
+    "url": "https://lenta.ru/news/2026/04/02/fon-der-lyayen-vyskazalas-po-voprosu-irana/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T11:22:00+00:00",
+    "no_image": true
   }
 ]
