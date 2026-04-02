@@ -1,13 +1,5 @@
 [
   {
-    "id": "916287a1ff940a3b91a694e268be708d",
-    "title": "\"Автостат\": в РФ в марте снизились цены на новые авто трех китайских брендов",
-    "url": "https://tass.ru/ekonomika/26959959",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T07:58:44+00:00",
-    "no_image": false
-  },
-  {
     "id": "605c7969e3341bdd631a97be5a54c7a8",
     "title": "МЧС сообщило о подтоплениях в 32 российских регионах",
     "url": "https://ria.ru/20260401/rossija-2084209245.html",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T15:31:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "cf37dfe3d55c42cf451b1e5919a2d512",
+    "title": "Швейцарскую «Международную комиссию юристов» признали нежелательной в РФ",
+    "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187569-komissiyu-yuristov-priznali-nezhelatelnoi",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-02T15:40:19+00:00",
+    "no_image": false
   }
 ]
