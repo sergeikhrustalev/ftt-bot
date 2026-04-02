@@ -1,13 +1,5 @@
 [
   {
-    "id": "d6b69ceba0e3dfe444ef2684442ce9e1",
-    "title": "Тарасова: Валиева способна бороться на «Русском вызове» за первое место",
-    "url": "https://russian.rt.com/sport/news/1614217-tarasova-valieva-russkii-vyzov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:13:17+00:00",
-    "no_image": false
-  },
-  {
     "id": "1d3d4ba8ad9696e325b79a9cd033452a",
     "title": "Кассация подтвердила возврат прокурору дела пилота о посадке самолета в поле",
     "url": "https://www.vedomosti.ru/society/news/2026/04/01/1187046-kassatsiya-podtverdila",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260402/finlyandiya-2084680592.html",
     "source": "РИА",
     "pub_dt": "2026-04-02T02:14:22+00:00",
+    "no_image": false
+  },
+  {
+    "id": "7f723416ef09cc47c5ec44add71c16d3",
+    "title": "Роботы-доставщики безопаснее курьеров, считает глава СПЧ",
+    "url": "https://ria.ru/20260402/kurer-2084680948.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-02T02:20:38+00:00",
     "no_image": false
   }
 ]
