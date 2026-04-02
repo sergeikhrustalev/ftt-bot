@@ -1,13 +1,5 @@
 [
   {
-    "id": "8a4f04940b9785e171b0a9e13871ede0",
-    "title": "Россиянам раскрыли опасность отказа от оверсайз-одежды",
-    "url": "https://lenta.ru/news/2026/04/01/rossiyanam-raskryli-opasnost-otkaza-ot-oversayz-odezhdy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:53:07+00:00",
-    "no_image": true
-  },
-  {
     "id": "92014c2f1f9b179bacd5a5530573884d",
     "title": "GIE: запасы газа в хранилищах Нидерландов упали до исторического минимума",
     "url": "https://russian.rt.com/world/news/1614208-niderlandy-gaz-zapasy-minimum?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T21:30:47+00:00",
     "no_image": true
+  },
+  {
+    "id": "a4c153b13be5cf5da8de1744ce8a1627",
+    "title": "СМИ: генсек НАТО встретится с Трампом на следующей неделе",
+    "url": "https://ria.ru/20260402/vashington-2084666492.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-01T21:41:00+00:00",
+    "no_image": false
   }
 ]
