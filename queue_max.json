@@ -1,13 +1,5 @@
 [
   {
-    "id": "6bf036bd3a6d07c896269adddaa4b2ab",
-    "title": "Путин: события в Иране уже оказывают прямое влияние на энергетические рынки",
-    "url": "https://russian.rt.com/business/news/1614222-putin-iran-vliyanie-energorynki?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:18:23+00:00",
-    "no_image": false
-  },
-  {
     "id": "ebe7f96afc5c0b7a7e964856eaa9ff33",
     "title": "67-летняя Мишель Пфайффер показала лицо без макияжа и удивила фанатов",
     "url": "https://lenta.ru/news/2026/04/01/67-letnyaya-mishel-pfayffer-pokazala-litso-bez-makiyazha-i-udivila-fanatov/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/rossiyanam-nazvali-professii-s-samym-stremitelnym-rostom-zarplat/",
     "source": "Лента",
     "pub_dt": "2026-04-02T04:42:09+00:00",
+    "no_image": true
+  },
+  {
+    "id": "f48ec7f61216a189f0a7860b8eef002e",
+    "title": "НАСА сообщило о проблемах на запущенном к Луне корабле Orion",
+    "url": "https://lenta.ru/news/2026/04/02/nasa-soobschilo-o-problemah-na-zapuschennom-k-lune-korable-orion/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T04:54:00+00:00",
     "no_image": true
   }
 ]
