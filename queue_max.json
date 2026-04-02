@@ -1,13 +1,5 @@
 [
   {
-    "id": "1ffb79143ca4edfcaec8abe7102035d8",
-    "title": "В Омск прибыли все задержанные из-за тумана рейсы",
-    "url": "https://tass.ru/obschestvo/26959995",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T07:58:50+00:00",
-    "no_image": false
-  },
-  {
     "id": "db824f7c14a53e0d0edf28af5e8389b1",
     "title": "\"Он не осознает\". В США раскрыли, что случилось с Трампом из-за Ирана",
     "url": "https://ria.ru/20260401/tramp-2084209405.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/vernyy-pes-spas-hozyaev-ot-medvedya/",
     "source": "Лента",
     "pub_dt": "2026-04-02T15:52:26+00:00",
+    "no_image": true
+  },
+  {
+    "id": "6f6f5d311485ef9bb7ed5fbaed59fc40",
+    "title": "Активизировалось расследование махинаций бывшего сенатора в российской госкорпорации",
+    "url": "https://lenta.ru/news/2026/04/02/aktivizirovalos-rassledovanie-mahinatsiy-byvshego-senatora-v-rossiyskoy-goskorporatsii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T16:01:34+00:00",
     "no_image": true
   }
 ]
