@@ -1,13 +1,5 @@
 [
   {
-    "id": "ca2c1e02e9b423ff04adb096794321b9",
-    "title": "В Крыму идут поисковые мероприятия после крушения Ан-26",
-    "url": "https://ria.ru/20260401/krym-2084193264.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:57:16+00:00",
-    "no_image": false
-  },
-  {
     "id": "f051e7b9f7077f735976025b645042c1",
     "title": "Троим готовившим теракты против военных России агентам СБУ дали сроки до 20 лет",
     "url": "https://russian.rt.com/russia/news/1614210-agenty-ukraina-sroki-terakty?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-01T22:30:25+00:00",
     "no_image": true
+  },
+  {
+    "id": "6e4bddc9b8c717d0bc3aaacc32e7897e",
+    "title": "\"Первый признак\": на Западе раскрыли, на что пошла Европа ради России",
+    "url": "https://ria.ru/20260402/evropa-2084670050.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-01T22:40:47+00:00",
+    "no_image": false
   }
 ]
