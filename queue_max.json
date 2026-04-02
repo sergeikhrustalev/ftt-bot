@@ -1,13 +1,5 @@
 [
   {
-    "id": "0e32343ff2a63a4bb11b0c789c19cb4c",
-    "title": "Набиуллина оценила перспективы развития дочерних банков маркетплейсов",
-    "url": "https://ria.ru/20260401/banki-2084209861.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T08:00:49+00:00",
-    "no_image": false
-  },
-  {
     "id": "77612b0574813020e8a77565149bb2cc",
     "title": "Галузин: агрессия США и Израиля против Ирана серьезно порушила мировую торговлю",
     "url": "https://tass.ru/ekonomika/26960069",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/ugrozu-ataki-bpla-ob-yavili-na-pervoy-v-rossii-federalnoy-territorii/",
     "source": "Лента",
     "pub_dt": "2026-04-02T17:31:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "40627fbb95248b95dd2a15ab1bab32f2",
+    "title": "Стали известны все пары второго раунда плей-офф КХЛ",
+    "url": "https://lenta.ru/news/2026/04/02/stali-izvestny-vse-pary-vtorogo-raunda-pley-off-khl/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T17:40:20+00:00",
     "no_image": true
   }
 ]
