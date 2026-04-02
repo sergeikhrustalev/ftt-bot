@@ -1,13 +1,5 @@
 [
   {
-    "id": "2890368bd87824c9c9e280bb633d82c1",
-    "title": "Националист пытался разбить все уличное видеонаблюдение в российском городе",
-    "url": "https://lenta.ru/news/2026/04/01/natsionalist-pytalsya-razbit-vse-ulichnoe-videonablyudenie-v-rossiyskom-gorode/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:12:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "acf05ec997621155b8cd4d72da1e59a3",
     "title": "Война в Иране ударила по самому густонаселенному региону мира",
     "url": "https://lenta.ru/news/2026/04/01/voyna-v-irane-udarila-po-samomu-gustonaselennomu-regionu-mira/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260402/otel-2084678690.html",
     "source": "РИА",
     "pub_dt": "2026-04-02T01:45:01+00:00",
+    "no_image": false
+  },
+  {
+    "id": "1fe007d066cdf8cb4e56cd00c31a75b0",
+    "title": "В аэропорту Ижевска ввели ограничения на полеты",
+    "url": "https://ria.ru/20260402/ogranicheniya-2084679153.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-02T01:52:41+00:00",
     "no_image": false
   }
 ]
