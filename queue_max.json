@@ -1,13 +1,5 @@
 [
   {
-    "id": "c3128683b5731588ac21fbfef4218ff6",
-    "title": "Цена нефти Brent опустились ниже $100 за баррель",
-    "url": "https://russian.rt.com/business/news/1614218-cena-nefti-brent-opustilis?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:11:47+00:00",
-    "no_image": false
-  },
-  {
     "id": "2890368bd87824c9c9e280bb633d82c1",
     "title": "Националист пытался разбить все уличное видеонаблюдение в российском городе",
     "url": "https://lenta.ru/news/2026/04/01/natsionalist-pytalsya-razbit-vse-ulichnoe-videonablyudenie-v-rossiyskom-gorode/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260402/spetsoperatsiya-2084677540.html",
     "source": "РИА",
     "pub_dt": "2026-04-02T01:30:30+00:00",
+    "no_image": false
+  },
+  {
+    "id": "3f069a6211e4a5913a24e9208584245f",
+    "title": "Госдеп США без конкурса отдал миллионы долларов отелю Роднянского*",
+    "url": "https://ria.ru/20260402/otel-2084678690.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-02T01:45:01+00:00",
     "no_image": false
   }
 ]
