@@ -1,13 +1,5 @@
 [
   {
-    "id": "c26e6f084c3c8490156751d8312deea8",
-    "title": "Москву накроет аномальная жара",
-    "url": "https://lenta.ru/news/2026/04/01/zhara-msk/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:54:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "b7bead2ef62fce78cc343a5752441384",
     "title": "Нарышкин отметил рост участников \"Диктанта Победы\" за годы его существования",
     "url": "https://tass.ru/obschestvo/26959803",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T13:41:32+00:00",
     "no_image": true
+  },
+  {
+    "id": "de7464acbd7ab6edf776c76fdfaf9482",
+    "title": "Kyodo: Япония может направить в РФ делегацию, чтобы обсудить закупки нефти",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187534-yaponiya-ekonomicheskuyu-delegatsiyu",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-02T13:51:52+00:00",
+    "no_image": false
   }
 ]
