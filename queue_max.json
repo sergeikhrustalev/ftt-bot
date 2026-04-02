@@ -1,13 +1,5 @@
 [
   {
-    "id": "f98edb8ff7cc95d46b61e4ab498bb55d",
-    "title": "США и Израиль повредили православный храм",
-    "url": "https://lenta.ru/news/2026/04/01/ssha-i-izrail-povredili-pravoslavnyy-hram/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:51:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "2e5f39b9882b391774ba8ac3ad10794e",
     "title": "Набиуллина: нишевые банки сохранятся, но часть финсервисов войдет в платформы",
     "url": "https://tass.ru/ekonomika/26959919",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-02T12:54:03+00:00",
     "no_image": false
+  },
+  {
+    "id": "df91190228719151668f4899318c1ea2",
+    "title": "Тарасова прокляла Международный союз конькобежцев",
+    "url": "https://lenta.ru/news/2026/04/02/tarasova-proklyala-mezhdunarodnyy-soyuz-konkobezhtsev/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T13:02:00+00:00",
+    "no_image": true
   }
 ]
