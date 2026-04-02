@@ -1,13 +1,5 @@
 [
   {
-    "id": "55da686d2fce3ef8eff9b66f4a7743da",
-    "title": "Россиянам напомнили о наказании за рекламу и граффити в подъезде",
-    "url": "https://lenta.ru/news/2026/04/01/reklama-graffiti/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:35:16+00:00",
-    "no_image": true
-  },
-  {
     "id": "f57f4c5683cf75723cdb186d53525635",
     "title": "Необходимо учитывать изменения в сфере транспорта и логистики, заявил Путин",
     "url": "https://ria.ru/20260401/putin-2084201292.html",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-02T09:42:35+00:00",
     "no_image": false
+  },
+  {
+    "id": "06ce98689bdd6cae63ccf94befd4dad1",
+    "title": "Москалькова сообщила о работе по обмену пленными с Украиной перед Пасхой",
+    "url": "https://lenta.ru/news/2026/04/02/moskalkova-soobschila-o-rabote-po-obmenu-plennymi-s-ukrainoy-pered-pashoy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T09:51:31+00:00",
+    "no_image": true
   }
 ]
