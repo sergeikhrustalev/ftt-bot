@@ -1,13 +1,5 @@
 [
   {
-    "id": "1e1a729625f7a24e7823d481914c9d2d",
-    "title": "Участник переговоров по Украине рассказал о принятых предложениях США",
-    "url": "https://lenta.ru/news/2026/04/01/uchastnik-peregovorov-po-ukraine-rasskazal-o-prinyatyh-predlozheniyah-ssha/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:03:59+00:00",
-    "no_image": true
-  },
-  {
     "id": "e6bea11833b6430bbb5c261796f5e5c6",
     "title": "Появились подробности о крушении военно-транспортного самолета Ан-26 в Крыму",
     "url": "https://lenta.ru/news/2026/04/01/poyavilis-podrobnosti-o-krushenii-voenno-transportnogo-samoleta-an-26-v-krymu/",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-02T00:10:31+00:00",
     "no_image": false
+  },
+  {
+    "id": "f43f8145068615cb7b91356cd1bb8000",
+    "title": "Оценены шансы наземной операции США против Ирана",
+    "url": "https://lenta.ru/news/2026/04/02/otseneny-shansy-nazemnoy-operatsii-ssha-protiv-irana/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T00:21:00+00:00",
+    "no_image": true
   }
 ]
