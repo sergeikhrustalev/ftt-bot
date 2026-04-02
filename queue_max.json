@@ -1,13 +1,5 @@
 [
   {
-    "id": "a8aa6ada24b713a6152804b164234521",
-    "title": "Цена на нефть марки Brent опустилась ниже 100 долларов",
-    "url": "https://ria.ru/20260401/neft-2084193462.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:58:47+00:00",
-    "no_image": false
-  },
-  {
     "id": "dc86ef1dccaa756327e5cd6f2c0abd12",
     "title": "ЭКО для СВО // Депутаты обещают оплатить репродуктивную помощь ветеранам",
     "url": "https://www.kommersant.ru/doc/8552613",
@@ -2389,6 +2381,14 @@
     "url": "https://russian.rt.com/russia/news/1614553-aeroport-kazan-vveli-ogranicheniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-01T22:52:18+00:00",
+    "no_image": false
+  },
+  {
+    "id": "b9704fae1b1ba5d0b26875f0f40da877",
+    "title": "«Авторитарный принцип принятия решений»: что может стоять за предложением Еврокомиссии выделить Украине €45 млрд",
+    "url": "https://russian.rt.com/world/article/1614492-evrokomissiya-vydelit-45-mlrd-ukraina?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-01T23:01:20+00:00",
     "no_image": false
   }
 ]
