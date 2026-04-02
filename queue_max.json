@@ -1,13 +1,5 @@
 [
   {
-    "id": "7521aaa0c7f535ed4bca5fe4272f2b3d",
-    "title": "Путин: Россия будет готовить кадры для развития транспорта и логистики",
-    "url": "https://ria.ru/20260401/rossija-2084199066.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T07:27:38+00:00",
-    "no_image": false
-  },
-  {
     "id": "e8340ce8c2d3563e7655c39f48aff6ff",
     "title": "Иранская ракета попала в танкер Катара",
     "url": "https://lenta.ru/news/2026/04/01/iranskaya-raketa-popala-v-tanker-katara/",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187338-raskritikoval-ispolzovanie-evfemizmov",
     "source": "Ведомости",
     "pub_dt": "2026-04-02T07:01:59+00:00",
+    "no_image": false
+  },
+  {
+    "id": "b4ace6f4a3ad28fbb196441142aadbd1",
+    "title": "МВД опровергло проверку телефонов на использование VPN-сервисов",
+    "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187342-mvd-oproverglo",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-02T07:14:15+00:00",
     "no_image": false
   }
 ]
