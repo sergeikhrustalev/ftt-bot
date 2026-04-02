@@ -1,13 +1,5 @@
 [
   {
-    "id": "c78093e09697a418bfb4b52d48dafbcd",
-    "title": "В России разрешили заселяться в гостиницы по водительским правам и «Госуслугам»",
-    "url": "https://russian.rt.com/russia/news/1614235-rossiya-gostinicy-pravila-gosuslugi?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:50:56+00:00",
-    "no_image": false
-  },
-  {
     "id": "f98edb8ff7cc95d46b61e4ab498bb55d",
     "title": "США и Израиль повредили православный храм",
     "url": "https://lenta.ru/news/2026/04/01/ssha-i-izrail-povredili-pravoslavnyy-hram/",
@@ -2389,6 +2381,14 @@
     "url": "https://www.kommersant.ru/doc/8553858",
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-02T12:41:00+00:00",
+    "no_image": false
+  },
+  {
+    "id": "a6a7258fa49482ae809ad6b1506f8375",
+    "title": "Министры обороны СНГ обсудили в Москве укрепление сотрудничества в военной сфере",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187510-ministri-oboroni-sng",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-02T12:54:03+00:00",
     "no_image": false
   }
 ]
