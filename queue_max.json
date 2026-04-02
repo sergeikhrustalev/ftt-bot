@@ -1,13 +1,5 @@
 [
   {
-    "id": "ebd361bf85c8aaaa473fd0d3767b2a3c",
-    "title": "Вину за обрушение двух подъездов жилого дома в российском городе возложили на женщину",
-    "url": "https://lenta.ru/news/2026/04/01/vinu-za-obrushenie-dvuh-pod-ezdov-zhilogo-doma-v-rossiyskom-gorode-vozlozhili-na-zhenschinu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:35:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "8aadf0b819b710a0749f95507c3a90ff",
     "title": "Россияне все еще могут оформить Telegram Premium",
     "url": "https://ria.ru/20260401/rossijane-2084201077.html",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T09:23:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "a596bb600a03d30ba1238511a926b224",
+    "title": "Песков: в беспилотные войска действительно идет набор",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187410-v-bespilotnie-voiska",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-02T09:30:18+00:00",
+    "no_image": false
   }
 ]
