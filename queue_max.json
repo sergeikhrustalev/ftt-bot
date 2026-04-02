@@ -1,13 +1,5 @@
 [
   {
-    "id": "dffab78d66d062e1d39a77543017b63e",
-    "title": "В России к 2030 году построят четыре атомных ледокола",
-    "url": "https://tass.ru/ekonomika/26960049",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:00:47+00:00",
-    "no_image": false
-  },
-  {
     "id": "0e32343ff2a63a4bb11b0c789c19cb4c",
     "title": "Набиуллина оценила перспективы развития дочерних банков маркетплейсов",
     "url": "https://ria.ru/20260401/banki-2084209861.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/otvetstvennym-za-massovye-besporyadki-v-rossiyskom-aeroportu-stal-eks-deputat-gosdumy/",
     "source": "Лента",
     "pub_dt": "2026-04-02T17:23:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "fa96e3c250f413a864bbccf66bb847e5",
+    "title": "Угрозу атаки БПЛА объявили на первой в России федеральной территории",
+    "url": "https://lenta.ru/news/2026/04/02/ugrozu-ataki-bpla-ob-yavili-na-pervoy-v-rossii-federalnoy-territorii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T17:31:00+00:00",
     "no_image": true
   }
 ]
