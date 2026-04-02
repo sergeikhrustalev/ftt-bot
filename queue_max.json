@@ -1,13 +1,5 @@
 [
   {
-    "id": "ada9ec4c06f9e8f9a149ccae3477cf96",
-    "title": "СФ одобрил закон о двойном стаже судей, работающих в зоне СВО",
-    "url": "https://tass.ru/obschestvo/26960119",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:02:47+00:00",
-    "no_image": false
-  },
-  {
     "id": "b5edaacb2f68e9ca7fcc50108ce47862",
     "title": "Путин заявил о важности безопасности транспортных маршрутов",
     "url": "https://ria.ru/20260401/putin-2084210587.html",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260402/zhiteli-2084873871.html",
     "source": "РИА",
     "pub_dt": "2026-04-02T19:01:06+00:00",
+    "no_image": false
+  },
+  {
+    "id": "1eae2f784bd0276662e840e7f2669885",
+    "title": "Вэнс посетит Венгрию 7-8 апреля",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26985227",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-02T19:12:53+00:00",
     "no_image": false
   }
 ]
