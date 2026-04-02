@@ -1,13 +1,5 @@
 [
   {
-    "id": "e7ae558e5d260a2756752cbf3d688d1a",
-    "title": "В ТАСС  расскажут о подготовке парков и скверов Новосибирска к летнему сезону – 2026",
-    "url": "https://tass.ru/novosti-regionov/26958509",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:00:01+00:00",
-    "no_image": false
-  },
-  {
     "id": "a4ed2bcef212799f9776e16d4819fb48",
     "title": "Русские (не) смеются. Почему одни культуры шутят чаще других",
     "url": "https://tass.ru/obschestvo/26952559",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/aliev-raskryl-podrobnosti-stroitelstva-marshruta-trampa/",
     "source": "Лента",
     "pub_dt": "2026-04-02T16:51:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "f42b5170be28fe99a5346ebf7c66eda1",
+    "title": "Названы последствия удара ВСУ по региону России в 1500 километрах от границы с Украиной",
+    "url": "https://lenta.ru/news/2026/04/02/nazvany-posledstviya-udara-vsu-po-regionu-rossii-v-1500-kilometrah-ot-granitsy-s-ukrainoy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T17:01:00+00:00",
     "no_image": true
   }
 ]
