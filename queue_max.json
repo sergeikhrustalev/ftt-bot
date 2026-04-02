@@ -1,13 +1,5 @@
 [
   {
-    "id": "4f9f4346e360749bb8060116f8075882",
-    "title": "В Петербурге за 40 минут произошло семь ДТП из-за тумана",
-    "url": "https://ria.ru/20260401/peterburg-2084195526.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T07:07:43+00:00",
-    "no_image": false
-  },
-  {
     "id": "45e55f422cebbc816e684acbc38741eb",
     "title": "ВСУ совершили попытку контрнаступления на одном из направлений",
     "url": "https://lenta.ru/news/2026/04/01/vsu-sovershili-popytku-kontrnastupleniya-na-odnom-iz-napraaleniy/",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-02T00:51:47+00:00",
     "no_image": false
+  },
+  {
+    "id": "95adf48a655811ba672a252377a2117a",
+    "title": "Сотрудница жестоко отомстила начальнику-самодуру за лень и присвоение чужих заслуг",
+    "url": "https://lenta.ru/news/2026/04/02/sotrudnitsa-zhestoko-otomstila-nachalniku-samoduru-za-len-i-prisvoenie-chuzhih-zaslug/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T01:00:29+00:00",
+    "no_image": true
   }
 ]
