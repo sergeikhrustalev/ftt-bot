@@ -1,13 +1,5 @@
 [
   {
-    "id": "964da462dcd5a21018a38a9c0ab0a8f8",
-    "title": "Ракета из Ирана поразила нефтяной танкер в территориальных водах Катара",
-    "url": "https://russian.rt.com/world/news/1614225-katar-iran-raketa-tanker?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:33:48+00:00",
-    "no_image": false
-  },
-  {
     "id": "ebd361bf85c8aaaa473fd0d3767b2a3c",
     "title": "Вину за обрушение двух подъездов жилого дома в российском городе возложили на женщину",
     "url": "https://lenta.ru/news/2026/04/01/vinu-za-obrushenie-dvuh-pod-ezdov-zhilogo-doma-v-rossiyskom-gorode-vozlozhili-na-zhenschinu/",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-02T09:10:31+00:00",
     "no_image": false
+  },
+  {
+    "id": "3d06b66fc4dfb80ea245429e3bc45ba9",
+    "title": "В России нашли новый способ усилить контроль над интернетом",
+    "url": "https://lenta.ru/news/2026/04/02/control/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T09:23:00+00:00",
+    "no_image": true
   }
 ]
