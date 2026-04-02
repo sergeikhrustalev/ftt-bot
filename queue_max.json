@@ -1,13 +1,5 @@
 [
   {
-    "id": "8aadf0b819b710a0749f95507c3a90ff",
-    "title": "Россияне все еще могут оформить Telegram Premium",
-    "url": "https://ria.ru/20260401/rossijane-2084201077.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T07:35:12+00:00",
-    "no_image": false
-  },
-  {
     "id": "55da686d2fce3ef8eff9b66f4a7743da",
     "title": "Россиянам напомнили о наказании за рекламу и граффити в подъезде",
     "url": "https://lenta.ru/news/2026/04/01/reklama-graffiti/",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187410-v-bespilotnie-voiska",
     "source": "Ведомости",
     "pub_dt": "2026-04-02T09:30:18+00:00",
+    "no_image": false
+  },
+  {
+    "id": "b57a6059935cad2e1a633057b57e051d",
+    "title": "Yadro инвестирует в разработку и производство базовых станций 135 млрд рублей",
+    "url": "https://www.vedomosti.ru/technology/news/2026/04/02/1187420-yadro-investiruet",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-02T09:42:35+00:00",
     "no_image": false
   }
 ]
