@@ -1,13 +1,5 @@
 [
   {
-    "id": "0be6c276164d63ef73217d76f9fe836d",
-    "title": "Эпидемиолог Хатчетт: риск новой пандемии сейчас выше, чем в 2019 году",
-    "url": "https://tass.ru/obschestvo/26959903",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T07:55:43+00:00",
-    "no_image": false
-  },
-  {
     "id": "c0fff5f576dffb6e25543f0aa3214647",
     "title": "В Заполярье осудили военнослужащего за теракты в воинских частях",
     "url": "https://tass.ru/proisshestviya/26959935",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/tramp-stolknulsya-s-problemoy-vnutri-kongressa-ssha-iz-za-nato/",
     "source": "Лента",
     "pub_dt": "2026-04-02T14:22:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "3b95f4bb5ce75fbd37c001f8d36ee1a1",
+    "title": "Туристке пригрозили тюрьмой за оскорбительную пародию на официантку в Бразилии",
+    "url": "https://lenta.ru/news/2026/04/02/turistke-prigrozili-tyurmoy-za-oskorbitelnuyu-parodiyu-na-ofitsiantku-v-brazilii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T14:31:00+00:00",
     "no_image": true
   }
 ]
