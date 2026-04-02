@@ -1,13 +1,5 @@
 [
   {
-    "id": "53d98a483f71462e6b5bfd1a926f20ef",
-    "title": "TVP: в Польше арестовали двух активистов по обвинению в поджоге фабрики в Чехии",
-    "url": "https://tass.ru/proisshestviya/26959865",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T07:55:15+00:00",
-    "no_image": false
-  },
-  {
     "id": "2097b9797118dabd7c9935ce06e70dd5",
     "title": "Раскрыты подробности о разделе жилья Джигана и Самойловой",
     "url": "https://lenta.ru/news/2026/04/01/raskryty-podrobnosti-o-razdele-zhilya-dzhigana-i-samoylovoy/",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/technology/news/2026/04/02/1187539-viruchka-operatorov",
     "source": "Ведомости",
     "pub_dt": "2026-04-02T14:00:32+00:00",
+    "no_image": false
+  },
+  {
+    "id": "c2adeacab053254214e9064c51a976b5",
+    "title": "Ход боевых действий 2 апреля",
+    "url": "https://www.kommersant.ru/doc/8553980",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-02T14:10:54+00:00",
     "no_image": false
   }
 ]
