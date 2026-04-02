@@ -1,13 +1,5 @@
 [
   {
-    "id": "464ff10282bdaa2e7edf91995815a967",
-    "title": "Во Владимирской области завели дело о загрязнении водных объектов",
-    "url": "https://tass.ru/proisshestviya/26959931",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T07:55:59+00:00",
-    "no_image": false
-  },
-  {
     "id": "08297b7f35c7175ef112915b105476b6",
     "title": "Женщина выиграла в лотерею 57 миллионов рублей благодаря гену удачливости",
     "url": "https://lenta.ru/news/2026/04/01/zhenschina-vyigrala-v-lotereyu-57-millionov-rubley-blagodarya-genu-udachlivosti/",
@@ -2390,5 +2382,13 @@
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-02T14:42:29+00:00",
     "no_image": false
+  },
+  {
+    "id": "7804697294d6604c8b7b021046cb7736",
+    "title": "В России отреагировали на заявления Трампа относительно поставок оружия Киеву",
+    "url": "https://lenta.ru/news/2026/04/02/v-rossii-otreagirovali-na-zayavleniya-trampa-otnositelno-postavok-oruzhiya-kievu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T14:52:00+00:00",
+    "no_image": true
   }
 ]
