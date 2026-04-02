@@ -1,13 +1,5 @@
 [
   {
-    "id": "054e5a623f243e417a042347fdb5b8be",
-    "title": "Глазьев: внедрение единой цифровой подписи в СГ могут завершить в 2026 году",
-    "url": "https://tass.ru/ekonomika/26960097",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:02:05+00:00",
-    "no_image": false
-  },
-  {
     "id": "1cf36282162d1cbdd2daaa2b472187a5",
     "title": "Госдума приоритетно обсудит выдворение мигрантов за некоторые правонарушения",
     "url": "https://tass.ru/obschestvo/26960083",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/technology/news/2026/04/02/1187594-icloud-podpiski-rossii",
     "source": "Ведомости",
     "pub_dt": "2026-04-02T18:40:49+00:00",
+    "no_image": false
+  },
+  {
+    "id": "a7f39a4cd917a35ae7d062dfa40df6c1",
+    "title": "В Петербурге задержали собиравшегося поджечь релейные шкафы подростка",
+    "url": "https://tass.ru/proisshestviya/26985125",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-02T18:51:46+00:00",
     "no_image": false
   }
 ]
