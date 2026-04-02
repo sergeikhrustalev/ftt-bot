@@ -1,13 +1,5 @@
 [
   {
-    "id": "ab54d45705af4ebe725672abb5e2aa6e",
-    "title": "Власти опровергли данные о нехватке крови для пострадавших при взрыве на российском заводе",
-    "url": "https://lenta.ru/news/2026/04/01/vlasti-oprovergli-svedeniya-o-nehvatke-krovi-dlya-postradavshih-pri-vzryve-na-himzavode/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:55:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "b70baa8df1c4e4ba18753560f34090d2",
     "title": "Спад деловой активности в обрабатывающих отраслях ускорился в марте",
     "url": "https://www.vedomosti.ru/investments/news/2026/04/01/1187042-spad-delovoi-aktivnosti",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-01T22:00:20+00:00",
     "no_image": false
+  },
+  {
+    "id": "f069e8b6f496a49dbf81e974ea68c22a",
+    "title": "БПЛА ВСУ атаковали Краснодарский край",
+    "url": "https://lenta.ru/news/2026/04/02/bpla-vsu-atakovali-krasnodarskiy-kray/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T22:10:42+00:00",
+    "no_image": true
   }
 ]
