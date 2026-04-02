@@ -1,13 +1,5 @@
 [
   {
-    "id": "73457162592eede5d7100b2bf320e1d2",
-    "title": "В России изменились правила заселения в гостиницы",
-    "url": "https://lenta.ru/news/2026/04/01/v-rossii-izmenilis-pravila-zaseleniya-v-gostinitsy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:15:05+00:00",
-    "no_image": true
-  },
-  {
     "id": "68b82eb31b52e99a4010bfe135d5de2a",
     "title": "Нефть марки Brent опустилась ниже $99 за баррель",
     "url": "https://www.vedomosti.ru/business/news/2026/04/01/1187047-neft-marki-brent",
@@ -2390,5 +2382,13 @@
     "source": "RT",
     "pub_dt": "2026-04-02T03:14:18+00:00",
     "no_image": false
+  },
+  {
+    "id": "041f210d77efdfcfa7aa69f0a4e4cb08",
+    "title": "Трамп назвал ответственных за безопасность Ормузского пролива",
+    "url": "https://lenta.ru/news/2026/04/02/tramp-nazval-otvetstvennyh-za-bezopasnost-ormuzskogo-proliva/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T03:27:34+00:00",
+    "no_image": true
   }
 ]
