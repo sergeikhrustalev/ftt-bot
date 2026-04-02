@@ -1,13 +1,5 @@
 [
   {
-    "id": "50e6af48ff31572d05487d9e213a2e5f",
-    "title": "В России до 2030 года построят 1 тыс. молодежных лабораторий",
-    "url": "https://tass.ru/obschestvo/26959943",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T07:56:40+00:00",
-    "no_image": false
-  },
-  {
     "id": "ec295d3dcfa1888c671e185b8bf4c6ba",
     "title": "В 11 муниципалитетах Дагестана ввели режим ЧС",
     "url": "https://tass.ru/proisshestviya/26959967",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/scott-mills/",
     "source": "Лента",
     "pub_dt": "2026-04-02T15:00:58+00:00",
+    "no_image": true
+  },
+  {
+    "id": "84cb9dd5d7078f841da2b61f5602aa87",
+    "title": "Один из соучастников покушения на генерала ГРУ отказался от своих показаний",
+    "url": "https://lenta.ru/news/2026/04/02/odin-iz-souchastnikov-pokusheniya-na-generala-gru-otkazalsya-ot-svoih-pokazaniy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T15:11:04+00:00",
     "no_image": true
   }
 ]
