@@ -1,13 +1,5 @@
 [
   {
-    "id": "ebd18e8dfc48bf7a13122436f13ad7c7",
-    "title": "Цены на нефть обвалились",
-    "url": "https://lenta.ru/news/2026/04/01/tseny-na-neft-obvalilis/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:01:28+00:00",
-    "no_image": true
-  },
-  {
     "id": "3e2b458b0c2b9d99fe716eafb6047137",
     "title": "Путин: Международный транспортно-логистический форум станет регулярным",
     "url": "https://ria.ru/20260401/forum-2084210404.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/v-evrope-zayavili-o-podgotovke-kievom-tsvetnoy-revolyutsii/",
     "source": "Лента",
     "pub_dt": "2026-04-02T18:20:31+00:00",
+    "no_image": true
+  },
+  {
+    "id": "fee00debdbf46837fa05437c92a8f7ba",
+    "title": "Минобороны отчиталось об уничтожении почти сотни украинских беспилотников",
+    "url": "https://lenta.ru/news/2026/04/02/minoborony-otchitalos-ob-unichtozhenii-pochti-sotni-ukrainskih-bespilotnikov/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T18:32:00+00:00",
     "no_image": true
   }
 ]
