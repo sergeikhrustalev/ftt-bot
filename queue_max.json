@@ -1,13 +1,5 @@
 [
   {
-    "id": "7dce5c2dd732f4dfeaaa15190e07121b",
-    "title": "Трое пострадавших при ЧП на заводе в Нижнекамске находятся в реанимации",
-    "url": "https://tass.ru/proisshestviya/26959951",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T07:53:50+00:00",
-    "no_image": false
-  },
-  {
     "id": "c26e6f084c3c8490156751d8312deea8",
     "title": "Москву накроет аномальная жара",
     "url": "https://lenta.ru/news/2026/04/01/zhara-msk/",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-02T13:33:44+00:00",
     "no_image": false
+  },
+  {
+    "id": "c8de847a68ed95466fa348123c45cd1d",
+    "title": "Названа неожиданная польза зеленых бананов",
+    "url": "https://lenta.ru/news/2026/04/02/nazvana-neozhidannaya-polza-zelenyh-bananov/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T13:41:32+00:00",
+    "no_image": true
   }
 ]
