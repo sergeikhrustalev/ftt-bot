@@ -1,13 +1,5 @@
 [
   {
-    "id": "d2f65e83da58a2c0ef5a862e5b383ede",
-    "title": "Трем украинским агентам вынесли приговор за попытку теракта",
-    "url": "https://ria.ru/20260401/fsb-2084191743.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T06:48:59+00:00",
-    "no_image": false
-  },
-  {
     "id": "64621ff62b9e7d3932ec2c31c5ed3c10",
     "title": "\"Плохой сигнал\". Произошедшее на российской границе напугало Запад",
     "url": "https://ria.ru/20260401/rossiya-2084191924.html",
@@ -2389,6 +2381,14 @@
     "url": "https://russian.rt.com/science/article/1614279-vakcina-neoonkovak-melanoma?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-01T20:07:31+00:00",
+    "no_image": false
+  },
+  {
+    "id": "950c671f8c373de5c2354685b9506218",
+    "title": "Politico: Трамп в обращении к нации может объявить о завершении войны в Иране",
+    "url": "https://russian.rt.com/world/news/1614524-tramp-voina-iran?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-01T20:10:33+00:00",
     "no_image": false
   }
 ]
