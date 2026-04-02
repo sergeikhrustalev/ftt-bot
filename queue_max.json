@@ -1,13 +1,5 @@
 [
   {
-    "id": "7c7c3bb3bf35c57d85e7461f95d8b365",
-    "title": "Оплата сервисов Apple с мобильного телефона стала недоступна в России",
-    "url": "https://lenta.ru/news/2026/04/01/oplata-servisov-apple-s-mobilnogo-telefona-stala-nedostupna-v-rossii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:09:43+00:00",
-    "no_image": true
-  },
-  {
     "id": "c3128683b5731588ac21fbfef4218ff6",
     "title": "Цена нефти Brent опустились ниже $100 за баррель",
     "url": "https://russian.rt.com/business/news/1614218-cena-nefti-brent-opustilis?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260402/tramp-2084677163.html",
     "source": "РИА",
     "pub_dt": "2026-04-02T01:21:05+00:00",
+    "no_image": false
+  },
+  {
+    "id": "f14d0034aa22346fd0b6a4ad2ba2c652",
+    "title": "Боец сбил \"Иглой\" пять ударных дронов, отражая массовые налеты ВСУ",
+    "url": "https://ria.ru/20260402/spetsoperatsiya-2084677540.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-02T01:30:30+00:00",
     "no_image": false
   }
 ]
