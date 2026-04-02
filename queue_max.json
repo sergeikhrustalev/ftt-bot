@@ -1,13 +1,5 @@
 [
   {
-    "id": "289197ddfa1072019d20265aa9884290",
-    "title": "В Москве в ходе рейда выявили более 170 нарушивших законодательство мигрантов",
-    "url": "https://russian.rt.com/russia/news/1614230-moskva-reid-migranty-narusheniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:46:03+00:00",
-    "no_image": false
-  },
-  {
     "id": "5fcb59dddba8ee7136ac1d8ef033ccff",
     "title": "Россиянкам назвали законные средства самообороны для ношения на улице",
     "url": "https://lenta.ru/news/2026/04/01/samooborona/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/taynye-vstrechi-i-pakety-s-alkogolem-byvshiy-zam-rossiyskogo-gubernatora-raskryl-kak-nosil-vzyatki-svoemu-shefu-kazhdyy-mesyats/",
     "source": "Лента",
     "pub_dt": "2026-04-02T11:31:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "af9fbb62e4370e6c6d6ad3e5a6b16499",
+    "title": "Сын Газманова удивил фанатов кардинальной сменой имиджа",
+    "url": "https://lenta.ru/news/2026/04/02/syn-gazmanova-udivil-fanatov-kardinalnoy-smenoy-imidzha/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T11:40:22+00:00",
     "no_image": true
   }
 ]
