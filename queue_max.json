@@ -1,13 +1,5 @@
 [
   {
-    "id": "a3300420573470502038f525e3958565",
-    "title": "Эррол Маск рассказал о любви сына к лёгкой атлетике",
-    "url": "https://russian.rt.com/world/news/1614228-errol-mask-syn?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:44:28+00:00",
-    "no_image": false
-  },
-  {
     "id": "289197ddfa1072019d20265aa9884290",
     "title": "В Москве в ходе рейда выявили более 170 нарушивших законодательство мигрантов",
     "url": "https://russian.rt.com/russia/news/1614230-moskva-reid-migranty-narusheniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/fon-der-lyayen-vyskazalas-po-voprosu-irana/",
     "source": "Лента",
     "pub_dt": "2026-04-02T11:22:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "044b51eab7a6e050cd79d75dba7208cb",
+    "title": "Тайные встречи и пакеты с алкоголем. Бывший зам российского губернатора раскрыл, как носил взятки своему шефу каждый месяц",
+    "url": "https://lenta.ru/news/2026/04/02/taynye-vstrechi-i-pakety-s-alkogolem-byvshiy-zam-rossiyskogo-gubernatora-raskryl-kak-nosil-vzyatki-svoemu-shefu-kazhdyy-mesyats/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T11:31:00+00:00",
     "no_image": true
   }
 ]
