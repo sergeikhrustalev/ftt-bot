@@ -1,13 +1,5 @@
 [
   {
-    "id": "1c68eca08d2c17648c90225c60bb607d",
-    "title": "RMC: более тысячи заправок во Франции столкнулись с дефицитом топлива",
-    "url": "https://russian.rt.com/world/news/1614229-franciya-benzin-deficit-zapravki?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:39:07+00:00",
-    "no_image": false
-  },
-  {
     "id": "a2290df25f6aba97f40fc75ce0ba6429",
     "title": "Пашинян опубликовал загадочное видео перед визитом в Москву",
     "url": "https://ria.ru/20260401/pashinjane-2084202927.html",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T10:12:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "6be6e3ee81a2d1a8425f0794776f6160",
+    "title": "Эмитенты балансируют на ставках // Компании разместили в марте облигаций на 1,3 трлн рублей",
+    "url": "https://www.kommersant.ru/doc/8553201",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-02T10:22:25+00:00",
+    "no_image": false
   }
 ]
