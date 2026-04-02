@@ -1,13 +1,5 @@
 [
   {
-    "id": "6c8edbc452babc45da0b5cc00225ef95",
-    "title": "Путин поздравил российских евреев с праздником Песах",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187049-putin-pozdravil-evreev",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T07:30:10+00:00",
-    "no_image": false
-  },
-  {
     "id": "5d65c3a00d62ca1daa423478713af17d",
     "title": "В Москве в районе Якиманка пройдёт капитальный ремонт трёх жилых домов",
     "url": "https://russian.rt.com/russia/news/1614206-v-moskve-v-raione-yakimanka-proidyot-kapitalnyi?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T07:51:40+00:00",
     "no_image": true
+  },
+  {
+    "id": "707fb8ee21f75a6d898de4682de9c4ec",
+    "title": "Основатель группы Krec рэпер Fuze погиб в ДТП",
+    "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187355-fuze-pogib",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-02T08:00:24+00:00",
+    "no_image": false
   }
 ]
