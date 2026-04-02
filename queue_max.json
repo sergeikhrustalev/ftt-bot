@@ -1,13 +1,5 @@
 [
   {
-    "id": "ec295d3dcfa1888c671e185b8bf4c6ba",
-    "title": "В 11 муниципалитетах Дагестана ввели режим ЧС",
-    "url": "https://tass.ru/proisshestviya/26959967",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T07:57:20+00:00",
-    "no_image": false
-  },
-  {
     "id": "133534cc8eb51aaaf59804a16671a396",
     "title": "В ISU отказались отвечать на вопрос о включении в повестку совета темы допуска россиян",
     "url": "https://russian.rt.com/sport/news/1614236-isu-rossiya-dopusk-povestka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/odin-iz-souchastnikov-pokusheniya-na-generala-gru-otkazalsya-ot-svoih-pokazaniy/",
     "source": "Лента",
     "pub_dt": "2026-04-02T15:11:04+00:00",
+    "no_image": true
+  },
+  {
+    "id": "709e203c4bc2d338e482310d22ddfb01",
+    "title": "Макрон выступил с обвинением в адрес Трампа",
+    "url": "https://lenta.ru/news/2026/04/02/makron-vystupil-s-obvineniem-v-adres-trampa/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T15:24:00+00:00",
     "no_image": true
   }
 ]
