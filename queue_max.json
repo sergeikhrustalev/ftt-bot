@@ -1,13 +1,5 @@
 [
   {
-    "id": "7c1711eb5161e1dbb515e7bc63369301",
-    "title": "Орешкин назвал \"Яндекс\" министерством логистики Москвы",
-    "url": "https://tass.ru/ekonomika/26960027",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T07:59:17+00:00",
-    "no_image": false
-  },
-  {
     "id": "c3729b46d0105b23a0895f7425bec8e6",
     "title": "СК завёл более 4,7 тысячи уголовных дел из-за атак ВСУ на 51 регион России",
     "url": "https://russian.rt.com/ussr/news/1614238-dela-ukraina-ataki-regiony-rossiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T16:11:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "87e1914df863190b9e09ca7d66a657f7",
+    "title": "Статус адвокатов задержался за границей // Минюст требует убрать из адвокатской палаты сразу трех защитников",
+    "url": "https://www.kommersant.ru/doc/8554044",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-02T16:23:07+00:00",
+    "no_image": false
   }
 ]
