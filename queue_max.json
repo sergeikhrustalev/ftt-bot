@@ -1,13 +1,5 @@
 [
   {
-    "id": "a2290df25f6aba97f40fc75ce0ba6429",
-    "title": "Пашинян опубликовал загадочное видео перед визитом в Москву",
-    "url": "https://ria.ru/20260401/pashinjane-2084202927.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T07:40:07+00:00",
-    "no_image": false
-  },
-  {
     "id": "003d6251f666b2e59d68ac3d87cbd20b",
     "title": "Раскрыта судьба роскошного имущества Самойловой и Джигана после развода",
     "url": "https://lenta.ru/news/2026/04/01/raskryta-sudba-roskoshnogo-imuschestva-samoylovoy-i-dzhigana-posle-razvoda/",
@@ -2389,6 +2381,14 @@
     "url": "https://www.kommersant.ru/doc/8553201",
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-02T10:22:25+00:00",
+    "no_image": false
+  },
+  {
+    "id": "3b12b2cc2098a89fae2150ff4d5c455f",
+    "title": "Дом видеосвиданий // ФСИН дала арестованным возможность общаться с адвокатами по ВКС",
+    "url": "https://www.kommersant.ru/doc/8553587",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-02T10:30:51+00:00",
     "no_image": false
   }
 ]
