@@ -1,13 +1,5 @@
 [
   {
-    "id": "1d3d4ba8ad9696e325b79a9cd033452a",
-    "title": "Кассация подтвердила возврат прокурору дела пилота о посадке самолета в поле",
-    "url": "https://www.vedomosti.ru/society/news/2026/04/01/1187046-kassatsiya-podtverdila",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T07:13:31+00:00",
-    "no_image": false
-  },
-  {
     "id": "76d2ee7d2f917e52b5ae82621be31e46",
     "title": "Дело о нарушении правил полётов возбуждено по факту крушения Ан-26 в Крыму",
     "url": "https://russian.rt.com/russia/news/1614215-delo-pravil-polyotov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-02T02:20:38+00:00",
     "no_image": false
+  },
+  {
+    "id": "183859ca9ae095a9f425548f65679eeb",
+    "title": "Предсказаны последствия выхода США из НАТО",
+    "url": "https://lenta.ru/news/2026/04/02/predskazany-posledstviya-vyhoda-ssha-iz-nato/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T02:31:00+00:00",
+    "no_image": true
   }
 ]
