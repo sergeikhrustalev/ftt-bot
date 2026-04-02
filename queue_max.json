@@ -1,13 +1,5 @@
 [
   {
-    "id": "5ddab06d5ab764b821c98fdb5def6baa",
-    "title": "Для Windows пришлось выпустить экстренное обновление",
-    "url": "https://lenta.ru/news/2026/04/01/urgent-update/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:30:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "6c8edbc452babc45da0b5cc00225ef95",
     "title": "Путин поздравил российских евреев с праздником Песах",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187049-putin-pozdravil-evreev",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-02T07:40:32+00:00",
     "no_image": false
+  },
+  {
+    "id": "69049f01086ad29e8e1972896a4d63c7",
+    "title": "Названы самые надежные машины на вторичном рынке",
+    "url": "https://lenta.ru/news/2026/04/02/nazvany-samye-nadezhnye-mashiny-na-vtorichnom-rynke/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T07:51:40+00:00",
+    "no_image": true
   }
 ]
