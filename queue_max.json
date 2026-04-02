@@ -1,13 +1,5 @@
 [
   {
-    "id": "d46d44086675b8e6aaebcb18f04bdc51",
-    "title": "Участник переговоров по Украине высказался об ужесточении требований к Киеву",
-    "url": "https://lenta.ru/news/2026/04/01/uchastnik-peregovorov-po-ukraine-vyskazalsya-ob-uzhestochenii-trebovaniy-k-kievu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:19:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "5c0768cd88a950d270aa0ba3744d6f49",
     "title": "Ракета из Ирана попала в нефтяной танкер в водах Катара",
     "url": "https://ria.ru/20260401/iran-2084197192.html",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T05:00:46+00:00",
     "no_image": true
+  },
+  {
+    "id": "8c531fae93b282ac95dce9b1bea5faec",
+    "title": "Силы ПВО сбили 147 украинских беспилотников за ночь",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187330-sili-pvo-147",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-02T05:14:24+00:00",
+    "no_image": false
   }
 ]
