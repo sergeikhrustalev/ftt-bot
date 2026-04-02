@@ -1,13 +1,5 @@
 [
   {
-    "id": "35711363f025be611160e814b0eb08d8",
-    "title": "\"Аэрофлот\" в летние месяцы увеличит число рейсов между Москвой и Антальей",
-    "url": "https://ria.ru/20260401/aeroflot-2084203769.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T07:42:27+00:00",
-    "no_image": false
-  },
-  {
     "id": "8d92a7f99a65764202b43470181a426a",
     "title": "Рынок российских электромобилей может превысить 100 000 штук в год",
     "url": "https://www.vedomosti.ru/auto/news/2026/04/01/1187051-rinok-elektromobilei",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/nabor-produktov-dlya-prigotovleniya-kulicha-podeshevel/",
     "source": "Лента",
     "pub_dt": "2026-04-02T10:41:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "f49499176e60d227e5975db4bb7772ec",
+    "title": "Бесстрашный «Скворец-опто» России направили на СВО",
+    "url": "https://lenta.ru/news/2026/04/02/besstrashnyy-skvorets-opto-rossii-napravili-na-svo/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T10:50:21+00:00",
     "no_image": true
   }
 ]
