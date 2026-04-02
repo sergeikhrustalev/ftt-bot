@@ -1,13 +1,5 @@
 [
   {
-    "id": "9c07fc1f25bf57aa206b336ba909bb2c",
-    "title": "События в Иране оказывают прямое влияние на энергорынки, заявил Путин",
-    "url": "https://ria.ru/20260401/sobytija-2084196311.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T07:14:16+00:00",
-    "no_image": false
-  },
-  {
     "id": "76403915c46df6840950f2cce4a90e6b",
     "title": "Овчинский: жители Южного округа Москвы переедут в новый дом в рамках КРТ",
     "url": "https://ria.ru/20260401/ovchinskiy-2084154655.html",
@@ -2390,5 +2382,13 @@
     "source": "RT",
     "pub_dt": "2026-04-02T02:53:54+00:00",
     "no_image": false
+  },
+  {
+    "id": "f32c719cb4a8e226e0c13117ed19ab13",
+    "title": "Шутка 20-летней давности превратила обычного человека в «родственника» звезды Голливуда",
+    "url": "https://lenta.ru/news/2026/04/02/shutka-20-letney-davnosti-prevratila-obychnogo-cheloveka-v-rodstvennika-zvezdy-gollivuda/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T03:00:27+00:00",
+    "no_image": true
   }
 ]
