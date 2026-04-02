@@ -1,13 +1,5 @@
 [
   {
-    "id": "389335b6209a692ea35cf415de0d249a",
-    "title": "FT: страны Азии начали массово закупать российскую нефть",
-    "url": "https://russian.rt.com/business/news/1614200-aziya-rossiya-neft-krizis?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T06:51:57+00:00",
-    "no_image": false
-  },
-  {
     "id": "03deea3bd5864a9be3059783ab7c1507",
     "title": "У россиян пропала возможность пополнения Apple ID со счета телефона",
     "url": "https://www.vedomosti.ru/technology/news/2026/04/01/1187041-u-rossiyan-propala",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260402/gosduma-2084664301.html",
     "source": "РИА",
     "pub_dt": "2026-04-01T21:13:02+00:00",
+    "no_image": false
+  },
+  {
+    "id": "9ebb82a73b429b05013f9ebde47582ce",
+    "title": "Среди погибших на борту Ан-26 в Крыму есть воины-североморцы, заявил Чибис",
+    "url": "https://ria.ru/20260402/krym-2084664857.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-01T21:20:31+00:00",
     "no_image": false
   }
 ]
