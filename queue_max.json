@@ -1,13 +1,5 @@
 [
   {
-    "id": "32a1690df88266ab3a3ba18d3d7f8d7b",
-    "title": "Путин оценил роль России в формировании архитектуры глобальной логистики",
-    "url": "https://ria.ru/20260401/rossija-2084196938.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T07:17:42+00:00",
-    "no_image": false
-  },
-  {
     "id": "53f57ee9afbb0630d10483e59ffb970a",
     "title": "Путин обратился к российским евреям",
     "url": "https://lenta.ru/news/2026/04/01/putin-obratilsya-k-rossiyskim-evreyam/",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-02T04:10:52+00:00",
     "no_image": false
+  },
+  {
+    "id": "0149b8e23f61f8320459f4baa3352cc8",
+    "title": "Американский военный забил тревогу после обращения Трампа к нации",
+    "url": "https://lenta.ru/news/2026/04/02/amerikanskiy-voennyy-zabil-trevogu-posle-obrascheniya-trampa-k-natsii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T04:27:21+00:00",
+    "no_image": true
   }
 ]
