@@ -1,13 +1,5 @@
 [
   {
-    "id": "73793e191c6816d03a02b56550864a80",
-    "title": "Посольство США: американские объекты в Саудовской Аравии могут стать целями атак",
-    "url": "https://russian.rt.com/world/news/1614201-posolstvo-ssha-saudovskaya-araviya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T06:54:08+00:00",
-    "no_image": false
-  },
-  {
     "id": "ab54d45705af4ebe725672abb5e2aa6e",
     "title": "Власти опровергли данные о нехватке крови для пострадавших при взрыве на российском заводе",
     "url": "https://lenta.ru/news/2026/04/01/vlasti-oprovergli-svedeniya-o-nehvatke-krovi-dlya-postradavshih-pri-vzryve-na-himzavode/",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187317-sisoev-veteranam-spetsoperatsii",
     "source": "Ведомости",
     "pub_dt": "2026-04-01T21:50:41+00:00",
+    "no_image": false
+  },
+  {
+    "id": "028c2a86365a6e4db6ba5cf4ab587bf0",
+    "title": "Часть россиян получат майские пенсии в апреле, сообщил депутат ГД",
+    "url": "https://ria.ru/20260402/pensii-2084668041.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-01T22:00:20+00:00",
     "no_image": false
   }
 ]
