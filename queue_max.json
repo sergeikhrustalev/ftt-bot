@@ -1,13 +1,5 @@
 [
   {
-    "id": "c905d78690bcf320d9d1b69354e117be",
-    "title": "СФ одобрил законы о передаче кассаций на решения мировых судей в регионы",
-    "url": "https://tass.ru/obschestvo/26959989",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T07:59:55+00:00",
-    "no_image": false
-  },
-  {
     "id": "64bf8d262e7f4dbc4b03a39ef95d2bf1",
     "title": "Сумевшая отследить командующего Минобороны России Настя попала на видео",
     "url": "https://lenta.ru/news/2026/04/01/sumevshaya-otsledit-komanduyuschego-minoborony-rossii-nastya-popala-na-video/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T16:33:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "1b75cf397ba0f01c31de67f6cefd1f66",
+    "title": "Хаб насущный // Чем президент России заинтересовал египетского министра",
+    "url": "https://www.kommersant.ru/doc/8554096",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-02T16:43:08+00:00",
+    "no_image": false
   }
 ]
