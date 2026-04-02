@@ -1,13 +1,5 @@
 [
   {
-    "id": "db1da83ca26d454b9443d1f516f71acf",
-    "title": "Женщины готовили покушение на офицеров Минобороны России",
-    "url": "https://lenta.ru/news/2026/04/01/zhenschiny-gotovili-pokushenie-na-ofitserov-minoborony-rossii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T06:57:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "ca2c1e02e9b423ff04adb096794321b9",
     "title": "В Крыму идут поисковые мероприятия после крушения Ан-26",
     "url": "https://ria.ru/20260401/krym-2084193264.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/raskryta-pozitsiya-razvedki-ssha-po-peregovoram-s-iranom/",
     "source": "Лента",
     "pub_dt": "2026-04-01T22:24:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "1ba781e6e58497ef8ce867264821cb59",
+    "title": "В России назвали причину интереса США к Армении",
+    "url": "https://lenta.ru/news/2026/04/02/v-rossii-nazvali-prichinu-interesa-ssha-k-armenii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T22:30:25+00:00",
     "no_image": true
   }
 ]
