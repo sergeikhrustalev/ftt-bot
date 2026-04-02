@@ -1,13 +1,5 @@
 [
   {
-    "id": "5c0768cd88a950d270aa0ba3744d6f49",
-    "title": "Ракета из Ирана попала в нефтяной танкер в водах Катара",
-    "url": "https://ria.ru/20260401/iran-2084197192.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T07:19:02+00:00",
-    "no_image": false
-  },
-  {
     "id": "30ff75749ac7b4fdb4318a65f885de54",
     "title": "Путин назвал революцию в сфере транспорта и логистики долгосрочным вызовом",
     "url": "https://ria.ru/20260401/putin-2084197309.html",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-02T05:14:24+00:00",
     "no_image": false
+  },
+  {
+    "id": "f13dded84c7f74d7471a7a0f610709e1",
+    "title": "В Израиле заявили о риске усиления Ирана из-за одного решения Трампа",
+    "url": "https://lenta.ru/news/2026/04/02/v-izraile-zayavili-o-riske-usileniya-irana-iz-za-odnogo-resheniya-trampa/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T05:22:39+00:00",
+    "no_image": true
   }
 ]
