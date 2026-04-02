@@ -1,13 +1,5 @@
 [
   {
-    "id": "4b7ed2bf9726c0692ab2a212af714fa4",
-    "title": "В Нижнекамске создали оперативный штаб по ликвидации последствий ЧП",
-    "url": "https://ria.ru/20260401/nizhnekamsk-2084195321.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T07:06:01+00:00",
-    "no_image": false
-  },
-  {
     "id": "1aca847ec1ec77fcc03dd8a6db2687a2",
     "title": "Алферова отреагировала на тайную свадьбу Бероева и 21-летней балерины",
     "url": "https://lenta.ru/news/2026/04/01/alferova-otreagirovala-na-taynuyu-svadbu-beroeva-i-21-letney-baleriny/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T00:32:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "4947d88cf0d73a2a4e1dc1f81cf5f898",
+    "title": "Израиль зафиксировал второй за два часа пуск ракет из Ирана",
+    "url": "https://ria.ru/20260402/pusk-2084676232.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-02T00:40:37+00:00",
+    "no_image": false
   }
 ]
