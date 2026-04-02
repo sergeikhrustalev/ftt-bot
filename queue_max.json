@@ -1,13 +1,5 @@
 [
   {
-    "id": "8d92a7f99a65764202b43470181a426a",
-    "title": "Рынок российских электромобилей может превысить 100 000 штук в год",
-    "url": "https://www.vedomosti.ru/auto/news/2026/04/01/1187051-rinok-elektromobilei",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T07:42:30+00:00",
-    "no_image": false
-  },
-  {
     "id": "6f9ec131c1b947612ca64b815d3baf99",
     "title": "В Казахстане отменено шоу Тутберидзе после продажи 7500 билетов",
     "url": "https://russian.rt.com/sport/news/1614231-kazahstan-tutberidze-shou-otmena?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/besstrashnyy-skvorets-opto-rossii-napravili-na-svo/",
     "source": "Лента",
     "pub_dt": "2026-04-02T10:50:21+00:00",
+    "no_image": true
+  },
+  {
+    "id": "3b1240e0850ea042f6e33d5f08975684",
+    "title": "Макрон обиделся на Трампа",
+    "url": "https://lenta.ru/news/2026/04/02/makron-obidelsya-na-trampa/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T11:01:00+00:00",
     "no_image": true
   }
 ]
