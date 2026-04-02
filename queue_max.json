@@ -1,13 +1,5 @@
 [
   {
-    "id": "c0cea6fbd076ff45c686041dd94d4fa3",
-    "title": "Заключенный сбежал из колонии-поселения в российском регионе",
-    "url": "https://lenta.ru/news/2026/04/01/zaklyuchennyy-sbezhal-iz-kolonii-poseleniya-v-rossiyskom-regione/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:31:22+00:00",
-    "no_image": true
-  },
-  {
     "id": "803a39c74e15b8eae9b04ccad184a708",
     "title": "СК завел более 4,7 тысячи уголовных дел из-за атак ВСУ",
     "url": "https://ria.ru/20260401/sk-2084200462.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/v-seti-otsenili-foto-50-letnego-devida-bekhema-toples-iz-sportzala/",
     "source": "Лента",
     "pub_dt": "2026-04-02T08:21:30+00:00",
+    "no_image": true
+  },
+  {
+    "id": "6cc38184549827aca552752b3896dcd6",
+    "title": "Описан момент удара ВСУ по региону России в 1500 километрах от границы с Украиной",
+    "url": "https://lenta.ru/news/2026/04/02/opisan-moment-udara-vsu-po-regionu-rossii-v-1500-kilometrah-ot-granitsy-s-ukrainoy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T08:32:00+00:00",
     "no_image": true
   }
 ]
