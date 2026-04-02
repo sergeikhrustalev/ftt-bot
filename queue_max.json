@@ -1,13 +1,5 @@
 [
   {
-    "id": "96a512aac908337d640ec72803ca821a",
-    "title": "Глава Пентагона отменил наказание пилотам Apache за полёт у дома Кида Рока",
-    "url": "https://russian.rt.com/world/news/1614195-hegset-kid-rok-piloty-apache?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T06:50:44+00:00",
-    "no_image": false
-  },
-  {
     "id": "f2b85d8af15d18c8d3facf79f6cf46a9",
     "title": "Финны обнаружили на границе с Россией очередной упавший беспилотник",
     "url": "https://lenta.ru/news/2026/04/01/finny-obnaruzhili-na-granitse-s-rossiey-ocherednoy-upavshiy-bespilotnik/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260401/ssha-2084662731.html",
     "source": "РИА",
     "pub_dt": "2026-04-01T20:51:24+00:00",
+    "no_image": false
+  },
+  {
+    "id": "736a3212b18bb17e88a05b1a60f41e9e",
+    "title": "Nour News: советник верховного лидера Ирана тяжело ранен при атаке на Тегеран",
+    "url": "https://russian.rt.com/world/news/1614538-sovetnik-ataka-tegeran?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-01T21:00:29+00:00",
     "no_image": false
   }
 ]
