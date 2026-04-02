@@ -1,13 +1,5 @@
 [
   {
-    "id": "e616a4c35459b53f1d772b3fa82456f7",
-    "title": "Путин: РФ должна смотреть на десятилетия вперед в сфере транспорта и логистики",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187056-smotret-na-desyatiletiya",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T07:47:17+00:00",
-    "no_image": false
-  },
-  {
     "id": "86c3a78dbe82e1a097287c9ed40137c1",
     "title": "Россиянка описала таксиста во Вьетнаме фразой «положил руку на бедро и стал лезть вверх»",
     "url": "https://lenta.ru/news/2026/04/01/rossiyanka-opisala-taksista-vo-vietname-frazoy-polozhil-ruku-na-bedro-i-stal-lezt-vverh/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T11:51:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "d4dfc4d21d15ee254c984940f84d665b",
+    "title": "Дональд Трамп посматривает на дверь // Глава Белого дома угрожает выходом США из НАТО",
+    "url": "https://www.kommersant.ru/doc/8553792",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-02T12:01:54+00:00",
+    "no_image": false
   }
 ]
