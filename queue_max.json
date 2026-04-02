@@ -1,13 +1,5 @@
 [
   {
-    "id": "db824f7c14a53e0d0edf28af5e8389b1",
-    "title": "\"Он не осознает\". В США раскрыли, что случилось с Трампом из-за Ирана",
-    "url": "https://ria.ru/20260401/tramp-2084209405.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T07:59:01+00:00",
-    "no_image": false
-  },
-  {
     "id": "7c1711eb5161e1dbb515e7bc63369301",
     "title": "Орешкин назвал \"Яндекс\" министерством логистики Москвы",
     "url": "https://tass.ru/ekonomika/26960027",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/aktivizirovalos-rassledovanie-mahinatsiy-byvshego-senatora-v-rossiyskoy-goskorporatsii/",
     "source": "Лента",
     "pub_dt": "2026-04-02T16:01:34+00:00",
+    "no_image": true
+  },
+  {
+    "id": "d55ae3c9fa2b91b4200bbd2875166967",
+    "title": "Племянник Карла III объявил дату свадьбы с медсестрой",
+    "url": "https://lenta.ru/news/2026/04/02/plemyannik-karla-iii-ob-yavil-datu-svadby-s-medsestroy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T16:11:00+00:00",
     "no_image": true
   }
 ]
