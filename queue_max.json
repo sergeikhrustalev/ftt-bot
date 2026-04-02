@@ -1,13 +1,5 @@
 [
   {
-    "id": "03deea3bd5864a9be3059783ab7c1507",
-    "title": "У россиян пропала возможность пополнения Apple ID со счета телефона",
-    "url": "https://www.vedomosti.ru/technology/news/2026/04/01/1187041-u-rossiyan-propala",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T06:52:28+00:00",
-    "no_image": false
-  },
-  {
     "id": "8a4f04940b9785e171b0a9e13871ede0",
     "title": "Россиянам раскрыли опасность отказа от оверсайз-одежды",
     "url": "https://lenta.ru/news/2026/04/01/rossiyanam-raskryli-opasnost-otkaza-ot-oversayz-odezhdy/",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-01T21:20:31+00:00",
     "no_image": false
+  },
+  {
+    "id": "d43b5c3e7683e4e897a0a04e1a2b404d",
+    "title": "Обнаружена неочевидная причина прогрессирования болезни почек",
+    "url": "https://lenta.ru/news/2026/04/02/obnaruzhena-neochevidnaya-prichina-progressirovaniya-bolezni-pochek/",
+    "source": "Лента",
+    "pub_dt": "2026-04-01T21:30:47+00:00",
+    "no_image": true
   }
 ]
