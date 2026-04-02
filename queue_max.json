@@ -1,13 +1,5 @@
 [
   {
-    "id": "f57f4c5683cf75723cdb186d53525635",
-    "title": "Необходимо учитывать изменения в сфере транспорта и логистики, заявил Путин",
-    "url": "https://ria.ru/20260401/putin-2084201292.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T07:35:32+00:00",
-    "no_image": false
-  },
-  {
     "id": "4d64084882a392e785166148ba6a94e0",
     "title": "Самойлова и Джиган урегулировали споры о разделе имущества",
     "url": "https://ria.ru/20260401/samojlova-2084202752.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/moskalkova-soobschila-o-rabote-po-obmenu-plennymi-s-ukrainoy-pered-pashoy/",
     "source": "Лента",
     "pub_dt": "2026-04-02T09:51:31+00:00",
+    "no_image": true
+  },
+  {
+    "id": "21a9cc8ac33dd12ea00ebdfb85729daf",
+    "title": "Иностранка получила дело в России из-за «лекарства для спины»",
+    "url": "https://lenta.ru/news/2026/04/02/inostranke-grozit-srok-v-rossii-iz-za-lekarstva-dlya-spiny/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T10:03:00+00:00",
     "no_image": true
   }
 ]
