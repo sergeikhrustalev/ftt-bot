@@ -1,13 +1,5 @@
 [
   {
-    "id": "1aca847ec1ec77fcc03dd8a6db2687a2",
-    "title": "Алферова отреагировала на тайную свадьбу Бероева и 21-летней балерины",
-    "url": "https://lenta.ru/news/2026/04/01/alferova-otreagirovala-na-taynuyu-svadbu-beroeva-i-21-letney-baleriny/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:06:12+00:00",
-    "no_image": true
-  },
-  {
     "id": "4f9f4346e360749bb8060116f8075882",
     "title": "В Петербурге за 40 минут произошло семь ДТП из-за тумана",
     "url": "https://ria.ru/20260401/peterburg-2084195526.html",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260402/pusk-2084676232.html",
     "source": "РИА",
     "pub_dt": "2026-04-02T00:40:37+00:00",
+    "no_image": false
+  },
+  {
+    "id": "06172ea600b064f37ca14f3d7d4dd94c",
+    "title": "В Ивановской области объявили опасность атаки БПЛА",
+    "url": "https://ria.ru/20260402/opasnost-2084676499.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-02T00:51:47+00:00",
     "no_image": false
   }
 ]
