@@ -1,13 +1,5 @@
 [
   {
-    "id": "5d65c3a00d62ca1daa423478713af17d",
-    "title": "В Москве в районе Якиманка пройдёт капитальный ремонт трёх жилых домов",
-    "url": "https://russian.rt.com/russia/news/1614206-v-moskve-v-raione-yakimanka-proidyot-kapitalnyi?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:30:16+00:00",
-    "no_image": false
-  },
-  {
     "id": "e6733e50c048a2c56c2e3e22f084ee50",
     "title": "Гурцкая — о словах Карпина после игры с Мали: воспринимаю это как издевательство",
     "url": "https://russian.rt.com/sport/news/1614223-gurckaya-karpin-rossiya-mali?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187355-fuze-pogib",
     "source": "Ведомости",
     "pub_dt": "2026-04-02T08:00:24+00:00",
+    "no_image": false
+  },
+  {
+    "id": "b2d31cfdd83500264414e4ea81bf1363",
+    "title": "Рестораторы уносят столики // «Шоколадница» закрывает кафе и пытается снизить плату за аренду",
+    "url": "https://www.kommersant.ru/doc/8553049",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-02T08:11:29+00:00",
     "no_image": false
   }
 ]
