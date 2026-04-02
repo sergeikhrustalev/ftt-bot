@@ -1,13 +1,5 @@
 [
   {
-    "id": "68b82eb31b52e99a4010bfe135d5de2a",
-    "title": "Нефть марки Brent опустилась ниже $99 за баррель",
-    "url": "https://www.vedomosti.ru/business/news/2026/04/01/1187047-neft-marki-brent",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T07:15:08+00:00",
-    "no_image": false
-  },
-  {
     "id": "e0586249e314ca4e3201f4d7fdee5475",
     "title": "РИА Новости: в Челябинске за взятку задержали замминистра Коробейникова",
     "url": "https://russian.rt.com/russia/news/1614214-chelyabinsk-korobeynikov-vzyatka-zaderzhanie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T03:27:34+00:00",
     "no_image": true
+  },
+  {
+    "id": "4d2828b6841e24bc4bed201f4f2805b6",
+    "title": "Мощность заложенной под машину Сарварова взрывчатки достигала 1 кг тротила",
+    "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187321-moschnost-zalozhennoi-sarvarova",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-02T03:39:15+00:00",
+    "no_image": false
   }
 ]
