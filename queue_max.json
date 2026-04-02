@@ -1,13 +1,5 @@
 [
   {
-    "id": "b3d8e3e2ef165479760b699ad27e55fc",
-    "title": "Матч Первой лиги \"Нефтехимик\" - \"Факел\" пройдет без зрителей",
-    "url": "https://tass.ru/sport/26960041",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:00:58+00:00",
-    "no_image": false
-  },
-  {
     "id": "ef6a952667ef4ae040faf675e62cfde8",
     "title": "Пашинян посещает Россию 32-й раз. Хроника визитов премьер-министра Армении",
     "url": "https://tass.ru/info/26959467",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-02T17:51:13+00:00",
     "no_image": false
+  },
+  {
+    "id": "7dbbd53f45d9a74ff8abe368b3118ed6",
+    "title": "Россиянам объяснили пользу заражения глистами",
+    "url": "https://lenta.ru/news/2026/04/02/rossiyanam-ob-yasnili-polzu-zarazheniya-glistami/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T18:02:13+00:00",
+    "no_image": true
   }
 ]
