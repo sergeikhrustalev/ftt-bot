@@ -1,13 +1,5 @@
 [
   {
-    "id": "c3729b46d0105b23a0895f7425bec8e6",
-    "title": "СК завёл более 4,7 тысячи уголовных дел из-за атак ВСУ на 51 регион России",
-    "url": "https://russian.rt.com/ussr/news/1614238-dela-ukraina-ataki-regiony-rossiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:59:41+00:00",
-    "no_image": false
-  },
-  {
     "id": "c905d78690bcf320d9d1b69354e117be",
     "title": "СФ одобрил законы о передаче кассаций на решения мировых судей в регионы",
     "url": "https://tass.ru/obschestvo/26959989",
@@ -2390,5 +2382,13 @@
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-02T16:23:07+00:00",
     "no_image": false
+  },
+  {
+    "id": "4f8df2132c71e4cad29ed0f14b4237b7",
+    "title": "Российский авторынок вырос",
+    "url": "https://lenta.ru/news/2026/04/02/rossiyskiy-avtorynok-vyros/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T16:33:00+00:00",
+    "no_image": true
   }
 ]
