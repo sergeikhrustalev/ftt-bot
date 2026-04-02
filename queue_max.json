@@ -1,13 +1,5 @@
 [
   {
-    "id": "13339ee6766732fbd75b240c8830bff0",
-    "title": "Дмитриев обвинил бюрократов ЕС в желании лишить европейцев базовых потребностей",
-    "url": "https://lenta.ru/news/2026/04/01/dmitriev-obvinil-byurokratov-es-v-zhelanii-lishit-evropeytsev-bazovyh-potrebnostey/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:18:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "6bf036bd3a6d07c896269adddaa4b2ab",
     "title": "Путин: события в Иране уже оказывают прямое влияние на энергетические рынки",
     "url": "https://russian.rt.com/business/news/1614222-putin-iran-vliyanie-energorynki?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/muzhchina-prerval-zhenu-na-poluslove-i-zablokiroval-ee-po-neozhidannoy-prichine/",
     "source": "Лента",
     "pub_dt": "2026-04-02T04:30:32+00:00",
+    "no_image": true
+  },
+  {
+    "id": "92f259e3b31bfcf5042803903e712594",
+    "title": "Россиянам назвали профессии с самым стремительным ростом зарплат",
+    "url": "https://lenta.ru/news/2026/04/02/rossiyanam-nazvali-professii-s-samym-stremitelnym-rostom-zarplat/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T04:42:09+00:00",
     "no_image": true
   }
 ]
