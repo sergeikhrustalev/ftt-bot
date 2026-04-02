@@ -1,13 +1,5 @@
 [
   {
-    "id": "30ff75749ac7b4fdb4318a65f885de54",
-    "title": "Путин назвал революцию в сфере транспорта и логистики долгосрочным вызовом",
-    "url": "https://ria.ru/20260401/putin-2084197309.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T07:19:05+00:00",
-    "no_image": false
-  },
-  {
     "id": "ae975e60e6c303b057ad5341e88c9a1a",
     "title": "Россия готова делиться опытом развития транспорта и логистики, заявил Путин",
     "url": "https://ria.ru/20260401/putin-2084197611.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/v-izraile-zayavili-o-riske-usileniya-irana-iz-za-odnogo-resheniya-trampa/",
     "source": "Лента",
     "pub_dt": "2026-04-02T05:22:39+00:00",
+    "no_image": true
+  },
+  {
+    "id": "86a49dcd2e23acfeb7036e5142391560",
+    "title": "Врач развеяла миф о кофе натощак",
+    "url": "https://lenta.ru/news/2026/04/02/vrach-razveyala-mif-o-kofe-natoschak/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T05:30:45+00:00",
     "no_image": true
   }
 ]
