@@ -1,13 +1,5 @@
 [
   {
-    "id": "fbfaf78aadad9334f0d2c9e5ba40111d",
-    "title": "В Финляндии упал беспилотник",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187050-upal-bespilotnik",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T07:24:08+00:00",
-    "no_image": false
-  },
-  {
     "id": "58ed8003847bd1a9199a5bef556d386f",
     "title": "Пресс-конференция о профилактике подростковой преступности",
     "url": "https://ria.ru/20260401/prestupnost-2084198154.html",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-02T06:30:58+00:00",
     "no_image": false
+  },
+  {
+    "id": "965c7484c93e17762f52a5f29d82e0a0",
+    "title": "Самый доверенный человек главы российского региона попытался выйти из СИЗО",
+    "url": "https://lenta.ru/news/2026/04/02/samyy-doverennyy-chelovek-glavy-rossiyskogo-regiona-popytalsya-vyyti-iz-sizo/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T06:42:00+00:00",
+    "no_image": true
   }
 ]
