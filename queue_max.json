@@ -1,13 +1,5 @@
 [
   {
-    "id": "e0586249e314ca4e3201f4d7fdee5475",
-    "title": "РИА Новости: в Челябинске за взятку задержали замминистра Коробейникова",
-    "url": "https://russian.rt.com/russia/news/1614214-chelyabinsk-korobeynikov-vzyatka-zaderzhanie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:15:28+00:00",
-    "no_image": false
-  },
-  {
     "id": "6612963b4a346882c5b167acf4c4f51c",
     "title": "Путин: российские логистические маршруты могут быть выгодны партнерам",
     "url": "https://ria.ru/20260401/putin-2084196512.html",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-02T03:39:15+00:00",
     "no_image": false
+  },
+  {
+    "id": "a9b43caf9654b4e405502e3b6d85f293",
+    "title": "Трамп предупредил о ракетной угрозе Ирана для Европы и США",
+    "url": "https://lenta.ru/news/2026/04/02/tramp-predupredil-o-raketnoy-ugroze-irana-dlya-evropy-i-ssha/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T03:41:00+00:00",
+    "no_image": true
   }
 ]
