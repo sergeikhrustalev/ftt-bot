@@ -1,13 +1,5 @@
 [
   {
-    "id": "fc1d98a5d751d3cc70dd45f06416c1b1",
-    "title": "Овчинский: Москва запускает проект комплексного развития жилой застройки в Нагорном районе",
-    "url": "https://russian.rt.com/russia/news/1614080-ovchinskii-moskva-zapuskaet-proekt-kompleksnogo-razvitiya-zhiloi?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:12:52+00:00",
-    "no_image": false
-  },
-  {
     "id": "d6b69ceba0e3dfe444ef2684442ce9e1",
     "title": "Тарасова: Валиева способна бороться на «Русском вызове» за первое место",
     "url": "https://russian.rt.com/sport/news/1614217-tarasova-valieva-russkii-vyzov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://russian.rt.com/ussr/news/1614580-siloviki-nayomnik-sluzhil-ssha?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-02T02:00:25+00:00",
+    "no_image": false
+  },
+  {
+    "id": "3ec42f378df9adeb1c5576b124a95402",
+    "title": "Более 40 россиян содержатся в тюрьмах Финляндии",
+    "url": "https://ria.ru/20260402/finlyandiya-2084680592.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-02T02:14:22+00:00",
     "no_image": false
   }
 ]
