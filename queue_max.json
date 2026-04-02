@@ -1,13 +1,5 @@
 [
   {
-    "id": "9bcf00c93df38a79fad503dc2bd9758c",
-    "title": "Появились новые данные о жертвах крушения военно-транспортного Ан-26 в Крыму",
-    "url": "https://lenta.ru/news/2026/04/01/poyavilis-dannye-o-zhertvah-krusheniya-voenno-transportnogo-an-26-v-krymu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T07:22:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "e7d83b43fd3f784cdd0ad69405aeaed5",
     "title": "Полиция: найденный в Финляндии у границы с Россией дрон был иностранным",
     "url": "https://russian.rt.com/world/news/1614219-finlyandiya-politsia-dron?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/rossiyanin-opisal-zhizn-na-chukotke-slovami-sto-chelovek-belye-medvedi-i-ni-odnoy-dorogi/",
     "source": "Лента",
     "pub_dt": "2026-04-02T06:00:39+00:00",
+    "no_image": true
+  },
+  {
+    "id": "c8395d3277a628db0d04a3238b480176",
+    "title": "Россиянам перечислили отрасли с зарплатой выше 200 тысяч рублей",
+    "url": "https://lenta.ru/news/2026/04/02/rossiyanam-perechislili-otrasli-s-zarplatoy-vyshe-200-tysyach-rubley/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T06:11:00+00:00",
     "no_image": true
   }
 ]
