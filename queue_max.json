@@ -1,13 +1,5 @@
 [
   {
-    "id": "133534cc8eb51aaaf59804a16671a396",
-    "title": "В ISU отказались отвечать на вопрос о включении в повестку совета темы допуска россиян",
-    "url": "https://russian.rt.com/sport/news/1614236-isu-rossiya-dopusk-povestka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T07:58:20+00:00",
-    "no_image": false
-  },
-  {
     "id": "916287a1ff940a3b91a694e268be708d",
     "title": "\"Автостат\": в РФ в марте снизились цены на новые авто трех китайских брендов",
     "url": "https://tass.ru/ekonomika/26959959",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/02/makron-vystupil-s-obvineniem-v-adres-trampa/",
     "source": "Лента",
     "pub_dt": "2026-04-02T15:24:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "7209f80e497363a92dfb25c4ee4413cb",
+    "title": "Иран ударил по центру Amazon на Ближнем Востоке",
+    "url": "https://lenta.ru/news/2026/04/02/iran-udaril-po-tsentru-amazon-na-blizhnem-vostoke/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T15:31:00+00:00",
     "no_image": true
   }
 ]
