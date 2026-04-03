@@ -1,13 +1,5 @@
 [
   {
-    "id": "b6d683ff35d517d445319f1a8b5a4337",
-    "title": "Раскрыта причина стрельбы в российской школе",
-    "url": "https://lenta.ru/news/2026/04/01/raskryta-prichina-strelby-v-rossiyskoy-shkole/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:33:57+00:00",
-    "no_image": true
-  },
-  {
     "id": "84c3c3c16f99dfbd8f25f61d93022745",
     "title": "В США обвинили окружение Трампа в сокрытии правды об Иране",
     "url": "https://lenta.ru/news/2026/04/01/v-ssha-obvinil-okruzhenie-trampa-v-sokrytii-pravdy-ob-irane/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/no-sales/",
     "source": "Лента",
     "pub_dt": "2026-04-03T08:51:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "424c1c5480c8b43a21f7ba61eb776f6f",
+    "title": "Праздновавшей день рождения в батутном клубе российской школьнице оторвало палец",
+    "url": "https://lenta.ru/news/2026/04/03/prazdnovavshey-den-rozhdeniya-v-batutnom-klube-rossiyskoy-shkolnitse-otorvalo-palets/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T09:02:00+00:00",
     "no_image": true
   }
 ]
