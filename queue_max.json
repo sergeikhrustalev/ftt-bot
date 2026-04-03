@@ -1,13 +1,5 @@
 [
   {
-    "id": "ead17034278a37d2dfde031e4a91514c",
-    "title": "Над российскими регионами сбили 17 украинских дронов",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187257-sbili-dronov",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T16:31:08+00:00",
-    "no_image": false
-  },
-  {
     "id": "7a4df62b1d076a5ed33a4a0764d5bbea",
     "title": "Россиян предупредили о возросшем риске задержания в Европе по запросу США",
     "url": "https://lenta.ru/news/2026/04/01/rossiyan-predupredili-o-vozrosshem-riske-zaderzhaniya-za-granitsey-po-zaprosu-ssha/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/muzhchina-possorilsya-s-sosedom-i-napugal-ego-privideniyami/",
     "source": "Лента",
     "pub_dt": "2026-04-03T18:21:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "36ff89df0c32972d24564d7292c5a21e",
+    "title": "Раскрыт хитрый план Израиля в отношении Трампа",
+    "url": "https://lenta.ru/news/2026/04/03/raskryt-plan-izrailya-v-otnoshenii-trampa/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T18:31:00+00:00",
     "no_image": true
   }
 ]
