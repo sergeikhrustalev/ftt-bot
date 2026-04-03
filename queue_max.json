@@ -1,13 +1,5 @@
 [
   {
-    "id": "90fc1c51c3798706ac604b40f6bca872",
-    "title": "Одобрено создание сегмента РФ лунной станции по совместному проекту с Китаем",
-    "url": "https://www.vedomosti.ru/technology/news/2026/04/01/1187079-sozdanie-segmenta",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T08:50:48+00:00",
-    "no_image": false
-  },
-  {
     "id": "185fcd6ee99697d689b0aaa2929974e0",
     "title": "Рыболов лишился выигрыша и оказался под угрозой тюрьмы из-за жульничества на турнире",
     "url": "https://lenta.ru/news/2026/04/01/rybolov-lishilsya-vyigrysha-i-okazalsya-pod-ugrozoy-tyurmy-iz-za-zhulnichestva-na-turnire/",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-03T10:43:28+00:00",
     "no_image": false
+  },
+  {
+    "id": "b736c4e93755cdeff395e901b4b74dd7",
+    "title": "Доходы блогера Влада Бумаги резко упали",
+    "url": "https://lenta.ru/news/2026/04/03/dohody-blogera-vlada-bumagi-rezko-upali/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T10:52:00+00:00",
+    "no_image": true
   }
 ]
