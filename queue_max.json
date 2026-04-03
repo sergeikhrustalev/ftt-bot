@@ -1,13 +1,5 @@
 [
   {
-    "id": "8329e310467b3f471cccd21e685d6fa2",
-    "title": "Клещ размером с пятикопеечную монету неделю провел в заднем проходе россиянина",
-    "url": "https://lenta.ru/news/2026/04/01/klesch-razmerom-s-pyatikopeechnuyu-monetu-nedelyu-provel-v-zadnem-prohode-rossiyanina/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:13:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "c11eeb765bfaa779b84b656bcb732b80",
     "title": "RMC: во Франции перебои с поставками топлива затронули более 1 тыс. заправок",
     "url": "https://tass.ru/ekonomika/26960301",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T01:30:27+00:00",
     "no_image": true
+  },
+  {
+    "id": "ffc2d096ff0adb3eb14257b9858c1d5f",
+    "title": "Трамп из-за страха утечек имитировал отмену операции по Ирану, пишут СМИ",
+    "url": "https://ria.ru/20260403/tramp-2084895323.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-03T01:41:11+00:00",
+    "no_image": false
   }
 ]
