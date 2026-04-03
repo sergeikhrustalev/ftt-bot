@@ -1,13 +1,5 @@
 [
   {
-    "id": "8a7f2fcf330f4cd4268903bdbae46f81",
-    "title": "На Московской верфи начали сборку еще двух электросудов",
-    "url": "https://tass.ru/obschestvo/26960403",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:15:09+00:00",
-    "no_image": false
-  },
-  {
     "id": "cfd3da0f769a57fa74a25089b15cf613",
     "title": "В Крыму идут поисковые мероприятия после крушения самолёта Ан-26",
     "url": "https://russian.rt.com/russia/news/1614239-krym-krushenie-an26-poisk?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/dmitriev-obvinil-zapadnye-smi-v-prichastnosti-k-energeticheskomu-krizisu/",
     "source": "Лента",
     "pub_dt": "2026-04-03T02:41:25+00:00",
+    "no_image": true
+  },
+  {
+    "id": "c0511a4771fad0dad9a637d1574f636b",
+    "title": "Эксперт по жестам оценила поведение Трампа во время речи по Ирану",
+    "url": "https://lenta.ru/news/2026/04/03/ekspert-po-zhestam-otsenila-povedenie-trampa-vo-vremya-rechi-po-iranu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T02:58:18+00:00",
     "no_image": true
   }
 ]
