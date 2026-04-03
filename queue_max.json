@@ -1,13 +1,5 @@
 [
   {
-    "id": "79e64f6c099f10f277d7f3fb04a4c550",
-    "title": "Невролог предупредила о таящейся за подергиванием век скрытой опасности",
-    "url": "https://lenta.ru/news/2026/04/01/nevrolog-predupredila-o-tayascheysya-za-podergivaniem-vek-skrytoy-opasnosti/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T11:31:12+00:00",
-    "no_image": true
-  },
-  {
     "id": "3f749fdf9a92e04fb77f8f358bfa393e",
     "title": "В России арестовали основателя трех ЧВК. Его бойцов подозревали в подготовке переворота в Белоруссии",
     "url": "https://lenta.ru/news/2026/04/01/osnovatelya-chvk-yastreb-obvinili-v-obmane-kontraktnikov-1/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/iranskie-selyane-otpravilis-na-poiski-amerikantsev/",
     "source": "Лента",
     "pub_dt": "2026-04-03T13:22:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "41f4aedb522d994523530efa5415e8c1",
+    "title": "У женщины разнесло рот после чистки зубов",
+    "url": "https://lenta.ru/news/2026/04/03/u-zhenschiny-razneslo-rot-posle-chistki-zubov/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T13:30:19+00:00",
     "no_image": true
   }
 ]
