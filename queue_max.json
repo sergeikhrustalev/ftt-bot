@@ -1,13 +1,5 @@
 [
   {
-    "id": "a437ec57d80157696c69bdce54876563",
-    "title": "В Катаре обстреляли танкер с мазутом",
-    "url": "https://ria.ru/20260401/katar-2084214770.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T08:17:10+00:00",
-    "no_image": false
-  },
-  {
     "id": "cbdd059308f13a7baf49fb80d6a5be5b",
     "title": "В Винницкой области жители напали на сотрудников военкомата",
     "url": "https://tass.ru/proisshestviya/26960417",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/iran-zayavil-ob-unichtozhenii/",
     "source": "Лента",
     "pub_dt": "2026-04-03T05:04:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "6d8358d3210f7f297bb1840fd3729c12",
+    "title": "Несколько регионов России предупредили об опасности",
+    "url": "https://lenta.ru/news/2026/04/03/neskolko-regionov-rossii-predupredili-ob-opasnosti/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T05:14:48+00:00",
     "no_image": true
   }
 ]
