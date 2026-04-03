@@ -1,13 +1,5 @@
 [
   {
-    "id": "768d514040ce8c931a10bf40cc20603c",
-    "title": "Суд оставил в силе решение о заочном аресте рэпера Oxxxymiron*",
-    "url": "https://ria.ru/20260401/sud-2084215405.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T08:19:18+00:00",
-    "no_image": false
-  },
-  {
     "id": "ad8c940c65d883f4b43faf981cb50ad0",
     "title": "Shafaq News: пожар вспыхнул на нефтехранилищах Castrol после удара БПЛА в Ираке",
     "url": "https://tass.ru/ekonomika/26960293",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/nazvany-novye-prioritety-irana-v-konflikte-s-ssha/",
     "source": "Лента",
     "pub_dt": "2026-04-03T05:40:44+00:00",
+    "no_image": true
+  },
+  {
+    "id": "4c1c2c4378124414901fc0b4236e55e2",
+    "title": "Пассажирский поезд Москва — Челябинск сошел с рельсов. В нем находилось несколько сотен человек",
+    "url": "https://lenta.ru/news/2026/04/03/passazhirskiy-poezd-chelyabinsk-moskva-soshel-s-relsov-v-nem-nahodilos-neskolko-soten-chelovek/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T05:51:00+00:00",
     "no_image": true
   }
 ]
