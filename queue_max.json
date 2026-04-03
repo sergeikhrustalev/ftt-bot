@@ -1,13 +1,5 @@
 [
   {
-    "id": "d7f938c7a4b0bbf0fd640d4b887d55b8",
-    "title": "Сечин: логистические издержки нефтяников выросли в десять раз",
-    "url": "https://russian.rt.com/business/news/1614234-sechin-izderzhki-neftyanikov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T08:12:40+00:00",
-    "no_image": false
-  },
-  {
     "id": "3d6efde8678015a821a22a3c051cf7de",
     "title": "Орешкин назвал финансовую систему России самой эффективной в мире",
     "url": "https://tass.ru/ekonomika/26960365",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260403/trevoga-2084893778.html",
     "source": "РИА",
     "pub_dt": "2026-04-03T01:11:15+00:00",
+    "no_image": false
+  },
+  {
+    "id": "38eac012e78115be1a3a124d01827a5e",
+    "title": "СМИ: администрация Трампа может лишиться ряда чиновников",
+    "url": "https://ria.ru/20260403/tramp-2084894405.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-03T01:21:52+00:00",
     "no_image": false
   }
 ]
