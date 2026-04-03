@@ -1,13 +1,5 @@
 [
   {
-    "id": "a0bdd2422b5f1979b1502b496a546ba9",
-    "title": "ВВП России в феврале снизился на 1,5%",
-    "url": "https://www.vedomosti.ru/economics/news/2026/04/01/1187264-vvp-rossii-snizilsya",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T17:21:02+00:00",
-    "no_image": false
-  },
-  {
     "id": "207e51cd46d481106d4ea06e9e4041c6",
     "title": "«Тройку» обставят мебелью // Ритейлер «Кубатура» выкупил торговый центр у «Кама Капитал»",
     "url": "https://www.kommersant.ru/doc/8553146",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-03T19:10:48+00:00",
     "no_image": false
+  },
+  {
+    "id": "fb960930654a7cdb63f769f0b7b072b4",
+    "title": "На Западе рассказали о расстройстве властей Украины из-за Каллас",
+    "url": "https://lenta.ru/news/2026/04/03/na-zapade-rasskazali-o-rasstroystve-vlastey-ukrainy-iz-za-kallas/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T19:22:00+00:00",
+    "no_image": true
   }
 ]
