@@ -1,13 +1,5 @@
 [
   {
-    "id": "ce19289b003b1daa2d510430deb435e5",
-    "title": "В Свердловской области школьник выстрелил в девочку из пневматического пистолета",
-    "url": "https://www.vedomosti.ru/society/news/2026/04/01/1187064-shkolnik-vistrelil",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T08:26:29+00:00",
-    "no_image": false
-  },
-  {
     "id": "2672fd605742b91f6518d9a5141d8490",
     "title": "В России заявили о переходе «нескольких Швейцарий» под контроль в зоне СВО",
     "url": "https://lenta.ru/news/2026/04/01/v-rossii-zayavili-o-perehode-neskolkih-shveytsariy-pod-kontrol-v-zone-svo/",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-03T07:51:35+00:00",
     "no_image": false
+  },
+  {
+    "id": "172ebc3deb515b73fbdf448738d50e67",
+    "title": "Возрожденный российский автобренд анонсировал продажи новой модели",
+    "url": "https://lenta.ru/news/2026/04/03/vozrozhdennyy-rossiyskiy-avtobrend-anonsiroval-prodazhi-novoy-modeli/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T08:01:47+00:00",
+    "no_image": true
   }
 ]
