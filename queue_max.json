@@ -1,13 +1,5 @@
 [
   {
-    "id": "ee98957c9284d6d4743bb7ed86ab13a5",
-    "title": "Главком ВСУ высказался об ударах по Ленобласти",
-    "url": "https://lenta.ru/news/2026/04/01/glavkom-vsu-vyskazalsya-ob-udarah-po-lenoblasti/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T13:01:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "d6aff43fbb2899e0a6d6ba708619772d",
     "title": "Главком ВСУ назвал преимущества Армии России над украинскими войсками",
     "url": "https://lenta.ru/news/2026/04/01/glavkom-vsu-nazval-preimuschestva-armii-rossii-nad-ukrainskimi-voyskami/",
@@ -2390,5 +2382,13 @@
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-03T14:50:57+00:00",
     "no_image": false
+  },
+  {
+    "id": "ebece02bca559d8b9800f9d1ffd984ee",
+    "title": "Отправка бомжей на СВО провалилась",
+    "url": "https://lenta.ru/news/2026/04/03/otpravka-bomzhey-na-svo-provalilas/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T15:00:46+00:00",
+    "no_image": true
   }
 ]
