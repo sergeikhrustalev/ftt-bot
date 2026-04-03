@@ -1,13 +1,5 @@
 [
   {
-    "id": "c2ea2eb90b1ae67112bd8b4fc07ee026",
-    "title": "Производство востребованных на СВО новейших укороченных АК-12К выросло на 15%",
-    "url": "https://tass.ru/armiya-i-opk/26960451",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:18:58+00:00",
-    "no_image": false
-  },
-  {
     "id": "768d514040ce8c931a10bf40cc20603c",
     "title": "Суд оставил в силе решение о заочном аресте рэпера Oxxxymiron*",
     "url": "https://ria.ru/20260401/sud-2084215405.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/seksolog-posovetovala-zhenschinam-neochevidnyy-sposob-masturbatsii/",
     "source": "Лента",
     "pub_dt": "2026-04-03T05:30:31+00:00",
+    "no_image": true
+  },
+  {
+    "id": "24e2244127d0474adf4a6a8ca218ab40",
+    "title": "Названы новые приоритеты Ирана в конфликте с США",
+    "url": "https://lenta.ru/news/2026/04/03/nazvany-novye-prioritety-irana-v-konflikte-s-ssha/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T05:40:44+00:00",
     "no_image": true
   }
 ]
