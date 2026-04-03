@@ -1,13 +1,5 @@
 [
   {
-    "id": "2825b410730da5118f430a8341564043",
-    "title": "Роскосмос сформировал портфель проектов со странами на сумму в 43 млрд рублей",
-    "url": "https://tass.ru/kosmos/26960405",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:15:23+00:00",
-    "no_image": false
-  },
-  {
     "id": "64007e50450ec6825c0fe52d78c10c33",
     "title": "Нарышкин рассказал о контактах с ЦРУ по теме Ирана",
     "url": "https://ria.ru/20260401/svr-2084214308.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/iran-podgotovil-spisok-tseley-dlya-atak-iz-amerikanskih-i-izrailskih-korabley/",
     "source": "Лента",
     "pub_dt": "2026-04-03T03:14:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "f0fe2f92c3188e2e36294b915c304546",
+    "title": "Трамп потребовал от Ирана немедленной сделки и пригрозил уничтожением мостов",
+    "url": "https://lenta.ru/news/2026/04/03/tramp-potreboval-ot-irana-nemedlennoy-sdelki-i-prigrozil-unichtozheniem-mostov/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T03:20:49+00:00",
     "no_image": true
   }
 ]
