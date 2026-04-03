@@ -1,13 +1,5 @@
 [
   {
-    "id": "66f1e52b47e2694130e45174e0771cd8",
-    "title": "Пашинян обсудил с Путиным ограничения интернета",
-    "url": "https://lenta.ru/news/2026/04/01/pashinyan-obsudil-s-putinym-ogranicheniya-interneta/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T15:21:26+00:00",
-    "no_image": true
-  },
-  {
     "id": "3092d7e0bed4a251f6974d8d21512707",
     "title": "Сексолог посоветовала мужчинам способ стать увереннее в себе",
     "url": "https://lenta.ru/news/2026/04/01/seksolog-posovetovala-muzhchinam-sposob-stat-uverennee-v-sebe/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T17:11:33+00:00",
     "no_image": true
+  },
+  {
+    "id": "789d26333dc07e59d436f39bdb30b1b4",
+    "title": "ДТП с участием автобусов, перевозивших детей, в России в 2025 году",
+    "url": "https://ria.ru/20260403/dtp-2021500562.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-03T17:20:50+00:00",
+    "no_image": false
   }
 ]
