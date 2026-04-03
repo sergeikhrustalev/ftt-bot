@@ -1,13 +1,5 @@
 [
   {
-    "id": "344afdb8f5daf4da97cee724475e56e5",
-    "title": "В соседней с Украиной стране захотели отменить чрезвычайное положение",
-    "url": "https://lenta.ru/news/2026/04/01/v-sosedney-s-ukrainoy-strane-zahoteli-otmenit-chrezvychaynoe-polozhenie/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:46:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "90fc1c51c3798706ac604b40f6bca872",
     "title": "Одобрено создание сегмента РФ лунной станции по совместному проекту с Китаем",
     "url": "https://www.vedomosti.ru/technology/news/2026/04/01/1187079-sozdanie-segmenta",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T10:31:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "f720d26b43610aa7fa772e4e0cdeed9e",
+    "title": "МИД РФ осудил удар США и Израиля по русскому православному собору в Тегеране",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/03/1187764-mid-osudil-udar-ssha",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-03T10:43:28+00:00",
+    "no_image": false
   }
 ]
