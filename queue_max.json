@@ -1,13 +1,5 @@
 [
   {
-    "id": "595744639b0c751bb3030e2e94e367a9",
-    "title": "В одной стране клоуны вышли на улицу с протестом",
-    "url": "https://lenta.ru/news/2026/04/01/v-odnoy-strane-klouny-vyshli-na-ulitsu-s-protestom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T13:22:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "897d7148876c17fb66f2441a7f7bdc0e",
     "title": "ЦБ ожидает сохранения наличных и банковских карт в ближайшие пять лет",
     "url": "https://www.vedomosti.ru/finance/news/2026/04/01/1187192-nalichnih-i-kart",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/ochevidets-opisal-pervye-minuty-shoda-poezda-pod-ulyanovskom-frazoy-lyudi-popadali-v-prohod/",
     "source": "Лента",
     "pub_dt": "2026-04-03T15:11:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "8142640df6d066003200eb2356bee634",
+    "title": "В российском регионе паводками снесло мост",
+    "url": "https://lenta.ru/news/2026/04/03/shiloksha-most/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T15:22:34+00:00",
     "no_image": true
   }
 ]
