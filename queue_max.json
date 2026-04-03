@@ -1,13 +1,5 @@
 [
   {
-    "id": "8ff2558b69084b1768a6471985baa6a7",
-    "title": "Врачи рассказали о последствиях ежедневного употребления апельсинов",
-    "url": "https://lenta.ru/news/2026/04/01/vrachi-rasskazali-o-posledstviyah-ezhednevnogo-upotrebleniya-apelsinov/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T09:43:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "44fff41f78c6389e93829ab696a1adff",
     "title": "Алферова вспомнила последний разговор с Абдуловым",
     "url": "https://lenta.ru/news/2026/04/01/alferova-vspomnila-posledniy-razgovor-s-abdulovym/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/na-ukraine-zahoteli-polnostyu-zapretit-telegram/",
     "source": "Лента",
     "pub_dt": "2026-04-03T11:33:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "d7625854a4fb7a7238af7aa91fed66e2",
+    "title": "В России высказались о новом центре принятия решений в Европе",
+    "url": "https://lenta.ru/news/2026/04/03/v-rossii-vyskazalis-o-novom-tsentre-prinyatiya-resheniy-v-evrope/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T11:42:00+00:00",
     "no_image": true
   }
 ]
