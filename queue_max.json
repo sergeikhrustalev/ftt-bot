@@ -1,13 +1,5 @@
 [
   {
-    "id": "ff004c7041e3d52932cd3746b46bff85",
-    "title": "На фабрике в Польше произошла стрельба",
-    "url": "https://ria.ru/20260401/polsha-2084211738.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T08:05:34+00:00",
-    "no_image": false
-  },
-  {
     "id": "752e028575843fd712777aa0cdebe6e9",
     "title": "Ефимов: в Москве продолжают реставрировать фасады ипподрома",
     "url": "https://ria.ru/20260401/efimov-2084191326.html",
@@ -2389,6 +2381,14 @@
     "url": "https://russian.rt.com/world/news/1615022-hegset-udar-iran?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-02T20:55:13+00:00",
+    "no_image": false
+  },
+  {
+    "id": "91b3d6e7176a1ea93610cf0e5d213f0b",
+    "title": "В Госдуме объяснили, как изменилась программа диспансеризации в 2026 году",
+    "url": "https://russian.rt.com/russia/news/1614872-deputat-dispanserizaciya-rasshirenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-02T21:01:00+00:00",
     "no_image": false
   }
 ]
