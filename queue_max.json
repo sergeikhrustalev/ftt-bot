@@ -1,13 +1,5 @@
 [
   {
-    "id": "9ab88459bf1bc674ed972e69d759405b",
-    "title": "Европа покаялась // Брюссель не нашел денег для Украины",
-    "url": "https://www.kommersant.ru/doc/8553101",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-01T14:32:02+00:00",
-    "no_image": false
-  },
-  {
     "id": "7fc0fa3ddd1851c63d34910bd57c403a",
     "title": "Самойлова прокомментировала развод с Джиганом",
     "url": "https://lenta.ru/news/2026/04/01/samoylova-prokommentirovala-razvod-s-dzhiganom/",
@@ -2390,5 +2382,13 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-03T16:20:40+00:00",
     "no_image": false
+  },
+  {
+    "id": "19775074f98f58225a83616b01d008b6",
+    "title": "Людям с диабетом объяснили пользу одного популярного кисломолочного продукта",
+    "url": "https://lenta.ru/news/2026/04/03/lyudyam-s-diabetom-ob-yasnili-polzu-odnogo-populyarnogo-kislomolochnogo-produkta/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T16:31:44+00:00",
+    "no_image": true
   }
 ]
