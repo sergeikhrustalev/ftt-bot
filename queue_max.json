@@ -1,13 +1,5 @@
 [
   {
-    "id": "7b8bfd7d1833a3cafbe6bb0978f06ab2",
-    "title": "В России спрогнозировали судьбу Зеленского",
-    "url": "https://lenta.ru/news/2026/04/01/v-rossii-sprognozirovali-sudbu-zelenskogo/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:26:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "ce19289b003b1daa2d510430deb435e5",
     "title": "В Свердловской области школьник выстрелил в девочку из пневматического пистолета",
     "url": "https://www.vedomosti.ru/society/news/2026/04/01/1187064-shkolnik-vistrelil",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/auto/news/2026/04/03/1187678-volga-predstavila-model",
     "source": "Ведомости",
     "pub_dt": "2026-04-03T07:42:24+00:00",
+    "no_image": false
+  },
+  {
+    "id": "24e950946a0a527ae155626891f285a1",
+    "title": "Time: Трамп за день до удара по Ирану объявил о его отмене",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/03/1187681-za-den-do-udara",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-03T07:51:35+00:00",
     "no_image": false
   }
 ]
