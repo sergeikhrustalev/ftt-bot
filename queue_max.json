@@ -1,13 +1,5 @@
 [
   {
-    "id": "530b033e2777bfb9e58de2b46d3ecff7",
-    "title": "В Microsoft попросили не ругать обновления Windows",
-    "url": "https://lenta.ru/news/2026/04/01/updates/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T15:01:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "a58a56a5438f5d4b2329860a822a7c69",
     "title": "Одно действие детей с доступной одеждой назвали смертельно опасным",
     "url": "https://lenta.ru/news/2026/04/01/odno-deystvie-detey-s-dostupnoy-odezhdoy-nazvali-smertelno-opasnym/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260403/matvienko-2085116199.html",
     "source": "РИА",
     "pub_dt": "2026-04-03T16:50:38+00:00",
+    "no_image": false
+  },
+  {
+    "id": "c3d11516b38d99e41ca555694612306f",
+    "title": "В Севастополе отменили воздушную тревогу",
+    "url": "https://ria.ru/20260403/opasnost-2085119645.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-03T17:00:56+00:00",
     "no_image": false
   }
 ]
