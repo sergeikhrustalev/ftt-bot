@@ -1,13 +1,5 @@
 [
   {
-    "id": "5ee64026bf017765c9a6ef5ec24c08f7",
-    "title": "Невеста пожаловалась на обман популярного в России свадебного салона",
-    "url": "https://lenta.ru/news/2026/04/01/zhenschina-pozhalovalas-na-obman-populyarnogo-svadebnogo-salona-v-rossii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T14:00:25+00:00",
-    "no_image": true
-  },
-  {
     "id": "3dc1c65146f9a6e708e1100df5a902ba",
     "title": "Дмитриев посоветовал Стармеру прилететь в Россию за топливом",
     "url": "https://www.vedomosti.ru/politics/news/2026/03/31/1187208-dmitriev-starmeru-toplivo",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/politics/news/2026/04/03/1187874-trampa-istrebitelya-bombardirovschika",
     "source": "Ведомости",
     "pub_dt": "2026-04-03T15:50:58+00:00",
+    "no_image": false
+  },
+  {
+    "id": "5a781c2865e5f6dfcc1f9dde8f0673c3",
+    "title": "\"Стал мишенью\". СМИ раскрыли, что случилось с Трампом из-за Ирана",
+    "url": "https://ria.ru/20260403/tramp-2085109024.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-03T16:02:00+00:00",
     "no_image": false
   }
 ]
