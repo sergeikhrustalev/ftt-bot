@@ -1,13 +1,5 @@
 [
   {
-    "id": "cbdd059308f13a7baf49fb80d6a5be5b",
-    "title": "В Винницкой области жители напали на сотрудников военкомата",
-    "url": "https://tass.ru/proisshestviya/26960417",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:17:34+00:00",
-    "no_image": false
-  },
-  {
     "id": "9766f22a7e771a593c3af57de4be14aa",
     "title": "В Вербное воскресенье до кладбищ Москвы будут ходить бесплатные автобусы",
     "url": "https://tass.ru/obschestvo/26960283",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/neskolko-regionov-rossii-predupredili-ob-opasnosti/",
     "source": "Лента",
     "pub_dt": "2026-04-03T05:14:48+00:00",
+    "no_image": true
+  },
+  {
+    "id": "e355262c8899b8499bbc489f5103892f",
+    "title": "Российским медикам пришлось везти пациентку на садовой тележке по одной причине",
+    "url": "https://lenta.ru/news/2026/04/03/rossiyskim-medikam-prishlos-vezti-patsientku-na-sadovoy-telezhke-po-odnoy-prichine/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T05:24:41+00:00",
     "no_image": true
   }
 ]
