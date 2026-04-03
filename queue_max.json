@@ -1,13 +1,5 @@
 [
   {
-    "id": "6abdbe768e26183d5b5786f8cb8b4367",
-    "title": "ЦБ обсуждает с рынком создание независимого ИИ-агента",
-    "url": "https://tass.ru/ekonomika/26960551",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:21:28+00:00",
-    "no_image": false
-  },
-  {
     "id": "a8358f28803ff5c5c576d77ec0026585",
     "title": "Решение о заочном аресте Oxxxymiron оставили в силе",
     "url": "https://tass.ru/proisshestviya/26960267",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T06:32:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "a36bf6760d2abd7fd8544c0b2ef6a017",
+    "title": "СК возбудил дело после схода вагонов в Ульяновской области",
+    "url": "https://www.vedomosti.ru/society/news/2026/04/03/1187660-delo-posle-shoda",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-03T06:40:40+00:00",
+    "no_image": false
   }
 ]
