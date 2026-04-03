@@ -1,13 +1,5 @@
 [
   {
-    "id": "96800770e5174b38e62a9d45d6122722",
-    "title": "Баканов анонсировал первый пуск ракеты-носителя \"Союз-5\"",
-    "url": "https://tass.ru/kosmos/26960351",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:12:30+00:00",
-    "no_image": false
-  },
-  {
     "id": "d7f938c7a4b0bbf0fd640d4b887d55b8",
     "title": "Сечин: логистические издержки нефтяников выросли в десять раз",
     "url": "https://russian.rt.com/business/news/1614234-sechin-izderzhki-neftyanikov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T01:00:26+00:00",
     "no_image": true
+  },
+  {
+    "id": "d591f00e4b926b81532d00ac34dc1bbd",
+    "title": "В Киеве и ряде регионов Украины объявили воздушную тревогу",
+    "url": "https://ria.ru/20260403/trevoga-2084893778.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-03T01:11:15+00:00",
+    "no_image": false
   }
 ]
