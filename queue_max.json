@@ -1,13 +1,5 @@
 [
   {
-    "id": "82e9ed589238b842e514a132e3a8673f",
-    "title": "В Дагестане после затоплений заработали все основные экскурсионные программы",
-    "url": "https://tass.ru/ekonomika/26959975",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:05:04+00:00",
-    "no_image": false
-  },
-  {
     "id": "ff004c7041e3d52932cd3746b46bff85",
     "title": "На фабрике в Польше произошла стрельба",
     "url": "https://ria.ru/20260401/polsha-2084211738.html",
@@ -2389,6 +2381,14 @@
     "url": "https://russian.rt.com/ussr/news/1615020-pvo-bespilotniki-rossiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-02T20:41:20+00:00",
+    "no_image": false
+  },
+  {
+    "id": "c51c9090a3d121434a623b87448f21d9",
+    "title": "Time: Хегсет был удивлён ответными ударами Ирана",
+    "url": "https://russian.rt.com/world/news/1615022-hegset-udar-iran?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-02T20:55:13+00:00",
     "no_image": false
   }
 ]
