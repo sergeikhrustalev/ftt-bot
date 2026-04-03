@@ -1,13 +1,5 @@
 [
   {
-    "id": "17eb9cc1d3d8b397b5d485e9da995699",
-    "title": "На российский город за сутки вылилось более месячной нормы осадков",
-    "url": "https://lenta.ru/news/2026/04/01/na-rossiyskiy-gorod-za-sutki-vylilos-bolee-mesyachnoy-normy-osadkov/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T16:13:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "c5f8b6773beb2a3e7271c5d818b0f366",
     "title": "Воздух ностальгии // Вышел альбом «Трудный возраст. Трибьют МакSим»",
     "url": "https://www.kommersant.ru/doc/8552929",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/business/news/2026/04/03/1187893-fix-price-pribil",
     "source": "Ведомости",
     "pub_dt": "2026-04-03T18:00:28+00:00",
+    "no_image": false
+  },
+  {
+    "id": "ab2fdc9450c56761a5d1221d72156d91",
+    "title": "Мининформ Белоруссии прокомментировало удаление YouTube-канала БелТА",
+    "url": "https://ria.ru/20260403/belorussiya-2085125440.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-03T18:10:54+00:00",
     "no_image": false
   }
 ]
