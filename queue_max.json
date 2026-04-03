@@ -1,13 +1,5 @@
 [
   {
-    "id": "c5f8b6773beb2a3e7271c5d818b0f366",
-    "title": "Воздух ностальгии // Вышел альбом «Трудный возраст. Трибьют МакSим»",
-    "url": "https://www.kommersant.ru/doc/8552929",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-01T16:20:39+00:00",
-    "no_image": false
-  },
-  {
     "id": "ead17034278a37d2dfde031e4a91514c",
     "title": "Над российскими регионами сбили 17 украинских дронов",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187257-sbili-dronov",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-03T18:10:54+00:00",
     "no_image": false
+  },
+  {
+    "id": "243a4ef7bc1c2386c174e7779d1d649d",
+    "title": "Мужчина поссорился с соседом и напугал его привидениями",
+    "url": "https://lenta.ru/news/2026/04/03/muzhchina-possorilsya-s-sosedom-i-napugal-ego-privideniyami/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T18:21:00+00:00",
+    "no_image": true
   }
 ]
