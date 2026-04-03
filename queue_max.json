@@ -1,13 +1,5 @@
 [
   {
-    "id": "14bec73a734706c07c3b5987ed8945f2",
-    "title": "Около 140 млрд рублей выделят на НИОКР в авиа- и судостроении в течение трех лет",
-    "url": "https://tass.ru/spb-news/26960515",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:24:00+00:00",
-    "no_image": false
-  },
-  {
     "id": "f39aca975272ad0fc94aff8e62e73b44",
     "title": "Новгородский депутат отвез в зону СВО авто, масксети и стройматериал",
     "url": "https://ria.ru/20260401/deputat-2084217103.html",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-03T07:22:10+00:00",
     "no_image": false
+  },
+  {
+    "id": "1c9ffcfa80f9e29d5ed83330fed77fca",
+    "title": "Любителей некоторых видов спорта предупредили об анальном зуде",
+    "url": "https://lenta.ru/news/2026/04/03/lyubiteley-nekotoryh-vidov-sporta-predupredili-ob-analnom-zude/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T07:32:47+00:00",
+    "no_image": true
   }
 ]
