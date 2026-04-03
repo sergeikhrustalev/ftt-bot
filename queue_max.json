@@ -1,13 +1,5 @@
 [
   {
-    "id": "185fcd6ee99697d689b0aaa2929974e0",
-    "title": "Рыболов лишился выигрыша и оказался под угрозой тюрьмы из-за жульничества на турнире",
-    "url": "https://lenta.ru/news/2026/04/01/rybolov-lishilsya-vyigrysha-i-okazalsya-pod-ugrozoy-tyurmy-iz-za-zhulnichestva-na-turnire/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T09:01:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "f4363f1954268eb6133c8199c047bb3b",
     "title": "Молодой человек оригинально проехался в московском метро и попал на видео",
     "url": "https://lenta.ru/news/2026/04/01/molodoy-chelovek-originalno-proehalsya-v-moskovskom-metro-i-popal-na-video/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/dohody-blogera-vlada-bumagi-rezko-upali/",
     "source": "Лента",
     "pub_dt": "2026-04-03T10:52:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "eca23d9c1658bfb6037368c3368b030a",
+    "title": "Россиян предупредили о сложностях с получением испанского шенгена",
+    "url": "https://lenta.ru/news/2026/04/03/rossiyan-predupredili-o-slozhnostyah-s-polucheniem-ispanskogo-shengena/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T11:02:00+00:00",
     "no_image": true
   }
 ]
