@@ -1,13 +1,5 @@
 [
   {
-    "id": "895c8073d42220e847809f0691f341a6",
-    "title": "МИД РФ: США хотят разрушить международно-правовые режимы",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187175-ssha-hotyat-razrushit",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T12:51:32+00:00",
-    "no_image": false
-  },
-  {
     "id": "ee98957c9284d6d4743bb7ed86ab13a5",
     "title": "Главком ВСУ высказался об ударах по Ленобласти",
     "url": "https://lenta.ru/news/2026/04/01/glavkom-vsu-vyskazalsya-ob-udarah-po-lenoblasti/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T14:41:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "b452bc62b8bf7053d141e2306538b0fd",
+    "title": "Кидающие за деньги // НБА получила свыше 120 заявок на вступление в свой европейский проект",
+    "url": "https://www.kommersant.ru/doc/8568683",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-03T14:50:57+00:00",
+    "no_image": false
   }
 ]
