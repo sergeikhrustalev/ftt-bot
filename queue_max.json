@@ -1,13 +1,5 @@
 [
   {
-    "id": "3e5d35b8bb86df00feaa4cdcba57285b",
-    "title": "Пентагон обсуждает с Данией получение доступа на военные базы в Гренландии",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187137-pentagon-obsuzhdaet-daniei",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T11:21:47+00:00",
-    "no_image": false
-  },
-  {
     "id": "79e64f6c099f10f277d7f3fb04a4c550",
     "title": "Невролог предупредила о таящейся за подергиванием век скрытой опасности",
     "url": "https://lenta.ru/news/2026/04/01/nevrolog-predupredila-o-tayascheysya-za-podergivaniem-vek-skrytoy-opasnosti/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/v-germanii-rezko-podorozhal-odin-vid-topliva/",
     "source": "Лента",
     "pub_dt": "2026-04-03T13:11:38+00:00",
+    "no_image": true
+  },
+  {
+    "id": "90daadae483d35106da7a16f422d37e1",
+    "title": "Иранские селяне отправились на поиски американцев",
+    "url": "https://lenta.ru/news/2026/04/03/iranskie-selyane-otpravilis-na-poiski-amerikantsev/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T13:22:00+00:00",
     "no_image": true
   }
 ]
