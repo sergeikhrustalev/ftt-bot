@@ -1,13 +1,5 @@
 [
   {
-    "id": "9eea0fdb0460e833833a35d52be3f253",
-    "title": "Рядовой совершил два теракта на территории воинских частей в России",
-    "url": "https://lenta.ru/news/2026/04/01/ryadovoy-sovershil-dva-terakta-na-territorii-voinskih-chastey-v-rossii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:31:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "a2f863505593a65061a79051fd8761a2",
     "title": "Нарышкин рассказал о контактах СВР и ЦРУ по поводу Ирана",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187074-o-kontaktah-tsru",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T08:32:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "0f3df12d975272de22fb0da03b9f0ee5",
+    "title": "Цена оферты «Недвижимых активов» на выкуп акций ПИК составила 551,4 рубля",
+    "url": "https://www.vedomosti.ru/investments/news/2026/04/03/1187701-tsena-oferti",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-03T08:41:44+00:00",
+    "no_image": false
   }
 ]
