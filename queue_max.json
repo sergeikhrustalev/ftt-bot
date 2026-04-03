@@ -1,13 +1,5 @@
 [
   {
-    "id": "a5fc1b2084ce0fce6ca44d68adbf69fb",
-    "title": "Роскосмос совершит четыре пуска в 2026 году",
-    "url": "https://tass.ru/kosmos/26960313",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:12:01+00:00",
-    "no_image": false
-  },
-  {
     "id": "4757249f30c7322a1bc64121c7f47e04",
     "title": "Российская орбитальная станция станет первой в мире платформой-дроном",
     "url": "https://tass.ru/kosmos/26960319",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/v-yaponii-nazvali-neotlozhnoy-zadachey-uluchshenie-otnosheniy-s-rossiey/",
     "source": "Лента",
     "pub_dt": "2026-04-03T00:26:36+00:00",
+    "no_image": true
+  },
+  {
+    "id": "1358fdb00251b7a69f008d2197e23ab8",
+    "title": "Российская тревел-блогерша раскрыла главный секрет долголетия японцев",
+    "url": "https://lenta.ru/news/2026/04/03/rossiyskaya-trevel-blogersha-raskryla-glavnyy-sekret-dolgoletiya-yapontsev/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T00:30:19+00:00",
     "no_image": true
   }
 ]
