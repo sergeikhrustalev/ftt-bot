@@ -1,13 +1,5 @@
 [
   {
-    "id": "c9c0dfbed50fcfce0c4ad10aca208d0b",
-    "title": "Трое пострадавших при ЧП в Нижнекамске находятся в реанимации",
-    "url": "https://ria.ru/20260401/postradavshie-2084212166.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T08:06:31+00:00",
-    "no_image": false
-  },
-  {
     "id": "20d67ecf88621e63fe226645fa9afe17",
     "title": "В Иванове рассмотрят дело экс-чиновника о покровительстве при ремонте дорог",
     "url": "https://tass.ru/proisshestviya/26960055",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-02T21:21:54+00:00",
     "no_image": false
+  },
+  {
+    "id": "445405e88f07c851c6831cee1557ff75",
+    "title": "Полиция нашли загадочные останки в машине на парковке",
+    "url": "https://lenta.ru/news/2026/04/03/politsiya-nashli-zagadochnye-ostanki-v-mashine-na-parkovke/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T21:30:51+00:00",
+    "no_image": true
   }
 ]
