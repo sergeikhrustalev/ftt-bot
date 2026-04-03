@@ -1,13 +1,5 @@
 [
   {
-    "id": "897d7148876c17fb66f2441a7f7bdc0e",
-    "title": "ЦБ ожидает сохранения наличных и банковских карт в ближайшие пять лет",
-    "url": "https://www.vedomosti.ru/finance/news/2026/04/01/1187192-nalichnih-i-kart",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T13:32:11+00:00",
-    "no_image": false
-  },
-  {
     "id": "d5ccb4b4add1564e3158fa002a108333",
     "title": "Арсенал США оценили на восемь дней войны с Китаем",
     "url": "https://lenta.ru/news/2026/04/01/arsenal-ssha-otsenili-na-vosem-dney-voyny-s-kitaem/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/shiloksha-most/",
     "source": "Лента",
     "pub_dt": "2026-04-03T15:22:34+00:00",
+    "no_image": true
+  },
+  {
+    "id": "e4e1c50fb58155f4229cdb7376d57d62",
+    "title": "Крупнейший производитель алюминия назвал сроки восстановления завода после атаки Ирана",
+    "url": "https://lenta.ru/news/2026/04/03/krupneyshiy-proizvoditel-alyuminiya-nazval-sroki-vosstanovleniya-zavoda-posle-ataki-irana/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T15:33:49+00:00",
     "no_image": true
   }
 ]
