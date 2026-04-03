@@ -1,13 +1,5 @@
 [
   {
-    "id": "7bfa612c99b7a7a2ead97da85b55e553",
-    "title": "Нарышкин: Киев не умеет соблюдать обязательства в рамках перемирий",
-    "url": "https://tass.ru/politika/26960431",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:15:51+00:00",
-    "no_image": false
-  },
-  {
     "id": "ccb7ac65145b3ee0f3126ac1e2d99e69",
     "title": "Найденный в Финляндии у границы с Россией БПЛА оказался иностранным",
     "url": "https://ria.ru/20260401/finljandija-2084214466.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/v-chetyreh-rossiyskih-regionah-otrazili-ataku-bespilotnikov/",
     "source": "Лента",
     "pub_dt": "2026-04-03T03:31:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "eaaefb44d01dc4dbdd51b82bcd9f68c5",
+    "title": "Стало известно о поддержке контактов по «Турецкому потоку»",
+    "url": "https://lenta.ru/news/2026/04/03/stalo-izvestno-o-podederzhke-kontaktov-po-turetskomu-potoku/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T03:44:00+00:00",
     "no_image": true
   }
 ]
