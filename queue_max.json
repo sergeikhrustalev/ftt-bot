@@ -1,13 +1,5 @@
 [
   {
-    "id": "99cd23dfc334f10cc48477ccbbd8f44e",
-    "title": "Военно-транспортный самолет Ан-26 мог разбиться из-за технической неисправности. Жертвами крушения стали 30 человек",
-    "url": "https://lenta.ru/news/2026/04/01/voenno-transportnyy-samolet-an-26-mog-razbitsya-iz-za-tehnicheskoy-neispravnosti-zhertvami-krusheniya-stali-30-chelovek/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:30:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "9eea0fdb0460e833833a35d52be3f253",
     "title": "Рядовой совершил два теракта на территории воинских частей в России",
     "url": "https://lenta.ru/news/2026/04/01/ryadovoy-sovershil-dva-terakta-na-territorii-voinskih-chastey-v-rossii/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/vlasti-soobschili-o-roste-chisla-postradavshih-pri-shode-poezda-pod-ulyanovskom/",
     "source": "Лента",
     "pub_dt": "2026-04-03T08:21:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "f2a0b098117f29abc3764f73065891a3",
+    "title": "Пострадавших в Ульяновской области пассажиров доставят домой резервным составом",
+    "url": "https://lenta.ru/news/2026/04/03/postradavshih-v-ulyanovskoy-oblasti-passazhirov-dostavyat-domoy-rezervnym-sostavom/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T08:32:00+00:00",
     "no_image": true
   }
 ]
