@@ -1,13 +1,5 @@
 [
   {
-    "id": "b0d37df2df17065b8b76c841b90f2da7",
-    "title": "Минтранс: Россия в ближайшие годы сократит инфраструктурные ограничения",
-    "url": "https://tass.ru/ekonomika/26960153",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:11:13+00:00",
-    "no_image": false
-  },
-  {
     "id": "15577925a54244107c0853d336d41c53",
     "title": "В США оценили возможность переговоров с Россией и Украиной на фоне конфликта с Ираном",
     "url": "https://lenta.ru/news/2026/04/01/v-ssha-otsenili-vozmozhnost-peregovorov-s-rossiey-i-ukrainoy-na-fone-konflikta-s-iranom/",
@@ -2389,6 +2381,14 @@
     "url": "https://russian.rt.com/world/news/1615053-franciya-britaniya-posporili?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-02T23:40:19+00:00",
+    "no_image": false
+  },
+  {
+    "id": "60a1d24ede0a6ccbf479400d4ab4091d",
+    "title": "SHOT: взрывы прогремели над Воронежем",
+    "url": "https://russian.rt.com/russia/news/1615054-shot-vzryvy-progremeli-voronezh?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-02T23:51:41+00:00",
     "no_image": false
   }
 ]
