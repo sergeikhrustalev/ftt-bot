@@ -1,13 +1,5 @@
 [
   {
-    "id": "340f1beed444efaa1f166d0a1d5a61da",
-    "title": "Клон клона клона клона клона клона мыши оказался мутантом",
-    "url": "https://lenta.ru/news/2026/04/01/klon-klona-klona-klona-klona-klona-myshi-okazalsya-mutantom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T12:10:38+00:00",
-    "no_image": true
-  },
-  {
     "id": "bb65129611b840ad295711165858fc4c",
     "title": "Выручка ЮГК по РСБУ выросла на 7% в 2025 году",
     "url": "https://www.vedomosti.ru/investments/news/2026/04/01/1187167-viruchka-yugk",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/turistka-nashla-lyubov-vo-vremya-otpuska-i-poluchila-nozhom-v-zhivot-ot-byvshego-muzha/",
     "source": "Лента",
     "pub_dt": "2026-04-03T14:03:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "86c47e5cf4b72bb66f8d779a67598eb6",
+    "title": "В России не смогли справиться с дефицитом ряда профессий",
+    "url": "https://lenta.ru/news/2026/04/03/v-rossii-ne-smogli-spravitsya-s-defitsitom-ryada-professiy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T14:10:33+00:00",
     "no_image": true
   }
 ]
