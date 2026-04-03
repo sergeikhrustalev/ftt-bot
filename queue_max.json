@@ -1,13 +1,5 @@
 [
   {
-    "id": "cfc2316f6c857f41ee31a23d94ef65f0",
-    "title": "Роструд восстановил права более 320 тыс. человек в 2025 году",
-    "url": "https://tass.ru/ekonomika/26960399",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:15:10+00:00",
-    "no_image": false
-  },
-  {
     "id": "2825b410730da5118f430a8341564043",
     "title": "Роскосмос сформировал портфель проектов со странами на сумму в 43 млрд рублей",
     "url": "https://tass.ru/kosmos/26960405",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/nastoyatelya-hrama-ulichili-v-nepristoynyh-ritualah/",
     "source": "Лента",
     "pub_dt": "2026-04-03T03:00:15+00:00",
+    "no_image": true
+  },
+  {
+    "id": "b1dd7ecf29b35f2006cd30cc33564093",
+    "title": "Иран подготовил список целей для атак из американских и израильских кораблей",
+    "url": "https://lenta.ru/news/2026/04/03/iran-podgotovil-spisok-tseley-dlya-atak-iz-amerikanskih-i-izrailskih-korabley/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T03:14:00+00:00",
     "no_image": true
   }
 ]
