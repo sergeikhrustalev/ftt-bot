@@ -1,13 +1,5 @@
 [
   {
-    "id": "4d27f8cb330d06c44225fcebfadd7f14",
-    "title": "Недельная инфляция в России с 24 по 30 марта составила 0,17%",
-    "url": "https://www.vedomosti.ru/economics/news/2026/04/01/1187251-nedelnaya-inflyatsiya",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T16:00:53+00:00",
-    "no_image": false
-  },
-  {
     "id": "17eb9cc1d3d8b397b5d485e9da995699",
     "title": "На российский город за сутки вылилось более месячной нормы осадков",
     "url": "https://lenta.ru/news/2026/04/01/na-rossiyskiy-gorod-za-sutki-vylilos-bolee-mesyachnoy-normy-osadkov/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/armiya-i-opk/26997809",
     "source": "ТАСС",
     "pub_dt": "2026-04-03T17:50:54+00:00",
+    "no_image": false
+  },
+  {
+    "id": "e50ba953b7f3b5875aeac1acb1871c46",
+    "title": "Fix Price получил прибыль в 11 млрд рублей в I квартале",
+    "url": "https://www.vedomosti.ru/business/news/2026/04/03/1187893-fix-price-pribil",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-03T18:00:28+00:00",
     "no_image": false
   }
 ]
