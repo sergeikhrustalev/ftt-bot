@@ -1,13 +1,5 @@
 [
   {
-    "id": "aeecca5366d72c431b69733288b99947",
-    "title": "США отрицают причастность к удару по спортзалу и жилому району в  Иране",
-    "url": "https://ria.ru/20260401/ssha-2084211459.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T08:04:46+00:00",
-    "no_image": false
-  },
-  {
     "id": "7e6f6bf4b8e79b05cfb6d98b5798be5d",
     "title": "В России собрались ввести запрет на вождение для мошенников",
     "url": "https://lenta.ru/news/2026/04/01/v-rossii-sobralis-vvesti-zapret-na-vozhdenie-dlya-moshennikov/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T20:23:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "089bf87825a0ffefb94529aba666f67d",
+    "title": "На Солнце произошла сильная вспышка",
+    "url": "https://tass.ru/kosmos/26985557",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-02T20:30:36+00:00",
+    "no_image": false
   }
 ]
