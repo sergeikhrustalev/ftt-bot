@@ -1,13 +1,5 @@
 [
   {
-    "id": "fbdd6c1426f23f80a5c249526187ddaa",
-    "title": "Российская полицейская получила взятку от свидетеля под камерой ФСБ",
-    "url": "https://lenta.ru/news/2026/04/01/rossiyskaya-politseyskaya-poluchila-vzyatku-ot-svidetelya-pod-kameroy-fsb/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T12:32:40+00:00",
-    "no_image": true
-  },
-  {
     "id": "9cbd0bc68599745842f8cab65753d88a",
     "title": "В Финляндии выступили со срочным призывом из-за России",
     "url": "https://lenta.ru/news/2026/04/01/v-finlyandii-vystupili-so-srochnym-prizyvom-iz-za-rossii/",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-03T14:21:45+00:00",
     "no_image": false
+  },
+  {
+    "id": "2aae35e51de07babe474d2a854f3a8e1",
+    "title": "Врач развеял миф о связи катания на велосипеде и риске одного вида рака",
+    "url": "https://lenta.ru/news/2026/04/03/vrach-razveyal-mif-o-svyazi-kataniya-na-velosipede-i-riske-odnogo-vida-raka/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T14:33:00+00:00",
+    "no_image": true
   }
 ]
