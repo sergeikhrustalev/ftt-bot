@@ -1,13 +1,5 @@
 [
   {
-    "id": "64a26607f7c2f7dabf6f9bac7efddc77",
-    "title": "В ISU не стали комментировать обсуждение вопроса допуска россиян",
-    "url": "https://tass.ru/sport/26960525",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:21:07+00:00",
-    "no_image": false
-  },
-  {
     "id": "6abdbe768e26183d5b5786f8cb8b4367",
     "title": "ЦБ обсуждает с рынком создание независимого ИИ-агента",
     "url": "https://tass.ru/ekonomika/26960551",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-03T06:20:33+00:00",
     "no_image": false
+  },
+  {
+    "id": "3835e63d9b5f1a5af6cf74f6b1d53270",
+    "title": "Назван самый полезный вариант кофе",
+    "url": "https://lenta.ru/news/2026/04/03/nazvan-samyy-poleznyy-variant-kofe/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T06:32:00+00:00",
+    "no_image": true
   }
 ]
