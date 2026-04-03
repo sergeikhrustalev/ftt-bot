@@ -1,13 +1,5 @@
 [
   {
-    "id": "828fc293c63c244a8eef7a4a0ab6c6ac",
-    "title": "Курьер украл кошку и оказался под угрозой тюрьмы",
-    "url": "https://lenta.ru/news/2026/04/01/kurier-ukral-chuzhuyu-koshku-i-okazalsya-pod-ugrozoy-tyurmy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:22:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "f6b0197704646986b7522f03f47b011e",
     "title": "Баканов сообщил о разработке в РФ в прибора для изучения строения Луны",
     "url": "https://tass.ru/kosmos/26960557",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/smartphone-prices/",
     "source": "Лента",
     "pub_dt": "2026-04-03T06:51:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "888db4a44ac3afd3e46157b5b16a6147",
+    "title": "Российская поп-группа находилась в сошедшем с рельсов поезде Москва — Челябинск",
+    "url": "https://lenta.ru/news/2026/04/03/rossiyskaya-pop-gruppa-nahodilas-v-soshedshem-s-relsov-poezde-moskva-chelyabinsk/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T07:01:00+00:00",
     "no_image": true
   }
 ]
