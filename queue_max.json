@@ -1,13 +1,5 @@
 [
   {
-    "id": "f6fa546c2e69d2bf4a2e6606b6681cf2",
-    "title": "Раскрыты новые подробности о последствиях взрыва на российском химзаводе",
-    "url": "https://lenta.ru/news/2026/04/01/raskryty-novye-podrobnosti-o-posledstviyah-vzryva-na-rossiyskom-himzavode/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:44:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "3396fb83c54f9671bf7cae8f353d6fcb",
     "title": "Появились подробности о сбежавшем из российской колонии",
     "url": "https://lenta.ru/news/2026/04/01/poyavilis-podrobnosti-o-sbezhavshem-iz-rossiyskoy-kolonii/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/pervomu-evropeyskomu-sudnu-udalos-proyti-cherez-ormuzskiy-proliv/",
     "source": "Лента",
     "pub_dt": "2026-04-03T10:01:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "85fc0b5caa56a7a3527af7a5366f2576",
+    "title": "Австралия направила спецназ на Ближний Восток для одной задачи",
+    "url": "https://lenta.ru/news/2026/04/03/avstraliya-napravila-spetsnaz-na-blizhniy-vostok-dlya-odnoy-zadachi/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T10:13:00+00:00",
     "no_image": true
   }
 ]
