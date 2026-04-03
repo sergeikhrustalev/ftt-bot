@@ -1,13 +1,5 @@
 [
   {
-    "id": "d6d1d4902be648261940038ded4eb487",
-    "title": "В Киеве без предупреждения раздались взрывы",
-    "url": "https://lenta.ru/news/2026/04/01/v-kieve-bez-preduprezhdeniya-razdalis-vzryvy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T09:20:42+00:00",
-    "no_image": true
-  },
-  {
     "id": "5dc4d100a20dc77ea66f4a773968f2fe",
     "title": "Женщина отравила отца ради любимого и через три года попалась из-за него полиции",
     "url": "https://lenta.ru/news/2026/04/01/zhenschina-otravila-ottsa-radi-lyubimogo-i-cherez-tri-goda-popalas-iz-za-nego-politsii/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/rossiyanam-nazvali-glavnye-oshibki-pri-arende-zhilya/",
     "source": "Лента",
     "pub_dt": "2026-04-03T11:11:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "e0a18d9e511d6b5185f884b7dce84d46",
+    "title": "Стало известно о захвате американского пилота иранскими силами",
+    "url": "https://lenta.ru/news/2026/04/03/stalo-izvestno-o-zahvate-amerikanskogo-pilota-iranskimi-silami/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T11:21:00+00:00",
     "no_image": true
   }
 ]
