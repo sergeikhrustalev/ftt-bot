@@ -1,13 +1,5 @@
 [
   {
-    "id": "bf21affb0bf8a1f49d1c3defd1896dc1",
-    "title": "Россияне назвали мотивацию работать",
-    "url": "https://lenta.ru/news/2026/04/01/rossiyane-nazvali-motivatsiyu-rabotat/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T10:22:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "7a52dcb79c2cd8c5954a46dbed815767",
     "title": "В Россию прибыл европейский наркотик",
     "url": "https://lenta.ru/news/2026/04/01/v-rossiyu-pribyl-evropeyskiy-narkotik/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/zelenskiy-zahotel-pomoch-razblokirovat-ormuzskiy-proliv/",
     "source": "Лента",
     "pub_dt": "2026-04-03T12:12:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "ceee106fff2936e9df1f1957917365d5",
+    "title": "Модель фитнес-бикини и владелец ритуальной конторы из России бесследно пропали в Таиланде",
+    "url": "https://lenta.ru/news/2026/04/03/model-fitnes-bikini-i-vladelets-ritualnoy-kontory-iz-rossii-bessledno-propali-v-tailande/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T12:26:00+00:00",
     "no_image": true
   }
 ]
