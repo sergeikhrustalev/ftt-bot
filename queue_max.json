@@ -1,13 +1,5 @@
 [
   {
-    "id": "7a4df62b1d076a5ed33a4a0764d5bbea",
-    "title": "Россиян предупредили о возросшем риске задержания в Европе по запросу США",
-    "url": "https://lenta.ru/news/2026/04/01/rossiyan-predupredili-o-vozrosshem-riske-zaderzhaniya-za-granitsey-po-zaprosu-ssha/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T16:44:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "a96d96a3cb40d9381df98f310b83f5c3",
     "title": "Производитель ракет «Фламинго» раскрыл планы удара по Москве новыми снарядами",
     "url": "https://lenta.ru/news/2026/04/01/proizvoditel-raket-flamingo-raskryl-plany-ataki-na-moskvu-novymi-snaryadami/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/raskryt-plan-izrailya-v-otnoshenii-trampa/",
     "source": "Лента",
     "pub_dt": "2026-04-03T18:31:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "18a8d333a735980d37ff4f3f3d991f76",
+    "title": "Депутат одобрил переезд россиян в Белоруссию",
+    "url": "https://lenta.ru/news/2026/04/03/deputat-odobril-pereezd-rossiyan-v-belorussiyu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T18:40:59+00:00",
     "no_image": true
   }
 ]
