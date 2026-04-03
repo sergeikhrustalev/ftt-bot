@@ -1,13 +1,5 @@
 [
   {
-    "id": "f6b0197704646986b7522f03f47b011e",
-    "title": "Баканов сообщил о разработке в РФ в прибора для изучения строения Луны",
-    "url": "https://tass.ru/kosmos/26960557",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:22:08+00:00",
-    "no_image": false
-  },
-  {
     "id": "ca86c11c162db76d974cbe6521636da5",
     "title": "В Конотопе на севере Украины произошел взрыв",
     "url": "https://tass.ru/proisshestviya/26960563",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/rossiyskaya-pop-gruppa-nahodilas-v-soshedshem-s-relsov-poezde-moskva-chelyabinsk/",
     "source": "Лента",
     "pub_dt": "2026-04-03T07:01:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "0ff712f190259cf85af5a77e90a72254",
+    "title": "Полицейских обвинили в многочасовых пытках российского подростка",
+    "url": "https://lenta.ru/news/2026/04/03/politseyskih-obvinili-v-mnogochasovyh-pytkah-rossiyskogo-podrostka/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T07:12:00+00:00",
     "no_image": true
   }
 ]
