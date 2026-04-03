@@ -1,13 +1,5 @@
 [
   {
-    "id": "c3cc3491bb17d1cc787c85595af9d941",
-    "title": "Доктор Мясников призвал россиян не заморачиваться с температурой",
-    "url": "https://lenta.ru/news/2026/04/01/temperatura/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:17:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "cd1d0422adf56034034801b07f4529f7",
     "title": "В Курской области осудили подрядчиков за растрату на фортификациях",
     "url": "https://tass.ru/proisshestviya/26960439",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-03T04:42:27+00:00",
     "no_image": false
+  },
+  {
+    "id": "66f716981741a53a4aa3eb495db113d2",
+    "title": "В МИД назвали кратчайший путь урегулирования на Украине",
+    "url": "https://lenta.ru/news/2026/04/03/v-mid-nazvali-kratchayshiy-put-uregulirovaniya-na-ukraine/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T04:52:00+00:00",
+    "no_image": true
   }
 ]
