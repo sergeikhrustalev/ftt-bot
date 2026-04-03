@@ -1,13 +1,5 @@
 [
   {
-    "id": "a1b452cbfd55431a4ad3acc06320609e",
-    "title": "Раскрыта удивительная связь между здоровьем рта и циррозом печени",
-    "url": "https://lenta.ru/news/2026/04/01/raskryta-udivitelnaya-svyaz-mezhdu-zdoroviem-rta-i-tsirrozom-pecheni/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:10:48+00:00",
-    "no_image": true
-  },
-  {
     "id": "b0d37df2df17065b8b76c841b90f2da7",
     "title": "Минтранс: Россия в ближайшие годы сократит инфраструктурные ограничения",
     "url": "https://tass.ru/ekonomika/26960153",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T23:30:33+00:00",
     "no_image": true
+  },
+  {
+    "id": "e62ec7ba423f3351b637c98fdd26c6d1",
+    "title": "Politico: Франция и Британия поспорили из-за текста резолюции СБ ООН по Ирану",
+    "url": "https://russian.rt.com/world/news/1615053-franciya-britaniya-posporili?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-02T23:40:19+00:00",
+    "no_image": false
   }
 ]
