@@ -1,13 +1,5 @@
 [
   {
-    "id": "ccb7ac65145b3ee0f3126ac1e2d99e69",
-    "title": "Найденный в Финляндии у границы с Россией БПЛА оказался иностранным",
-    "url": "https://ria.ru/20260401/finljandija-2084214466.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T08:15:57+00:00",
-    "no_image": false
-  },
-  {
     "id": "c2ca5a7a319e1c4c8fe38afcc2d9dceb",
     "title": "Раскрыта схема коррупции на миллионы рублей высокопоставленного российского полицейского",
     "url": "https://lenta.ru/news/2026/03/31/raskryta-shema-korruptsii-na-milliony-rubley-vysokopostavlennogo-rossiyskogo-politseyskogo/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/stalo-izvestno-o-podederzhke-kontaktov-po-turetskomu-potoku/",
     "source": "Лента",
     "pub_dt": "2026-04-03T03:44:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "2d7e120e56dd001d890c0be9fea8e488",
+    "title": "Трамп пригрозил ввести 100-процентные пошлины на импортные лекарства",
+    "url": "https://lenta.ru/news/2026/04/03/tramp-prigrozil-vvesti-100-protsentnye-poshliny-na-importnye-lekarstva/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T03:50:40+00:00",
     "no_image": true
   }
 ]
