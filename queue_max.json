@@ -1,13 +1,5 @@
 [
   {
-    "id": "a8358f28803ff5c5c576d77ec0026585",
-    "title": "Решение о заочном аресте Oxxxymiron оставили в силе",
-    "url": "https://tass.ru/proisshestviya/26960267",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:21:57+00:00",
-    "no_image": false
-  },
-  {
     "id": "828fc293c63c244a8eef7a4a0ab6c6ac",
     "title": "Курьер украл кошку и оказался под угрозой тюрьмы",
     "url": "https://lenta.ru/news/2026/04/01/kurier-ukral-chuzhuyu-koshku-i-okazalsya-pod-ugrozoy-tyurmy/",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-03T06:40:40+00:00",
     "no_image": false
+  },
+  {
+    "id": "0eb2fdcbbcca5e5d48a3b8b59b65cd40",
+    "title": "Названы самые подорожавшие смартфоны",
+    "url": "https://lenta.ru/news/2026/04/03/smartphone-prices/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T06:51:00+00:00",
+    "no_image": true
   }
 ]
