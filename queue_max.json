@@ -1,13 +1,5 @@
 [
   {
-    "id": "15577925a54244107c0853d336d41c53",
-    "title": "В США оценили возможность переговоров с Россией и Украиной на фоне конфликта с Ираном",
-    "url": "https://lenta.ru/news/2026/04/01/v-ssha-otsenili-vozmozhnost-peregovorov-s-rossiey-i-ukrainoy-na-fone-konflikta-s-iranom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:11:54+00:00",
-    "no_image": true
-  },
-  {
     "id": "e10b2483a28ebd13268d39d049fe2383",
     "title": "Орешкин предрек \"смерть\" традиционного банкинга",
     "url": "https://tass.ru/ekonomika/26960359",
@@ -2390,5 +2382,13 @@
     "source": "RT",
     "pub_dt": "2026-04-02T23:51:41+00:00",
     "no_image": false
+  },
+  {
+    "id": "67b33ccd22b891a2b0784bbb0966510a",
+    "title": "Мужчина провел два года в психбольнице за отказ признавать вину за чужие преступления",
+    "url": "https://lenta.ru/news/2026/04/03/muzhchina-provel-dva-goda-v-psihbolnitse-za-otkaz-priznavat-vinu-za-chuzhie-prestupleniya/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T00:00:24+00:00",
+    "no_image": true
   }
 ]
