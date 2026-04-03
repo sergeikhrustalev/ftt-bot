@@ -1,13 +1,5 @@
 [
   {
-    "id": "bb44d5d05c30c50e69bc3d8b26d23a34",
-    "title": "Инфантино встретился с футболистами сборной Ирана",
-    "url": "https://tass.ru/sport/26960445",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:16:30+00:00",
-    "no_image": false
-  },
-  {
     "id": "c50d627e9bef9c0fc01941b47fed85d9",
     "title": "Мать Овечкина — о достижениях сына: будет продолжать играть — будут рекорды",
     "url": "https://russian.rt.com/sport/news/1614240-ovechkin-mama-rekordy?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/dve-gruppy-diversantov-likvidirovali-v-dnr/",
     "source": "Лента",
     "pub_dt": "2026-04-03T04:14:37+00:00",
+    "no_image": true
+  },
+  {
+    "id": "7c2153e3196566f790849c1f467ea46d",
+    "title": "В Финляндии рассказали об угрозе от Трампа",
+    "url": "https://lenta.ru/news/2026/04/03/v-finlyandii-rasskazali-ob-ugroze-ot-trampa/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T04:23:49+00:00",
     "no_image": true
   }
 ]
