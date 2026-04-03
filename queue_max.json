@@ -1,13 +1,5 @@
 [
   {
-    "id": "36484380633c9550c11546d595520638",
-    "title": "Киевский режим утратил доверие, заявил Нарышкин",
-    "url": "https://ria.ru/20260401/kiev-2084213586.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T08:13:43+00:00",
-    "no_image": false
-  },
-  {
     "id": "b0abe6cf87639bb3a13368fb50d6d68f",
     "title": "Нарышкин призвал Зеленского собрать остатки критического мышления",
     "url": "https://ria.ru/20260401/naryshkin-2084214086.html",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-03T02:10:42+00:00",
     "no_image": false
+  },
+  {
+    "id": "9329051c25d5355bfed4e468fce4ac94",
+    "title": "В Ленобласти при атаке беспилотников пострадали два человека",
+    "url": "https://lenta.ru/news/2026/04/03/v-lenoblasti-pri-atake-bespilotnikov-postradali-dva-cheloveka/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T02:21:55+00:00",
+    "no_image": true
   }
 ]
