@@ -1,13 +1,5 @@
 [
   {
-    "id": "5b7dcec717a0574406d1fdd28f69011c",
-    "title": "Путин оценил значение транспорта и логистики для глобальной экономики",
-    "url": "https://ria.ru/20260401/putin-2084211902.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T08:05:59+00:00",
-    "no_image": false
-  },
-  {
     "id": "c9c0dfbed50fcfce0c4ad10aca208d0b",
     "title": "Трое пострадавших при ЧП в Нижнекамске находятся в реанимации",
     "url": "https://ria.ru/20260401/postradavshie-2084212166.html",
@@ -2389,6 +2381,14 @@
     "url": "https://russian.rt.com/nopolitics/news/1615026-zaharova-rektor-mgah-naznachenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-02T21:10:21+00:00",
+    "no_image": false
+  },
+  {
+    "id": "5a32dfb2c860681c8c89b203a94b46dd",
+    "title": "Посол Ирана пригрозил блокировкой Баб-эль-Мандеба при наземной операции США",
+    "url": "https://ria.ru/20260403/ataka-2084883373.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-02T21:21:54+00:00",
     "no_image": false
   }
 ]
