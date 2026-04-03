@@ -1,13 +1,5 @@
 [
   {
-    "id": "c11eeb765bfaa779b84b656bcb732b80",
-    "title": "RMC: во Франции перебои с поставками топлива затронули более 1 тыс. заправок",
-    "url": "https://tass.ru/ekonomika/26960301",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:13:18+00:00",
-    "no_image": false
-  },
-  {
     "id": "fad060dd0424c46ab8664ab21f9e5b0c",
     "title": "Меган Фокс обнажила ягодицы перед камерой и вызвала споры в сети",
     "url": "https://lenta.ru/news/2026/04/01/megan-foks-obnazhila-yagoditsy-pered-kameroy-i-vyzvala-spory-v-seti/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260403/tramp-2084895323.html",
     "source": "РИА",
     "pub_dt": "2026-04-03T01:41:11+00:00",
+    "no_image": false
+  },
+  {
+    "id": "996f348ca5f1db157cd840185b00611a",
+    "title": "ПВО уничтожила четыре беспилотника в Ленинградской области",
+    "url": "https://ria.ru/20260403/bespilotniki-2084895789.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-03T01:52:30+00:00",
     "no_image": false
   }
 ]
