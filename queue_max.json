@@ -1,13 +1,5 @@
 [
   {
-    "id": "8d0037b5ea980a53eb231785b3648487",
-    "title": "Богатейшие россияне обеднели",
-    "url": "https://lenta.ru/news/2026/04/01/bogateyshie-rossiyane-obedneli/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:12:18+00:00",
-    "no_image": true
-  },
-  {
     "id": "96800770e5174b38e62a9d45d6122722",
     "title": "Баканов анонсировал первый пуск ракеты-носителя \"Союз-5\"",
     "url": "https://tass.ru/kosmos/26960351",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-03T00:54:56+00:00",
     "no_image": false
+  },
+  {
+    "id": "ff00f6a65745487e557f957a7d0a9a89",
+    "title": "Байкер из известного мотоклуба заставил жену оказывать секс-услуги 120 мужчинам",
+    "url": "https://lenta.ru/news/2026/04/03/bayker-iz-izvestnogo-motokluba-zastavil-zhenu-okazyvat-seks-uslugi-120-muzhchinam/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T01:00:26+00:00",
+    "no_image": true
   }
 ]
