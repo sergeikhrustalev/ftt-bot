@@ -1,13 +1,5 @@
 [
   {
-    "id": "c852f57bbfed7fed961cbb4a051ed03c",
-    "title": "Самба Соу рассказал, что всегда будет переживать за \"Динамо\"",
-    "url": "https://tass.ru/sport/26960111",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:08:36+00:00",
-    "no_image": false
-  },
-  {
     "id": "4b1aff890b7292b751e9416f2b25d2a4",
     "title": "Баканов: РФ продолжает сотрудничество с США по пилотируемой космонавтике",
     "url": "https://tass.ru/kosmos/26960247",
@@ -2390,5 +2382,13 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-02T22:21:12+00:00",
     "no_image": false
+  },
+  {
+    "id": "b4dd864784d82fab9e4f8284664ee6c8",
+    "title": "Вероятность глобального голода из-за нехватки удобрений оценили",
+    "url": "https://lenta.ru/news/2026/04/03/veroyatnost-globalnogo-goloda-iz-za-nehvatki-udobreniy-otsenili/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T22:30:24+00:00",
+    "no_image": true
   }
 ]
