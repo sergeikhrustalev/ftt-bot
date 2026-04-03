@@ -1,13 +1,5 @@
 [
   {
-    "id": "88bae8a596bbf6301aa2f87b4bc35f5a",
-    "title": "Дерипаска вновь призвал работать по 12 часов шесть дней в неделю",
-    "url": "https://www.vedomosti.ru/economics/news/2026/04/01/1187119-deripaska-prizval-rabotat",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T10:40:47+00:00",
-    "no_image": false
-  },
-  {
     "id": "2a16e865aa26ee4cd8889558983cfd7c",
     "title": "Лукашенко: Белоруссия готовится к войне, хотя не хочет ее",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187121-belorussiya-gotovitsya",
@@ -2389,6 +2381,14 @@
     "url": "https://www.kommersant.ru/doc/8568590",
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-03T12:30:56+00:00",
+    "no_image": false
+  },
+  {
+    "id": "6a7ab53773572f5a9698cba2dcd2f888",
+    "title": "Бензин АИ-92 на бирже подешевел за неделю на 2,73%",
+    "url": "https://www.vedomosti.ru/business/news/2026/04/03/1187801-benzin-podeshevel",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-03T12:40:45+00:00",
     "no_image": false
   }
 ]
