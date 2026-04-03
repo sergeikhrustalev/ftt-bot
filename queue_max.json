@@ -1,13 +1,5 @@
 [
   {
-    "id": "9cbd0bc68599745842f8cab65753d88a",
-    "title": "В Финляндии выступили со срочным призывом из-за России",
-    "url": "https://lenta.ru/news/2026/04/01/v-finlyandii-vystupili-so-srochnym-prizyvom-iz-za-rossii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T12:41:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "895c8073d42220e847809f0691f341a6",
     "title": "МИД РФ: США хотят разрушить международно-правовые режимы",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187175-ssha-hotyat-razrushit",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/vrach-razveyal-mif-o-svyazi-kataniya-na-velosipede-i-riske-odnogo-vida-raka/",
     "source": "Лента",
     "pub_dt": "2026-04-03T14:33:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "f282038b599017560096c71c46f5b533",
+    "title": "Смолов сделал громкое заявление о кафе «Кофемания» на Большой Никитской",
+    "url": "https://lenta.ru/news/2026/04/03/smolov-sdelal-gromkoe-zayavlenie-o-kafe-kofemaniya-na-bolshoy-nikitskoy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T14:41:00+00:00",
     "no_image": true
   }
 ]
