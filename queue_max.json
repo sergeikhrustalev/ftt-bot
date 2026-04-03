@@ -1,13 +1,5 @@
 [
   {
-    "id": "e20d9dff87e9e2f461375fe9a9e13403",
-    "title": "Баканов: в РФ работают уже 10 частных космических компаний",
-    "url": "https://tass.ru/ekonomika/26960171",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:04:40+00:00",
-    "no_image": false
-  },
-  {
     "id": "aeecca5366d72c431b69733288b99947",
     "title": "США отрицают причастность к удару по спортзалу и жилому району в  Иране",
     "url": "https://ria.ru/20260401/ssha-2084211459.html",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-02T20:10:19+00:00",
     "no_image": false
+  },
+  {
+    "id": "b3caeb1fd0db7f4711e759fce3bd007c",
+    "title": "В Иране рассказали о желании изгнать Израиль и США с Ближнего Востока",
+    "url": "https://lenta.ru/news/2026/04/03/v-irane-rasskazali-o-zhelanii-izgnat-izrail-i-ssha-s-blizhnego-vostoka/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T20:23:00+00:00",
+    "no_image": true
   }
 ]
