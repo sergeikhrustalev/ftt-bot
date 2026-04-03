@@ -1,13 +1,5 @@
 [
   {
-    "id": "10a09acc7d06f915637d0be622edbb62",
-    "title": "Бастрыкин раскрыл динамику по несовершеннолетним террористам",
-    "url": "https://lenta.ru/news/2026/04/01/bastrykin-raskryl-dinamiku-po-nesovershennoletnim-terroristam/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T13:51:44+00:00",
-    "no_image": true
-  },
-  {
     "id": "5ee64026bf017765c9a6ef5ec24c08f7",
     "title": "Невеста пожаловалась на обман популярного в России свадебного салона",
     "url": "https://lenta.ru/news/2026/04/01/zhenschina-pozhalovalas-na-obman-populyarnogo-svadebnogo-salona-v-rossii/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T15:41:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "6a3f7641c345bdda02e7aa10de1c43d2",
+    "title": "Трампа уведомили о возможном крушении американского истребителя над Ираном",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/03/1187874-trampa-istrebitelya-bombardirovschika",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-03T15:50:58+00:00",
+    "no_image": false
   }
 ]
