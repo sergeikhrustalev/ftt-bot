@@ -1,13 +1,5 @@
 [
   {
-    "id": "ca86c11c162db76d974cbe6521636da5",
-    "title": "В Конотопе на севере Украины произошел взрыв",
-    "url": "https://tass.ru/proisshestviya/26960563",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:22:44+00:00",
-    "no_image": false
-  },
-  {
     "id": "14bec73a734706c07c3b5987ed8945f2",
     "title": "Около 140 млрд рублей выделят на НИОКР в авиа- и судостроении в течение трех лет",
     "url": "https://tass.ru/spb-news/26960515",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T07:12:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "9a1f80e1b729511e760bdfd013d9d55d",
+    "title": "Выручка МГКЛ увеличилась в четыре раза за I квартал",
+    "url": "https://www.vedomosti.ru/investments/news/2026/04/03/1187672-viruchka-mgkl",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-03T07:22:10+00:00",
+    "no_image": false
   }
 ]
