@@ -1,13 +1,5 @@
 [
   {
-    "id": "7e6f6bf4b8e79b05cfb6d98b5798be5d",
-    "title": "В России собрались ввести запрет на вождение для мошенников",
-    "url": "https://lenta.ru/news/2026/04/01/v-rossii-sobralis-vvesti-zapret-na-vozhdenie-dlya-moshennikov/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:04:58+00:00",
-    "no_image": true
-  },
-  {
     "id": "82e9ed589238b842e514a132e3a8673f",
     "title": "В Дагестане после затоплений заработали все основные экскурсионные программы",
     "url": "https://tass.ru/ekonomika/26959975",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/kosmos/26985557",
     "source": "ТАСС",
     "pub_dt": "2026-04-02T20:30:36+00:00",
+    "no_image": false
+  },
+  {
+    "id": "50b29fc699c1e120844b8415c73c6f71",
+    "title": "Силы ПВО за три часа сбили 46 украинских беспилотников над Россией",
+    "url": "https://russian.rt.com/ussr/news/1615020-pvo-bespilotniki-rossiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-02T20:41:20+00:00",
     "no_image": false
   }
 ]
