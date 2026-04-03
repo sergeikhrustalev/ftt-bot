@@ -1,13 +1,5 @@
 [
   {
-    "id": "fbbe0fa9c94afe7dd2e3fb1872b5305f",
-    "title": "Синоптик Шувалов: в выходные в Ленобласти возможен мокрый снег",
-    "url": "https://russian.rt.com/nopolitics/news/1614237-pogoda-peterburg-sneg?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T08:09:36+00:00",
-    "no_image": false
-  },
-  {
     "id": "ab88b58b1685fd88737d688c15e87860",
     "title": "Нарышкин призвал Зеленского принять справедливые мирные предложения России",
     "url": "https://tass.ru/politika/26960285",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-02T23:12:21+00:00",
     "no_image": true
+  },
+  {
+    "id": "b21f5e6e077cc5872de681385a830b49",
+    "title": "Экс-аналитик ЦРУ указал на ограниченность военной мощи США из-за Ирана",
+    "url": "https://russian.rt.com/world/news/1615051-ssha-iran-mosch-cru?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-02T23:22:00+00:00",
+    "no_image": false
   }
 ]
