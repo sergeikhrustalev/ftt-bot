@@ -1,13 +1,5 @@
 [
   {
-    "id": "f4363f1954268eb6133c8199c047bb3b",
-    "title": "Молодой человек оригинально проехался в московском метро и попал на видео",
-    "url": "https://lenta.ru/news/2026/04/01/molodoy-chelovek-originalno-proehalsya-v-moskovskom-metro-i-popal-na-video/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T09:11:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "d6d1d4902be648261940038ded4eb487",
     "title": "В Киеве без предупреждения раздались взрывы",
     "url": "https://lenta.ru/news/2026/04/01/v-kieve-bez-preduprezhdeniya-razdalis-vzryvy/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/rossiyan-predupredili-o-slozhnostyah-s-polucheniem-ispanskogo-shengena/",
     "source": "Лента",
     "pub_dt": "2026-04-03T11:02:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "c3ba93ce84c0185c006f24ae8fa7a0bf",
+    "title": "Россиянам назвали главные ошибки при аренде жилья",
+    "url": "https://lenta.ru/news/2026/04/03/rossiyanam-nazvali-glavnye-oshibki-pri-arende-zhilya/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T11:11:00+00:00",
     "no_image": true
   }
 ]
