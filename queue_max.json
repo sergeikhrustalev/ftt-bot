@@ -1,13 +1,5 @@
 [
   {
-    "id": "04a6291220b35e366fa31775cc64c5cb",
-    "title": "Путин: РФ может предложить решения проблем с логистикой на фоне войны в Иране",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187061-rf-mozhet-predlozhit-resheniya",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T08:07:32+00:00",
-    "no_image": false
-  },
-  {
     "id": "1e110c1009bd3f5b81acba50bc8926dc",
     "title": "Роскосмос нарастит темпы запуска спутников на орбиту в 2026 году",
     "url": "https://tass.ru/kosmos/26960227",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260403/ukraina-2084884971.html",
     "source": "РИА",
     "pub_dt": "2026-04-02T21:40:55+00:00",
+    "no_image": false
+  },
+  {
+    "id": "6b713153dcef041e46198c9949f01f55",
+    "title": "Ким Чен Ын посетил стройку Музея боевых подвигов в зарубежной военной операции",
+    "url": "https://tass.ru/obschestvo/26985827",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-02T21:51:39+00:00",
     "no_image": false
   }
 ]
