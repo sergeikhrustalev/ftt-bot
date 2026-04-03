@@ -1,13 +1,5 @@
 [
   {
-    "id": "389c3f9159eb7d835f2c13fcecbb3004",
-    "title": "Раскрыто условие Трампа для выхода США из НАТО",
-    "url": "https://lenta.ru/news/2026/04/01/raskryto-uslovie-trampa-dlya-vyhoda-ssha-iz-nato/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T17:51:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "41e1ab7a1e868012be11e03ad01792ad",
     "title": "Коалиция по Ормузскому проливу подготовила санкции против Ирана",
     "url": "https://lenta.ru/news/2026/04/01/koalitsiya-po-ormuzskomu-prolivu-podgotovila-sanktsii-protiv-irana/",
@@ -2390,5 +2382,13 @@
     "source": "RT",
     "pub_dt": "2026-04-03T19:40:24+00:00",
     "no_image": false
+  },
+  {
+    "id": "fe62139ce5ead45ea05f0f29e518364e",
+    "title": "Трамп прокомментировал крушение истребителя США над Ираном",
+    "url": "https://lenta.ru/news/2026/04/03/tramp-prokommentiroval-krushenie-istrebitelya-ssha-nad-iranom/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T19:51:00+00:00",
+    "no_image": true
   }
 ]
