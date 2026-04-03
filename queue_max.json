@@ -1,13 +1,5 @@
 [
   {
-    "id": "a3c3e2e7fd8e3dd1569e9df073198504",
-    "title": "Ревнивая россиянка достала ножом до мозга возлюбленного",
-    "url": "https://lenta.ru/news/2026/04/01/revnivaya-rossiyanka-p/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T15:42:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "7664d0ded751fc9ae4ee7a5cb7eafdb9",
     "title": "В России разрешили строить деревянные пятиэтажки",
     "url": "https://lenta.ru/news/2026/04/01/v-rossii-razreshili-stroit-derevyannye-pyatietazhki/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/ekonomika/26997781",
     "source": "ТАСС",
     "pub_dt": "2026-04-03T17:30:47+00:00",
+    "no_image": false
+  },
+  {
+    "id": "5567cb731d4502be26aec5936c06e1e6",
+    "title": "Силы ПВО сбили 40 беспилотников над регионами России",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/03/1187892-40-bespilotnikov",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-03T17:40:37+00:00",
     "no_image": false
   }
 ]
