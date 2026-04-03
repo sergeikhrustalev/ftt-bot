@@ -1,13 +1,5 @@
 [
   {
-    "id": "041aa447a0f26627f5887c6e6caddcba",
-    "title": "Нарышкин сообщил о контактах СВР с ЦРУ",
-    "url": "https://tass.ru/politika/26960261",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:09:21+00:00",
-    "no_image": false
-  },
-  {
     "id": "fbbe0fa9c94afe7dd2e3fb1872b5305f",
     "title": "Синоптик Шувалов: в выходные в Ленобласти возможен мокрый снег",
     "url": "https://russian.rt.com/nopolitics/news/1614237-pogoda-peterburg-sneg?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-02T23:00:38+00:00",
     "no_image": false
+  },
+  {
+    "id": "fe52321cfb63e58488ee2166b63ba008",
+    "title": "Япония захотела отправить в Россию делегацию по экономическому сотрудничеству",
+    "url": "https://lenta.ru/news/2026/04/02/yaponiya-zahotela-otpravit-v-rossiyu-delegatsiyu-po-ekonomicheskomu-sotrudnichestvu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T23:12:21+00:00",
+    "no_image": true
   }
 ]
