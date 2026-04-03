@@ -1,13 +1,5 @@
 [
   {
-    "id": "fd67de25cea6124134f108582570b257",
-    "title": "В США признали укрепление позиций России",
-    "url": "https://lenta.ru/news/2026/04/01/v-ssha-priznali-ukreplenie-pozitsiy-rossii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T10:01:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "3755ea2429238e4c2f8c678519a9b493",
     "title": "В России анонсировали восстановление ЛНР",
     "url": "https://lenta.ru/news/2026/04/01/vosstanovlenye/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/vyyavlen-neochevidnyy-sposob-snizit-risk-infarkta-i-insulta/",
     "source": "Лента",
     "pub_dt": "2026-04-03T11:51:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "cf181d94cd7993c5e6dadb4710667646",
+    "title": "Появились подробности о необязательной сдаче ЕГЭ в некоторых российских регионах",
+    "url": "https://lenta.ru/news/2026/04/03/minprosvescheniya-vneslo-izmeneniya-v-sdachu-ege-dlya-nekotoryh-rossiyskih-regionov/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T12:01:00+00:00",
     "no_image": true
   }
 ]
