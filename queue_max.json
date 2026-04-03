@@ -1,13 +1,5 @@
 [
   {
-    "id": "f74a1e9fddf2088c33befbe082a69abe",
-    "title": "В Казахстане прокомментировали конфликт в Усть-Луге",
-    "url": "https://lenta.ru/news/2026/04/01/v-kazahstane-prokommentirovali-konflikt-v-ust-luge/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:35:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "f1c95aac0d87da3444508a2573c500cd",
     "title": "Женщинам в перименопаузе подсказали несколько полезных дневных привычек",
     "url": "https://lenta.ru/news/2026/04/01/zhenschinam-v-perimenopauze-podskazali-neskolko-poleznyh-dnevnyh-privychek/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/shef-pentagona-zastal-vrasploh-armiyu-ssha-odnim-resheniem/",
     "source": "Лента",
     "pub_dt": "2026-04-03T09:12:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "46d59ddcce02087003abe593a91e4be9",
+    "title": "Данные о введении комиссии при снятии наличных свыше 5 тысяч рублей оказались недостоверны",
+    "url": "https://lenta.ru/news/2026/04/03/dannye-o-vvedenii-komissii-pri-snyatii-nalichnyh-svyshe-5-tysyach-rubley-okazalis-nedostoverny/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T09:22:12+00:00",
     "no_image": true
   }
 ]
