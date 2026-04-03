@@ -1,13 +1,5 @@
 [
   {
-    "id": "84c3c3c16f99dfbd8f25f61d93022745",
-    "title": "В США обвинили окружение Трампа в сокрытии правды об Иране",
-    "url": "https://lenta.ru/news/2026/04/01/v-ssha-obvinil-okruzhenie-trampa-v-sokrytii-pravdy-ob-irane/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:35:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "f74a1e9fddf2088c33befbe082a69abe",
     "title": "В Казахстане прокомментировали конфликт в Усть-Луге",
     "url": "https://lenta.ru/news/2026/04/01/v-kazahstane-prokommentirovali-konflikt-v-ust-luge/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/prazdnovavshey-den-rozhdeniya-v-batutnom-klube-rossiyskoy-shkolnitse-otorvalo-palets/",
     "source": "Лента",
     "pub_dt": "2026-04-03T09:02:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "d5dd316fc7d3e93d2e3fa97d9e6e16a4",
+    "title": "Шеф Пентагона застал врасплох армию США одним решением",
+    "url": "https://lenta.ru/news/2026/04/03/shef-pentagona-zastal-vrasploh-armiyu-ssha-odnim-resheniem/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T09:12:00+00:00",
     "no_image": true
   }
 ]
