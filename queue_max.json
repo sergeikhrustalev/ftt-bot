@@ -1,13 +1,5 @@
 [
   {
-    "id": "c9fe744cf2d153245985185d15e0cc71",
-    "title": "Токаев рассказал о сотрудничестве с партнером Украины в оборонной сфере",
-    "url": "https://lenta.ru/news/2026/04/01/tokaev-rasskazal-o-sotrudnichestve-s-partnerom-ukrainy-v-oboronnoy-sfere/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T12:01:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "340f1beed444efaa1f166d0a1d5a61da",
     "title": "Клон клона клона клона клона клона мыши оказался мутантом",
     "url": "https://lenta.ru/news/2026/04/01/klon-klona-klona-klona-klona-klona-myshi-okazalsya-mutantom/",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-03T13:50:57+00:00",
     "no_image": false
+  },
+  {
+    "id": "5fefd18a9e8bd32f8ca01af8ebe430d1",
+    "title": "Туристка нашла любовь во время отпуска и получила ножом в живот от бывшего мужа",
+    "url": "https://lenta.ru/news/2026/04/03/turistka-nashla-lyubov-vo-vremya-otpuska-i-poluchila-nozhom-v-zhivot-ot-byvshego-muzha/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T14:03:00+00:00",
+    "no_image": true
   }
 ]
