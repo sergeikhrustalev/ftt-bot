@@ -1,13 +1,5 @@
 [
   {
-    "id": "10cdfe7ab2c95c6851f807981365fbb0",
-    "title": "«Вкусвилл» закрыл почти 300 магазинов в 2025 году",
-    "url": "https://www.vedomosti.ru/business/news/2026/04/01/1187075-vkusvill-zakril",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T08:43:47+00:00",
-    "no_image": false
-  },
-  {
     "id": "f6fa546c2e69d2bf4a2e6606b6681cf2",
     "title": "Раскрыты новые подробности о последствиях взрыва на российском химзаводе",
     "url": "https://lenta.ru/news/2026/04/01/raskryty-novye-podrobnosti-o-posledstviyah-vzryva-na-rossiyskom-himzavode/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/vneshnost-lyseyuschego-muzhchiny-posle-strizhki-vzorvala-sotsseti/",
     "source": "Лента",
     "pub_dt": "2026-04-03T09:51:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "5a965cf438f1b0db6ca3d802a20817a2",
+    "title": "Первому европейскому судну удалось пройти через Ормузский пролив",
+    "url": "https://lenta.ru/news/2026/04/03/pervomu-evropeyskomu-sudnu-udalos-proyti-cherez-ormuzskiy-proliv/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T10:01:00+00:00",
     "no_image": true
   }
 ]
