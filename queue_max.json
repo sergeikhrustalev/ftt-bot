@@ -1,13 +1,5 @@
 [
   {
-    "id": "44fff41f78c6389e93829ab696a1adff",
-    "title": "Алферова вспомнила последний разговор с Абдуловым",
-    "url": "https://lenta.ru/news/2026/04/01/alferova-vspomnila-posledniy-razgovor-s-abdulovym/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T09:52:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "fd67de25cea6124134f108582570b257",
     "title": "В США признали укрепление позиций России",
     "url": "https://lenta.ru/news/2026/04/01/v-ssha-priznali-ukreplenie-pozitsiy-rossii/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/v-rossii-vyskazalis-o-novom-tsentre-prinyatiya-resheniy-v-evrope/",
     "source": "Лента",
     "pub_dt": "2026-04-03T11:42:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "246db8c758f30c7d22183bb6de3efc1b",
+    "title": "Выявлен неочевидный способ снизить риск инфаркта и инсульта",
+    "url": "https://lenta.ru/news/2026/04/03/vyyavlen-neochevidnyy-sposob-snizit-risk-infarkta-i-insulta/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T11:51:00+00:00",
     "no_image": true
   }
 ]
