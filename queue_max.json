@@ -1,13 +1,5 @@
 [
   {
-    "id": "f39aca975272ad0fc94aff8e62e73b44",
-    "title": "Новгородский депутат отвез в зону СВО авто, масксети и стройматериал",
-    "url": "https://ria.ru/20260401/deputat-2084217103.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T08:24:35+00:00",
-    "no_image": false
-  },
-  {
     "id": "7b8bfd7d1833a3cafbe6bb0978f06ab2",
     "title": "В России спрогнозировали судьбу Зеленского",
     "url": "https://lenta.ru/news/2026/04/01/v-rossii-sprognozirovali-sudbu-zelenskogo/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T07:32:47+00:00",
     "no_image": true
+  },
+  {
+    "id": "f53201795ca9358bec439e0025b7deff",
+    "title": "Volga представила вторую модель линейки бренда",
+    "url": "https://www.vedomosti.ru/auto/news/2026/04/03/1187678-volga-predstavila-model",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-03T07:42:24+00:00",
+    "no_image": false
   }
 ]
