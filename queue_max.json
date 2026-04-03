@@ -1,13 +1,5 @@
 [
   {
-    "id": "16e6d48ec6977529ef6ad1b709ea6b85",
-    "title": "Набиуллина предрекла переход финсервисов в платформы из нишевых банков",
-    "url": "https://russian.rt.com/business/news/1614243-nabiullina-finansy-bank?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T08:14:38+00:00",
-    "no_image": false
-  },
-  {
     "id": "8a7f2fcf330f4cd4268903bdbae46f81",
     "title": "На Московской верфи начали сборку еще двух электросудов",
     "url": "https://tass.ru/obschestvo/26960403",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/na-bali-vstrevozhilis-iz-za-volny-iznasilovaniy-i-rasprav-nad-turistami/",
     "source": "Лента",
     "pub_dt": "2026-04-03T02:30:53+00:00",
+    "no_image": true
+  },
+  {
+    "id": "35fa05dfb3d68dbbd1fbf1820abb45e7",
+    "title": "Дмитриев обвинил западные СМИ в причастности к энергетическому кризису",
+    "url": "https://lenta.ru/news/2026/04/03/dmitriev-obvinil-zapadnye-smi-v-prichastnosti-k-energeticheskomu-krizisu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T02:41:25+00:00",
     "no_image": true
   }
 ]
