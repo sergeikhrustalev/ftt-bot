@@ -1,13 +1,5 @@
 [
   {
-    "id": "c2ca5a7a319e1c4c8fe38afcc2d9dceb",
-    "title": "Раскрыта схема коррупции на миллионы рублей высокопоставленного российского полицейского",
-    "url": "https://lenta.ru/news/2026/03/31/raskryta-shema-korruptsii-na-milliony-rubley-vysokopostavlennogo-rossiyskogo-politseyskogo/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:16:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "6280fd3b4bd9e22222e1ce466e6bae02",
     "title": "На Кубани ущерб от массовой гибели рыбы превысил 50 млн рублей",
     "url": "https://tass.ru/proisshestviya/26960383",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/tramp-prigrozil-vvesti-100-protsentnye-poshliny-na-importnye-lekarstva/",
     "source": "Лента",
     "pub_dt": "2026-04-03T03:50:40+00:00",
+    "no_image": true
+  },
+  {
+    "id": "c7e82b3d007b7f12e65cc05ae21d38ee",
+    "title": "Мужчинам старше 65 лет назвали нормальную продолжительность секса",
+    "url": "https://lenta.ru/news/2026/04/03/muzhchinam-starshe-65-let-nazvali-normalnuyu-prodolzhitelnost-seksa/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T04:00:50+00:00",
     "no_image": true
   }
 ]
