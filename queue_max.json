@@ -1,13 +1,5 @@
 [
   {
-    "id": "c4d360d237231432f6e7d356a3b4638d",
-    "title": "Самые высокие обороты у спортзалов приходятся на октябрь, ноябрь и декабрь",
-    "url": "https://www.vedomosti.ru/business/news/2026/04/01/1187059-oboroti-u-sportzalov",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T08:12:13+00:00",
-    "no_image": false
-  },
-  {
     "id": "8d0037b5ea980a53eb231785b3648487",
     "title": "Богатейшие россияне обеднели",
     "url": "https://lenta.ru/news/2026/04/01/bogateyshie-rossiyane-obedneli/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260403/bespilotniki-2084892644.html",
     "source": "РИА",
     "pub_dt": "2026-04-03T00:42:01+00:00",
+    "no_image": false
+  },
+  {
+    "id": "563646c7ff16007d8c957e986d0a954c",
+    "title": "Родители в будущем смогут \"смоделировать\" ребенка, заявил глава РАН",
+    "url": "https://ria.ru/20260403/geny-2084892939.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-03T00:54:56+00:00",
     "no_image": false
   }
 ]
