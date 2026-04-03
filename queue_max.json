@@ -1,13 +1,5 @@
 [
   {
-    "id": "3396fb83c54f9671bf7cae8f353d6fcb",
-    "title": "Появились подробности о сбежавшем из российской колонии",
-    "url": "https://lenta.ru/news/2026/04/01/poyavilis-podrobnosti-o-sbezhavshem-iz-rossiyskoy-kolonii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:44:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "16e73eb3b3890cca31e38bc426575d31",
     "title": "Волочкова резко ответила заявившему о ее скорой смерти наркологу",
     "url": "https://lenta.ru/news/2026/04/01/volochkova-rezko-otvetila-zayavivshemu-o-ee-skoroy-smerti-narkologu/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/avstraliya-napravila-spetsnaz-na-blizhniy-vostok-dlya-odnoy-zadachi/",
     "source": "Лента",
     "pub_dt": "2026-04-03T10:13:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "6f29a1d8ddcc926876c2e8c486fafefc",
+    "title": "В Госдуме нашли способ решить проблему с этническими анклавами",
+    "url": "https://lenta.ru/news/2026/04/03/v-gosdume-nashli-sposob-reshit-problemu-s-etnicheskimi-anklavami/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T10:21:25+00:00",
     "no_image": true
   }
 ]
