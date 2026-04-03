@@ -1,13 +1,5 @@
 [
   {
-    "id": "f45d5a47fc36404d15ccafa2381add55",
-    "title": "Жителей одного российского региона предупредили о масштабном половодье",
-    "url": "https://lenta.ru/news/2026/04/01/altay-voda/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:12:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "a5fc1b2084ce0fce6ca44d68adbf69fb",
     "title": "Роскосмос совершит четыре пуска в 2026 году",
     "url": "https://tass.ru/kosmos/26960313",
@@ -2390,5 +2382,13 @@
     "source": "RT",
     "pub_dt": "2026-04-03T00:12:15+00:00",
     "no_image": false
+  },
+  {
+    "id": "3f8a2bc615b5146a8bd3e82daa25b9e9",
+    "title": "В Японии назвали неотложной задачей улучшение отношений с Россией",
+    "url": "https://lenta.ru/news/2026/04/03/v-yaponii-nazvali-neotlozhnoy-zadachey-uluchshenie-otnosheniy-s-rossiey/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T00:26:36+00:00",
+    "no_image": true
   }
 ]
