@@ -1,13 +1,5 @@
 [
   {
-    "id": "c50d627e9bef9c0fc01941b47fed85d9",
-    "title": "Мать Овечкина — о достижениях сына: будет продолжать играть — будут рекорды",
-    "url": "https://russian.rt.com/sport/news/1614240-ovechkin-mama-rekordy?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T08:16:44+00:00",
-    "no_image": false
-  },
-  {
     "id": "82f00bc661865cc59d8cde897557eade",
     "title": "Россиян предупредили о росте цен на авиабилеты до 15 процентов",
     "url": "https://lenta.ru/news/2026/04/01/rossiyan-predupredili-o-roste-tsen-na-aviabilety-do-15-protsentov/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/v-finlyandii-rasskazali-ob-ugroze-ot-trampa/",
     "source": "Лента",
     "pub_dt": "2026-04-03T04:23:49+00:00",
+    "no_image": true
+  },
+  {
+    "id": "a038d0dcb6ddd0137e0c1da0bd3efe61",
+    "title": "Странная находка на блошином рынке потрясла пользователей сети",
+    "url": "https://lenta.ru/news/2026/04/03/strannaya-nahodka-na-bloshinom-rynke-potryasla-polzovateley-seti/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T04:30:20+00:00",
     "no_image": true
   }
 ]
