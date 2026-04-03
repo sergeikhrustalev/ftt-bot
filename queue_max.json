@@ -1,13 +1,5 @@
 [
   {
-    "id": "58ead5c32aa24a0c482a32551aac6374",
-    "title": "Россиянин снегом пытался спрятать расправу над знакомым",
-    "url": "https://lenta.ru/news/2026/04/01/rossiyanin-snegom-pytalsya-spryatat-raspravu-nad-znakomym/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:21:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "64a26607f7c2f7dabf6f9bac7efddc77",
     "title": "В ISU не стали комментировать обсуждение вопроса допуска россиян",
     "url": "https://tass.ru/sport/26960525",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T06:11:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "d90f8974e7dc760b6e89fc2b18c54ced",
+    "title": "Рябков: прекращение поставок оружия Киеву позволит быстрее всего достичь мира",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/03/1187655-prekraschenie-postavok",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-03T06:20:33+00:00",
+    "no_image": false
   }
 ]
