@@ -1,13 +1,5 @@
 [
   {
-    "id": "3d6efde8678015a821a22a3c051cf7de",
-    "title": "Орешкин назвал финансовую систему России самой эффективной в мире",
-    "url": "https://tass.ru/ekonomika/26960365",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:12:50+00:00",
-    "no_image": false
-  },
-  {
     "id": "8329e310467b3f471cccd21e685d6fa2",
     "title": "Клещ размером с пятикопеечную монету неделю провел в заднем проходе россиянина",
     "url": "https://lenta.ru/news/2026/04/01/klesch-razmerom-s-pyatikopeechnuyu-monetu-nedelyu-provel-v-zadnem-prohode-rossiyanina/",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-03T01:21:52+00:00",
     "no_image": false
+  },
+  {
+    "id": "b3d524954cc4a81b53e009433696de02",
+    "title": "Вирус водных животных оказался опасен для здоровья человека",
+    "url": "https://lenta.ru/news/2026/04/03/virus-vodnyh-zhivotnyh-okazalsya-opasen-dlya-zdorovya-glaz-cheloveka/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T01:30:27+00:00",
+    "no_image": true
   }
 ]
