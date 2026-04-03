@@ -1,13 +1,5 @@
 [
   {
-    "id": "ab88b58b1685fd88737d688c15e87860",
-    "title": "Нарышкин призвал Зеленского принять справедливые мирные предложения России",
-    "url": "https://tass.ru/politika/26960285",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:10:32+00:00",
-    "no_image": false
-  },
-  {
     "id": "a1b452cbfd55431a4ad3acc06320609e",
     "title": "Раскрыта удивительная связь между здоровьем рта и циррозом печени",
     "url": "https://lenta.ru/news/2026/04/01/raskryta-udivitelnaya-svyaz-mezhdu-zdoroviem-rta-i-tsirrozom-pecheni/",
@@ -2390,5 +2382,13 @@
     "source": "RT",
     "pub_dt": "2026-04-02T23:22:00+00:00",
     "no_image": false
+  },
+  {
+    "id": "14a470183545c93ecc566fa591b7e967",
+    "title": "Парень перестал делить постель со своей девушкой по неожиданной причине",
+    "url": "https://lenta.ru/news/2026/04/03/paren-perestal-delit-postel-so-svoey-devushkoy-po-neozhidannoy-prichine/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T23:30:33+00:00",
+    "no_image": true
   }
 ]
