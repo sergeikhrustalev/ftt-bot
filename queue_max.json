@@ -1,13 +1,5 @@
 [
   {
-    "id": "1e110c1009bd3f5b81acba50bc8926dc",
-    "title": "Роскосмос нарастит темпы запуска спутников на орбиту в 2026 году",
-    "url": "https://tass.ru/kosmos/26960227",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:07:56+00:00",
-    "no_image": false
-  },
-  {
     "id": "36c5eb75c8bc2dbb7a3e5d2ca4f9e919",
     "title": "Жителя Омска осудили на 3,5 года за помощь мошенникам в обмане пенсионеров",
     "url": "https://tass.ru/proisshestviya/26960215",
@@ -2390,5 +2382,13 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-02T21:51:39+00:00",
     "no_image": false
+  },
+  {
+    "id": "ffc7462131f6d364f2c7ac246e1303d4",
+    "title": "Людей с одной проблемой со сном предупредили о сокращении жизни на семь лет",
+    "url": "https://lenta.ru/news/2026/04/03/lyudey-s-odnoy-problemoy-so-snom-predupredili-o-sokraschenii-zhizni-na-sem-let/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T22:00:31+00:00",
+    "no_image": true
   }
 ]
