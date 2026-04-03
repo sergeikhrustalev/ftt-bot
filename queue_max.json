@@ -1,13 +1,5 @@
 [
   {
-    "id": "6c16ea904c70bd12b1cfed805099b9b7",
-    "title": "Названа причина невостребованности в Китае лидеров автопродаж в России",
-    "url": "https://lenta.ru/news/2026/04/01/nazvana-prichina-nevostrebovannosti-v-kitae-liderov-avtoprodazh-v-rossii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T11:10:57+00:00",
-    "no_image": true
-  },
-  {
     "id": "3e5d35b8bb86df00feaa4cdcba57285b",
     "title": "Пентагон обсуждает с Данией получение доступа на военные базы в Гренландии",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187137-pentagon-obsuzhdaet-daniei",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/beremennaya-styuardessa-oshparilas-kipyatkom-iz-za-vzorvavshegosya-paketa-s-kofe/",
     "source": "Лента",
     "pub_dt": "2026-04-03T13:05:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "28fe4518b0147fea76b7e0517899bf02",
+    "title": "В Германии резко подорожал один вид топлива",
+    "url": "https://lenta.ru/news/2026/04/03/v-germanii-rezko-podorozhal-odin-vid-topliva/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T13:11:38+00:00",
     "no_image": true
   }
 ]
