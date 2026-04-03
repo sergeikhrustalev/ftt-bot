@@ -1,13 +1,5 @@
 [
   {
-    "id": "84e2e0a061a039825746d305f64a70de",
-    "title": "Выбраны самые смешные названия населенных пунктов в России",
-    "url": "https://lenta.ru/news/2026/04/01/vybrany-samye-smeshnye-nazvaniya-naselennyh-punktov-v-rossii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T17:01:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "25060e358685ac8aedea05dab73b0d1a",
     "title": "Букмекеры назвали участников плей-офф ЧМ-2026",
     "url": "https://lenta.ru/news/2026/04/01/bukmekery-nazvali-uchastnikov-pley-off-chm-2026/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/proisshestviya/26998111",
     "source": "ТАСС",
     "pub_dt": "2026-04-03T18:50:47+00:00",
+    "no_image": false
+  },
+  {
+    "id": "4b04e9169b76e47bb0549459cf587aff",
+    "title": "Баскетболисты \"Локомотива-Кубани\" обыграли МБА-МАИ в матче Единой лиги ВТБ",
+    "url": "https://ria.ru/20260403/basketbol-2085130476.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-03T19:00:17+00:00",
     "no_image": false
   }
 ]
