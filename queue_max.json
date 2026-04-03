@@ -1,13 +1,5 @@
 [
   {
-    "id": "7664d0ded751fc9ae4ee7a5cb7eafdb9",
-    "title": "В России разрешили строить деревянные пятиэтажки",
-    "url": "https://lenta.ru/news/2026/04/01/v-rossii-razreshili-stroit-derevyannye-pyatietazhki/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T15:53:50+00:00",
-    "no_image": true
-  },
-  {
     "id": "4d27f8cb330d06c44225fcebfadd7f14",
     "title": "Недельная инфляция в России с 24 по 30 марта составила 0,17%",
     "url": "https://www.vedomosti.ru/economics/news/2026/04/01/1187251-nedelnaya-inflyatsiya",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/politics/news/2026/04/03/1187892-40-bespilotnikov",
     "source": "Ведомости",
     "pub_dt": "2026-04-03T17:40:37+00:00",
+    "no_image": false
+  },
+  {
+    "id": "35d593e2813bdbd645bff5e54be67700",
+    "title": "Над регионами России сбили 40 украинских БПЛА",
+    "url": "https://tass.ru/armiya-i-opk/26997809",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-03T17:50:54+00:00",
     "no_image": false
   }
 ]
