@@ -1,13 +1,5 @@
 [
   {
-    "id": "64007e50450ec6825c0fe52d78c10c33",
-    "title": "Нарышкин рассказал о контактах с ЦРУ по теме Ирана",
-    "url": "https://ria.ru/20260401/svr-2084214308.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T08:15:24+00:00",
-    "no_image": false
-  },
-  {
     "id": "7bfa612c99b7a7a2ead97da85b55e553",
     "title": "Нарышкин: Киев не умеет соблюдать обязательства в рамках перемирий",
     "url": "https://tass.ru/politika/26960431",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/tramp-potreboval-ot-irana-nemedlennoy-sdelki-i-prigrozil-unichtozheniem-mostov/",
     "source": "Лента",
     "pub_dt": "2026-04-03T03:20:49+00:00",
+    "no_image": true
+  },
+  {
+    "id": "634ea5300434ffd49ecaeed8b965948c",
+    "title": "В четырех российских регионах отразили атаку беспилотников",
+    "url": "https://lenta.ru/news/2026/04/03/v-chetyreh-rossiyskih-regionah-otrazili-ataku-bespilotnikov/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T03:31:00+00:00",
     "no_image": true
   }
 ]
