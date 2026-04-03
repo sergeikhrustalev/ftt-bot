@@ -1,13 +1,5 @@
 [
   {
-    "id": "cfd3da0f769a57fa74a25089b15cf613",
-    "title": "В Крыму идут поисковые мероприятия после крушения самолёта Ан-26",
-    "url": "https://russian.rt.com/russia/news/1614239-krym-krushenie-an26-poisk?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T08:15:09+00:00",
-    "no_image": false
-  },
-  {
     "id": "cfc2316f6c857f41ee31a23d94ef65f0",
     "title": "Роструд восстановил права более 320 тыс. человек в 2025 году",
     "url": "https://tass.ru/ekonomika/26960399",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/ekspert-po-zhestam-otsenila-povedenie-trampa-vo-vremya-rechi-po-iranu/",
     "source": "Лента",
     "pub_dt": "2026-04-03T02:58:18+00:00",
+    "no_image": true
+  },
+  {
+    "id": "44e354f4dcf4d40e9016dba04b26557e",
+    "title": "Настоятеля храма уличили в непристойных ритуалах",
+    "url": "https://lenta.ru/news/2026/04/03/nastoyatelya-hrama-ulichili-v-nepristoynyh-ritualah/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T03:00:15+00:00",
     "no_image": true
   }
 ]
