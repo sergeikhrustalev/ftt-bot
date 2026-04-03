@@ -1,13 +1,5 @@
 [
   {
-    "id": "3f749fdf9a92e04fb77f8f358bfa393e",
-    "title": "В России арестовали основателя трех ЧВК. Его бойцов подозревали в подготовке переворота в Белоруссии",
-    "url": "https://lenta.ru/news/2026/04/01/osnovatelya-chvk-yastreb-obvinili-v-obmane-kontraktnikov-1/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T11:43:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "a7ed1d2210737a84088b915ccc45aa9b",
     "title": "Фетисов заявил о готовности России провести Олимпиаду",
     "url": "https://lenta.ru/news/2026/04/01/fetisov-zayavil-o-gotovnosti-rossii-provesti-olimpiadu/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/u-zhenschiny-razneslo-rot-posle-chistki-zubov/",
     "source": "Лента",
     "pub_dt": "2026-04-03T13:30:19+00:00",
+    "no_image": true
+  },
+  {
+    "id": "70b5ecdecd8db83cdce0fec5eb9b410d",
+    "title": "Москвичам рассказали о погоде в выходные",
+    "url": "https://lenta.ru/news/2026/04/03/moskvicham-rasskazali-o-pogode-na-vyhodnyh/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T13:42:00+00:00",
     "no_image": true
   }
 ]
