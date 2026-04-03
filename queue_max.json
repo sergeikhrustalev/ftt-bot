@@ -1,13 +1,5 @@
 [
   {
-    "id": "cfd436d859dd0b3c09122cb26cfb239b",
-    "title": "Один из самых богатых спортсменов мира прокомментировал свой арест",
-    "url": "https://lenta.ru/news/2026/04/01/odin-iz-samyh-bogatyh-sportsmenov-mira-prokommentiroval-svoy-arest/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:37:59+00:00",
-    "no_image": true
-  },
-  {
     "id": "95913afef2d5d67f9c40d2706f0ce481",
     "title": "Настроения в российской промышленности ухудшились",
     "url": "https://lenta.ru/news/2026/04/01/upalo/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/evropeyskie-aviakompanii-nachali-otmenyat-reysy-iz-za-situatsii-s-toplivom/",
     "source": "Лента",
     "pub_dt": "2026-04-03T09:32:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "2a49f97cd6da309a77e33fe125c27b05",
+    "title": "На Западе заявили об ударе Ирана по самому уязвимому месту Трампа",
+    "url": "https://lenta.ru/news/2026/04/03/na-zapade-zayavili-ob-udare-irana-po-samomu-uyazvimomu-mestu-trampa/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T09:42:00+00:00",
     "no_image": true
   }
 ]
