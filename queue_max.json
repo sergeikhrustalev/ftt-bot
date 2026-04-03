@@ -1,13 +1,5 @@
 [
   {
-    "id": "a2f863505593a65061a79051fd8761a2",
-    "title": "Нарышкин рассказал о контактах СВР и ЦРУ по поводу Ирана",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187074-o-kontaktah-tsru",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T08:31:44+00:00",
-    "no_image": false
-  },
-  {
     "id": "b6d683ff35d517d445319f1a8b5a4337",
     "title": "Раскрыта причина стрельбы в российской школе",
     "url": "https://lenta.ru/news/2026/04/01/raskryta-prichina-strelby-v-rossiyskoy-shkole/",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-03T08:41:44+00:00",
     "no_image": false
+  },
+  {
+    "id": "e171e2c7f93e49dd4b28ba7f0a541f8f",
+    "title": "Скидки на смартфоны Xiaomi отменили",
+    "url": "https://lenta.ru/news/2026/04/03/no-sales/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T08:51:00+00:00",
+    "no_image": true
   }
 ]
