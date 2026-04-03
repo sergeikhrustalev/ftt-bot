@@ -1,13 +1,5 @@
 [
   {
-    "id": "82f00bc661865cc59d8cde897557eade",
-    "title": "Россиян предупредили о росте цен на авиабилеты до 15 процентов",
-    "url": "https://lenta.ru/news/2026/04/01/rossiyan-predupredili-o-roste-tsen-na-aviabilety-do-15-protsentov/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:17:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "c3cc3491bb17d1cc787c85595af9d941",
     "title": "Доктор Мясников призвал россиян не заморачиваться с температурой",
     "url": "https://lenta.ru/news/2026/04/01/temperatura/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T04:30:20+00:00",
     "no_image": true
+  },
+  {
+    "id": "b69ed6aed43019779708e539aed0efbd",
+    "title": "В Ульяновской области сошел с рельсов поезд Москва – Челябинск",
+    "url": "https://www.vedomosti.ru/society/news/2026/04/03/1187638-soshel-poezd",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-03T04:42:27+00:00",
+    "no_image": false
   }
 ]
