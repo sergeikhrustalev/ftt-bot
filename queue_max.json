@@ -1,13 +1,5 @@
 [
   {
-    "id": "2a16e865aa26ee4cd8889558983cfd7c",
-    "title": "Лукашенко: Белоруссия готовится к войне, хотя не хочет ее",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187121-belorussiya-gotovitsya",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T10:50:29+00:00",
-    "no_image": false
-  },
-  {
     "id": "d6a544f2884b93d833c498d71e5e6fb3",
     "title": "Украина стала импортировать меньше газа",
     "url": "https://lenta.ru/news/2026/04/01/ukraina-stala-importirovat-menshe-gaza/",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-03T12:40:45+00:00",
     "no_image": false
+  },
+  {
+    "id": "c9bc063f951ca7df946c919c7c878ba7",
+    "title": "12 тонн украденных батончиков KitKat решили искать с помощью любителей сладостей",
+    "url": "https://lenta.ru/news/2026/04/03/12-tonn-ukradennyh-batonchikov-kitkat-reshili-iskat-s-pomoschyu-lyubiteley-sladostey/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T12:52:00+00:00",
+    "no_image": true
   }
 ]
