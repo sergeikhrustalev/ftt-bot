@@ -1,13 +1,5 @@
 [
   {
-    "id": "95913afef2d5d67f9c40d2706f0ce481",
-    "title": "Настроения в российской промышленности ухудшились",
-    "url": "https://lenta.ru/news/2026/04/01/upalo/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:42:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "10cdfe7ab2c95c6851f807981365fbb0",
     "title": "«Вкусвилл» закрыл почти 300 магазинов в 2025 году",
     "url": "https://www.vedomosti.ru/business/news/2026/04/01/1187075-vkusvill-zakril",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/na-zapade-zayavili-ob-udare-irana-po-samomu-uyazvimomu-mestu-trampa/",
     "source": "Лента",
     "pub_dt": "2026-04-03T09:42:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "05ad88f2ada51cedf1b4fc1f4f39b587",
+    "title": "Внешность лысеющего мужчины после стрижки взорвала соцсети",
+    "url": "https://lenta.ru/news/2026/04/03/vneshnost-lyseyuschego-muzhchiny-posle-strizhki-vzorvala-sotsseti/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T09:51:00+00:00",
     "no_image": true
   }
 ]
