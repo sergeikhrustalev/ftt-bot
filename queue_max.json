@@ -1,13 +1,5 @@
 [
   {
-    "id": "e10b2483a28ebd13268d39d049fe2383",
-    "title": "Орешкин предрек \"смерть\" традиционного банкинга",
-    "url": "https://tass.ru/ekonomika/26960359",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:12:00+00:00",
-    "no_image": false
-  },
-  {
     "id": "f45d5a47fc36404d15ccafa2381add55",
     "title": "Жителей одного российского региона предупредили о масштабном половодье",
     "url": "https://lenta.ru/news/2026/04/01/altay-voda/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T00:00:24+00:00",
     "no_image": true
+  },
+  {
+    "id": "24aa8c4a42e9d2e3fd3deabff4565063",
+    "title": "В Пулково ввели ограничения",
+    "url": "https://russian.rt.com/russia/news/1615059-pulkovo-vveli-ogranicheniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-03T00:12:15+00:00",
+    "no_image": false
   }
 ]
