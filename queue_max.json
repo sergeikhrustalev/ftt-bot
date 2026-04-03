@@ -1,13 +1,5 @@
 [
   {
-    "id": "d5ccb4b4add1564e3158fa002a108333",
-    "title": "Арсенал США оценили на восемь дней войны с Китаем",
-    "url": "https://lenta.ru/news/2026/04/01/arsenal-ssha-otsenili-na-vosem-dney-voyny-s-kitaem/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T13:41:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "10a09acc7d06f915637d0be622edbb62",
     "title": "Бастрыкин раскрыл динамику по несовершеннолетним террористам",
     "url": "https://lenta.ru/news/2026/04/01/bastrykin-raskryl-dinamiku-po-nesovershennoletnim-terroristam/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/krupneyshiy-proizvoditel-alyuminiya-nazval-sroki-vosstanovleniya-zavoda-posle-ataki-irana/",
     "source": "Лента",
     "pub_dt": "2026-04-03T15:33:49+00:00",
+    "no_image": true
+  },
+  {
+    "id": "9732fbd07e9b400ffbe0a6d09ed101cf",
+    "title": "Россию похвалили за подход в международных делах",
+    "url": "https://lenta.ru/news/2026/04/03/rossiyu-pohvalili-za-podhod-v-mezhdunarodnyh-delah/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T15:41:00+00:00",
     "no_image": true
   }
 ]
