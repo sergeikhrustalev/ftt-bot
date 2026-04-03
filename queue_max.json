@@ -1,13 +1,5 @@
 [
   {
-    "id": "6280fd3b4bd9e22222e1ce466e6bae02",
-    "title": "На Кубани ущерб от массовой гибели рыбы превысил 50 млн рублей",
-    "url": "https://tass.ru/proisshestviya/26960383",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:16:16+00:00",
-    "no_image": false
-  },
-  {
     "id": "bb44d5d05c30c50e69bc3d8b26d23a34",
     "title": "Инфантино встретился с футболистами сборной Ирана",
     "url": "https://tass.ru/sport/26960445",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/muzhchinam-starshe-65-let-nazvali-normalnuyu-prodolzhitelnost-seksa/",
     "source": "Лента",
     "pub_dt": "2026-04-03T04:00:50+00:00",
+    "no_image": true
+  },
+  {
+    "id": "d046ae03fff5252ae7cf84a3c69c9ca9",
+    "title": "Две группы диверсантов ликвидировали в ДНР",
+    "url": "https://lenta.ru/news/2026/04/03/dve-gruppy-diversantov-likvidirovali-v-dnr/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T04:14:37+00:00",
     "no_image": true
   }
 ]
