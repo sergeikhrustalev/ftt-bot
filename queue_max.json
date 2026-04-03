@@ -1,13 +1,5 @@
 [
   {
-    "id": "b0abe6cf87639bb3a13368fb50d6d68f",
-    "title": "Нарышкин призвал Зеленского собрать остатки критического мышления",
-    "url": "https://ria.ru/20260401/naryshkin-2084214086.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T08:14:24+00:00",
-    "no_image": false
-  },
-  {
     "id": "16e6d48ec6977529ef6ad1b709ea6b85",
     "title": "Набиуллина предрекла переход финсервисов в платформы из нишевых банков",
     "url": "https://russian.rt.com/business/news/1614243-nabiullina-finansy-bank?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/v-lenoblasti-pri-atake-bespilotnikov-postradali-dva-cheloveka/",
     "source": "Лента",
     "pub_dt": "2026-04-03T02:21:55+00:00",
+    "no_image": true
+  },
+  {
+    "id": "d0980f0c6df853e807d0e25f9f0fe81b",
+    "title": "На Бали встревожились из-за волны изнасилований и расправ над туристами",
+    "url": "https://lenta.ru/news/2026/04/03/na-bali-vstrevozhilis-iz-za-volny-iznasilovaniy-i-rasprav-nad-turistami/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T02:30:53+00:00",
     "no_image": true
   }
 ]
