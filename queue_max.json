@@ -1,13 +1,5 @@
 [
   {
-    "id": "a58a56a5438f5d4b2329860a822a7c69",
-    "title": "Одно действие детей с доступной одеждой назвали смертельно опасным",
-    "url": "https://lenta.ru/news/2026/04/01/odno-deystvie-detey-s-dostupnoy-odezhdoy-nazvali-smertelno-opasnym/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T15:12:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "66f1e52b47e2694130e45174e0771cd8",
     "title": "Пашинян обсудил с Путиным ограничения интернета",
     "url": "https://lenta.ru/news/2026/04/01/pashinyan-obsudil-s-putinym-ogranicheniya-interneta/",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-03T17:00:56+00:00",
     "no_image": false
+  },
+  {
+    "id": "352c22ba174d777616251b097141f205",
+    "title": "Российская пара намеренно заморила родного ребенка голодом",
+    "url": "https://lenta.ru/news/2026/04/03/rossiyskaya-para-namerenno-zamorila-rodnogo-rebenka-golodom/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T17:11:33+00:00",
+    "no_image": true
   }
 ]
