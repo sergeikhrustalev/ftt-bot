@@ -1,13 +1,5 @@
 [
   {
-    "id": "bb65129611b840ad295711165858fc4c",
-    "title": "Выручка ЮГК по РСБУ выросла на 7% в 2025 году",
-    "url": "https://www.vedomosti.ru/investments/news/2026/04/01/1187167-viruchka-yugk",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T12:20:39+00:00",
-    "no_image": false
-  },
-  {
     "id": "fbdd6c1426f23f80a5c249526187ddaa",
     "title": "Российская полицейская получила взятку от свидетеля под камерой ФСБ",
     "url": "https://lenta.ru/news/2026/04/01/rossiyskaya-politseyskaya-poluchila-vzyatku-ot-svidetelya-pod-kameroy-fsb/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T14:10:33+00:00",
     "no_image": true
+  },
+  {
+    "id": "142d25e6f2f7bf17d3cc100f60f3c33b",
+    "title": "Продажи новых LCV в марте снизились на 15%",
+    "url": "https://www.vedomosti.ru/auto/news/2026/04/03/1187828-kommercheskih-mashin",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-03T14:21:45+00:00",
+    "no_image": false
   }
 ]
