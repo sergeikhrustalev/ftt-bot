@@ -1,13 +1,5 @@
 [
   {
-    "id": "9766f22a7e771a593c3af57de4be14aa",
-    "title": "В Вербное воскресенье до кладбищ Москвы будут ходить бесплатные автобусы",
-    "url": "https://tass.ru/obschestvo/26960283",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:18:20+00:00",
-    "no_image": false
-  },
-  {
     "id": "c2ea2eb90b1ae67112bd8b4fc07ee026",
     "title": "Производство востребованных на СВО новейших укороченных АК-12К выросло на 15%",
     "url": "https://tass.ru/armiya-i-opk/26960451",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/rossiyskim-medikam-prishlos-vezti-patsientku-na-sadovoy-telezhke-po-odnoy-prichine/",
     "source": "Лента",
     "pub_dt": "2026-04-03T05:24:41+00:00",
+    "no_image": true
+  },
+  {
+    "id": "ce2425240df6dbf1c6784f3c21dd0533",
+    "title": "Сексолог посоветовала женщинам неочевидный способ мастурбации",
+    "url": "https://lenta.ru/news/2026/04/03/seksolog-posovetovala-zhenschinam-neochevidnyy-sposob-masturbatsii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T05:30:31+00:00",
     "no_image": true
   }
 ]
