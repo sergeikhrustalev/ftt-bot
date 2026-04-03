@@ -1,13 +1,5 @@
 [
   {
-    "id": "de700e2132cc87e70b1b79c12e4a798a",
-    "title": "В России предложили ввести налоговый вычет на страховку по ипотеке",
-    "url": "https://lenta.ru/news/2026/04/01/v-rossii-predlozhili-vvesti-nalogovyy-vychet-na-strahovku-po-ipoteke/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T14:50:24+00:00",
-    "no_image": true
-  },
-  {
     "id": "530b033e2777bfb9e58de2b46d3ecff7",
     "title": "В Microsoft попросили не ругать обновления Windows",
     "url": "https://lenta.ru/news/2026/04/01/updates/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260403/matvienko-2085115143.html",
     "source": "РИА",
     "pub_dt": "2026-04-03T16:40:59+00:00",
+    "no_image": false
+  },
+  {
+    "id": "7a26f1b146e64e3f9ff1f373af4c4288",
+    "title": "Запрета абортов в России не будет, заявила Матвиенко",
+    "url": "https://ria.ru/20260403/matvienko-2085116199.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-03T16:50:38+00:00",
     "no_image": false
   }
 ]
