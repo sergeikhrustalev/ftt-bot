@@ -1,13 +1,5 @@
 [
   {
-    "id": "d6a544f2884b93d833c498d71e5e6fb3",
-    "title": "Украина стала импортировать меньше газа",
-    "url": "https://lenta.ru/news/2026/04/01/ukraina-stala-importirovat-menshe-gaza/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T11:00:43+00:00",
-    "no_image": true
-  },
-  {
     "id": "6c16ea904c70bd12b1cfed805099b9b7",
     "title": "Названа причина невостребованности в Китае лидеров автопродаж в России",
     "url": "https://lenta.ru/news/2026/04/01/nazvana-prichina-nevostrebovannosti-v-kitae-liderov-avtoprodazh-v-rossii/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/12-tonn-ukradennyh-batonchikov-kitkat-reshili-iskat-s-pomoschyu-lyubiteley-sladostey/",
     "source": "Лента",
     "pub_dt": "2026-04-03T12:52:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "4b97a1caee471a406e7766bcb0f2221e",
+    "title": "Беременная стюардесса ошпарилась кипятком из-за взорвавшегося пакета с кофе",
+    "url": "https://lenta.ru/news/2026/04/03/beremennaya-styuardessa-oshparilas-kipyatkom-iz-za-vzorvavshegosya-paketa-s-kofe/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T13:05:00+00:00",
     "no_image": true
   }
 ]
