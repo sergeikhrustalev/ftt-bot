@@ -1,13 +1,5 @@
 [
   {
-    "id": "2672fd605742b91f6518d9a5141d8490",
-    "title": "В России заявили о переходе «нескольких Швейцарий» под контроль в зоне СВО",
-    "url": "https://lenta.ru/news/2026/04/01/v-rossii-zayavili-o-perehode-neskolkih-shveytsariy-pod-kontrol-v-zone-svo/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:27:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "cccf6866bf098cc2d0f52d5955fad80e",
     "title": "Орешкин: платформенная экономика снизит транзакционные издержки для бизнеса",
     "url": "https://www.vedomosti.ru/business/news/2026/04/01/1187065-snizit-izderzhki",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/vozrozhdennyy-rossiyskiy-avtobrend-anonsiroval-prodazhi-novoy-modeli/",
     "source": "Лента",
     "pub_dt": "2026-04-03T08:01:47+00:00",
+    "no_image": true
+  },
+  {
+    "id": "07368bee1933b10b1b745b767c553835",
+    "title": "Трамп пошел на обман окружения перед атакой на Иран",
+    "url": "https://lenta.ru/news/2026/04/03/tramp-poshel-na-obman-okruzheniya-pered-atakoy-na-iran/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T08:12:00+00:00",
     "no_image": true
   }
 ]
