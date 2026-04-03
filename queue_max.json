@@ -1,13 +1,5 @@
 [
   {
-    "id": "3092d7e0bed4a251f6974d8d21512707",
-    "title": "Сексолог посоветовала мужчинам способ стать увереннее в себе",
-    "url": "https://lenta.ru/news/2026/04/01/seksolog-posovetovala-muzhchinam-sposob-stat-uverennee-v-sebe/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T15:34:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "a3c3e2e7fd8e3dd1569e9df073198504",
     "title": "Ревнивая россиянка достала ножом до мозга возлюбленного",
     "url": "https://lenta.ru/news/2026/04/01/revnivaya-rossiyanka-p/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260403/dtp-2021500562.html",
     "source": "РИА",
     "pub_dt": "2026-04-03T17:20:50+00:00",
+    "no_image": false
+  },
+  {
+    "id": "5944cda910042715d41025b0ef111ac9",
+    "title": "Стоимость проезда по МСД проиндексируют на 4 рубля за участок с 10 апреля",
+    "url": "https://tass.ru/ekonomika/26997781",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-03T17:30:47+00:00",
     "no_image": false
   }
 ]
