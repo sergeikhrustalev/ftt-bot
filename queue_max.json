@@ -1,13 +1,5 @@
 [
   {
-    "id": "16e73eb3b3890cca31e38bc426575d31",
-    "title": "Волочкова резко ответила заявившему о ее скорой смерти наркологу",
-    "url": "https://lenta.ru/news/2026/04/01/volochkova-rezko-otvetila-zayavivshemu-o-ee-skoroy-smerti-narkologu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T08:46:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "344afdb8f5daf4da97cee724475e56e5",
     "title": "В соседней с Украиной стране захотели отменить чрезвычайное положение",
     "url": "https://lenta.ru/news/2026/04/01/v-sosedney-s-ukrainoy-strane-zahoteli-otmenit-chrezvychaynoe-polozhenie/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/v-gosdume-nashli-sposob-reshit-problemu-s-etnicheskimi-anklavami/",
     "source": "Лента",
     "pub_dt": "2026-04-03T10:21:25+00:00",
+    "no_image": true
+  },
+  {
+    "id": "96ddc3a94b1f04484c46bdfd6268d8f5",
+    "title": "Макрон призвал объединиться против США и Китая",
+    "url": "https://lenta.ru/news/2026/04/03/makron-prizval-ob-edinitsya-protiv-ssha-i-kitaya/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T10:31:00+00:00",
     "no_image": true
   }
 ]
