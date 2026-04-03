@@ -1,13 +1,5 @@
 [
   {
-    "id": "3755ea2429238e4c2f8c678519a9b493",
-    "title": "В России анонсировали восстановление ЛНР",
-    "url": "https://lenta.ru/news/2026/04/01/vosstanovlenye/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T10:10:41+00:00",
-    "no_image": true
-  },
-  {
     "id": "bf21affb0bf8a1f49d1c3defd1896dc1",
     "title": "Россияне назвали мотивацию работать",
     "url": "https://lenta.ru/news/2026/04/01/rossiyane-nazvali-motivatsiyu-rabotat/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/minprosvescheniya-vneslo-izmeneniya-v-sdachu-ege-dlya-nekotoryh-rossiyskih-regionov/",
     "source": "Лента",
     "pub_dt": "2026-04-03T12:01:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "06828552bdd30fca2ca5f29a675c17ca",
+    "title": "Зеленский захотел помочь разблокировать Ормузский пролив",
+    "url": "https://lenta.ru/news/2026/04/03/zelenskiy-zahotel-pomoch-razblokirovat-ormuzskiy-proliv/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T12:12:00+00:00",
     "no_image": true
   }
 ]
