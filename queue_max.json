@@ -1,13 +1,5 @@
 [
   {
-    "id": "cd1d0422adf56034034801b07f4529f7",
-    "title": "В Курской области осудили подрядчиков за растрату на фортификациях",
-    "url": "https://tass.ru/proisshestviya/26960439",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:17:02+00:00",
-    "no_image": false
-  },
-  {
     "id": "a437ec57d80157696c69bdce54876563",
     "title": "В Катаре обстреляли танкер с мазутом",
     "url": "https://ria.ru/20260401/katar-2084214770.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/03/v-mid-nazvali-kratchayshiy-put-uregulirovaniya-na-ukraine/",
     "source": "Лента",
     "pub_dt": "2026-04-03T04:52:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "a8ed143a1e37079c69cc4ec70c76edfd",
+    "title": "Иран заявил об уничтожении американского F-35",
+    "url": "https://lenta.ru/news/2026/04/03/iran-zayavil-ob-unichtozhenii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T05:04:00+00:00",
     "no_image": true
   }
 ]
