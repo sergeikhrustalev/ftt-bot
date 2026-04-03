@@ -1,13 +1,5 @@
 [
   {
-    "id": "25060e358685ac8aedea05dab73b0d1a",
-    "title": "Букмекеры назвали участников плей-офф ЧМ-2026",
-    "url": "https://lenta.ru/news/2026/04/01/bukmekery-nazvali-uchastnikov-pley-off-chm-2026/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T17:13:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "a0bdd2422b5f1979b1502b496a546ba9",
     "title": "ВВП России в феврале снизился на 1,5%",
     "url": "https://www.vedomosti.ru/economics/news/2026/04/01/1187264-vvp-rossii-snizilsya",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260403/basketbol-2085130476.html",
     "source": "РИА",
     "pub_dt": "2026-04-03T19:00:17+00:00",
+    "no_image": false
+  },
+  {
+    "id": "a35817bfdc7118498722a798affcc3f8",
+    "title": "Главу Токсовского поселения задержали по делу о получении взятки",
+    "url": "https://ria.ru/20260403/vzyatka-2085131200.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-03T19:10:48+00:00",
     "no_image": false
   }
 ]
