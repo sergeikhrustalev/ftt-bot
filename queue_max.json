@@ -1,13 +1,5 @@
 [
   {
-    "id": "d9f2bf2eedf9f81f066e9e80b12f9026",
-    "title": "CBOS: большинство поляков осуждают нападение США и Израиля на Иран",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26960059",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-01T08:04:08+00:00",
-    "no_image": false
-  },
-  {
     "id": "70353e4a155996e91d9e4b5f443e0e73",
     "title": "ГД приоритетно обсудит выдворение иностранцев за отдельные правонарушения",
     "url": "https://ria.ru/20260401/volodin-2084211303.html",
@@ -2390,5 +2382,13 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-02T19:51:34+00:00",
     "no_image": false
+  },
+  {
+    "id": "231801fd9b26d658308b02370eb021e0",
+    "title": "До 800 российских беспилотников в ближайшее время могут ударить по Украине",
+    "url": "https://lenta.ru/news/2026/04/03/do-800-rossiyskih-bespilotnikov-v-blizhayshee-vremya-mogut-udarit-po-ukraine/",
+    "source": "Лента",
+    "pub_dt": "2026-04-02T20:01:00+00:00",
+    "no_image": true
   }
 ]
