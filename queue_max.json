@@ -1,13 +1,5 @@
 [
   {
-    "id": "3b11fe9d554e964b9c84a5e638c72237",
-    "title": "Назван самый высокооплачиваемый спортсмен в истории",
-    "url": "https://lenta.ru/news/2026/04/02/nazvan-samyy-vysokooplachivaemyy-sportsmen-v-istorii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T08:52:11+00:00",
-    "no_image": true
-  },
-  {
     "id": "b60e19790c12fdb72125f9018962d218",
     "title": "«Русгидро» не будет платить дивиденды до стабилизации финансового состояния",
     "url": "https://www.vedomosti.ru/investments/news/2026/04/02/1187383-rusgidro-dividendi",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/video-s-zabytoy-v-sushilnoy-mashine-ruchkoy-opisali-v-seti-frazoy-samoe-strashnoe-za-den/",
     "source": "Лента",
     "pub_dt": "2026-04-04T10:33:26+00:00",
+    "no_image": true
+  },
+  {
+    "id": "56f4ecb493e7c097946e6fdd3157215e",
+    "title": "Бельгия обвинила Европу в закладывании бомбы под НАТО",
+    "url": "https://lenta.ru/news/2026/04/04/belgiya-obvinila-evropu-v-zakladyvanii-bomby-pod-nato/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T10:45:45+00:00",
     "no_image": true
   }
 ]
