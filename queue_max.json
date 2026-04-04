@@ -1,13 +1,5 @@
 [
   {
-    "id": "21a9cc8ac33dd12ea00ebdfb85729daf",
-    "title": "Иностранка получила дело в России из-за «лекарства для спины»",
-    "url": "https://lenta.ru/news/2026/04/02/inostranke-grozit-srok-v-rossii-iz-za-lekarstva-dlya-spiny/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T10:03:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "1acf9d21eacb7537d781afa5e82f53d7",
     "title": "Одинокие россияне ушли на СВО и остались без денег",
     "url": "https://lenta.ru/news/2026/04/02/odinokih-rossiyan-zastavili-poyti/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-04T11:41:16+00:00",
     "no_image": true
+  },
+  {
+    "id": "e6f3fa294cb5e2dbaccc143d41714d73",
+    "title": "Адмирал в отставке Гюрдениз обвинил НАТО в стремлении стравить Турцию и Россию",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27001649",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T11:50:25+00:00",
+    "no_image": false
   }
 ]
