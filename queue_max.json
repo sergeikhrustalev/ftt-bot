@@ -1,13 +1,5 @@
 [
   {
-    "id": "b077d2b70f982e4c0d6b70e817ee6b7a",
-    "title": "Первая за 50 лет пилотируемая миссия к Луне стартовала во Флориде",
-    "url": "https://www.vedomosti.ru/technology/news/2026/04/02/1187322-pervaya-za-50-let",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T03:50:59+00:00",
-    "no_image": false
-  },
-  {
     "id": "2560126ce1d4922302e7322b486e7343",
     "title": "Женщина рассказала о евшем ее плоть партнере-каннибале",
     "url": "https://lenta.ru/news/2026/04/02/zhenschina-rasskazala-o-evshem-ee-plot-partnere-kannibale/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/stol-2084797059.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T05:32:00+00:00",
+    "no_image": false
+  },
+  {
+    "id": "cda05a3001ea63ec958de6219caf1512",
+    "title": "\"Ждали вовсе не этого\": находка в Иерусалиме разрушила древний миф",
+    "url": "https://ria.ru/20260404/skelet-2085053919.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T05:42:00+00:00",
     "no_image": false
   }
 ]
