@@ -1,13 +1,5 @@
 [
   {
-    "id": "f42b5170be28fe99a5346ebf7c66eda1",
-    "title": "Названы последствия удара ВСУ по региону России в 1500 километрах от границы с Украиной",
-    "url": "https://lenta.ru/news/2026/04/02/nazvany-posledstviya-udara-vsu-po-regionu-rossii-v-1500-kilometrah-ot-granitsy-s-ukrainoy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T17:01:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "aea3f52b272cc08d5fb2f2478c7fb2d4",
     "title": "В Сочи и Сириусе объявили угрозу атаки беспилотников",
     "url": "https://ria.ru/20260402/ugroza-2084862101.html",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/moschnoe-unichtozhenie-ukrainskih-boytsov-v-ukrytii-snyali-na-video/",
     "source": "Лента",
     "pub_dt": "2026-04-04T18:41:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "9b6ac3363bf3a9b8019f627cc6bf5ded",
+    "title": "Звезда «Сумерек» назвал любимую часть саги",
+    "url": "https://lenta.ru/news/2026/04/04/zvezda-sumerek-nazval-lyubimuyu-chast-sagi/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T18:51:04+00:00",
     "no_image": true
   }
 ]
