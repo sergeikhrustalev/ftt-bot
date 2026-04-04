@@ -1,13 +1,5 @@
 [
   {
-    "id": "f069e8b6f496a49dbf81e974ea68c22a",
-    "title": "БПЛА ВСУ атаковали Краснодарский край",
-    "url": "https://lenta.ru/news/2026/04/02/bpla-vsu-atakovali-krasnodarskiy-kray/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T22:10:42+00:00",
-    "no_image": true
-  },
-  {
     "id": "334fb6ffce0d9721531a0f94ad0a5cb3",
     "title": "Раскрыта позиция разведки США по переговорам с Ираном",
     "url": "https://lenta.ru/news/2026/04/02/raskryta-pozitsiya-razvedki-ssha-po-peregovoram-s-iranom/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/gosduma-2085145387.html",
     "source": "РИА",
     "pub_dt": "2026-04-03T23:52:31+00:00",
+    "no_image": false
+  },
+  {
+    "id": "8707b5c9383dc82af6381947f3126793",
+    "title": "Ученый рассказал, когда на деревьях появятся первые листья",
+    "url": "https://ria.ru/20260404/listy-2085146226.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T00:00:25+00:00",
     "no_image": false
   }
 ]
