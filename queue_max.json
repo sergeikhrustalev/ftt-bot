@@ -1,13 +1,5 @@
 [
   {
-    "id": "7669d5b30f1f7030b098d1ab172a4f2c",
-    "title": "Чернышенко: сборку автомобилей ГАЗ на Кубе хотят возобновить в 2026 году",
-    "url": "https://russian.rt.com/world/news/1614583-chernyshenko-avtomobil-gaz-kuba?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-02T02:41:15+00:00",
-    "no_image": false
-  },
-  {
     "id": "2288fd68105f7dd45270dc951a61ddc8",
     "title": "Боец Врангель: пленный сдал позиции ВСУ и их маршруты в Бойково",
     "url": "https://russian.rt.com/ussr/news/1614585-boec-vrangel-plennyi-pozicii-vsu?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-04T04:21:07+00:00",
     "no_image": false
+  },
+  {
+    "id": "9cf3c96ef774dd041719c7c9155fce7e",
+    "title": "Букмекеры назвали финалистов Кубка Гагарина",
+    "url": "https://lenta.ru/news/2026/04/04/bukmekery-nazvali-finalistov-kubka-gagarina/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T04:31:14+00:00",
+    "no_image": true
   }
 ]
