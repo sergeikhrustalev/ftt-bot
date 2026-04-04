@@ -1,13 +1,5 @@
 [
   {
-    "id": "334fb6ffce0d9721531a0f94ad0a5cb3",
-    "title": "Раскрыта позиция разведки США по переговорам с Ираном",
-    "url": "https://lenta.ru/news/2026/04/02/raskryta-pozitsiya-razvedki-ssha-po-peregovoram-s-iranom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T22:24:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "1ba781e6e58497ef8ce867264821cb59",
     "title": "В России назвали причину интереса США к Армении",
     "url": "https://lenta.ru/news/2026/04/02/v-rossii-nazvali-prichinu-interesa-ssha-k-armenii/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/listy-2085146226.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T00:00:25+00:00",
+    "no_image": false
+  },
+  {
+    "id": "527fc954efa581809514a2afb034c046",
+    "title": "ФНПР не поддержала введение шестидневной рабочей недели",
+    "url": "https://tass.ru/obschestvo/26999193",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T00:10:51+00:00",
     "no_image": false
   }
 ]
