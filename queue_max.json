@@ -1,13 +1,5 @@
 [
   {
-    "id": "183859ca9ae095a9f425548f65679eeb",
-    "title": "Предсказаны последствия выхода США из НАТО",
-    "url": "https://lenta.ru/news/2026/04/02/predskazany-posledstviya-vyhoda-ssha-iz-nato/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T02:31:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "7669d5b30f1f7030b098d1ab172a4f2c",
     "title": "Чернышенко: сборку автомобилей ГАЗ на Кубе хотят возобновить в 2026 году",
     "url": "https://russian.rt.com/world/news/1614583-chernyshenko-avtomobil-gaz-kuba?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/iran-2085156238.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T04:10:59+00:00",
+    "no_image": false
+  },
+  {
+    "id": "ca0bd209675ec6e2057aabd7739065e9",
+    "title": "Силы ПВО за ночь уничтожили 85 БПЛА над регионами России",
+    "url": "https://ria.ru/20260404/bpla-2085157005.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T04:21:07+00:00",
     "no_image": false
   }
 ]
