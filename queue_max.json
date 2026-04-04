@@ -1,13 +1,5 @@
 [
   {
-    "id": "1590e0b8a8a082723e2868e29c58bbaf",
-    "title": "В аэропорту Казани ввели ограничения",
-    "url": "https://russian.rt.com/russia/news/1614553-aeroport-kazan-vveli-ogranicheniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T22:52:18+00:00",
-    "no_image": false
-  },
-  {
     "id": "b9704fae1b1ba5d0b26875f0f40da877",
     "title": "«Авторитарный принцип принятия решений»: что может стоять за предложением Еврокомиссии выделить Украине €45 млрд",
     "url": "https://russian.rt.com/world/article/1614492-evrokomissiya-vydelit-45-mlrd-ukraina?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/zarplata-2085147494.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T00:31:12+00:00",
+    "no_image": false
+  },
+  {
+    "id": "0c99eff400f15086727fc21f11d63cc3",
+    "title": "Трамп распорядился выплатить зарплаты всем сотрудникам МВБ",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26999249",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T00:40:57+00:00",
     "no_image": false
   }
 ]
