@@ -1,13 +1,5 @@
 [
   {
-    "id": "5a94dd8763420b09232deabfd46c40e0",
-    "title": "Верный пес защитил хозяев от медведя",
-    "url": "https://lenta.ru/news/2026/04/02/vernyy-pes-spas-hozyaev-ot-medvedya/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T15:52:26+00:00",
-    "no_image": true
-  },
-  {
     "id": "6f6f5d311485ef9bb7ed5fbaed59fc40",
     "title": "Активизировалось расследование махинаций бывшего сенатора в российской госкорпорации",
     "url": "https://lenta.ru/news/2026/04/02/aktivizirovalos-rassledovanie-mahinatsiy-byvshego-senatora-v-rossiyskoy-goskorporatsii/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/chechnya-2085227489.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T17:35:53+00:00",
+    "no_image": false
+  },
+  {
+    "id": "abf7e2f66471ca589f1d3857efcdb360",
+    "title": "СМИ раскрыли критерии США для будущего посла в России",
+    "url": "https://ria.ru/20260404/usa-2085228100.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T17:45:41+00:00",
     "no_image": false
   }
 ]
