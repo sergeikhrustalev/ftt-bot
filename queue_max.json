@@ -1,13 +1,5 @@
 [
   {
-    "id": "1e5e9cd892077db7c22241a6351ccb89",
-    "title": "В сети оценили фото 50-летнего Дэвида Бекхэма топлес из спортзала",
-    "url": "https://lenta.ru/news/2026/04/02/v-seti-otsenili-foto-50-letnego-devida-bekhema-toples-iz-sportzala/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T08:21:30+00:00",
-    "no_image": true
-  },
-  {
     "id": "6cc38184549827aca552752b3896dcd6",
     "title": "Описан момент удара ВСУ по региону России в 1500 километрах от границы с Украиной",
     "url": "https://lenta.ru/news/2026/04/02/opisan-moment-udara-vsu-po-regionu-rossii-v-1500-kilometrah-ot-granitsy-s-ukrainoy/",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-04T10:01:19+00:00",
     "no_image": false
+  },
+  {
+    "id": "dc14c01609c150a896f2f2e8369e97ee",
+    "title": "Иностранец получил ранения в результате атаки ВСУ на Таганрог",
+    "url": "https://lenta.ru/news/2026/04/04/inostranets-poluchil-raneniya-v-rezultate-ataki-vsu-na-taganrog/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T10:13:30+00:00",
+    "no_image": true
   }
 ]
