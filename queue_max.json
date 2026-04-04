@@ -1,13 +1,5 @@
 [
   {
-    "id": "19a4eb5802b822eb18f6f9b5a2123295",
-    "title": "Xiaomi намерена зарегистрировать в России товарный знак",
-    "url": "https://www.vedomosti.ru/business/news/2026/04/02/1187324-xiaomi-nameren",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T04:10:52+00:00",
-    "no_image": false
-  },
-  {
     "id": "0149b8e23f61f8320459f4baa3352cc8",
     "title": "Американский военный забил тревогу после обращения Трампа к нации",
     "url": "https://lenta.ru/news/2026/04/02/amerikanskiy-voennyy-zabil-trevogu-posle-obrascheniya-trampa-k-natsii/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/rossiyskie-boytsy-unichtozhili-bolee-100-dronov-vsu-baba-yaga/",
     "source": "Лента",
     "pub_dt": "2026-04-04T05:51:34+00:00",
+    "no_image": true
+  },
+  {
+    "id": "4effaa264981659e8b6812c72c65d7a9",
+    "title": "ВСУ ночью попытались ударить по десяти регионам России",
+    "url": "https://lenta.ru/news/2026/04/04/vsu-nochyu-popytalis-udarit-po-desyati-regionam-rossii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T06:01:00+00:00",
     "no_image": true
   }
 ]
