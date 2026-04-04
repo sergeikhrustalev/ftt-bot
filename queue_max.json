@@ -1,13 +1,5 @@
 [
   {
-    "id": "1fe007d066cdf8cb4e56cd00c31a75b0",
-    "title": "В аэропорту Ижевска ввели ограничения на полеты",
-    "url": "https://ria.ru/20260402/ogranicheniya-2084679153.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-02T01:52:41+00:00",
-    "no_image": false
-  },
-  {
     "id": "c6af0f2483849f05a11173190b9148a3",
     "title": "Силовики: наёмник служил в США 12 лет, а на Украине был ликвидирован за 3 месяца",
     "url": "https://russian.rt.com/ussr/news/1614580-siloviki-nayomnik-sluzhil-ssha?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-04T03:31:16+00:00",
     "no_image": true
+  },
+  {
+    "id": "722bf01d8c648eaa8fa63d178e4f34c5",
+    "title": "Москвичам пообещали теплые выходные",
+    "url": "https://ria.ru/20260404/subbota-2085154750.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T03:41:56+00:00",
+    "no_image": false
   }
 ]
