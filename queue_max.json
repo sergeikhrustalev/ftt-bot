@@ -1,13 +1,5 @@
 [
   {
-    "id": "7d1f1c9eae64e441f8430109b5ca8585",
-    "title": "Союзник США заявил о достижении ключевых целей в Иране",
-    "url": "https://lenta.ru/news/2026/04/02/soyuznik-ssha-zayavil-o-dostizhenii-klyuchevyh-tseley-v-irane/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T05:41:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "cde1bae2fd5b3e97bb835f8138d97e16",
     "title": "Раскрыт рискованный план США по вывозу урана из Ирана",
     "url": "https://lenta.ru/news/2026/04/02/raskryt-riskovannyy-plan-ssha-po-vyvozu-urana-iz-irana/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/v-yaponskoy-bolnitse-nashli-telo-zabitogo-irantsa/",
     "source": "Лента",
     "pub_dt": "2026-04-04T07:21:02+00:00",
+    "no_image": true
+  },
+  {
+    "id": "13f347b9053cd412e5bfc9525ccfa054",
+    "title": "Богатые китайцы нашли новое пристанище в неожиданной части света",
+    "url": "https://lenta.ru/news/2026/04/04/bogatye-kitaytsy-nashli-novoe-pristanische-v-neozhidannoy-chasti-sveta/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T07:30:17+00:00",
     "no_image": true
   }
 ]
