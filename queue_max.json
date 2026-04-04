@@ -1,13 +1,5 @@
 [
   {
-    "id": "4947d88cf0d73a2a4e1dc1f81cf5f898",
-    "title": "Израиль зафиксировал второй за два часа пуск ракет из Ирана",
-    "url": "https://ria.ru/20260402/pusk-2084676232.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-02T00:40:37+00:00",
-    "no_image": false
-  },
-  {
     "id": "06172ea600b064f37ca14f3d7d4dd94c",
     "title": "В Ивановской области объявили опасность атаки БПЛА",
     "url": "https://ria.ru/20260402/opasnost-2084676499.html",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/mezhdunarodnaya-panorama/26999463",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T02:21:10+00:00",
+    "no_image": false
+  },
+  {
+    "id": "f86f4f62de5fb236f6eeced7a48123a8",
+    "title": "Группировка \"Север\" уничтожила обнаруженные дроном \"Орлан-10\" позиции ВСУ",
+    "url": "https://tass.ru/armiya-i-opk/26999493",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T02:32:34+00:00",
     "no_image": false
   }
 ]
