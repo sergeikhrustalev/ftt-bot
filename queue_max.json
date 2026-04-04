@@ -1,13 +1,5 @@
 [
   {
-    "id": "84cb9dd5d7078f841da2b61f5602aa87",
-    "title": "Один из соучастников покушения на генерала ГРУ отказался от своих показаний",
-    "url": "https://lenta.ru/news/2026/04/02/odin-iz-souchastnikov-pokusheniya-na-generala-gru-otkazalsya-ot-svoih-pokazaniy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T15:11:04+00:00",
-    "no_image": true
-  },
-  {
     "id": "709e203c4bc2d338e482310d22ddfb01",
     "title": "Макрон выступил с обвинением в адрес Трампа",
     "url": "https://lenta.ru/news/2026/04/02/makron-vystupil-s-obvineniem-v-adres-trampa/",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-04T16:50:39+00:00",
     "no_image": false
+  },
+  {
+    "id": "9460b10ed9e648f31b3deeab2389b53a",
+    "title": "На Западе предупредили Зеленского о территориальных потерях",
+    "url": "https://lenta.ru/news/2026/04/04/na-zapade-predupredili-zelenskogo-o-territorialnyh-poteryah/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T17:00:50+00:00",
+    "no_image": true
   }
 ]
