@@ -1,13 +1,5 @@
 [
   {
-    "id": "3a43c36fc6bd2641cbc33dd58ca9fb5b",
-    "title": "Россиянин описал жизнь на Чукотке словами «сто человек, белые медведи и ни одной дороги»",
-    "url": "https://lenta.ru/news/2026/04/02/rossiyanin-opisal-zhizn-na-chukotke-slovami-sto-chelovek-belye-medvedi-i-ni-odnoy-dorogi/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T06:00:39+00:00",
-    "no_image": true
-  },
-  {
     "id": "c8395d3277a628db0d04a3238b480176",
     "title": "Россиянам перечислили отрасли с зарплатой выше 200 тысяч рублей",
     "url": "https://lenta.ru/news/2026/04/02/rossiyanam-perechislili-otrasli-s-zarplatoy-vyshe-200-tysyach-rubley/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-04T07:41:22+00:00",
     "no_image": true
+  },
+  {
+    "id": "4ae8187d373d0575df8a4fd4c8e2b456",
+    "title": "На территории особой нефтехимической зоны в Иране прогремели взрывы",
+    "url": "https://ria.ru/20260404/fars-2085169965.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T07:53:17+00:00",
+    "no_image": false
   }
 ]
