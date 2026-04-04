@@ -1,13 +1,5 @@
 [
   {
-    "id": "736a3212b18bb17e88a05b1a60f41e9e",
-    "title": "Nour News: советник верховного лидера Ирана тяжело ранен при атаке на Тегеран",
-    "url": "https://russian.rt.com/world/news/1614538-sovetnik-ataka-tegeran?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T21:00:29+00:00",
-    "no_image": false
-  },
-  {
     "id": "c3f0191eb19b413f9cf9a356c2ebf732",
     "title": "В ГД предложили увеличить штрафы УК за ненадлежащее содержание имущества",
     "url": "https://ria.ru/20260402/gosduma-2084664301.html",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-03T22:43:08+00:00",
     "no_image": false
+  },
+  {
+    "id": "ea4f09a12bb0b713b9bbeab9912a37ed",
+    "title": "В Европе выступили с «серьезным обвинением» против Украины",
+    "url": "https://lenta.ru/news/2026/04/04/v-evrope-vystupili-s-serieznym-obvineniem-protiv-ukrainy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T22:50:47+00:00",
+    "no_image": true
   }
 ]
