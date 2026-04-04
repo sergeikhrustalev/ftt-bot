@@ -1,13 +1,5 @@
 [
   {
-    "id": "d4cfd203dbcb894020d5417bd15aa388",
-    "title": "Зеленский сообщил о встрече с Уиткоффом и Кушнером",
-    "url": "https://russian.rt.com/world/news/1614514-zelenskii-vstrecha-uitkoff-kushner?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T19:22:12+00:00",
-    "no_image": false
-  },
-  {
     "id": "b55e8f60d240aa070f8335c2a2d3e957",
     "title": "Иностранцы восхитились снимками российской модели с голой грудью",
     "url": "https://lenta.ru/news/2026/04/01/inostrantsy-voshitilis-snimkami-rossiyskoy-modeli-s-goloy-grudyu/",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-03T21:01:59+00:00",
     "no_image": false
+  },
+  {
+    "id": "67c7fea30bbbb52b4316c0047c7085c9",
+    "title": "Иран атаковал два вертолета США из поисковой миссии F-15",
+    "url": "https://lenta.ru/news/2026/04/03/iran-atakoval-dva-vertoleta-ssha-iz-poiskovoy-missii-f-15/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T21:11:00+00:00",
+    "no_image": true
   }
 ]
