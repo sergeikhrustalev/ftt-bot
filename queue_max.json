@@ -1,13 +1,5 @@
 [
   {
-    "id": "7dbbd53f45d9a74ff8abe368b3118ed6",
-    "title": "Россиянам объяснили пользу заражения глистами",
-    "url": "https://lenta.ru/news/2026/04/02/rossiyanam-ob-yasnili-polzu-zarazheniya-glistami/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T18:02:13+00:00",
-    "no_image": true
-  },
-  {
     "id": "e9350ff58bd1c97d8bc5fcbed8128756",
     "title": "Эксперт ЭИСИ: участие ветерана в ЦИК подчеркивает запрос на справедливость",
     "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187590-veterana-spetsoperatsii-tsik",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/sport/27003413",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T19:40:23+00:00",
+    "no_image": false
+  },
+  {
+    "id": "ae6d1f0fc07f2b895cee56443cdc28c1",
+    "title": "В Самарской области объявили угрозу подлета БПЛА",
+    "url": "https://tass.ru/proisshestviya/27003431",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T19:51:29+00:00",
     "no_image": false
   }
 ]
