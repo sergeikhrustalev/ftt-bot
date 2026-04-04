@@ -1,13 +1,5 @@
 [
   {
-    "id": "874bc428984e80a5a883d9c1e7df20c3",
-    "title": "«Мы — нация самодержавная: ни под кем не ходим и не даем упасть миру» // Новый президент РСМД Дмитрий Тренин — о партнерах и противниках России",
-    "url": "https://www.kommersant.ru/doc/8553915",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-02T14:42:29+00:00",
-    "no_image": false
-  },
-  {
     "id": "7804697294d6604c8b7b021046cb7736",
     "title": "В России отреагировали на заявления Трампа относительно поставок оружия Киеву",
     "url": "https://lenta.ru/news/2026/04/02/v-rossii-otreagirovali-na-zayavleniya-trampa-otnositelno-postavok-oruzhiya-kievu/",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-04T16:22:01+00:00",
     "no_image": false
+  },
+  {
+    "id": "b9b88e077e18ecf4920901ff95935f3f",
+    "title": "«Акрон» опротестует отмену гола в ворота ЦСКА",
+    "url": "https://lenta.ru/news/2026/04/04/akron-oprotestuet-otmenu-gola-v-vorota-tsska/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T16:30:18+00:00",
+    "no_image": true
   }
 ]
