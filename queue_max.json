@@ -1,13 +1,5 @@
 [
   {
-    "id": "95adf48a655811ba672a252377a2117a",
-    "title": "Сотрудница жестоко отомстила начальнику-самодуру за лень и присвоение чужих заслуг",
-    "url": "https://lenta.ru/news/2026/04/02/sotrudnitsa-zhestoko-otomstila-nachalniku-samoduru-za-len-i-prisvoenie-chuzhih-zaslug/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T01:00:29+00:00",
-    "no_image": true
-  },
-  {
     "id": "122aaaafb8989eabcc358c9271f92e84",
     "title": "Politico: в Европе заявили, что НАТО парализовано и уже разваливается",
     "url": "https://russian.rt.com/world/news/1614572-evropa-nato-paralizovana?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/poljakov-2085151862.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T02:42:00+00:00",
+    "no_image": false
+  },
+  {
+    "id": "a3ffd27c1beca94aef60aec986588c98",
+    "title": "NYT: Трамп запросил у Конгресса $152 млн на восстановление Алькатраса",
+    "url": "https://tass.ru/obschestvo/26999501",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T02:51:10+00:00",
     "no_image": false
   }
 ]
