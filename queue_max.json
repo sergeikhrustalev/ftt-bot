@@ -1,13 +1,5 @@
 [
   {
-    "id": "1b75cf397ba0f01c31de67f6cefd1f66",
-    "title": "Хаб насущный // Чем президент России заинтересовал египетского министра",
-    "url": "https://www.kommersant.ru/doc/8554096",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-02T16:43:08+00:00",
-    "no_image": false
-  },
-  {
     "id": "0b27efbe179284fc90d724b40eab465c",
     "title": "Алиев раскрыл подробности строительства маршрута Трампа",
     "url": "https://lenta.ru/news/2026/04/02/aliev-raskryl-podrobnosti-stroitelstva-marshruta-trampa/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/evropu-obvinili-v-sovershenii-prestupleniya-v-otnoshenii-rossii/",
     "source": "Лента",
     "pub_dt": "2026-04-04T18:21:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "0d379435509ae29b2fa878c2f2299281",
+    "title": "В Тель-Авиве прошел митинг против войны с Ираном",
+    "url": "https://lenta.ru/news/2026/04/04/v-tel-avive-proshel-miting-protiv-voyny-s-iranom/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T18:30:49+00:00",
     "no_image": true
   }
 ]
