@@ -1,13 +1,5 @@
 [
   {
-    "id": "3b12b2cc2098a89fae2150ff4d5c455f",
-    "title": "Дом видеосвиданий // ФСИН дала арестованным возможность общаться с адвокатами по ВКС",
-    "url": "https://www.kommersant.ru/doc/8553587",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-02T10:30:51+00:00",
-    "no_image": false
-  },
-  {
     "id": "81ac4a01ef764b51284a51e4bc47b02c",
     "title": "Набор продуктов для приготовления кулича подешевел",
     "url": "https://lenta.ru/news/2026/04/02/nabor-produktov-dlya-prigotovleniya-kulicha-podeshevel/",
@@ -2390,5 +2382,13 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-04T12:11:10+00:00",
     "no_image": false
+  },
+  {
+    "id": "1b5ee31ead9aabc2903decae5e9b7099",
+    "title": "Украинец порезал ножом двух сотрудников ТЦК",
+    "url": "https://lenta.ru/news/2026/04/04/ukrainets-porezal-nozhom-dvuh-sotrudnikov-ttsk/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T12:21:45+00:00",
+    "no_image": true
   }
 ]
