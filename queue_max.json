@@ -1,13 +1,5 @@
 [
   {
-    "id": "6cc38184549827aca552752b3896dcd6",
-    "title": "Описан момент удара ВСУ по региону России в 1500 километрах от границы с Украиной",
-    "url": "https://lenta.ru/news/2026/04/02/opisan-moment-udara-vsu-po-regionu-rossii-v-1500-kilometrah-ot-granitsy-s-ukrainoy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T08:32:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "11e287c0eb3014c603d325ef175cc6c1",
     "title": "Слава ответила на призыв запретить ее концерты после скандала",
     "url": "https://lenta.ru/news/2026/04/02/slava-otvetila-na-prizyv-zapretit-ee-kontserty-posle-skandala/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/inostranets-poluchil-raneniya-v-rezultate-ataki-vsu-na-taganrog/",
     "source": "Лента",
     "pub_dt": "2026-04-04T10:13:30+00:00",
+    "no_image": true
+  },
+  {
+    "id": "b4181b6965991c192b73d313ea1e22e7",
+    "title": "В Госдуме прокомментировали ситуацию с отказом от занятий в 10 и 11 классах в Сибири",
+    "url": "https://lenta.ru/news/2026/04/04/v-rossii-prokommentirovali-situatsiyu-s-otkazom-ot-zanyatiy-v-10-i-11-klassah-v-sibiri/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T10:22:17+00:00",
     "no_image": true
   }
 ]
