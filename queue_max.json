@@ -1,13 +1,5 @@
 [
   {
-    "id": "3b95f4bb5ce75fbd37c001f8d36ee1a1",
-    "title": "Туристке пригрозили тюрьмой за оскорбительную пародию на официантку в Бразилии",
-    "url": "https://lenta.ru/news/2026/04/02/turistke-prigrozili-tyurmoy-za-oskorbitelnuyu-parodiyu-na-ofitsiantku-v-brazilii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T14:31:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "874bc428984e80a5a883d9c1e7df20c3",
     "title": "«Мы — нация самодержавная: ни под кем не ходим и не даем упасть миру» // Новый президент РСМД Дмитрий Тренин — о партнерах и противниках России",
     "url": "https://www.kommersant.ru/doc/8553915",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/basketbol-2085219866.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T16:11:51+00:00",
+    "no_image": false
+  },
+  {
+    "id": "927a2c2c58763ded1038b02f14c1b5c3",
+    "title": "Захарова назвала главную беду Украины",
+    "url": "https://ria.ru/20260404/zakharova-2085220785.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T16:22:01+00:00",
     "no_image": false
   }
 ]
