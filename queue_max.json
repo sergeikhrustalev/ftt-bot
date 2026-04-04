@@ -1,13 +1,5 @@
 [
   {
-    "id": "38a4cb8b56ef3eca73b1df825151849a",
-    "title": "АКОРТ: стоимость ингредиентов для кулича снизилась на 9%",
-    "url": "https://www.vedomosti.ru/economics/news/2026/04/02/1187457-stoimost-kulicha",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T11:10:48+00:00",
-    "no_image": false
-  },
-  {
     "id": "7a77a24ddd731ee66d0abaeea7354d51",
     "title": "Фон дер Ляйен высказалась по вопросу Ирана",
     "url": "https://lenta.ru/news/2026/04/02/fon-der-lyayen-vyskazalas-po-voprosu-irana/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/obschestvo/27001935",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T12:52:18+00:00",
+    "no_image": false
+  },
+  {
+    "id": "a425f7133d8a70282d80fd320c1d451e",
+    "title": "Мурашко подтвердил хорошее самочувствие первого получившего онковакцину пациента",
+    "url": "https://tass.ru/obschestvo/27002023",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T13:00:48+00:00",
     "no_image": false
   }
 ]
