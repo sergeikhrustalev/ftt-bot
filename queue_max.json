@@ -1,13 +1,5 @@
 [
   {
-    "id": "b9704fae1b1ba5d0b26875f0f40da877",
-    "title": "«Авторитарный принцип принятия решений»: что может стоять за предложением Еврокомиссии выделить Украине €45 млрд",
-    "url": "https://russian.rt.com/world/article/1614492-evrokomissiya-vydelit-45-mlrd-ukraina?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T23:01:20+00:00",
-    "no_image": false
-  },
-  {
     "id": "0c9fb04dfc2a91e345a14f5c813ba82b",
     "title": "Ученый рассказала, какие \"лазейки\" в Женевских конвенциях эксплуатируют США",
     "url": "https://ria.ru/20260402/ssha-2084671595.html",
@@ -2390,5 +2382,13 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-04T00:40:57+00:00",
     "no_image": false
+  },
+  {
+    "id": "7ac7a4068baa1482b123a2fd7c8ce3af",
+    "title": "Пентагон раскрыл число пострадавших военных США в операции против Ирана",
+    "url": "https://lenta.ru/news/2026/04/04/pentagon-raskryl-chislo-postradavshih-voennyh-ssha-v-operatsii-protiv-irana/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T00:51:00+00:00",
+    "no_image": true
   }
 ]
