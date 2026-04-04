@@ -1,13 +1,5 @@
 [
   {
-    "id": "3f073508bd9f87366ee85e13bb9d07c3",
-    "title": "Член ЦИК Сысоев пообещал Путину помогать на выборах ветеранам",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187317-sisoev-veteranam-spetsoperatsii",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T21:50:41+00:00",
-    "no_image": false
-  },
-  {
     "id": "028c2a86365a6e4db6ba5cf4ab587bf0",
     "title": "Часть россиян получат майские пенсии в апреле, сообщил депутат ГД",
     "url": "https://ria.ru/20260402/pensii-2084668041.html",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T23:30:35+00:00",
     "no_image": true
+  },
+  {
+    "id": "7d4446e124f8d60a1f4cdfffcfbe8e27",
+    "title": "Взрыв прогремел у здания организации «Христиане за Израиль» в Нидерландах",
+    "url": "https://russian.rt.com/world/news/1615524-vzryv-izrail-niderlandy?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-03T23:40:46+00:00",
+    "no_image": false
   }
 ]
