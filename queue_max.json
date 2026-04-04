@@ -1,13 +1,5 @@
 [
   {
-    "id": "7209f80e497363a92dfb25c4ee4413cb",
-    "title": "Иран ударил по центру Amazon на Ближнем Востоке",
-    "url": "https://lenta.ru/news/2026/04/02/iran-udaril-po-tsentru-amazon-na-blizhnem-vostoke/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T15:31:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "cf37dfe3d55c42cf451b1e5919a2d512",
     "title": "Швейцарскую «Международную комиссию юристов» признали нежелательной в РФ",
     "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187569-komissiyu-yuristov-priznali-nezhelatelnoi",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/izrail-2085225457.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T17:10:58+00:00",
+    "no_image": false
+  },
+  {
+    "id": "2fd987f7a45d0734035f31f4383a7aa8",
+    "title": "Росавиация исключила закрытие аэропорта Сочи",
+    "url": "https://tass.ru/obschestvo/27003073",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T17:21:46+00:00",
     "no_image": false
   }
 ]
