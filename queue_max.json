@@ -1,13 +1,5 @@
 [
   {
-    "id": "b077679e678b3be35f7d06294b37ff51",
-    "title": "Бастрыкин назвал мощность взрывчатки, использованной для подрыва Сарварова",
-    "url": "https://ria.ru/20260402/vzryvchatka-2084671869.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T23:20:21+00:00",
-    "no_image": false
-  },
-  {
     "id": "62bea06082b9692867c728737a8c6da8",
     "title": "В ОП предупредили о штрафах за мат в интернете",
     "url": "https://ria.ru/20260402/shtraf-2084672820.html",
@@ -2390,5 +2382,13 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-04T01:04:53+00:00",
     "no_image": false
+  },
+  {
+    "id": "937083454fd425835ebf4bc0cfd47b30",
+    "title": "На Западе встревожились из-за внезапного удара Украины по НАТО",
+    "url": "https://lenta.ru/news/2026/04/04/na-zapade-vstrevozhilis-iz-za-vnezapnogo-udara-ukrainy-po-nato/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T01:11:00+00:00",
+    "no_image": true
   }
 ]
