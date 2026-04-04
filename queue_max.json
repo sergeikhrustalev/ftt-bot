@@ -1,13 +1,5 @@
 [
   {
-    "id": "f43f8145068615cb7b91356cd1bb8000",
-    "title": "Оценены шансы наземной операции США против Ирана",
-    "url": "https://lenta.ru/news/2026/04/02/otseneny-shansy-nazemnoy-operatsii-ssha-protiv-irana/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T00:21:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "fc17204e6dd122b3a0ea67c78c412d1f",
     "title": "Канада направит Украине новый денежный транш",
     "url": "https://lenta.ru/news/2026/04/02/kanada-napravit-ukraine-novyy-denezhnyy-transh/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/politika/26999333",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T02:00:35+00:00",
+    "no_image": false
+  },
+  {
+    "id": "c427591ab2eda34e1c3290c9b8cc9271",
+    "title": "ВС РФ сбили барражирующий боеприпас \"Батон\" и семь БПЛА-разведчиков у Харькова",
+    "url": "https://tass.ru/armiya-i-opk/26999455",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T02:11:58+00:00",
     "no_image": false
   }
 ]
