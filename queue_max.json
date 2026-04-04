@@ -1,13 +1,5 @@
 [
   {
-    "id": "f13dded84c7f74d7471a7a0f610709e1",
-    "title": "В Израиле заявили о риске усиления Ирана из-за одного решения Трампа",
-    "url": "https://lenta.ru/news/2026/04/02/v-izraile-zayavili-o-riske-usileniya-irana-iz-za-odnogo-resheniya-trampa/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T05:22:39+00:00",
-    "no_image": true
-  },
-  {
     "id": "86a49dcd2e23acfeb7036e5142391560",
     "title": "Врач развеяла миф о кофе натощак",
     "url": "https://lenta.ru/news/2026/04/02/vrach-razveyala-mif-o-kofe-natoschak/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/vsu-2085167121.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T07:02:00+00:00",
+    "no_image": false
+  },
+  {
+    "id": "db0d86f1680c2e09e0849058c9028a02",
+    "title": "Посол назвал затею Британии по захвату судов в Ла-Манше взрывоопасной",
+    "url": "https://ria.ru/20260404/britaniya-2085167806.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T07:10:21+00:00",
     "no_image": false
   }
 ]
