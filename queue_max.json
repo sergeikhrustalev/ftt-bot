@@ -1,13 +1,5 @@
 [
   {
-    "id": "7e7feb3b0caf99cf2115fe82800e365d",
-    "title": "Стало известно о недовольстве Трампа главой Нацразведки США из-за Ирана",
-    "url": "https://lenta.ru/news/2026/04/02/stalo-izvestno-o-taynyh-obsuzhdeniyah-trampom-zameny-glavy-natsrazvedki-ssha/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T12:21:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "3e96c76d87e08e8227292a1bef32802e",
     "title": "Назван полезный для здоровья сердца ферментированный продукт",
     "url": "https://lenta.ru/news/2026/04/02/nazvan-poleznyy-dlya-zdorovya-serdtsa-fermentirovannyy-produkt/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/proisshestviya/27002407",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T14:01:57+00:00",
+    "no_image": false
+  },
+  {
+    "id": "fed93986e69f8b2cea10a0ca1d8b1133",
+    "title": "В Москве в Музее космонавтики подготовили дни космического кино, уроков и семьи",
+    "url": "https://tass.ru/obschestvo/27002431",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T14:13:03+00:00",
     "no_image": false
   }
 ]
