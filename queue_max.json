@@ -1,13 +1,5 @@
 [
   {
-    "id": "14429a765a0757ee390add19852adc7d",
-    "title": "Российский беспилотник лишил головы бойца ВСУ и снял последние секунды его жизни на видео",
-    "url": "https://lenta.ru/news/2026/04/02/poslednie-sekundy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T13:21:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "9e24c2e2c8494bff452910f81fe39152",
     "title": "Чистая прибыль «Ютэйр» выросла в 5,4 раза в 2025 году",
     "url": "https://www.vedomosti.ru/business/news/2026/04/02/1187525-pribil-yuteir",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-04T15:00:32+00:00",
     "no_image": false
+  },
+  {
+    "id": "04e5a9c677e4dae5b74df83142a267a2",
+    "title": "В Госдуме назвали новые украинские санкции заезженной пластинкой",
+    "url": "https://lenta.ru/news/2026/04/04/v-gosdume-nazvali-novye-ukrainskie-sanktsii-zaezzhennoy-plastinkoy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T15:11:00+00:00",
+    "no_image": true
   }
 ]
