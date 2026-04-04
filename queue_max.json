@@ -1,13 +1,5 @@
 [
   {
-    "id": "041f210d77efdfcfa7aa69f0a4e4cb08",
-    "title": "Трамп назвал ответственных за безопасность Ормузского пролива",
-    "url": "https://lenta.ru/news/2026/04/02/tramp-nazval-otvetstvennyh-za-bezopasnost-ormuzskogo-proliva/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T03:27:34+00:00",
-    "no_image": true
-  },
-  {
     "id": "4d2828b6841e24bc4bed201f4f2805b6",
     "title": "Мощность заложенной под машину Сарварова взрывчатки достигала 1 кг тротила",
     "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187321-moschnost-zalozhennoi-sarvarova",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/ukraina-2085158635.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T05:06:22+00:00",
+    "no_image": false
+  },
+  {
+    "id": "1d234089de46b50bcf69ad83db51ef41",
+    "title": "Власти Швеции отпустили судно, задержанное по подозрению в разливе нефти",
+    "url": "https://ria.ru/20260404/sudno-2085159960.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T05:14:50+00:00",
     "no_image": false
   }
 ]
