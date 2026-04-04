@@ -1,13 +1,5 @@
 [
   {
-    "id": "628b45cb618b1c685b32ff718e5326b8",
-    "title": "Евродепутат Картхайзер: в ЕС решили дождаться нового президента США",
-    "url": "https://russian.rt.com/world/news/1614587-evrodeputat-karthaizer-es?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-02T03:14:18+00:00",
-    "no_image": false
-  },
-  {
     "id": "041f210d77efdfcfa7aa69f0a4e4cb08",
     "title": "Трамп назвал ответственных за безопасность Ормузского пролива",
     "url": "https://lenta.ru/news/2026/04/02/tramp-nazval-otvetstvennyh-za-bezopasnost-ormuzskogo-proliva/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/shkola-2085158287.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T04:51:38+00:00",
+    "no_image": false
+  },
+  {
+    "id": "3f22baaf1355e08c6752073e3433ad7e",
+    "title": "Танкисты \"Севера\" уничтожили опорный пункт ВСУ под Харьковом",
+    "url": "https://ria.ru/20260404/ukraina-2085158635.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T05:06:22+00:00",
     "no_image": false
   }
 ]
