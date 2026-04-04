@@ -1,13 +1,5 @@
 [
   {
-    "id": "a6a7258fa49482ae809ad6b1506f8375",
-    "title": "Министры обороны СНГ обсудили в Москве укрепление сотрудничества в военной сфере",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187510-ministri-oboroni-sng",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T12:54:03+00:00",
-    "no_image": false
-  },
-  {
     "id": "df91190228719151668f4899318c1ea2",
     "title": "Тарасова прокляла Международный союз конькобежцев",
     "url": "https://lenta.ru/news/2026/04/02/tarasova-proklyala-mezhdunarodnyy-soyuz-konkobezhtsev/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-04T14:32:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "fbf48cfb853971585ebac1f90c30de3e",
+    "title": "Крюкова внесли в базу \"Миротворца\"",
+    "url": "https://ria.ru/20260404/kryukov-2085214743.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T14:43:01+00:00",
+    "no_image": false
   }
 ]
