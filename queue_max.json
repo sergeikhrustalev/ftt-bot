@@ -1,13 +1,5 @@
 [
   {
-    "id": "41e1ab7a1e868012be11e03ad01792ad",
-    "title": "Коалиция по Ормузскому проливу подготовила санкции против Ирана",
-    "url": "https://lenta.ru/news/2026/04/01/koalitsiya-po-ormuzskomu-prolivu-podgotovila-sanktsii-protiv-irana/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T18:12:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "86352c785306bfd1a8b55d127da75015",
     "title": "Армия, церковь и особенности здоровья шуток не терпят // ВЦИОМ: юмор стал для зумеров зоной риска",
     "url": "https://www.kommersant.ru/doc/8553253",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T19:51:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "5d2d5dd3f0f06c3852a3999008d07ee0",
+    "title": "Fars: Иран 2 апреля отверг предложение США о 48-часовом перемирии",
+    "url": "https://russian.rt.com/world/news/1615489-iran-peremirie-ssha?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-03T20:00:25+00:00",
+    "no_image": false
   }
 ]
