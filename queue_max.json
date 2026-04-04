@@ -1,13 +1,5 @@
 [
   {
-    "id": "3e96c76d87e08e8227292a1bef32802e",
-    "title": "Назван полезный для здоровья сердца ферментированный продукт",
-    "url": "https://lenta.ru/news/2026/04/02/nazvan-poleznyy-dlya-zdorovya-serdtsa-fermentirovannyy-produkt/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T12:31:55+00:00",
-    "no_image": true
-  },
-  {
     "id": "ca865f5e42fa4348f3f709d97f58d7b3",
     "title": "«Челси» показал фунты лиха // Он стал самым убыточным клубом в истории Английской премьер-лиги",
     "url": "https://www.kommersant.ru/doc/8553858",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/obschestvo/27002431",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T14:13:03+00:00",
+    "no_image": false
+  },
+  {
+    "id": "0dd2711916d83a21fd1f77dbfed1b9fd",
+    "title": "Филиппо обвинил ФРГ в \"военном безумии\" из-за ограничения выезда для мужчин",
+    "url": "https://ria.ru/20260404/filippo-2085213519.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T14:21:13+00:00",
     "no_image": false
   }
 ]
