@@ -1,13 +1,5 @@
 [
   {
-    "id": "cde1bae2fd5b3e97bb835f8138d97e16",
-    "title": "Раскрыт рискованный план США по вывозу урана из Ирана",
-    "url": "https://lenta.ru/news/2026/04/02/raskryt-riskovannyy-plan-ssha-po-vyvozu-urana-iz-irana/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T05:52:59+00:00",
-    "no_image": true
-  },
-  {
     "id": "3a43c36fc6bd2641cbc33dd58ca9fb5b",
     "title": "Россиянин описал жизнь на Чукотке словами «сто человек, белые медведи и ни одной дороги»",
     "url": "https://lenta.ru/news/2026/04/02/rossiyanin-opisal-zhizn-na-chukotke-slovami-sto-chelovek-belye-medvedi-i-ni-odnoy-dorogi/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/bogatye-kitaytsy-nashli-novoe-pristanische-v-neozhidannoy-chasti-sveta/",
     "source": "Лента",
     "pub_dt": "2026-04-04T07:30:17+00:00",
+    "no_image": true
+  },
+  {
+    "id": "f73d88602a569957ed65317d28cccea1",
+    "title": "Назван самый вероятный счет матча между «Манчестер Сити» и «Ливерпулем»",
+    "url": "https://lenta.ru/news/2026/04/04/nazvan-samyy-veroyatnyy-schet-matcha-mezhdu-manchester-siti-i-liverpulem/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T07:41:22+00:00",
     "no_image": true
   }
 ]
