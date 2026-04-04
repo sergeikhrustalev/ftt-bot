@@ -1,13 +1,5 @@
 [
   {
-    "id": "a596bb600a03d30ba1238511a926b224",
-    "title": "Песков: в беспилотные войска действительно идет набор",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187410-v-bespilotnie-voiska",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T09:30:18+00:00",
-    "no_image": false
-  },
-  {
     "id": "b57a6059935cad2e1a633057b57e051d",
     "title": "Yadro инвестирует в разработку и производство базовых станций 135 млрд рублей",
     "url": "https://www.vedomosti.ru/technology/news/2026/04/02/1187420-yadro-investiruet",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/zvezdu-schastlivy-vmeste-oshtrafovali-za-huliganstvo/",
     "source": "Лента",
     "pub_dt": "2026-04-04T11:10:28+00:00",
+    "no_image": true
+  },
+  {
+    "id": "0e9ad5e29cbaba7eea8b454ccb8fdf53",
+    "title": "Иностранные политики проявили интерес ко Дню Победы",
+    "url": "https://lenta.ru/news/2026/04/04/inostrannye-politiki-proyavili-interes-ko-dnyu-pobedy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T11:23:24+00:00",
     "no_image": true
   }
 ]
