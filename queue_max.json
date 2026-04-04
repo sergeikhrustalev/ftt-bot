@@ -1,13 +1,5 @@
 [
   {
-    "id": "de7464acbd7ab6edf776c76fdfaf9482",
-    "title": "Kyodo: Япония может направить в РФ делегацию, чтобы обсудить закупки нефти",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187534-yaponiya-ekonomicheskuyu-delegatsiyu",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T13:51:52+00:00",
-    "no_image": false
-  },
-  {
     "id": "798f3924c3bd2553f80880fd06668045",
     "title": "Выручка операторов от частных сетей 5G к 2036 году достигнет 234 млрд рублей",
     "url": "https://www.vedomosti.ru/technology/news/2026/04/02/1187539-viruchka-operatorov",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/obschestvo/27002681",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T15:30:42+00:00",
+    "no_image": false
+  },
+  {
+    "id": "80baf2e23e17471b12a888de4ee167ea",
+    "title": "В Таганском районе Москвы открыли дорожное движение",
+    "url": "https://tass.ru/obschestvo/27002735",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T15:44:08+00:00",
     "no_image": false
   }
 ]
