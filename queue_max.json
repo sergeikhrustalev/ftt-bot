@@ -1,13 +1,5 @@
 [
   {
-    "id": "7fd7da7ce40ee41f5a1f8b2128e7c4d5",
-    "title": "В Латвии обнаружили обломки БПЛА",
-    "url": "https://russian.rt.com/ussr/news/1614562-latviya-obnaruzhili-oblomki-bpla?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T23:52:56+00:00",
-    "no_image": false
-  },
-  {
     "id": "b2b1565f1a9e10981670975303b97e89",
     "title": "Мужчинам назвали ухудшающие вкус спермы продукты",
     "url": "https://lenta.ru/news/2026/04/02/muzhchinam-nazvali-uhudshayuschie-vkus-spermy-produkty/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/kover-2085150011.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T01:30:47+00:00",
+    "no_image": false
+  },
+  {
+    "id": "89246f9e97b6918375eec9293ef103e0",
+    "title": "NYT: Трамп запросил $152 млн на восстановление тюрьмы Алькатрас",
+    "url": "https://russian.rt.com/world/news/1615539-tramp-vosstanovlenie-tyurma?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-04T01:44:46+00:00",
     "no_image": false
   }
 ]
