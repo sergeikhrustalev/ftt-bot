@@ -1,13 +1,5 @@
 [
   {
-    "id": "06172ea600b064f37ca14f3d7d4dd94c",
-    "title": "В Ивановской области объявили опасность атаки БПЛА",
-    "url": "https://ria.ru/20260402/opasnost-2084676499.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-02T00:51:47+00:00",
-    "no_image": false
-  },
-  {
     "id": "95adf48a655811ba672a252377a2117a",
     "title": "Сотрудница жестоко отомстила начальнику-самодуру за лень и присвоение чужих заслуг",
     "url": "https://lenta.ru/news/2026/04/02/sotrudnitsa-zhestoko-otomstila-nachalniku-samoduru-za-len-i-prisvoenie-chuzhih-zaslug/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/armiya-i-opk/26999493",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T02:32:34+00:00",
+    "no_image": false
+  },
+  {
+    "id": "e98dbeb453f8641076518fe1e137d0ec",
+    "title": "Аналог Нобелевской премии должен носить имя Достоевского, считает Поляков",
+    "url": "https://ria.ru/20260404/poljakov-2085151862.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T02:42:00+00:00",
     "no_image": false
   }
 ]
