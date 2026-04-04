@@ -1,13 +1,5 @@
 [
   {
-    "id": "df91190228719151668f4899318c1ea2",
-    "title": "Тарасова прокляла Международный союз конькобежцев",
-    "url": "https://lenta.ru/news/2026/04/02/tarasova-proklyala-mezhdunarodnyy-soyuz-konkobezhtsev/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T13:02:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "f406f4d6a168ce3301376f08b58c153d",
     "title": "АКРА подтвердило рейтинг «Газпром нефти» на уровне AAA(RU)",
     "url": "https://www.vedomosti.ru/investments/news/2026/04/02/1187516-reiting-gazprom-nefti",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/kryukov-2085214743.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T14:43:01+00:00",
+    "no_image": false
+  },
+  {
+    "id": "9889e124cb0f243c84cb4c84c1e4a22b",
+    "title": "В Абхазии удвоят темпы роста экспорта товаров и услуг к 2028 году",
+    "url": "https://ria.ru/20260404/abkhaziya-2085215348.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T14:52:02+00:00",
     "no_image": false
   }
 ]
