@@ -1,13 +1,5 @@
 [
   {
-    "id": "86352c785306bfd1a8b55d127da75015",
-    "title": "Армия, церковь и особенности здоровья шуток не терпят // ВЦИОМ: юмор стал для зумеров зоной риска",
-    "url": "https://www.kommersant.ru/doc/8553253",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-01T18:13:06+00:00",
-    "no_image": false
-  },
-  {
     "id": "c9a7a11c73121b8e40ae296c4e113155",
     "title": "В результате нападения с ножом на западе Германии ранены несколько человек",
     "url": "https://www.vedomosti.ru/politics/news/2026/03/31/1187274-nemetskom-napadenii-nozhom",
@@ -2390,5 +2382,13 @@
     "source": "RT",
     "pub_dt": "2026-04-03T20:00:25+00:00",
     "no_image": false
+  },
+  {
+    "id": "022a463b5d93468d97bf279d97f49bb5",
+    "title": "Подполье сообщило о «нездоровом движе» офицеров НАТО на Украине",
+    "url": "https://lenta.ru/news/2026/04/03/v-podpolie-soobschili-o-nezdorovom-dvizhe-ofitserov-nato-na-ukraine/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T20:11:00+00:00",
+    "no_image": true
   }
 ]
