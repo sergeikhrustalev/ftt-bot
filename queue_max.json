@@ -1,13 +1,5 @@
 [
   {
-    "id": "c9a7a11c73121b8e40ae296c4e113155",
-    "title": "В результате нападения с ножом на западе Германии ранены несколько человек",
-    "url": "https://www.vedomosti.ru/politics/news/2026/03/31/1187274-nemetskom-napadenii-nozhom",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-01T18:22:55+00:00",
-    "no_image": false
-  },
-  {
     "id": "91d76a27aaf881622e3dbf4d4d9c0871",
     "title": "FT: Трамп угрожал Европе прекратить поставки оружия для Украины",
     "url": "https://russian.rt.com/world/news/1614504-tramp-ugrozy-oruzhie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T20:11:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "0184dc11a07649543ed47273aeb9c735",
+    "title": "В Энергодаре из-за атаки ВСУ повреждены вышка связи и многоэтажный дом",
+    "url": "https://tass.ru/proisshestviya/26998649",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-03T20:23:20+00:00",
+    "no_image": false
   }
 ]
