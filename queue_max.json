@@ -1,13 +1,5 @@
 [
   {
-    "id": "b57a6059935cad2e1a633057b57e051d",
-    "title": "Yadro инвестирует в разработку и производство базовых станций 135 млрд рублей",
-    "url": "https://www.vedomosti.ru/technology/news/2026/04/02/1187420-yadro-investiruet",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T09:42:35+00:00",
-    "no_image": false
-  },
-  {
     "id": "06ce98689bdd6cae63ccf94befd4dad1",
     "title": "Москалькова сообщила о работе по обмену пленными с Украиной перед Пасхой",
     "url": "https://lenta.ru/news/2026/04/02/moskalkova-soobschila-o-rabote-po-obmenu-plennymi-s-ukrainoy-pered-pashoy/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/inostrannye-politiki-proyavili-interes-ko-dnyu-pobedy/",
     "source": "Лента",
     "pub_dt": "2026-04-04T11:23:24+00:00",
+    "no_image": true
+  },
+  {
+    "id": "b0e74abf66ef710e1e9d73a0a2be544d",
+    "title": "На раскопках в Помпеях нашли редкий артефакт из Египта",
+    "url": "https://lenta.ru/news/2026/04/04/na-raskopkah-v-pompeyah-nashli-redkiy-artefakt-iz-egipta/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T11:30:49+00:00",
     "no_image": true
   }
 ]
