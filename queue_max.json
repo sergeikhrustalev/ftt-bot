@@ -1,13 +1,5 @@
 [
   {
-    "id": "b60e19790c12fdb72125f9018962d218",
-    "title": "«Русгидро» не будет платить дивиденды до стабилизации финансового состояния",
-    "url": "https://www.vedomosti.ru/investments/news/2026/04/02/1187383-rusgidro-dividendi",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T09:03:51+00:00",
-    "no_image": false
-  },
-  {
     "id": "34b0b969af9b7cca417fbcb99142d488",
     "title": "Парламент Молдавии одобрил проект денонсации устава СНГ",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187391-parlament-moldavii-odobril",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/belgiya-obvinila-evropu-v-zakladyvanii-bomby-pod-nato/",
     "source": "Лента",
     "pub_dt": "2026-04-04T10:45:45+00:00",
+    "no_image": true
+  },
+  {
+    "id": "56d8bbf36451f4fae7b5a0f07a531cd3",
+    "title": "Захарова высказалась о вручении Каллас ордена в честь православной святой",
+    "url": "https://lenta.ru/news/2026/04/04/zaharova-vyskazalas-o-vruchenii-kallas-ordena-v-chest-pravoslavnoy-svyatoy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T10:53:00+00:00",
     "no_image": true
   }
 ]
