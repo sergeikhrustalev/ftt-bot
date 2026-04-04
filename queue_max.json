@@ -1,13 +1,5 @@
 [
   {
-    "id": "d55ae3c9fa2b91b4200bbd2875166967",
-    "title": "Племянник Карла III объявил дату свадьбы с медсестрой",
-    "url": "https://lenta.ru/news/2026/04/02/plemyannik-karla-iii-ob-yavil-datu-svadby-s-medsestroy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T16:11:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "87e1914df863190b9e09ca7d66a657f7",
     "title": "Статус адвокатов задержался за границей // Минюст требует убрать из адвокатской палаты сразу трех защитников",
     "url": "https://www.kommersant.ru/doc/8554044",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/sport/27003161",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T17:51:38+00:00",
+    "no_image": false
+  },
+  {
+    "id": "1c2d782d172c0f50408a6cf367c12308",
+    "title": "Иран нанес удары по объектам алюминиевой промышленности в ОАЭ",
+    "url": "https://ria.ru/20260404/iran-2085230167.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T18:02:34+00:00",
     "no_image": false
   }
 ]
