@@ -1,13 +1,5 @@
 [
   {
-    "id": "0856cb085bd17bc076edd202921e378f",
-    "title": "«Локомотив» победил «Спартак» и вышел в четвертьфинал Кубка Гагарина",
-    "url": "https://russian.rt.com/sport/news/1614507-lokomotiv-spartak-kubok-gagarina?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T19:03:15+00:00",
-    "no_image": false
-  },
-  {
     "id": "6ea2651cb63e3a3cf8fb791f89c122bd",
     "title": "Херсонская область оказалась обесточенной",
     "url": "https://lenta.ru/news/2026/04/01/hersonskaya-oblast-okazalas-obestochennoy/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260403/futbol-2085135674.html",
     "source": "РИА",
     "pub_dt": "2026-04-03T20:40:44+00:00",
+    "no_image": false
+  },
+  {
+    "id": "ff18d9cc18d823ff3422e15bdd53c191",
+    "title": "Бойцы ВС России рассказали об уничтожении украинской ДРГ у села Владимировка",
+    "url": "https://russian.rt.com/ussr/news/1615501-drg-vladimirovka-vsu?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-03T20:50:34+00:00",
     "no_image": false
   }
 ]
