@@ -1,13 +1,5 @@
 [
   {
-    "id": "9ebb82a73b429b05013f9ebde47582ce",
-    "title": "Среди погибших на борту Ан-26 в Крыму есть воины-североморцы, заявил Чибис",
-    "url": "https://ria.ru/20260402/krym-2084664857.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T21:20:31+00:00",
-    "no_image": false
-  },
-  {
     "id": "d43b5c3e7683e4e897a0a04e1a2b404d",
     "title": "Обнаружена неочевидная причина прогрессирования болезни почек",
     "url": "https://lenta.ru/news/2026/04/02/obnaruzhena-neochevidnaya-prichina-progressirovaniya-bolezni-pochek/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/kaluga-2085143212.html",
     "source": "РИА",
     "pub_dt": "2026-04-03T23:00:53+00:00",
+    "no_image": false
+  },
+  {
+    "id": "c206c3b7b9a49991e9360504b45249d9",
+    "title": "Армия Израиля зафиксировала запуск ракет из Ирана",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26999047",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-03T23:10:52+00:00",
     "no_image": false
   }
 ]
