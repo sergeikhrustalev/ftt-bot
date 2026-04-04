@@ -1,13 +1,5 @@
 [
   {
-    "id": "0b27efbe179284fc90d724b40eab465c",
-    "title": "Алиев раскрыл подробности строительства маршрута Трампа",
-    "url": "https://lenta.ru/news/2026/04/02/aliev-raskryl-podrobnosti-stroitelstva-marshruta-trampa/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T16:51:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "f42b5170be28fe99a5346ebf7c66eda1",
     "title": "Названы последствия удара ВСУ по региону России в 1500 километрах от границы с Украиной",
     "url": "https://lenta.ru/news/2026/04/02/nazvany-posledstviya-udara-vsu-po-regionu-rossii-v-1500-kilometrah-ot-granitsy-s-ukrainoy/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/v-tel-avive-proshel-miting-protiv-voyny-s-iranom/",
     "source": "Лента",
     "pub_dt": "2026-04-04T18:30:49+00:00",
+    "no_image": true
+  },
+  {
+    "id": "33149c7a6df3b3bf763ca46cc67dde5f",
+    "title": "Мощное уничтожение украинских бойцов в укрытии сняли на видео",
+    "url": "https://lenta.ru/news/2026/04/04/moschnoe-unichtozhenie-ukrainskih-boytsov-v-ukrytii-snyali-na-video/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T18:41:00+00:00",
     "no_image": true
   }
 ]
