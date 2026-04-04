@@ -1,13 +1,5 @@
 [
   {
-    "id": "62bea06082b9692867c728737a8c6da8",
-    "title": "В ОП предупредили о штрафах за мат в интернете",
-    "url": "https://ria.ru/20260402/shtraf-2084672820.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T23:31:27+00:00",
-    "no_image": false
-  },
-  {
     "id": "eb1db374b7ccfc18aff3f9ee63d610b8",
     "title": "Европа открыто готовится к масштабному военному конфликту, заявил Грызлов",
     "url": "https://ria.ru/20260402/evropa-2084673400.html",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-04T01:11:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "0a7a1f0c70101d42eb8ac200cf922f46",
+    "title": "Reuters: американцы пессимистично оценивают войну с Ираном",
+    "url": "https://russian.rt.com/world/news/1615535-ssha-iran-opros-pessimizm-reuters?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-04T01:20:59+00:00",
+    "no_image": false
   }
 ]
