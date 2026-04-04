@@ -1,13 +1,5 @@
 [
   {
-    "id": "cf37dfe3d55c42cf451b1e5919a2d512",
-    "title": "Швейцарскую «Международную комиссию юристов» признали нежелательной в РФ",
-    "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187569-komissiyu-yuristov-priznali-nezhelatelnoi",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T15:40:19+00:00",
-    "no_image": false
-  },
-  {
     "id": "5a94dd8763420b09232deabfd46c40e0",
     "title": "Верный пес защитил хозяев от медведя",
     "url": "https://lenta.ru/news/2026/04/02/vernyy-pes-spas-hozyaev-ot-medvedya/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/obschestvo/27003073",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T17:21:46+00:00",
+    "no_image": false
+  },
+  {
+    "id": "b73a15b8ea7ae655b41ba62f4a833430",
+    "title": "В Чечне шесть населенных пунктов остаются без проезда после непогоды",
+    "url": "https://ria.ru/20260404/chechnya-2085227489.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T17:35:53+00:00",
     "no_image": false
   }
 ]
