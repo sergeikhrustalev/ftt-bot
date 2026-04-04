@@ -1,13 +1,5 @@
 [
   {
-    "id": "34b0b969af9b7cca417fbcb99142d488",
-    "title": "Парламент Молдавии одобрил проект денонсации устава СНГ",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187391-parlament-moldavii-odobril",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T09:10:31+00:00",
-    "no_image": false
-  },
-  {
     "id": "3d06b66fc4dfb80ea245429e3bc45ba9",
     "title": "В России нашли новый способ усилить контроль над интернетом",
     "url": "https://lenta.ru/news/2026/04/02/control/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/zaharova-vyskazalas-o-vruchenii-kallas-ordena-v-chest-pravoslavnoy-svyatoy/",
     "source": "Лента",
     "pub_dt": "2026-04-04T10:53:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "457647534be9846c5b9e7635ec74896f",
+    "title": "В США прокомментировали закупку Индией у России пяти ЗРК С-400 «Триумф»",
+    "url": "https://lenta.ru/news/2026/04/04/v-ssha-prokommentirovali-zakupku-indiey-u-rossii-pyati-zrk-s-400-triumf/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T11:00:25+00:00",
     "no_image": true
   }
 ]
