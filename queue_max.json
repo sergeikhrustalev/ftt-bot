@@ -1,13 +1,5 @@
 [
   {
-    "id": "d759973d83b49cc8ef2137e0565a10d6",
-    "title": "Отключение электроснабжения произошло в девяти районах Крыма",
-    "url": "https://russian.rt.com/russia/news/1614519-otklyuchenie-elektrosnabzhenie-krym?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T19:41:57+00:00",
-    "no_image": false
-  },
-  {
     "id": "c533ac8202dfff21d9ce856ca8f73dcd",
     "title": "Мощный удар российских FPV-дронов по технике ВСУ попал на видео",
     "url": "https://lenta.ru/news/2026/04/01/moschnyy-udar-rossiyskih-fpv-dronov-po-tehnike-vsu-popal-na-video/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/proisshestviya/26998819",
     "source": "ТАСС",
     "pub_dt": "2026-04-03T21:21:04+00:00",
+    "no_image": false
+  },
+  {
+    "id": "e8cca7d3db1c14208921cbc42c752e20",
+    "title": "NPR: США эвакуировали 1,5 тыс. военных с базы в Бахрейне",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26998843",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-03T21:31:38+00:00",
     "no_image": false
   }
 ]
