@@ -1,13 +1,5 @@
 [
   {
-    "id": "b55e8f60d240aa070f8335c2a2d3e957",
-    "title": "Иностранцы восхитились снимками российской модели с голой грудью",
-    "url": "https://lenta.ru/news/2026/04/01/inostrantsy-voshitilis-snimkami-rossiyskoy-modeli-s-goloy-grudyu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T19:31:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "d759973d83b49cc8ef2137e0565a10d6",
     "title": "Отключение электроснабжения произошло в девяти районах Крыма",
     "url": "https://russian.rt.com/russia/news/1614519-otklyuchenie-elektrosnabzhenie-krym?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-03T21:11:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "df14bc561af03c73bf2300e311250720",
+    "title": "В Липецкой области объявили опасность атаки БПЛА",
+    "url": "https://tass.ru/proisshestviya/26998819",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-03T21:21:04+00:00",
+    "no_image": false
   }
 ]
