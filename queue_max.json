@@ -1,13 +1,5 @@
 [
   {
-    "id": "81ed21d458f8d0c472842aa7aaaf1079",
-    "title": "Силовики сообщили о ликвидации служившего 12 лет в Нацгвардии США наемника",
-    "url": "https://lenta.ru/news/2026/04/01/siloviki-soobschili-o-likvidatsii-sluzhivshego-12-let-v-natsgvardii-ssha-naemnika/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T18:50:41+00:00",
-    "no_image": true
-  },
-  {
     "id": "0856cb085bd17bc076edd202921e378f",
     "title": "«Локомотив» победил «Спартак» и вышел в четвертьфинал Кубка Гагарина",
     "url": "https://russian.rt.com/sport/news/1614507-lokomotiv-spartak-kubok-gagarina?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/mezhdunarodnaya-panorama/26998685",
     "source": "ТАСС",
     "pub_dt": "2026-04-03T20:30:59+00:00",
+    "no_image": false
+  },
+  {
+    "id": "265d586079a5f2d164d24c0e1f07c95b",
+    "title": "Дубль Дембеле помог \"ПСЖ\" Сафонова обыграть \"Тулузу\"",
+    "url": "https://ria.ru/20260403/futbol-2085135674.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-03T20:40:44+00:00",
     "no_image": false
   }
 ]
