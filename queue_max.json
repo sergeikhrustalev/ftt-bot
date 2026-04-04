@@ -1,13 +1,5 @@
 [
   {
-    "id": "91d76a27aaf881622e3dbf4d4d9c0871",
-    "title": "FT: Трамп угрожал Европе прекратить поставки оружия для Украины",
-    "url": "https://russian.rt.com/world/news/1614504-tramp-ugrozy-oruzhie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T18:40:39+00:00",
-    "no_image": false
-  },
-  {
     "id": "81ed21d458f8d0c472842aa7aaaf1079",
     "title": "Силовики сообщили о ликвидации служившего 12 лет в Нацгвардии США наемника",
     "url": "https://lenta.ru/news/2026/04/01/siloviki-soobschili-o-likvidatsii-sluzhivshego-12-let-v-natsgvardii-ssha-naemnika/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/proisshestviya/26998649",
     "source": "ТАСС",
     "pub_dt": "2026-04-03T20:23:20+00:00",
+    "no_image": false
+  },
+  {
+    "id": "57065daf09d91d1fd4ab7f650b4a5262",
+    "title": "КСИР призвал главу ВВС США уйти в отставку после падения самолетов в Иране",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26998685",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-03T20:30:59+00:00",
     "no_image": false
   }
 ]
