@@ -1,13 +1,5 @@
 [
   {
-    "id": "707fb8ee21f75a6d898de4682de9c4ec",
-    "title": "Основатель группы Krec рэпер Fuze погиб в ДТП",
-    "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187355-fuze-pogib",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T08:00:24+00:00",
-    "no_image": false
-  },
-  {
     "id": "b2d31cfdd83500264414e4ea81bf1363",
     "title": "Рестораторы уносят столики // «Шоколадница» закрывает кафе и пытается снизить плату за аренду",
     "url": "https://www.kommersant.ru/doc/8553049",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-04T09:41:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "42285e2fe2abb6349bfe52d27bf20f8d",
+    "title": "WSJ: Пентагон занизил данные об ущербе посольству США после иранского удара",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/04/1187933-wsj-pentagon-zanizil",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-04T09:59:07+00:00",
+    "no_image": false
   }
 ]
