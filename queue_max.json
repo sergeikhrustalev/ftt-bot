@@ -1,13 +1,5 @@
 [
   {
-    "id": "3ec42f378df9adeb1c5576b124a95402",
-    "title": "Более 40 россиян содержатся в тюрьмах Финляндии",
-    "url": "https://ria.ru/20260402/finlyandiya-2084680592.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-02T02:14:22+00:00",
-    "no_image": false
-  },
-  {
     "id": "7f723416ef09cc47c5ec44add71c16d3",
     "title": "Роботы-доставщики безопаснее курьеров, считает глава СПЧ",
     "url": "https://ria.ru/20260402/kurer-2084680948.html",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/bpla-2085155351.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T03:53:04+00:00",
+    "no_image": false
+  },
+  {
+    "id": "bf2f4af4f6c046d9d8c50de762e2aab0",
+    "title": "В Киеве прогремели взрывы",
+    "url": "https://ria.ru/20260404/kiev-2085155645.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T04:00:18+00:00",
     "no_image": false
   }
 ]
