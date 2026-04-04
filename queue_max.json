@@ -1,13 +1,5 @@
 [
   {
-    "id": "1acf9d21eacb7537d781afa5e82f53d7",
-    "title": "Одинокие россияне ушли на СВО и остались без денег",
-    "url": "https://lenta.ru/news/2026/04/02/odinokih-rossiyan-zastavili-poyti/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T10:12:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "6be6e3ee81a2d1a8425f0794776f6160",
     "title": "Эмитенты балансируют на ставках // Компании разместили в марте облигаций на 1,3 трлн рублей",
     "url": "https://www.kommersant.ru/doc/8553201",
@@ -2390,5 +2382,13 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-04T11:50:25+00:00",
     "no_image": false
+  },
+  {
+    "id": "12cf05b68837d3d00ae700cab924f35f",
+    "title": "Американскую газету The New York Times высмеяли за незнание расшифровки аббревиатуры НАТО",
+    "url": "https://lenta.ru/news/2026/04/04/amerikanskuyu-gazetu-the-new-york-times-vysmeyali-za-neznanie-rasshifrovki-abbreviatury-nato/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T12:03:00+00:00",
+    "no_image": true
   }
 ]
