@@ -1,13 +1,5 @@
 [
   {
-    "id": "81ac4a01ef764b51284a51e4bc47b02c",
-    "title": "Набор продуктов для приготовления кулича подешевел",
-    "url": "https://lenta.ru/news/2026/04/02/nabor-produktov-dlya-prigotovleniya-kulicha-podeshevel/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T10:41:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "f49499176e60d227e5975db4bb7772ec",
     "title": "Бесстрашный «Скворец-опто» России направили на СВО",
     "url": "https://lenta.ru/news/2026/04/02/besstrashnyy-skvorets-opto-rossii-napravili-na-svo/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-04T12:21:45+00:00",
     "no_image": true
+  },
+  {
+    "id": "abd50d3012d37a0f9bb33c21c3ebbdd9",
+    "title": "Задержан гендиректор финтех-компании Solfy",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/04/1187949-zaderzhan-gendirektor-finteh-kompanii",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-04T12:31:41+00:00",
+    "no_image": false
   }
 ]
