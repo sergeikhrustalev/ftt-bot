@@ -1,13 +1,5 @@
 [
   {
-    "id": "40627fbb95248b95dd2a15ab1bab32f2",
-    "title": "Стали известны все пары второго раунда плей-офф КХЛ",
-    "url": "https://lenta.ru/news/2026/04/02/stali-izvestny-vse-pary-vtorogo-raunda-pley-off-khl/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T17:40:20+00:00",
-    "no_image": true
-  },
-  {
     "id": "e0bd26391beecb6bd3427d5aeb029e4a",
     "title": "Анохин призвал посетить Молодежную столицу России - Смоленск",
     "url": "https://ria.ru/20260402/anokhin-2084867615.html",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-04T19:22:10+00:00",
     "no_image": false
+  },
+  {
+    "id": "23cbae4122dd6d598354510a31eedf1d",
+    "title": "В МИД Ирана предупредили о «радиоактивных осадках» в Персидском заливе",
+    "url": "https://lenta.ru/news/2026/04/04/v-mid-irana-predupredili-o-radioaktivnyh-osadkah-v-persidskom-zalive/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T19:33:00+00:00",
+    "no_image": true
   }
 ]
