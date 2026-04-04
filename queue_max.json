@@ -1,13 +1,5 @@
 [
   {
-    "id": "f49499176e60d227e5975db4bb7772ec",
-    "title": "Бесстрашный «Скворец-опто» России направили на СВО",
-    "url": "https://lenta.ru/news/2026/04/02/besstrashnyy-skvorets-opto-rossii-napravili-na-svo/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T10:50:21+00:00",
-    "no_image": true
-  },
-  {
     "id": "3b1240e0850ea042f6e33d5f08975684",
     "title": "Макрон обиделся на Трампа",
     "url": "https://lenta.ru/news/2026/04/02/makron-obidelsya-na-trampa/",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/politics/news/2026/04/04/1187949-zaderzhan-gendirektor-finteh-kompanii",
     "source": "Ведомости",
     "pub_dt": "2026-04-04T12:31:41+00:00",
+    "no_image": false
+  },
+  {
+    "id": "b08a1f7e18e7ea6f68a05f4d1fff24f5",
+    "title": "Новак: пункт пропуска на границе РФ и Абхазии сможет обслуживать 80 тыс. человек в сутки",
+    "url": "https://tass.ru/ekonomika/27001893",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T12:40:35+00:00",
     "no_image": false
   }
 ]
