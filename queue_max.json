@@ -1,13 +1,5 @@
 [
   {
-    "id": "798f3924c3bd2553f80880fd06668045",
-    "title": "Выручка операторов от частных сетей 5G к 2036 году достигнет 234 млрд рублей",
-    "url": "https://www.vedomosti.ru/technology/news/2026/04/02/1187539-viruchka-operatorov",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T14:00:32+00:00",
-    "no_image": false
-  },
-  {
     "id": "c2adeacab053254214e9064c51a976b5",
     "title": "Ход боевых действий 2 апреля",
     "url": "https://www.kommersant.ru/doc/8553980",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/obschestvo/27002735",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T15:44:08+00:00",
+    "no_image": false
+  },
+  {
+    "id": "e2e50e359cfb51442b98d59ce0f8a826",
+    "title": "Решение Зеленского по Донбассу вызвало возмущение на Западе",
+    "url": "https://ria.ru/20260404/zelenskiy-2085219176.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T15:50:40+00:00",
     "no_image": false
   }
 ]
