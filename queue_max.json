@@ -1,13 +1,5 @@
 [
   {
-    "id": "44c2c33a66a645812745ee14411b47d6",
-    "title": "Известная актриса пожаловалась на сексуально озабоченных ухажеров",
-    "url": "https://lenta.ru/news/2026/04/02/izvestnaya-aktrisa-pozhalovalas-na-seksualno-ozabochennyh-uhazherov/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T05:00:46+00:00",
-    "no_image": true
-  },
-  {
     "id": "8c531fae93b282ac95dce9b1bea5faec",
     "title": "Силы ПВО сбили 147 украинских беспилотников за ночь",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187330-sili-pvo-147",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/olimpiyskiy-chempion-prizval-lishit-norvezhskih-lyzhnikov-privilegiy/",
     "source": "Лента",
     "pub_dt": "2026-04-04T06:47:07+00:00",
+    "no_image": true
+  },
+  {
+    "id": "f26f741dc6cafc8e716fd3e1cb87923e",
+    "title": "Названы последствия для российских компаний за неоплаченные переработки сотрудников",
+    "url": "https://lenta.ru/news/2026/04/04/nazvany-posledstviya-dlya-rossiyskih-kompaniy-za-neoplachennye-pererabotki-sotrudnikov/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T06:50:47+00:00",
     "no_image": true
   }
 ]
