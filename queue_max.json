@@ -1,13 +1,5 @@
 [
   {
-    "id": "3b1240e0850ea042f6e33d5f08975684",
-    "title": "Макрон обиделся на Трампа",
-    "url": "https://lenta.ru/news/2026/04/02/makron-obidelsya-na-trampa/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T11:01:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "38a4cb8b56ef3eca73b1df825151849a",
     "title": "АКОРТ: стоимость ингредиентов для кулича снизилась на 9%",
     "url": "https://www.vedomosti.ru/economics/news/2026/04/02/1187457-stoimost-kulicha",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/ekonomika/27001893",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T12:40:35+00:00",
+    "no_image": false
+  },
+  {
+    "id": "552b7645f84f3caadb52c663dc47f9d0",
+    "title": "В Чечне и Дагестане сумма ущерба от паводков превысит 1 млрд рублей",
+    "url": "https://tass.ru/obschestvo/27001935",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T12:52:18+00:00",
     "no_image": false
   }
 ]
