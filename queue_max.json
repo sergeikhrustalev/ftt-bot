@@ -1,13 +1,5 @@
 [
   {
-    "id": "4e622fc0136e5f8063f0b067cd0dd346",
-    "title": "Гладков отменил совещания из-за сведений о возможных атаках ВСУ",
-    "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187348-gladkov-otmenil-soveschaniya",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T07:30:42+00:00",
-    "no_image": false
-  },
-  {
     "id": "d0d674a4c027eb3ba9dbdea9470f96b2",
     "title": "Оверчук оценил потери Армении в $5,1 млрд из-за сближения с ЕС",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187351-overchuk-otsenil-poteri",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-04T09:19:25+00:00",
     "no_image": false
+  },
+  {
+    "id": "da82f0a70c1ffcc665d8d9ce1331fb0a",
+    "title": "Российские ученые открыли оазис",
+    "url": "https://lenta.ru/news/2026/04/04/rossiyskie-uchenye-otkryli-oazis/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T09:21:00+00:00",
+    "no_image": true
   }
 ]
