@@ -1,13 +1,5 @@
 [
   {
-    "id": "1ba781e6e58497ef8ce867264821cb59",
-    "title": "В России назвали причину интереса США к Армении",
-    "url": "https://lenta.ru/news/2026/04/02/v-rossii-nazvali-prichinu-interesa-ssha-k-armenii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T22:30:25+00:00",
-    "no_image": true
-  },
-  {
     "id": "6e4bddc9b8c717d0bc3aaacc32e7897e",
     "title": "\"Первый признак\": на Западе раскрыли, на что пошла Европа ради России",
     "url": "https://ria.ru/20260402/evropa-2084670050.html",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/obschestvo/26999193",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T00:10:51+00:00",
+    "no_image": false
+  },
+  {
+    "id": "23e8fa1ba784f310b412f633fc8cb680",
+    "title": "Сын пропавшей Усольцевой озвучил, что могло произойти с его семьей",
+    "url": "https://ria.ru/20260404/usoltsevy-2085147042.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T00:21:37+00:00",
     "no_image": false
   }
 ]
