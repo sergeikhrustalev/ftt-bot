@@ -1,13 +1,5 @@
 [
   {
-    "id": "7497449d769a3d19dcd7bf3c388fba9a",
-    "title": "«Вершина персонализированной медицины»: в России начали использовать вакцину от рака «Неоонковак»",
-    "url": "https://russian.rt.com/science/article/1614279-vakcina-neoonkovak-melanoma?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-01T20:07:31+00:00",
-    "no_image": false
-  },
-  {
     "id": "950c671f8c373de5c2354685b9506218",
     "title": "Politico: Трамп в обращении к нации может объявить о завершении войны в Иране",
     "url": "https://russian.rt.com/world/news/1614524-tramp-voina-iran?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/mid-2085138404.html",
     "source": "РИА",
     "pub_dt": "2026-04-03T21:44:30+00:00",
+    "no_image": false
+  },
+  {
+    "id": "2e03d17d7bb1d0512293f99034aa4ae3",
+    "title": "Трамп действительно заинтересован в договоре по Украине, считает Матвиенко",
+    "url": "https://ria.ru/20260404/matvienko-2085139135.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-03T21:50:34+00:00",
     "no_image": false
   }
 ]
