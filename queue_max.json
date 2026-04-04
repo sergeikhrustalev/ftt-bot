@@ -1,13 +1,5 @@
 [
   {
-    "id": "1f3a234fd9f22c8e2ff7c05d40eb937d",
-    "title": "Ответственным за массовые беспорядки в российском аэропорту стал экс-депутат Госдумы",
-    "url": "https://lenta.ru/news/2026/04/02/otvetstvennym-za-massovye-besporyadki-v-rossiyskom-aeroportu-stal-eks-deputat-gosdumy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T17:23:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "fa96e3c250f413a864bbccf66bb847e5",
     "title": "Угрозу атаки БПЛА объявили на первой в России федеральной территории",
     "url": "https://lenta.ru/news/2026/04/02/ugrozu-ataki-bpla-ob-yavili-na-pervoy-v-rossii-federalnoy-territorii/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-04T19:01:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "caa6e261d4eff7e0b1e57e10d58da5e8",
+    "title": "ПВО сбила 69 украинских БПЛА над регионами России за семь часов",
+    "url": "https://ria.ru/20260404/pvo-2085234806.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T19:10:58+00:00",
+    "no_image": false
   }
 ]
