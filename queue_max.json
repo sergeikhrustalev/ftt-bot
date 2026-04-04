@@ -1,13 +1,5 @@
 [
   {
-    "id": "d43b5c3e7683e4e897a0a04e1a2b404d",
-    "title": "Обнаружена неочевидная причина прогрессирования болезни почек",
-    "url": "https://lenta.ru/news/2026/04/02/obnaruzhena-neochevidnaya-prichina-progressirovaniya-bolezni-pochek/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T21:30:47+00:00",
-    "no_image": true
-  },
-  {
     "id": "a4c153b13be5cf5da8de1744ce8a1627",
     "title": "СМИ: генсек НАТО встретится с Трампом на следующей неделе",
     "url": "https://ria.ru/20260402/vashington-2084666492.html",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/mezhdunarodnaya-panorama/26999047",
     "source": "ТАСС",
     "pub_dt": "2026-04-03T23:10:52+00:00",
+    "no_image": false
+  },
+  {
+    "id": "e36a57d32b9544ce5f43c0e4f3f36a41",
+    "title": "В Госдуме раскрыли, что изменится в выплатах больничных с 1 июля",
+    "url": "https://ria.ru/20260404/gosduma-2085144113.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-03T23:21:44+00:00",
     "no_image": false
   }
 ]
