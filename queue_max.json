@@ -1,13 +1,5 @@
 [
   {
-    "id": "4d2828b6841e24bc4bed201f4f2805b6",
-    "title": "Мощность заложенной под машину Сарварова взрывчатки достигала 1 кг тротила",
-    "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187321-moschnost-zalozhennoi-sarvarova",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T03:39:15+00:00",
-    "no_image": false
-  },
-  {
     "id": "a9b43caf9654b4e405502e3b6d85f293",
     "title": "Трамп предупредил о ракетной угрозе Ирана для Европы и США",
     "url": "https://lenta.ru/news/2026/04/02/tramp-predupredil-o-raketnoy-ugroze-irana-dlya-evropy-i-ssha/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/sudno-2085159960.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T05:14:50+00:00",
+    "no_image": false
+  },
+  {
+    "id": "4a308377b2d54b49065598561cd66d03",
+    "title": "\"Орландо\" обыграл \"Даллас\" в матче НБА, Флэгг набрал 51 очко",
+    "url": "https://ria.ru/20260404/basketbol-2085160494.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T05:20:45+00:00",
     "no_image": false
   }
 ]
