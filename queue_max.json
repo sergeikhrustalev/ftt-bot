@@ -1,13 +1,5 @@
 [
   {
-    "id": "03069fe74f03d5735d407d6a58e314b2",
-    "title": "ВС России передали партию «Краснополей-М2»",
-    "url": "https://lenta.ru/news/2026/04/02/vs-rossii-peredali-partiyu-krasnopoley-m2/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T12:11:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "7e7feb3b0caf99cf2115fe82800e365d",
     "title": "Стало известно о недовольстве Трампа главой Нацразведки США из-за Ирана",
     "url": "https://lenta.ru/news/2026/04/02/stalo-izvestno-o-taynyh-obsuzhdeniyah-trampom-zameny-glavy-natsrazvedki-ssha/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-04T13:52:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "3957ac272a1fd49ec07155ef9ef5b1ed",
+    "title": "В Донецке при обстреле ВСУ пострадали два человека",
+    "url": "https://tass.ru/proisshestviya/27002407",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T14:01:57+00:00",
+    "no_image": false
   }
 ]
