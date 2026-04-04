@@ -1,13 +1,5 @@
 [
   {
-    "id": "fc17204e6dd122b3a0ea67c78c412d1f",
-    "title": "Канада направит Украине новый денежный транш",
-    "url": "https://lenta.ru/news/2026/04/02/kanada-napravit-ukraine-novyy-denezhnyy-transh/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T00:32:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "4947d88cf0d73a2a4e1dc1f81cf5f898",
     "title": "Израиль зафиксировал второй за два часа пуск ракет из Ирана",
     "url": "https://ria.ru/20260402/pusk-2084676232.html",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/armiya-i-opk/26999455",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T02:11:58+00:00",
+    "no_image": false
+  },
+  {
+    "id": "1352bc3e928cdd5b7a8ca1f209ced2f2",
+    "title": "В Дубае сообщили о повреждении здания из-за работы ПВО",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26999463",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T02:21:10+00:00",
     "no_image": false
   }
 ]
