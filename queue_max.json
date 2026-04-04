@@ -1,13 +1,5 @@
 [
   {
-    "id": "7804697294d6604c8b7b021046cb7736",
-    "title": "В России отреагировали на заявления Трампа относительно поставок оружия Киеву",
-    "url": "https://lenta.ru/news/2026/04/02/v-rossii-otreagirovali-na-zayavleniya-trampa-otnositelno-postavok-oruzhiya-kievu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T14:52:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "fc95e58ec17477b0cdf290c678d61cbb",
     "title": "Известного радиоведущего обвинили в сексуальных преступлениях против ребенка",
     "url": "https://lenta.ru/news/2026/04/02/scott-mills/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-04T16:30:18+00:00",
     "no_image": true
+  },
+  {
+    "id": "99fa936318c4c972d9ada9be25d5cf40",
+    "title": "Как встать на биржу труда в 2025 году: пошаговая инструкция",
+    "url": "https://ria.ru/20260404/bezrabotnye-1599982658.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T16:41:00+00:00",
+    "no_image": false
   }
 ]
