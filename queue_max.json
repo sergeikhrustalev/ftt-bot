@@ -1,13 +1,5 @@
 [
   {
-    "id": "d0d674a4c027eb3ba9dbdea9470f96b2",
-    "title": "Оверчук оценил потери Армении в $5,1 млрд из-за сближения с ЕС",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187351-overchuk-otsenil-poteri",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T07:40:32+00:00",
-    "no_image": false
-  },
-  {
     "id": "69049f01086ad29e8e1972896a4d63c7",
     "title": "Названы самые надежные машины на вторичном рынке",
     "url": "https://lenta.ru/news/2026/04/02/nazvany-samye-nadezhnye-mashiny-na-vtorichnom-rynke/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/rossiyskie-uchenye-otkryli-oazis/",
     "source": "Лента",
     "pub_dt": "2026-04-04T09:21:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "0ae7fe23c8556025da4bf1fac21e7b61",
+    "title": "Российские военные ударили по аэродромам ВСУ",
+    "url": "https://lenta.ru/news/2026/04/04/rossiyskie-voennye-udarili-po-aerodromam-vsu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T09:31:17+00:00",
     "no_image": true
   }
 ]
