@@ -1,13 +1,5 @@
 [
   {
-    "id": "92c0489ff193a9b6ec6c1130958b1e72",
-    "title": "Трамп столкнулся с неожиданной проблемой из-за НАТО",
-    "url": "https://lenta.ru/news/2026/04/02/tramp-stolknulsya-s-problemoy-vnutri-kongressa-ssha-iz-za-nato/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T14:22:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "3b95f4bb5ce75fbd37c001f8d36ee1a1",
     "title": "Туристке пригрозили тюрьмой за оскорбительную пародию на официантку в Бразилии",
     "url": "https://lenta.ru/news/2026/04/02/turistke-prigrozili-tyurmoy-za-oskorbitelnuyu-parodiyu-na-ofitsiantku-v-brazilii/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/obschestvo/27002701",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T16:01:17+00:00",
+    "no_image": false
+  },
+  {
+    "id": "467d0dd051a7683c776b7243ca89c99b",
+    "title": "Курское \"Динамо\" обыграло \"Нику\" в матче ЧР по баскетболу",
+    "url": "https://ria.ru/20260404/basketbol-2085219866.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T16:11:51+00:00",
     "no_image": false
   }
 ]
