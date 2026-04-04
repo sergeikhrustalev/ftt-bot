@@ -1,13 +1,5 @@
 [
   {
-    "id": "6f6f5d311485ef9bb7ed5fbaed59fc40",
-    "title": "Активизировалось расследование махинаций бывшего сенатора в российской госкорпорации",
-    "url": "https://lenta.ru/news/2026/04/02/aktivizirovalos-rassledovanie-mahinatsiy-byvshego-senatora-v-rossiyskoy-goskorporatsii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T16:01:34+00:00",
-    "no_image": true
-  },
-  {
     "id": "d55ae3c9fa2b91b4200bbd2875166967",
     "title": "Племянник Карла III объявил дату свадьбы с медсестрой",
     "url": "https://lenta.ru/news/2026/04/02/plemyannik-karla-iii-ob-yavil-datu-svadby-s-medsestroy/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/usa-2085228100.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T17:45:41+00:00",
+    "no_image": false
+  },
+  {
+    "id": "874bc0f075218344b0eb7cf8f36c1edb",
+    "title": "Российские юниорки вышли в плей-офф волейбольного турнира в Италии",
+    "url": "https://tass.ru/sport/27003161",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T17:51:38+00:00",
     "no_image": false
   }
 ]
