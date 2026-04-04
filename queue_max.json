@@ -1,13 +1,5 @@
 [
   {
-    "id": "f48ec7f61216a189f0a7860b8eef002e",
-    "title": "НАСА сообщило о проблемах на запущенном к Луне корабле Orion",
-    "url": "https://lenta.ru/news/2026/04/02/nasa-soobschilo-o-problemah-na-zapuschennom-k-lune-korable-orion/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T04:54:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "44c2c33a66a645812745ee14411b47d6",
     "title": "Известная актриса пожаловалась на сексуально озабоченных ухажеров",
     "url": "https://lenta.ru/news/2026/04/02/izvestnaya-aktrisa-pozhalovalas-na-seksualno-ozabochennyh-uhazherov/",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-04T06:35:26+00:00",
     "no_image": false
+  },
+  {
+    "id": "64a069c17ba38f4fa82c6c5e3c2bb359",
+    "title": "Олимпийский чемпион призвал лишить норвежских лыжников привилегий",
+    "url": "https://lenta.ru/news/2026/04/04/olimpiyskiy-chempion-prizval-lishit-norvezhskih-lyzhnikov-privilegiy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T06:47:07+00:00",
+    "no_image": true
   }
 ]
