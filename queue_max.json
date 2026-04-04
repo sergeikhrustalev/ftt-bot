@@ -1,13 +1,5 @@
 [
   {
-    "id": "c8de847a68ed95466fa348123c45cd1d",
-    "title": "Названа неожиданная польза зеленых бананов",
-    "url": "https://lenta.ru/news/2026/04/02/nazvana-neozhidannaya-polza-zelenyh-bananov/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T13:41:32+00:00",
-    "no_image": true
-  },
-  {
     "id": "de7464acbd7ab6edf776c76fdfaf9482",
     "title": "Kyodo: Япония может направить в РФ делегацию, чтобы обсудить закупки нефти",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187534-yaponiya-ekonomicheskuyu-delegatsiyu",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/politics/news/2026/04/04/1187965-postradavshih-oae",
     "source": "Ведомости",
     "pub_dt": "2026-04-04T15:21:52+00:00",
+    "no_image": false
+  },
+  {
+    "id": "702ebb235252b7b5985a900d67c4e4ab",
+    "title": "Пилотный проект новой модели высшего образования оценят на эффективность",
+    "url": "https://tass.ru/obschestvo/27002681",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T15:30:42+00:00",
     "no_image": false
   }
 ]
