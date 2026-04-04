@@ -1,13 +1,5 @@
 [
   {
-    "id": "af9fbb62e4370e6c6d6ad3e5a6b16499",
-    "title": "Сын Газманова удивил фанатов кардинальной сменой имиджа",
-    "url": "https://lenta.ru/news/2026/04/02/syn-gazmanova-udivil-fanatov-kardinalnoy-smenoy-imidzha/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T11:40:22+00:00",
-    "no_image": true
-  },
-  {
     "id": "18f60bdb113bd99efacfb8b0d564aaa0",
     "title": "Макрон попросил Трампа поменьше говорить и побольше делать",
     "url": "https://lenta.ru/news/2026/04/02/makron-poprosil-trampa-pomenshe-govorit-i-pobolshe-delat/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/ai-woman/",
     "source": "Лента",
     "pub_dt": "2026-04-04T13:21:51+00:00",
+    "no_image": true
+  },
+  {
+    "id": "10b4c75ee9818d05c3916079a78f9bd8",
+    "title": "Королева Елизавета II не успела попрощаться с мужем перед смертью",
+    "url": "https://lenta.ru/news/2026/04/04/koroleva-elizaveta-ii-ne-uspela-poproschatsya-s-muzhem-pered-smertyu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T13:30:24+00:00",
     "no_image": true
   }
 ]
