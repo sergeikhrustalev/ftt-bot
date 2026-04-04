@@ -1,13 +1,5 @@
 [
   {
-    "id": "69049f01086ad29e8e1972896a4d63c7",
-    "title": "Названы самые надежные машины на вторичном рынке",
-    "url": "https://lenta.ru/news/2026/04/02/nazvany-samye-nadezhnye-mashiny-na-vtorichnom-rynke/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T07:51:40+00:00",
-    "no_image": true
-  },
-  {
     "id": "707fb8ee21f75a6d898de4682de9c4ec",
     "title": "Основатель группы Krec рэпер Fuze погиб в ДТП",
     "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187355-fuze-pogib",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/rossiyskie-voennye-udarili-po-aerodromam-vsu/",
     "source": "Лента",
     "pub_dt": "2026-04-04T09:31:17+00:00",
+    "no_image": true
+  },
+  {
+    "id": "b3063d655d0c3c4d5880eab59019cbfa",
+    "title": "Российские войска ПВО за сутки сбили 308 украинских БПЛА и ракету «Фламинго»",
+    "url": "https://lenta.ru/news/2026/04/04/rossiyskie-voyska-pvo-sbili-308-ukrainskih-bpla-i-shest-raket-flamingo-za-sutki/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T09:41:00+00:00",
     "no_image": true
   }
 ]
