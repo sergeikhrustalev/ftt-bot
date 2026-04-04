@@ -1,13 +1,5 @@
 [
   {
-    "id": "0149b8e23f61f8320459f4baa3352cc8",
-    "title": "Американский военный забил тревогу после обращения Трампа к нации",
-    "url": "https://lenta.ru/news/2026/04/02/amerikanskiy-voennyy-zabil-trevogu-posle-obrascheniya-trampa-k-natsii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T04:27:21+00:00",
-    "no_image": true
-  },
-  {
     "id": "8ac9742142cf38099db45b5d8c239c63",
     "title": "Мужчина прервал жену на полуслове и заблокировал ее по неожиданной причине",
     "url": "https://lenta.ru/news/2026/04/02/muzhchina-prerval-zhenu-na-poluslove-i-zablokiroval-ee-po-neozhidannoy-prichine/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/04/vsu-nochyu-popytalis-udarit-po-desyati-regionam-rossii/",
     "source": "Лента",
     "pub_dt": "2026-04-04T06:01:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "af86953d146ea0ed0f2df7df980e38a4",
+    "title": "Раскрыта стоимость самого дорогого путешествия россиян в 2026 году",
+    "url": "https://lenta.ru/news/2026/04/04/raskryta-stoimost-samogo-dorogogo-puteshestviya-rossiyan-v-2026-godu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T06:11:05+00:00",
     "no_image": true
   }
 ]
