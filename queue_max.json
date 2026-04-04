@@ -1,13 +1,5 @@
 [
   {
-    "id": "3f069a6211e4a5913a24e9208584245f",
-    "title": "Госдеп США без конкурса отдал миллионы долларов отелю Роднянского*",
-    "url": "https://ria.ru/20260402/otel-2084678690.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-02T01:45:01+00:00",
-    "no_image": false
-  },
-  {
     "id": "1fe007d066cdf8cb4e56cd00c31a75b0",
     "title": "В аэропорту Ижевска ввели ограничения на полеты",
     "url": "https://ria.ru/20260402/ogranicheniya-2084679153.html",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-04T03:21:09+00:00",
     "no_image": false
+  },
+  {
+    "id": "7c895911e8d4d34da44ccda1bdd04f3b",
+    "title": "Россиян предостерегли от трех главных ошибок при смене зимних шин на летние",
+    "url": "https://lenta.ru/news/2026/04/04/rossiyan-predosteregli-ot-treh-glavnyh-oshibok-pri-smene-zimnih-shin-na-letnie/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T03:31:16+00:00",
+    "no_image": true
   }
 ]
