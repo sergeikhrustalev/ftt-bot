@@ -1,13 +1,5 @@
 [
   {
-    "id": "fc95e58ec17477b0cdf290c678d61cbb",
-    "title": "Известного радиоведущего обвинили в сексуальных преступлениях против ребенка",
-    "url": "https://lenta.ru/news/2026/04/02/scott-mills/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T15:00:58+00:00",
-    "no_image": true
-  },
-  {
     "id": "84cb9dd5d7078f841da2b61f5602aa87",
     "title": "Один из соучастников покушения на генерала ГРУ отказался от своих показаний",
     "url": "https://lenta.ru/news/2026/04/02/odin-iz-souchastnikov-pokusheniya-na-generala-gru-otkazalsya-ot-svoih-pokazaniy/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/bezrabotnye-1599982658.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T16:41:00+00:00",
+    "no_image": false
+  },
+  {
+    "id": "0670cba94be641201a0f8c7b056c319b",
+    "title": "Россия и Абхазия заключили соглашение о сотрудничестве в сфере энергетики",
+    "url": "https://ria.ru/20260404/minenergo-2085222818.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T16:50:39+00:00",
     "no_image": false
   }
 ]
