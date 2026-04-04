@@ -1,13 +1,5 @@
 [
   {
-    "id": "f406f4d6a168ce3301376f08b58c153d",
-    "title": "АКРА подтвердило рейтинг «Газпром нефти» на уровне AAA(RU)",
-    "url": "https://www.vedomosti.ru/investments/news/2026/04/02/1187516-reiting-gazprom-nefti",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T13:10:37+00:00",
-    "no_image": false
-  },
-  {
     "id": "14429a765a0757ee390add19852adc7d",
     "title": "Российский беспилотник лишил головы бойца ВСУ и снял последние секунды его жизни на видео",
     "url": "https://lenta.ru/news/2026/04/02/poslednie-sekundy/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/abkhaziya-2085215348.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T14:52:02+00:00",
+    "no_image": false
+  },
+  {
+    "id": "da8852f5f07c083f82997e7426931949",
+    "title": "Эксперт прокомментировал вероятность выхода США из НАТО",
+    "url": "https://ria.ru/20260404/nato-2085216022.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T15:00:32+00:00",
     "no_image": false
   }
 ]
