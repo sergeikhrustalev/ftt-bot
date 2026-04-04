@@ -1,13 +1,5 @@
 [
   {
-    "id": "044b51eab7a6e050cd79d75dba7208cb",
-    "title": "Тайные встречи и пакеты с алкоголем. Бывший зам российского губернатора раскрыл, как носил взятки своему шефу каждый месяц",
-    "url": "https://lenta.ru/news/2026/04/02/taynye-vstrechi-i-pakety-s-alkogolem-byvshiy-zam-rossiyskogo-gubernatora-raskryl-kak-nosil-vzyatki-svoemu-shefu-kazhdyy-mesyats/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T11:31:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "af9fbb62e4370e6c6d6ad3e5a6b16499",
     "title": "Сын Газманова удивил фанатов кардинальной сменой имиджа",
     "url": "https://lenta.ru/news/2026/04/02/syn-gazmanova-udivil-fanatov-kardinalnoy-smenoy-imidzha/",
@@ -2390,5 +2382,13 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-04T13:11:39+00:00",
     "no_image": false
+  },
+  {
+    "id": "183869e4693492189ce964f2c32c9695",
+    "title": "Женщина-политик омолодила себя на фото с помощью ИИ и поплатилась",
+    "url": "https://lenta.ru/news/2026/04/04/ai-woman/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T13:21:51+00:00",
+    "no_image": true
   }
 ]
