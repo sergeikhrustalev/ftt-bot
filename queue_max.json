@@ -1,13 +1,5 @@
 [
   {
-    "id": "b5f62d386e6e6c4ad717ff4a3e0a8b1a",
-    "title": "Дмитриев раскритиковал использование эвфемизмов для энергокризиса",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187338-raskritikoval-ispolzovanie-evfemizmov",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T07:01:59+00:00",
-    "no_image": false
-  },
-  {
     "id": "b4ace6f4a3ad28fbb196441142aadbd1",
     "title": "МВД опровергло проверку телефонов на использование VPN-сервисов",
     "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187342-mvd-oproverglo",
@@ -2390,5 +2382,13 @@
     "source": "Ведомости",
     "pub_dt": "2026-04-04T08:42:56+00:00",
     "no_image": false
+  },
+  {
+    "id": "24255bcdc1553fce58a0408207a8b30f",
+    "title": "Атомная электростанция в Иране попала под обстрел",
+    "url": "https://lenta.ru/news/2026/04/04/atomnaya-elektrostantsiya-v-irane-popala-pod-obstrel/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T08:51:00+00:00",
+    "no_image": true
   }
 ]
