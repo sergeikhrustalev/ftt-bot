@@ -1,13 +1,5 @@
 [
   {
-    "id": "b2d31cfdd83500264414e4ea81bf1363",
-    "title": "Рестораторы уносят столики // «Шоколадница» закрывает кафе и пытается снизить плату за аренду",
-    "url": "https://www.kommersant.ru/doc/8553049",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-02T08:11:29+00:00",
-    "no_image": false
-  },
-  {
     "id": "1e5e9cd892077db7c22241a6351ccb89",
     "title": "В сети оценили фото 50-летнего Дэвида Бекхэма топлес из спортзала",
     "url": "https://lenta.ru/news/2026/04/02/v-seti-otsenili-foto-50-letnego-devida-bekhema-toples-iz-sportzala/",
@@ -2389,6 +2381,14 @@
     "url": "https://www.vedomosti.ru/politics/news/2026/04/04/1187933-wsj-pentagon-zanizil",
     "source": "Ведомости",
     "pub_dt": "2026-04-04T09:59:07+00:00",
+    "no_image": false
+  },
+  {
+    "id": "cf1fd432a32eef64c6ce5e26e8cd0fa3",
+    "title": "Системы ПВО за сутки уничтожили 308 беспилотников",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/04/1187934-sistemi-pvo-unichtozhili",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-04T10:01:19+00:00",
     "no_image": false
   }
 ]
