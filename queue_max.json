@@ -1,13 +1,5 @@
 [
   {
-    "id": "965c7484c93e17762f52a5f29d82e0a0",
-    "title": "Самый доверенный человек главы российского региона попытался выйти из СИЗО",
-    "url": "https://lenta.ru/news/2026/04/02/samyy-doverennyy-chelovek-glavy-rossiyskogo-regiona-popytalsya-vyyti-iz-sizo/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T06:42:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "1245c8e8ae716632256f6d674dc8f45a",
     "title": "Жители российского региона остались без бензина",
     "url": "https://lenta.ru/news/2026/04/02/zhiteli-rossiyskogo-regiona-ostalis-bez-benzina/",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-04T08:22:08+00:00",
     "no_image": false
+  },
+  {
+    "id": "3f93230b58c0a4bc301d6421bd22accc",
+    "title": "В России запретили и заблокировали сайты с инструкциями по сваттингу",
+    "url": "https://lenta.ru/news/2026/04/04/v-rossii-zapretili-i-zablokirovali-sayty-s-instruktsiyami-po-svattingu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T08:31:00+00:00",
+    "no_image": true
   }
 ]
