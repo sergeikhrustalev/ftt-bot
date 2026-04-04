@@ -1,13 +1,5 @@
 [
   {
-    "id": "c8395d3277a628db0d04a3238b480176",
-    "title": "Россиянам перечислили отрасли с зарплатой выше 200 тысяч рублей",
-    "url": "https://lenta.ru/news/2026/04/02/rossiyanam-perechislili-otrasli-s-zarplatoy-vyshe-200-tysyach-rubley/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T06:11:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "824728e915190eaedb828a0c560fb9d6",
     "title": "Россияне стали меньше интересоваться туризмом",
     "url": "https://lenta.ru/news/2026/04/02/rossiyane-stali-menshe-interesovatsya-turizmom/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/fars-2085169965.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T07:53:17+00:00",
+    "no_image": false
+  },
+  {
+    "id": "3d321c6478cb9dddbe57daddc2cfbb9a",
+    "title": "Житель Ленинградской области повредил окно квартиры бывшей жены петардой",
+    "url": "https://ria.ru/20260404/lenoblast-2085170854.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T08:04:38+00:00",
     "no_image": false
   }
 ]
