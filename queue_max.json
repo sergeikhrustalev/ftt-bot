@@ -1,13 +1,5 @@
 [
   {
-    "id": "8ac9742142cf38099db45b5d8c239c63",
-    "title": "Мужчина прервал жену на полуслове и заблокировал ее по неожиданной причине",
-    "url": "https://lenta.ru/news/2026/04/02/muzhchina-prerval-zhenu-na-poluslove-i-zablokiroval-ee-po-neozhidannoy-prichine/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T04:30:32+00:00",
-    "no_image": true
-  },
-  {
     "id": "92f259e3b31bfcf5042803903e712594",
     "title": "Россиянам назвали профессии с самым стремительным ростом зарплат",
     "url": "https://lenta.ru/news/2026/04/02/rossiyanam-nazvali-professii-s-samym-stremitelnym-rostom-zarplat/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-04T06:11:05+00:00",
     "no_image": true
+  },
+  {
+    "id": "2299850c4c4d573d62101c58e8b24f89",
+    "title": "Дончич пропустит конец сезона НБА из-за травмы",
+    "url": "https://ria.ru/20260404/basketbol-2085164747.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T06:22:00+00:00",
+    "no_image": false
   }
 ]
