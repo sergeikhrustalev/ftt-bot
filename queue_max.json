@@ -1,13 +1,5 @@
 [
   {
-    "id": "9e24c2e2c8494bff452910f81fe39152",
-    "title": "Чистая прибыль «Ютэйр» выросла в 5,4 раза в 2025 году",
-    "url": "https://www.vedomosti.ru/business/news/2026/04/02/1187525-pribil-yuteir",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T13:33:44+00:00",
-    "no_image": false
-  },
-  {
     "id": "c8de847a68ed95466fa348123c45cd1d",
     "title": "Названа неожиданная польза зеленых бананов",
     "url": "https://lenta.ru/news/2026/04/02/nazvana-neozhidannaya-polza-zelenyh-bananov/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-04T15:11:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "3c0017df72cf9807e76a75fe1747bcf8",
+    "title": "Число пострадавших при ударах Ирана по ОАЭ достигло 217",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/04/1187965-postradavshih-oae",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-04T15:21:52+00:00",
+    "no_image": false
   }
 ]
