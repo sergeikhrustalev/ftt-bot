@@ -1,13 +1,5 @@
 [
   {
-    "id": "e0bd26391beecb6bd3427d5aeb029e4a",
-    "title": "Анохин призвал посетить Молодежную столицу России - Смоленск",
-    "url": "https://ria.ru/20260402/anokhin-2084867615.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-02T17:51:13+00:00",
-    "no_image": false
-  },
-  {
     "id": "7dbbd53f45d9a74ff8abe368b3118ed6",
     "title": "Россиянам объяснили пользу заражения глистами",
     "url": "https://lenta.ru/news/2026/04/02/rossiyanam-ob-yasnili-polzu-zarazheniya-glistami/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-04T19:33:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "1568c318a00c2534ffe774223945a8b2",
+    "title": "Жулин выделил на \"Русском вызове\" номер Ветлугина, посвященный паралимпийцам",
+    "url": "https://tass.ru/sport/27003413",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T19:40:23+00:00",
+    "no_image": false
   }
 ]
