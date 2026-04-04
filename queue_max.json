@@ -1,13 +1,5 @@
 [
   {
-    "id": "7a77a24ddd731ee66d0abaeea7354d51",
-    "title": "Фон дер Ляйен высказалась по вопросу Ирана",
-    "url": "https://lenta.ru/news/2026/04/02/fon-der-lyayen-vyskazalas-po-voprosu-irana/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T11:22:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "044b51eab7a6e050cd79d75dba7208cb",
     "title": "Тайные встречи и пакеты с алкоголем. Бывший зам российского губернатора раскрыл, как носил взятки своему шефу каждый месяц",
     "url": "https://lenta.ru/news/2026/04/02/taynye-vstrechi-i-pakety-s-alkogolem-byvshiy-zam-rossiyskogo-gubernatora-raskryl-kak-nosil-vzyatki-svoemu-shefu-kazhdyy-mesyats/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/obschestvo/27002023",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T13:00:48+00:00",
+    "no_image": false
+  },
+  {
+    "id": "3db5b90f6db6a18c539dffacb6718fcf",
+    "title": "Лихачев: иранская сторона делает много для безопасной эвакуации сотрудников Росатома",
+    "url": "https://tass.ru/ekonomika/27002087",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T13:11:39+00:00",
     "no_image": false
   }
 ]
