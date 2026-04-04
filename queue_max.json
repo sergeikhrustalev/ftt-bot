@@ -1,13 +1,5 @@
 [
   {
-    "id": "122aaaafb8989eabcc358c9271f92e84",
-    "title": "Politico: в Европе заявили, что НАТО парализовано и уже разваливается",
-    "url": "https://russian.rt.com/world/news/1614572-evropa-nato-paralizovana?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-02T01:14:38+00:00",
-    "no_image": false
-  },
-  {
     "id": "4d5158e897f05d77f6ffce42e5a4e4d3",
     "title": "Трамп пообещал отбросить Иран в \"каменный век\"",
     "url": "https://ria.ru/20260402/tramp-2084677163.html",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/obschestvo/26999501",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T02:51:10+00:00",
+    "no_image": false
+  },
+  {
+    "id": "fbccd795d03c397b05b0d62f7a382bda",
+    "title": "Отец Илона Маска рассказал о желании сына приехать в Россию",
+    "url": "https://ria.ru/20260404/mask-2085152381.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T03:00:40+00:00",
     "no_image": false
   }
 ]
