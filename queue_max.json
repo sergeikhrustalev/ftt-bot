@@ -1,13 +1,5 @@
 [
   {
-    "id": "92f259e3b31bfcf5042803903e712594",
-    "title": "Россиянам назвали профессии с самым стремительным ростом зарплат",
-    "url": "https://lenta.ru/news/2026/04/02/rossiyanam-nazvali-professii-s-samym-stremitelnym-rostom-zarplat/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T04:42:09+00:00",
-    "no_image": true
-  },
-  {
     "id": "f48ec7f61216a189f0a7860b8eef002e",
     "title": "НАСА сообщило о проблемах на запущенном к Луне корабле Orion",
     "url": "https://lenta.ru/news/2026/04/02/nasa-soobschilo-o-problemah-na-zapuschennom-k-lune-korable-orion/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/basketbol-2085164747.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T06:22:00+00:00",
+    "no_image": false
+  },
+  {
+    "id": "90e23fc96d8bad2339bb966d82ffaa1e",
+    "title": "Авантюры НАТО всегда приводили к разрушительным последствиям, заявили в МИД",
+    "url": "https://ria.ru/20260404/mid-2085165674.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T06:35:26+00:00",
     "no_image": false
   }
 ]
