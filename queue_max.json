@@ -1,13 +1,5 @@
 [
   {
-    "id": "c533ac8202dfff21d9ce856ca8f73dcd",
-    "title": "Мощный удар российских FPV-дронов по технике ВСУ попал на видео",
-    "url": "https://lenta.ru/news/2026/04/01/moschnyy-udar-rossiyskih-fpv-dronov-po-tehnike-vsu-popal-na-video/",
-    "source": "Лента",
-    "pub_dt": "2026-04-01T19:51:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "7497449d769a3d19dcd7bf3c388fba9a",
     "title": "«Вершина персонализированной медицины»: в России начали использовать вакцину от рака «Неоонковак»",
     "url": "https://russian.rt.com/science/article/1614279-vakcina-neoonkovak-melanoma?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/mezhdunarodnaya-panorama/26998843",
     "source": "ТАСС",
     "pub_dt": "2026-04-03T21:31:38+00:00",
+    "no_image": false
+  },
+  {
+    "id": "b63b13ca955b704122c11aafb138148b",
+    "title": "В МИД России заверили в поддержке Приднестровья после роста цен на топливо",
+    "url": "https://ria.ru/20260404/mid-2085138404.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-03T21:44:30+00:00",
     "no_image": false
   }
 ]
