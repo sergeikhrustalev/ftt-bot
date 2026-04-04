@@ -1,13 +1,5 @@
 [
   {
-    "id": "2218cd2ff7cc482e06c75074379eca58",
-    "title": "Правительство ввело запрет на экспорт бензина для производителей",
-    "url": "https://www.vedomosti.ru/business/news/2026/04/02/1187337-pravitelstvo-vvelo-zapret",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T06:30:58+00:00",
-    "no_image": false
-  },
-  {
     "id": "965c7484c93e17762f52a5f29d82e0a0",
     "title": "Самый доверенный человек главы российского региона попытался выйти из СИЗО",
     "url": "https://lenta.ru/news/2026/04/02/samyy-doverennyy-chelovek-glavy-rossiyskogo-regiona-popytalsya-vyyti-iz-sizo/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/herson-2085171491.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T08:11:25+00:00",
+    "no_image": false
+  },
+  {
+    "id": "0aac44b997ad043749c38df335535fa2",
+    "title": "Спецслужбы Молдавии по телефону запугивают жительницу ПМР, сообщили в МГБ",
+    "url": "https://ria.ru/20260404/spetssluzhba-2085172156.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T08:22:08+00:00",
     "no_image": false
   }
 ]
