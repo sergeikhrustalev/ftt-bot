@@ -1,13 +1,5 @@
 [
   {
-    "id": "c6af0f2483849f05a11173190b9148a3",
-    "title": "Силовики: наёмник служил в США 12 лет, а на Украине был ликвидирован за 3 месяца",
-    "url": "https://russian.rt.com/ussr/news/1614580-siloviki-nayomnik-sluzhil-ssha?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-02T02:00:25+00:00",
-    "no_image": false
-  },
-  {
     "id": "3ec42f378df9adeb1c5576b124a95402",
     "title": "Более 40 россиян содержатся в тюрьмах Финляндии",
     "url": "https://ria.ru/20260402/finlyandiya-2084680592.html",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260404/subbota-2085154750.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T03:41:56+00:00",
+    "no_image": false
+  },
+  {
+    "id": "f9375df15fb2dceb84c928a2b8bc7f21",
+    "title": "При воздушной атаке ВСУ на Ростовскую область погиб человек",
+    "url": "https://ria.ru/20260404/bpla-2085155351.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T03:53:04+00:00",
     "no_image": false
   }
 ]
