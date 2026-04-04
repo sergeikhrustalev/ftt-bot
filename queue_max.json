@@ -1,13 +1,5 @@
 [
   {
-    "id": "2288fd68105f7dd45270dc951a61ddc8",
-    "title": "Боец Врангель: пленный сдал позиции ВСУ и их маршруты в Бойково",
-    "url": "https://russian.rt.com/ussr/news/1614585-boec-vrangel-plennyi-pozicii-vsu?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-02T02:53:54+00:00",
-    "no_image": false
-  },
-  {
     "id": "f32c719cb4a8e226e0c13117ed19ab13",
     "title": "Шутка 20-летней давности превратила обычного человека в «родственника» звезды Голливуда",
     "url": "https://lenta.ru/news/2026/04/02/shutka-20-letney-davnosti-prevratila-obychnogo-cheloveka-v-rodstvennika-zvezdy-gollivuda/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-04T04:31:14+00:00",
     "no_image": true
+  },
+  {
+    "id": "e96ad7e5fae13feb53b246e2cdb3c3a0",
+    "title": "Южная Корея возобновила работу реактора \"Кори-2\" спустя три года",
+    "url": "https://ria.ru/20260404/koreja-2085157967.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T04:44:20+00:00",
+    "no_image": false
   }
 ]
