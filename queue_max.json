@@ -1,13 +1,5 @@
 [
   {
-    "id": "a4c153b13be5cf5da8de1744ce8a1627",
-    "title": "СМИ: генсек НАТО встретится с Трампом на следующей неделе",
-    "url": "https://ria.ru/20260402/vashington-2084666492.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-01T21:41:00+00:00",
-    "no_image": false
-  },
-  {
     "id": "3f073508bd9f87366ee85e13bb9d07c3",
     "title": "Член ЦИК Сысоев пообещал Путину помогать на выборах ветеранам",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/01/1187317-sisoev-veteranam-spetsoperatsii",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-03T23:21:44+00:00",
     "no_image": false
+  },
+  {
+    "id": "b806a0e332b6783c1148ae4314fa1cdc",
+    "title": "Иран обратился с просьбой к России",
+    "url": "https://lenta.ru/news/2026/04/04/iran-obratilsya-s-prosboy-k-rossii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-03T23:30:35+00:00",
+    "no_image": true
   }
 ]
