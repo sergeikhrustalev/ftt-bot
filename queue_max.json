@@ -1,13 +1,5 @@
 [
   {
-    "id": "4f8df2132c71e4cad29ed0f14b4237b7",
-    "title": "Российский авторынок вырос",
-    "url": "https://lenta.ru/news/2026/04/02/rossiyskiy-avtorynok-vyros/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T16:33:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "1b75cf397ba0f01c31de67f6cefd1f66",
     "title": "Хаб насущный // Чем президент России заинтересовал египетского министра",
     "url": "https://www.kommersant.ru/doc/8554096",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-04T18:12:11+00:00",
     "no_image": false
+  },
+  {
+    "id": "26b931d7b40f46483b31147cd7bc0337",
+    "title": "Европу обвинили в совершении преступления в отношении России",
+    "url": "https://lenta.ru/news/2026/04/04/evropu-obvinili-v-sovershenii-prestupleniya-v-otnoshenii-rossii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T18:21:00+00:00",
+    "no_image": true
   }
 ]
