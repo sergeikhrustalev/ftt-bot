@@ -1,13 +1,5 @@
 [
   {
-    "id": "ca865f5e42fa4348f3f709d97f58d7b3",
-    "title": "«Челси» показал фунты лиха // Он стал самым убыточным клубом в истории Английской премьер-лиги",
-    "url": "https://www.kommersant.ru/doc/8553858",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-02T12:41:00+00:00",
-    "no_image": false
-  },
-  {
     "id": "a6a7258fa49482ae809ad6b1506f8375",
     "title": "Министры обороны СНГ обсудили в Москве укрепление сотрудничества в военной сфере",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/02/1187510-ministri-oboroni-sng",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-04T14:21:13+00:00",
     "no_image": false
+  },
+  {
+    "id": "a400cb07958c8e9d97e94baaff970f66",
+    "title": "Россиян предупредили о трех грозящих алкоголизмом повседневных ритуалах",
+    "url": "https://lenta.ru/news/2026/04/04/rossiyan-predupredili-o-treh-grozyaschih-alkogolizmom-povsednevnyh-ritualah/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T14:32:00+00:00",
+    "no_image": true
   }
 ]
