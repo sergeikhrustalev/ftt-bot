@@ -1,13 +1,5 @@
 [
   {
-    "id": "86a49dcd2e23acfeb7036e5142391560",
-    "title": "Врач развеяла миф о кофе натощак",
-    "url": "https://lenta.ru/news/2026/04/02/vrach-razveyala-mif-o-kofe-natoschak/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T05:30:45+00:00",
-    "no_image": true
-  },
-  {
     "id": "7d1f1c9eae64e441f8430109b5ca8585",
     "title": "Союзник США заявил о достижении ключевых целей в Иране",
     "url": "https://lenta.ru/news/2026/04/02/soyuznik-ssha-zayavil-o-dostizhenii-klyuchevyh-tseley-v-irane/",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-04T07:10:21+00:00",
     "no_image": false
+  },
+  {
+    "id": "43caa19a98a4336e262370bfb633cf68",
+    "title": "В японской больнице нашли тело забитого иранца",
+    "url": "https://lenta.ru/news/2026/04/04/v-yaponskoy-bolnitse-nashli-telo-zabitogo-irantsa/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T07:21:02+00:00",
+    "no_image": true
   }
 ]
