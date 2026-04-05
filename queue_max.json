@@ -1,5 +1,23 @@
 [
   {
+    "id": "c853538a5b1931f588f45eb941520286",
+    "title": "Лавров назвал заявления Каллас позором, который в ЕС не хотят остановить",
+    "url": "https://ria.ru/20260405/lavrov-2085289324.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:12:49+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "20aec29ee2a7c57da058521b37724fff",
+    "title": "Баскетболисты \"Пармы\" обыграли \"Енисей\" в матче Единой лиги ВТБ",
+    "url": "https://ria.ru/20260405/basketbol-2085289188.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:12:15+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "64cfed6cf685c51ff73394218fb1f73f",
     "title": "Песков усомнился в профессиональности Каи Каллас",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188016-usomnilsya-v-kai",
@@ -23,6 +41,15 @@
     "url": "https://ria.ru/20260405/ekipazh-2085288901.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T11:10:26+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "b7bcade3bdd60b49ab742769a51aa299",
+    "title": "В Азовском море затонул сухогруз, один человек погиб, двое пропали",
+    "url": "https://ria.ru/20260405/saldo-2085288787.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:10:22+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -961,30 +988,6 @@
     "url": "https://lenta.ru/news/2026/04/05/stalo-izvestno-ob-izmenenii-rossiey-taktiki-na-svo/",
     "source": "Лента",
     "pub_dt": "2026-04-05T09:51:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "b35f54de4a609603bd78320819e77e06",
-    "title": "Солнце поглотило первую комету, открытую в 2026 году",
-    "url": "https://tass.ru/kosmos/27005593",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T09:50:16+00:00",
-    "no_image": false
-  },
-  {
-    "id": "def8422252e7e89cd2eb21a391958455",
-    "title": "В Махачкале развернули девять ПВР из-за непогоды",
-    "url": "https://tass.ru/obschestvo/27005619",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T09:48:08+00:00",
-    "no_image": false
-  },
-  {
-    "id": "66792935037928aa0aab906d1b3b1f51",
-    "title": "Желающим внести приготовление завтрака в брачный договор россиянам сделали предупреждение",
-    "url": "https://lenta.ru/news/2026/04/05/zhelayuschim-vnesti-prigotovlenie-zavtraka-v-brachnyy-dogovor-rossiyanam-sdelali-preduprezhdenie/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T09:48:00+00:00",
     "no_image": true
   }
 ]
