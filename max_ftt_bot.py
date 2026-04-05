@@ -17,6 +17,74 @@ CHAT_ID = int(os.environ.get("CHAT_ID", "-72873687632407"))
 
 MAX_API = "https://botapi.max.ru"
 
+TOPIC_NEWS_KEYWORDS = (
+    "ии",
+    "ai",
+    "искусствен",
+    "нейросет",
+    "gpt",
+    "llm",
+    "openai",
+    "anthropic",
+    "gemini",
+    "генератив",
+    "агент",
+    "бизнес",
+    "компан",
+    "корпора",
+    "стартап",
+    "инвест",
+    "выручк",
+    "прибыл",
+    "рынок",
+    "продаж",
+    "маркетплейс",
+    "e-commerce",
+    "ecommerce",
+    "ipo",
+    "акци",
+    "фонд",
+    "директор",
+    "маркетинг",
+    "реклам",
+    "бренд",
+    "трафик",
+    "конверс",
+    "клиент",
+    "продвиж",
+    "аудитори",
+    "креатор",
+    "инфлюенсер",
+    "монетизац",
+    "adtech",
+    "martech",
+)
+
+AI_BUSINESS_TECH_KEYWORDS = (
+    "ии",
+    "ai",
+    "искусствен",
+    "нейросет",
+    "gpt",
+    "llm",
+    "openai",
+    "anthropic",
+    "gemini",
+    "генератив",
+    "агент",
+    "бизнес",
+    "инвест",
+    "рынок",
+    "корпора",
+    "выручк",
+    "стартап",
+    "маркетинг",
+    "реклам",
+    "бренд",
+)
+
+NON_NEWS_URL_PATTERNS = ("/reviews/", "/stories/", "/list/", "/cards/")
+
 SOURCES = [
     {"name": "ТАСС", "url": "https://tass.ru/rss/v2.xml", "no_image": False},
     {"name": "РИА", "url": "https://ria.ru/export/rss2/archive/index.xml", "no_image": False},
@@ -24,6 +92,28 @@ SOURCES = [
     {"name": "RT", "url": "https://russian.rt.com/rss", "no_image": False},
     {"name": "Ведомости", "url": "https://www.vedomosti.ru/rss/news", "no_image": False},
     {"name": "Лента", "url": "https://lenta.ru/rss/news", "no_image": True},
+    {
+        "name": "RB.RU",
+        "url": "https://rb.ru/feeds/all/",
+        "no_image": False,
+        "priority_boost_minutes": 75,
+        "include_keywords": TOPIC_NEWS_KEYWORDS,
+        "exclude_url_patterns": NON_NEWS_URL_PATTERNS,
+    },
+    {
+        "name": "RB.RU Marketing",
+        "url": "https://rb.ru/feeds/tag/marketing/",
+        "no_image": False,
+        "priority_boost_minutes": 90,
+        "exclude_url_patterns": NON_NEWS_URL_PATTERNS,
+    },
+    {
+        "name": "CNews",
+        "url": "https://www.cnews.ru/inc/rss/news_top.xml",
+        "no_image": False,
+        "priority_boost_minutes": 45,
+        "include_keywords": AI_BUSINESS_TECH_KEYWORDS,
+    },
 ]
 
 HEADERS = {
@@ -50,6 +140,10 @@ KNOWN_NOISE_LINES = {
     "ведомости",
     "лента",
     "лента.ру",
+    "rb.ru",
+    "russian business",
+    "cnews",
+    "cnews.ru",
 }
 
 BOILERPLATE_FRAGMENTS = (
@@ -106,7 +200,9 @@ def parse_dt(value):
 
 
 def queue_sort_key(item):
-    return parse_dt(item.get("pub_dt")) or datetime.min.replace(tzinfo=timezone.utc)
+    base_dt = parse_dt(item.get("pub_dt")) or datetime.min.replace(tzinfo=timezone.utc)
+    boost_minutes = int(item.get("priority_boost_minutes", 0))
+    return base_dt + timedelta(minutes=boost_minutes)
 
 
 def collapse_spaces(text):
@@ -115,6 +211,10 @@ def collapse_spaces(text):
 
 def normalize_title(title):
     return re.sub(r"\W+", "", title.lower())[:80]
+
+
+def strip_html(text):
+    return collapse_spaces(re.sub(r"<[^>]+>", " ", text or ""))
 
 
 def trim_text(text, limit=TEXT_LIMIT):
@@ -192,6 +292,11 @@ def dedupe_articles(items):
         unique.append(item)
 
     return unique
+
+
+def matches_keywords(text, keywords):
+    text_lower = text.lower()
+    return any(keyword in text_lower for keyword in keywords)
 
 
 def fetch_article(url):
@@ -338,7 +443,15 @@ def collect_articles(cutoff_hours=DEFAULT_CUTOFF_HOURS):
             for entry in feed.entries:
                 title = entry.get("title", "").strip()
                 url = entry.get("link", "").strip()
+                summary = strip_html(entry.get("summary", entry.get("description", "")))
                 if not title or not url:
+                    continue
+
+                if any(pattern in url for pattern in source.get("exclude_url_patterns", ())):
+                    continue
+
+                include_keywords = source.get("include_keywords")
+                if include_keywords and not matches_keywords(f"{title} {summary}", include_keywords):
                     continue
 
                 article_id = get_article_id(url)
@@ -359,6 +472,7 @@ def collect_articles(cutoff_hours=DEFAULT_CUTOFF_HOURS):
                         "source": source["name"],
                         "pub_dt": pub_dt.isoformat(),
                         "no_image": source.get("no_image", False),
+                        "priority_boost_minutes": source.get("priority_boost_minutes", 0),
                     }
                 )
                 queued_ids.add(article_id)
