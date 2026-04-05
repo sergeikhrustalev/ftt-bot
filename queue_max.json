@@ -1,5 +1,32 @@
 [
   {
+    "id": "d4c89b33336c5519db71ed28211ad899",
+    "title": "Не стареют кулаками ветераны // Деонтей Уайлдер и Дерек Чисора устроили рубку в Лондоне",
+    "url": "https://www.kommersant.ru/doc/8569611",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T15:04:00+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "5dc73cf7c6a9fe866e8d54e4cb22bb9d",
+    "title": "Тим Цзю завоевал чемпионский титул",
+    "url": "https://www.kommersant.ru/doc/8569616",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T15:03:14+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "34b592dffdd2a6f2689be44163255148",
+    "title": "Никто не пострадал при обрушении дома в Махачкале, заявил Меликов",
+    "url": "https://ria.ru/20260405/makhachkala-2085312664.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T15:02:54+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "490f49a320c5796404afd4d044b37be7",
     "title": "Венгрия, Сербия, Турция и Россия договорились усилить защиту «Турецкого потока»",
     "url": "https://russian.rt.com/world/news/1616091-tureckii-potok-zaschita?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -1040,33 +1067,6 @@
     "url": "https://tass.ru/mezhdunarodnaya-panorama/27007119",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T13:32:42+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "74aa18a88395276df72d0381c6e51575",
-    "title": "Сербия и Венгрия намерены усилить координацию после инцидента у газопровода",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007079",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:32:07+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "6af4b52d43fa244b3cf4338b86ff38a0",
-    "title": "В Херсоне прогремели взрывы",
-    "url": "https://ria.ru/20260405/herson-2085303407.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T13:32:04+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "3180e71c7a6613b014f4df211ec5b8c8",
-    "title": "В Херсоне произошли взрывы",
-    "url": "https://tass.ru/proisshestviya/27007093",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:31:28+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
