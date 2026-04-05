@@ -1,13 +1,5 @@
 [
   {
-    "id": "fe52321cfb63e58488ee2166b63ba008",
-    "title": "Япония захотела отправить в Россию делегацию по экономическому сотрудничеству",
-    "url": "https://lenta.ru/news/2026/04/02/yaponiya-zahotela-otpravit-v-rossiyu-delegatsiyu-po-ekonomicheskomu-sotrudnichestvu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T23:12:21+00:00",
-    "no_image": true
-  },
-  {
     "id": "b21f5e6e077cc5872de681385a830b49",
     "title": "Экс-аналитик ЦРУ указал на ограниченность военной мощи США из-за Ирана",
     "url": "https://russian.rt.com/world/news/1615051-ssha-iran-mosch-cru?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260405/aeroport-2085247855.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T00:50:46+00:00",
+    "no_image": false
+  },
+  {
+    "id": "2297b961bfadf57ad7a214592e62e4ec",
+    "title": "Press TV: Иран нанёс удары по военным объектам США в ОАЭ и Кувейте",
+    "url": "https://russian.rt.com/world/news/1615890-iran-udary-obekty?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T01:01:31+00:00",
     "no_image": false
   }
 ]
