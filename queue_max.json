@@ -1,13 +1,5 @@
 [
   {
-    "id": "14a470183545c93ecc566fa591b7e967",
-    "title": "Парень перестал делить постель со своей девушкой по неожиданной причине",
-    "url": "https://lenta.ru/news/2026/04/03/paren-perestal-delit-postel-so-svoey-devushkoy-po-neozhidannoy-prichine/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T23:30:33+00:00",
-    "no_image": true
-  },
-  {
     "id": "e62ec7ba423f3351b637c98fdd26c6d1",
     "title": "Politico: Франция и Британия поспорили из-за текста резолюции СБ ООН по Ирану",
     "url": "https://russian.rt.com/world/news/1615053-franciya-britaniya-posporili?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/obschestvo/27003837",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T01:12:37+00:00",
+    "no_image": false
+  },
+  {
+    "id": "f7f13b3a2d7cb2f4976f679227720ad1",
+    "title": "ČN: задержаны ещё двое подозреваемых в поджоге оборонного предприятия в Чехии",
+    "url": "https://russian.rt.com/world/news/1615894-zaderzhanie-podzhog-zavod?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T01:25:26+00:00",
     "no_image": false
   }
 ]
