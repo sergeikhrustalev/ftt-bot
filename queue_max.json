@@ -1,5 +1,77 @@
 [
   {
+    "id": "133e63e93f27fc7eea438f04b09840c0",
+    "title": "В Калининграде пожар в ТЦ локализовали на 7000 квадратах",
+    "url": "https://ria.ru/20260405/kaliningrad-2085317234.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T15:53:28+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "86fd222428ab16b944dd2f91e2a2cdd5",
+    "title": "Иран ударил БПЛА по нефтехимическим объектам вблизи израильской Димоны",
+    "url": "https://russian.rt.com/world/news/1616106-iran-izrail-ssha-ataka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T15:53:20+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "c2b1986804eafff29ff70b6597e39d9c",
+    "title": "В Калининграде локализовали пожар на 7 тыс. кв. м",
+    "url": "https://tass.ru/proisshestviya/27008113",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:52:46+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "6d8a18f68a5bcc4fad35e4532ad8d1f1",
+    "title": "Страны ОПЕК+ договорились нарастить нефтедобычу в мае на 206 баррелей в сутки",
+    "url": "https://russian.rt.com/business/news/1616110-opek-neft-dobycha?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T15:52:07+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "325a79ae601bde4526b8f62e431b1484",
+    "title": "Сын Малкина рассказал, почему не приходит на раскатки перед матчами «Питтсбурга»",
+    "url": "https://russian.rt.com/sport/news/1616107-syn-malkin-raskatka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T15:51:59+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "5ad8ff8db212a76e8e3d6a1401fddf69",
+    "title": "Лавров и Арагчи призвали прекратить безрассудные атаки на АЭС \"Бушер\"",
+    "url": "https://tass.ru/politika/27008101",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:51:31+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "4d17fd8ee35d4cbac316db982a919f6d",
+    "title": "Лавров и Ван И продолжат координацию по вопросам взаимного интереса",
+    "url": "https://ria.ru/20260405/lavrov-2085317048.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T15:51:10+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "8c2b67d646f0aef11410167fb5875645",
+    "title": "В Калининграде из-за пожара в ТЦ \"Гиант\" заблокировано движение транспорта",
+    "url": "https://tass.ru/obschestvo/27008053",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:49:26+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "b08594021afcc9859f34927417bee8c6",
     "title": "Лавров и Ван И выразили удовлетворенность совпадением подходов по Ирану",
     "url": "https://ria.ru/20260405/lavrov-2085316661.html",
@@ -32,6 +104,15 @@
     "url": "https://www.kommersant.ru/doc/8569555",
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-05T15:48:21+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "07cd5957f1cb488b090388d8473e7018",
+    "title": "В Кувейте пожарные ликвидировали возгорания на НПЗ после атак Ирана",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008075",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:48:01+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -987,87 +1068,6 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T14:31:28+00:00",
     "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f6fd5d6d94e41774c9be8f0c6657408a",
-    "title": "GSP: экс-тренер \"Зенита\" Луческу введен в медикаментозную кому",
-    "url": "https://tass.ru/sport/27007519",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:31:03+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "5b3f166110464e4ac3b232691dbd1390",
-    "title": "Скончался разработчик гиперзвуковой ракеты «Циркон» Александр Леонов",
-    "url": "https://www.vedomosti.ru/society/news/2026/04/05/1188034-skonchalsya-aleksandr-leonov",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T14:30:24+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "bb78bbf7b3862e0ef24904cfc0ff92da",
-    "title": "The Sunday Times: у ВСУ заканчиваются ракеты Patriot из-за тактики России",
-    "url": "https://russian.rt.com/ussr/news/1616083-vsu-rakety-rossiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T14:29:38+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "12e9fc50544314628afff11c2b5a1470",
-    "title": "В Ливане за сутки 39 человек погибли из-за израильских ударов",
-    "url": "https://ria.ru/20260405/livan-2085309971.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:29:07+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "102c52348c16c37b1c8e179bb72d19d4",
-    "title": "Акинфеев — Дзюбе: если ты хотел меня потрогать, потрогал бы до матча, а не во вратарской",
-    "url": "https://russian.rt.com/sport/news/1616076-akinfeev-dzyuba-obrashenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T14:28:20+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "acad10b71d6182759bdc90d9d3861c08",
-    "title": "Очаг возгорания в ТЦ Калининграда находится в фасадной части здания",
-    "url": "https://tass.ru/proisshestviya/27007513",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:27:13+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "0206fba29fbee4ecf180bb1d5a7f5802",
-    "title": "Из-за обрушения жилого дома в Махачкале возбудили уголовное дело",
-    "url": "https://lenta.ru/news/2026/04/05/iz-za-obrusheniya-zhilogo-doma-v-mahachkale-vozbudili-ugolovnoe-delo/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T14:25:13+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "24b40798b8c5d41775fddabd85bb38fa",
-    "title": "Новак: мировой энергорынок не сбалансирован",
-    "url": "https://tass.ru/ekonomika/27007485",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:23:57+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "7ee62cf73aae1c2e153d16649d69ee71",
-    "title": "\"Радио Судного дня\" передало третье сообщение за день",
-    "url": "https://ria.ru/20260405/signal-2085309631.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:22:17+00:00",
-    "no_image": false,
     "priority_boost_minutes": 0
   }
 ]
