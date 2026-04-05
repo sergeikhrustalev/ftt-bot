@@ -1,5 +1,50 @@
 [
   {
+    "id": "96808c1b217bdd03e10542a5b197a5db",
+    "title": "Дмитриев допустил рост цены на нефть выше $150 за баррель в ближайшие две недели",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188035-dmitriev-dopustil-rost",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T14:42:15+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a6617393f1d1dd185b92ce92faf5452f",
+    "title": "В США сообщили о стрельбе у Белого дома в ночь на воскресенье",
+    "url": "https://russian.rt.com/world/news/1616086-strelba-u-belogo-doma?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T14:42:02+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a844baeaccc48fd0739e2cf09a1bb41d",
+    "title": "Сийярто назвал попытку подрыва \"Турецкого потока\" нападением на суверенитет",
+    "url": "https://ria.ru/20260405/siyyarto-2085311331.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T14:42:01+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e0a23c925af77a50f13e670d88179e74",
+    "title": "Сийярто обвинил Украину в попытке подрыва \"Турецкого потока\" в Сербии",
+    "url": "https://ria.ru/20260405/siyyarto-2085311231.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T14:41:38+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "3e1cb7f9a099be93bfa20eb28cc7f5a3",
+    "title": "Сийярто после попытки подрыва поговорил с замминистром энергетики России",
+    "url": "https://ria.ru/20260405/siyyarto-2085311135.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T14:40:35+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "8f891b490b7e964beee1be3ea65b7d73",
     "title": "Россия, Венгрия, Сербия и Турция договорились защищать \"Турецкий поток\"",
     "url": "https://ria.ru/20260405/potok-2085311005.html",
@@ -1022,51 +1067,6 @@
     "url": "https://russian.rt.com/sport/news/1616056-tuktamysheva-nomer-russkiy-vyzov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T13:22:38+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "1a141b849112ebf0ed32920b5b2cd9f8",
-    "title": "Пушков: война США на Ближнем Востоке перешла в фазу неприкрытой истерики",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188029-ssha-v-neprikritoi-isteriki",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T13:22:29+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ec17a01d4805ff937424f85b4237df55",
-    "title": "Космонавты на МКС посмотрели фильм \"Полет, изменивший мир\"",
-    "url": "https://tass.ru/obschestvo/27006981",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:20:20+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d9a6c1c8c78dfd3d276ce6d89a1b36c6",
-    "title": "Фонд вошел в закрома // УК СФН заключила крупнейшую сделку на складском рынке Башкирии",
-    "url": "https://www.kommersant.ru/doc/8569261",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T13:19:53+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "5afad8c887180daa58406e29daec1014",
-    "title": "Транспортная прокуратура проверит обстоятельства крушения судна в Азовском море",
-    "url": "https://tass.ru/proisshestviya/27006965",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:19:32+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "469277c05d3ad05ff50c4c19a5489389",
-    "title": "В США выступили с тревожным заявлением после нового удара Ирана",
-    "url": "https://ria.ru/20260405/iran-2085302434.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T13:18:59+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
