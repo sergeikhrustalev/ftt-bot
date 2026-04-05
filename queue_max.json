@@ -1,5 +1,41 @@
 [
   {
+    "id": "bb78bbf7b3862e0ef24904cfc0ff92da",
+    "title": "The Sunday Times: у ВСУ заканчиваются ракеты Patriot из-за тактики России",
+    "url": "https://russian.rt.com/ussr/news/1616083-vsu-rakety-rossiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T14:29:38+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "12e9fc50544314628afff11c2b5a1470",
+    "title": "В Ливане за сутки 39 человек погибли из-за израильских ударов",
+    "url": "https://ria.ru/20260405/livan-2085309971.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T14:29:07+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "102c52348c16c37b1c8e179bb72d19d4",
+    "title": "Акинфеев — Дзюбе: если ты хотел меня потрогать, потрогал бы до матча, а не во вратарской",
+    "url": "https://russian.rt.com/sport/news/1616076-akinfeev-dzyuba-obrashenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T14:28:20+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "0206fba29fbee4ecf180bb1d5a7f5802",
+    "title": "Из-за обрушения жилого дома в Махачкале возбудили уголовное дело",
+    "url": "https://lenta.ru/news/2026/04/05/iz-za-obrusheniya-zhilogo-doma-v-mahachkale-vozbudili-ugolovnoe-delo/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T14:25:13+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "24b40798b8c5d41775fddabd85bb38fa",
     "title": "Новак: мировой энергорынок не сбалансирован",
     "url": "https://tass.ru/ekonomika/27007485",
@@ -1032,42 +1068,6 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T13:06:58+00:00",
     "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "55486cdae7e6f6a5f3f1d645b1766731",
-    "title": "Сийярто: попытка подрыва газопровода в Сербии является атакой на Венгрию",
-    "url": "https://ria.ru/20260405/siyyarto-2085301796.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T13:06:56+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d13be955f4a067b9ae57b34fe09e7ee7",
-    "title": "«Радио Судного дня» передало сообщение «тележка»",
-    "url": "https://russian.rt.com/nopolitics/news/1616040-radiostanciya-sudnogo-dnya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T13:06:54+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d4ba3dde7ceac8e2cf957b141409ba10",
-    "title": "В Сумах произошли взрывы",
-    "url": "https://tass.ru/proisshestviya/27006919",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:06:53+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a506eca3936f74cdd081393cf7298a8f",
-    "title": "В Сумах прогремели взрывы",
-    "url": "https://ria.ru/20260405/vzryv-2085301679.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T13:05:52+00:00",
-    "no_image": false,
     "priority_boost_minutes": 0
   }
 ]
