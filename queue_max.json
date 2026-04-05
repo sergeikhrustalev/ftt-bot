@@ -1,13 +1,5 @@
 [
   {
-    "id": "b69ed6aed43019779708e539aed0efbd",
-    "title": "В Ульяновской области сошел с рельсов поезд Москва – Челябинск",
-    "url": "https://www.vedomosti.ru/society/news/2026/04/03/1187638-soshel-poezd",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-03T04:42:27+00:00",
-    "no_image": false
-  },
-  {
     "id": "66f716981741a53a4aa3eb495db113d2",
     "title": "В МИД назвали кратчайший путь урегулирования на Украине",
     "url": "https://lenta.ru/news/2026/04/03/v-mid-nazvali-kratchayshiy-put-uregulirovaniya-na-ukraine/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260405/ukraina-2085265813.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T06:22:28+00:00",
+    "no_image": false
+  },
+  {
+    "id": "f8edb45b0127a802443829577153ca23",
+    "title": "\"Забытые\" советские вещи, которые покоряют современные подиумы",
+    "url": "https://ria.ru/20260405/veschi-2085051332.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T06:33:00+00:00",
     "no_image": false
   }
 ]
