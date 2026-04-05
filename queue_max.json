@@ -1,5 +1,68 @@
 [
   {
+    "id": "8f4fa2e48445cb21a758abf8328e7982",
+    "title": "Власти Сейшел обратились к «Аэрофлоту» с вопросом о запуске круглогодичных прямых рейсов",
+    "url": "https://lenta.ru/news/2026/04/05/vlasti-seyshel-obratilis-k-aeroflotu-s-voprosom-o-zapuske-kruglogodichnyh-pryamyh-reysov/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T13:58:00+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9f9a4b6b37f5dbd0715dbc831c1f9171",
+    "title": "ТАСС: скончался создатель гиперзвуковой ракеты «Циркон» Александр Леонов",
+    "url": "https://russian.rt.com/russia/news/1616070-smert-cirkon-leonov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T13:56:47+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9f1c138e12a5184a6a9e5465ee880b03",
+    "title": "AD: Зеленский пытается сгладить ситуацию на Украине, предлагая помощь США",
+    "url": "https://russian.rt.com/world/news/1616069-zelenskii-ssha-pomosch?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T13:56:47+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9bca629e4b8b53d016c911bd27e6ece7",
+    "title": "Умер создатель гиперзвуковой ракеты \"Циркон\" Леонов",
+    "url": "https://ria.ru/20260405/leonov--2085306564.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T13:56:34+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "7ec4d3c4180305ec12ec77ff540e9d04",
+    "title": "Ушаков напомнил Каллас ее же фразу и посоветовал выпить",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188032-ushakov-kallas-vipit",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T13:56:00+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e63611f30061d204d99167d39e8a07f5",
+    "title": "«Шанхай Шэньхуа» Слуцкого победил «Тяньцзинь Цзиньмэнь Тайгер» в чемпионате Китая",
+    "url": "https://russian.rt.com/sport/news/1616072-shanhai-shenhua-sluckiy-pobeda?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T13:55:17+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ad359cba9a20960965f11159cdcca545",
+    "title": "Трамп сделал заявление о сделке с Ираном",
+    "url": "https://lenta.ru/news/2026/04/05/tramp-sdelal-zayavlenie-o-sdelke-s-iranom/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T13:53:18+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "21c6ba38bedf9c4c9b1b290e70e30afc",
     "title": "В Махачкале завели дело о халатности после обрушения жилого дома",
     "url": "https://ria.ru/20260405/makhachkala-2085306044.html",
@@ -1004,69 +1067,6 @@
     "url": "https://tass.ru/proisshestviya/27006771",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T12:37:13+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "bb28e8c9e2634a30ab6d2b5053a3ee7f",
-    "title": "В Калининграде загорелся торговый центр \"Гиант\"",
-    "url": "https://tass.ru/proisshestviya/27006789",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:35:21+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "eb80175d1e2e02fbc093512116eed4fc",
-    "title": "Театр кошек Куклачева планирует более масштабные гастроли в Донбасс",
-    "url": "https://tass.ru/kultura/27006763",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:33:23+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d4d675d709954760e1b274b5173c44d4",
-    "title": "Документы с персональными данными нельзя выбрасывать, заявил юрист",
-    "url": "https://ria.ru/20260405/yurist-2085299281.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T12:32:22+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9418f3bfffd7ccfc3b26f76ca04ebf81",
-    "title": "При атаке Израиля на жилой квартал в Бейруте погибли четыре человека",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006745",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:31:40+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "c487dfd30fdadd6c3a8e4d329b6b64e8",
-    "title": "Республика Корея может возобновить закупку нефти и энергоресурсов у России",
-    "url": "https://tass.ru/ekonomika/27006723",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:30:24+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a8f00553a4d9af541306fcae1f24d27d",
-    "title": "Во Франции высказались об инциденте со взрывчаткой у газопровода в Сербии",
-    "url": "https://ria.ru/20260405/frantsiya-2085299125.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T12:30:06+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "546a2d513f6b66216c7201af3cd8060b",
-    "title": "Губерниев рассказал, почему подарил бы Вяльбе крем",
-    "url": "https://russian.rt.com/sport/news/1616044-guberniev-vyalbe-podarok-krem?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T12:29:11+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
