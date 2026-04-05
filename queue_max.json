@@ -1,13 +1,5 @@
 [
   {
-    "id": "c7e82b3d007b7f12e65cc05ae21d38ee",
-    "title": "Мужчинам старше 65 лет назвали нормальную продолжительность секса",
-    "url": "https://lenta.ru/news/2026/04/03/muzhchinam-starshe-65-let-nazvali-normalnuyu-prodolzhitelnost-seksa/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T04:00:50+00:00",
-    "no_image": true
-  },
-  {
     "id": "d046ae03fff5252ae7cf84a3c69c9ca9",
     "title": "Две группы диверсантов ликвидировали в ДНР",
     "url": "https://lenta.ru/news/2026/04/03/dve-gruppy-diversantov-likvidirovali-v-dnr/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T05:41:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "2bce581c41337b8207a9447ada02fc1d",
+    "title": "Украинские беспилотники повредили ТЭЦ в Нижегородской области",
+    "url": "https://www.vedomosti.ru/society/news/2026/04/05/1187987-povredili-tets",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T05:54:11+00:00",
+    "no_image": false
   }
 ]
