@@ -1,13 +1,5 @@
 [
   {
-    "id": "b4dd864784d82fab9e4f8284664ee6c8",
-    "title": "Вероятность глобального голода из-за нехватки удобрений оценили",
-    "url": "https://lenta.ru/news/2026/04/03/veroyatnost-globalnogo-goloda-iz-za-nehvatki-udobreniy-otsenili/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T22:30:24+00:00",
-    "no_image": true
-  },
-  {
     "id": "29a829208db130201dbefe81826671e4",
     "title": "В Харькове прогремели новые взрывы",
     "url": "https://ria.ru/20260403/vzryv-2084887034.html",
@@ -2390,5 +2382,13 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-05T00:10:28+00:00",
     "no_image": false
+  },
+  {
+    "id": "1870f7316253e0d5bd0933fcf4d559c7",
+    "title": "Задержан еще один подозреваемый по делу о расправе над московской предпринимательницей",
+    "url": "https://lenta.ru/news/2026/04/05/zaderzhan-esche-odin-podozrevaemyy-po-delu-o-rasprave-nad-moskovskoy-predprinimatelnitsey/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T00:21:00+00:00",
+    "no_image": true
   }
 ]
