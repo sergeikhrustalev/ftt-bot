@@ -1,5 +1,50 @@
 [
   {
+    "id": "9b925117a0591384da04d4d53335710f",
+    "title": "\"Реальная истерика\". На Украине забили тревогу из-за состояния Зеленского",
+    "url": "https://ria.ru/20260405/zelenskiy-2085337524.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T19:07:55+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "bd11aa6fbfdf6a3888c76326c4998828",
+    "title": "Энергодар остался без света",
+    "url": "https://ria.ru/20260405/energodar-2085337430.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T19:06:59+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "0329908cf11e332ef9f427aee7f371b9",
+    "title": "Fars: США и Израиль дважды атаковали аэропорт в иранском Ахвазе",
+    "url": "https://russian.rt.com/world/news/1616184-ssha-ataka-aeroport-iran?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T19:06:26+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "5edd30710ece0809bb7aa21caccb0910",
+    "title": "Стало известно о трех волнах атак дронов ВСУ в Краснодарском крае",
+    "url": "https://lenta.ru/news/2026/04/05/krasnodar/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T19:06:00+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "36277e359c00c2c3f438e05090ed07ec",
+    "title": "Галактионов: ряд необоснованных ошибок решили ход игры против \"Спартака\"",
+    "url": "https://tass.ru/sport/27009193",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:05:39+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "391eea341626d369aa34e38f7d590415",
     "title": "При пожаре в калининградском ТЦ пострадали четыре человека",
     "url": "https://lenta.ru/news/2026/04/06/pri-pozhare-v-kaliningradskom-tts-postradali-chetyre-cheloveka/",
@@ -1023,51 +1068,6 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-05T17:42:55+00:00",
     "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ee8bf6d9ce25f1eed8da515770ea2da6",
-    "title": "Трамп пока не видит необходимости в наземной операции в Иране",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008721",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:41:18+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "0c6281bdc30283d101261634708c4af4",
-    "title": "В Дагестане из-за обрушения моста закрыли федеральную трасса \"Кавказ\"",
-    "url": "https://tass.ru/obschestvo/27008637",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:37:59+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "82747611576517ecc9ad029661118a23",
-    "title": "Удар по журналистам RT в Ливане могли нанести бомбой GBU-38, заявил Суини",
-    "url": "https://ria.ru/20260405/rt-2085327876.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T17:36:20+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "19f9e08ab170b8eeb1ba0972050ff393",
-    "title": "Пушилин: ВС РФ ведут ожесточенные бои в районе Гришина",
-    "url": "https://tass.ru/armiya-i-opk/27008705",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:36:06+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8b821636053eb4adbcf487b9e1a3bc36",
-    "title": "Внешность 71-летней супермодели на новых фото папарацци взволновала общественность",
-    "url": "https://lenta.ru/news/2026/04/05/vneshnost-71-letney-supermodeli-na-novyh-foto-paparatstsi-vzvolnovala-obschestvennost/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T17:34:32+00:00",
-    "no_image": true,
     "priority_boost_minutes": 0
   }
 ]
