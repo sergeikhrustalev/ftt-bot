@@ -1,13 +1,5 @@
 [
   {
-    "id": "2d7e120e56dd001d890c0be9fea8e488",
-    "title": "Трамп пригрозил ввести 100-процентные пошлины на импортные лекарства",
-    "url": "https://lenta.ru/news/2026/04/03/tramp-prigrozil-vvesti-100-protsentnye-poshliny-na-importnye-lekarstva/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T03:50:40+00:00",
-    "no_image": true
-  },
-  {
     "id": "c7e82b3d007b7f12e65cc05ae21d38ee",
     "title": "Мужчинам старше 65 лет назвали нормальную продолжительность секса",
     "url": "https://lenta.ru/news/2026/04/03/muzhchinam-starshe-65-let-nazvali-normalnuyu-prodolzhitelnost-seksa/",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-05T05:30:49+00:00",
     "no_image": false
+  },
+  {
+    "id": "7c367350d85c78bed8ab0faa126d7f32",
+    "title": "ВСУ столкнулись с дефицитом топлива",
+    "url": "https://lenta.ru/news/2026/04/05/vsu-stolknulis-s-defitsitom-topliva/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T05:41:00+00:00",
+    "no_image": true
   }
 ]
