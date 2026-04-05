@@ -1,13 +1,5 @@
 [
   {
-    "id": "a038d0dcb6ddd0137e0c1da0bd3efe61",
-    "title": "Странная находка на блошином рынке потрясла пользователей сети",
-    "url": "https://lenta.ru/news/2026/04/03/strannaya-nahodka-na-bloshinom-rynke-potryasla-polzovateley-seti/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T04:30:20+00:00",
-    "no_image": true
-  },
-  {
     "id": "b69ed6aed43019779708e539aed0efbd",
     "title": "В Ульяновской области сошел с рельсов поезд Москва – Челябинск",
     "url": "https://www.vedomosti.ru/society/news/2026/04/03/1187638-soshel-poezd",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260405/sneg-2085264669.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T06:10:28+00:00",
+    "no_image": false
+  },
+  {
+    "id": "5d5c605a2d559aea456a2f05adee5b3b",
+    "title": "Бойцы \"Севера\" уничтожили ракетный комплекс \"Бук-М1\" ВСУ в Сумской области",
+    "url": "https://ria.ru/20260405/ukraina-2085265813.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T06:22:28+00:00",
     "no_image": false
   }
 ]
