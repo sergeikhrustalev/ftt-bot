@@ -1,5 +1,41 @@
 [
   {
+    "id": "368d200d1acd4dac4ae9dd2f1d51ff1e",
+    "title": "В Калининграде при тушении пожара в ТЦ пострадали четыре человека",
+    "url": "https://tass.ru/proisshestviya/27009155",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:56:22+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "4e26f944044a77cf7e332e6181c31e1a",
+    "title": "В Дербентском районе Дагестана эвакуировали всех жителей из зоны подтопления",
+    "url": "https://russian.rt.com/russia/news/1616182-dagestan-podtoplenie-evakuaciya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:55:31+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "20427a606fb5068b844c88ecf52adb37",
+    "title": "В Дагестане восстановили электричество половине пострадавших потребителей",
+    "url": "https://tass.ru/obschestvo/27008887",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:55:27+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "5fb463f12224de2bf5d9184fae2f6dfd",
+    "title": "МИД Ирана: США лгут, когда говорят, что хотят помочь народу республики",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27009137",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:54:43+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "15894adc6f94cc2fd3742c740f84a5dc",
     "title": "Армия Нигерии освободила 31 заложника, захваченного террористами в церкви",
     "url": "https://tass.ru/mezhdunarodnaya-panorama/27009123",
@@ -1031,42 +1067,6 @@
     "url": "https://www.kommersant.ru/doc/8569652",
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-05T17:32:27+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9e6a786fd6745bd761878b8827063715",
-    "title": "Россиянам назвали быстрее всего разрушающие зубы напитки",
-    "url": "https://lenta.ru/news/2026/04/05/rossiyanam-nazvali-bystree-vsego-razrushayuschie-zuby-napitki/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T17:31:32+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f0b9e6014a0eeb7fbe1d71f5808d6b88",
-    "title": "Пообещавший Ирану ад Трамп обозначил дедлайн для страны",
-    "url": "https://lenta.ru/news/2026/04/05/obrugavshiy-iran-tramp-soobschil-o-dedlayne-dlya-strany/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T17:30:35+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d27cafe49149e339a298c7512e19631a",
-    "title": "Daily Post: в Нигерии из-за атаки боевиков погибли не менее 17 мирных жителей",
-    "url": "https://tass.ru/proisshestviya/27008651",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:30:04+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "4440cbfc83a869ffe52b6d097a20d926",
-    "title": "\"Кельн\" отыграл два мяча в матче с \"Айнтрахтом\" в матче Бундеслиги",
-    "url": "https://ria.ru/20260405/bundesliga-2085327671.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T17:28:32+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
