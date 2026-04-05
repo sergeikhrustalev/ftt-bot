@@ -1,13 +1,5 @@
 [
   {
-    "id": "29a829208db130201dbefe81826671e4",
-    "title": "В Харькове прогремели новые взрывы",
-    "url": "https://ria.ru/20260403/vzryv-2084887034.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-02T22:40:28+00:00",
-    "no_image": false
-  },
-  {
     "id": "11d0f105272d06b77a074e1896485ebe",
     "title": "СМИ: Иран повредил ключевой радар ПРО США на авиабазе в Саудовской Аравии",
     "url": "https://ria.ru/20260403/radar-2084887157.html",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T00:21:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "189c5de206a137e99ee8aa94b827e737",
+    "title": "Мошенники обманывают подростков под предлогом обновления электронных дневников",
+    "url": "https://russian.rt.com/russia/news/1615887-moshennik-podrostki-dnevnik?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T00:31:18+00:00",
+    "no_image": false
   }
 ]
