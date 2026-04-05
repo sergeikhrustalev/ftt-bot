@@ -1,5 +1,50 @@
 [
   {
+    "id": "c1fcdc190334b27661da190d0d3e9fa1",
+    "title": "Галлямов — Транькову: активные программы катать энергозатратней, чем лиричные постановки",
+    "url": "https://russian.rt.com/sport/news/1616113-gallyamov-trankov-programmy?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T15:58:44+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ae57239d88ba6d9ffbee67c3825df63a",
+    "title": "Футболисты \"Ротора\" победили \"Нефтехимик\" в матче Первой лиги",
+    "url": "https://ria.ru/20260405/futbol-2085317484.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T15:58:34+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9d74857600a16de206df2e51c6b08e64",
+    "title": "Трампа обвинили в намерении совершить военное преступление",
+    "url": "https://lenta.ru/news/2026/04/05/trampa-obvinili-v-namerenii-sovershit-voennoe-prestuplenie/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T15:56:45+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "bb826b90e8e2ac849f5d6795f58265c7",
+    "title": "Меликов назвал наиболее пострадавшие от непогоды районы в Дагестане",
+    "url": "https://ria.ru/20260405/dagestan-2085317338.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T15:56:29+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "872fa41d2db667ae794b5fc7d2a78ba4",
+    "title": "Женщина не выжила после схода оползня в Дагестане",
+    "url": "https://lenta.ru/news/2026/04/05/zhenschina-ne-vyzhila-posle-shoda-opolznya-v-dagestane/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T15:55:54+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "133e63e93f27fc7eea438f04b09840c0",
     "title": "В Калининграде пожар в ТЦ локализовали на 7000 квадратах",
     "url": "https://ria.ru/20260405/kaliningrad-2085317234.html",
@@ -1023,51 +1068,6 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-05T14:34:44+00:00",
     "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f2caa583477dd5e7df712305ed5dfe35",
-    "title": "Акинфеев считает, что судьи правильно отменили гол Дзюбы в его ворота",
-    "url": "https://tass.ru/sport/27007553",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:34:11+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "63db453e1adc6aedb6677ee1df234c06",
-    "title": "Въезд детей в Абхазию без загранпаспорта может заработать спустя месяц",
-    "url": "https://tass.ru/obschestvo/27007261",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:34:07+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "90fc75cb5d75bae1f980e02a1a2e9fe4",
-    "title": "Сийярто: Венгрия, РФ, Турция и Сербия договорились усилить защиту \"Турецкого потока\"",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007527",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:31:59+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "e3a910d3dc409d45aebdd0fa3752e1f3",
-    "title": "Лавров обсудил с главой МИД Китая ситуацию на Ближнем Востоке",
-    "url": "https://ria.ru/20260405/situatsiya-2085310183.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:31:32+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ba2c60238bb650542e4a13d0bf857fad",
-    "title": "В России появится ГОСТ на антимоскитные сетки",
-    "url": "https://lenta.ru/news/2026/04/05/v-rossii-poyavitsya-gost-na-antimoskitnye-setki/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T14:31:28+00:00",
-    "no_image": true,
     "priority_boost_minutes": 0
   }
 ]
