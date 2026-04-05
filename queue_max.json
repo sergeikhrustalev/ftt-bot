@@ -1,5 +1,131 @@
 [
   {
+    "id": "0339925d9f12a040c021f0e9b25e60cd",
+    "title": "Синоптик Шувалов рассказал, когда закончатся осадки в Дагестане",
+    "url": "https://russian.rt.com/nopolitics/news/1616043-dagestan-osadki-pogoda?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T13:09:45+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "6db287811bdd3d29422b8d62ea17d80c",
+    "title": "\"Дорого обойдется\". В Азии признали тяжелую правду о России из-за Ирана",
+    "url": "https://ria.ru/20260405/scmp-2085302145.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T13:09:37+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ad00de30867658d895e5c69cfdc34262",
+    "title": "В Калининграде площадь пожара в ТЦ увеличилась до тысячи квадратных метров",
+    "url": "https://ria.ru/20260405/kaliningrad-2085301994.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T13:09:36+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "cf7f3639ff92be3987d0f6572031344b",
+    "title": "Лихачёв анонсировал эвакуацию россиян с АЭС «Бушер» на следующей неделе",
+    "url": "https://russian.rt.com/russia/news/1616058-evakuaciya-aes-busher?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T13:09:21+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ad50bb4ecc3e49f6482a068497efc8e6",
+    "title": "В \"Нафтогазе\" сообщили о пожаре на объекте в Сумской области",
+    "url": "https://tass.ru/proisshestviya/27006925",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:08:11+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "5da39235dcbce65bfd720630465145d1",
+    "title": "Песков высказался об интеллигентности российской риторики",
+    "url": "https://lenta.ru/news/2026/04/05/peskov-vyskazalsya-ob-intelligentnosti-rossiyskoy-ritoriki/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T13:07:50+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "1dd58f21e3bc1682a80316cd159ebd3f",
+    "title": "В российском городе вспыхнул крупный торговый центр",
+    "url": "https://lenta.ru/news/2026/04/05/fire/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T13:07:37+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "52e5e2bee1656122b24a3fa9f0baa8fd",
+    "title": "Россиянам раскрыли порядок действий при укусе клеща",
+    "url": "https://lenta.ru/news/2026/04/05/rossiyanam-raskryli-poryadok-deystviy-pri-ukuse-klescha/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T13:06:58+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "55486cdae7e6f6a5f3f1d645b1766731",
+    "title": "Сийярто: попытка подрыва газопровода в Сербии является атакой на Венгрию",
+    "url": "https://ria.ru/20260405/siyyarto-2085301796.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T13:06:56+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d13be955f4a067b9ae57b34fe09e7ee7",
+    "title": "«Радио Судного дня» передало сообщение «тележка»",
+    "url": "https://russian.rt.com/nopolitics/news/1616040-radiostanciya-sudnogo-dnya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T13:06:54+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d4ba3dde7ceac8e2cf957b141409ba10",
+    "title": "В Сумах произошли взрывы",
+    "url": "https://tass.ru/proisshestviya/27006919",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:06:53+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a506eca3936f74cdd081393cf7298a8f",
+    "title": "В Сумах прогремели взрывы",
+    "url": "https://ria.ru/20260405/vzryv-2085301679.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T13:05:52+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9f9bca87d5ffff26ad219008ec2dcd07",
+    "title": "В Калининграде загорелся ТЦ «Гиант», проводится эвакуация посетителей",
+    "url": "https://russian.rt.com/russia/news/1616051-kaliningrad-tts-pozhar?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T13:05:29+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "1ee8e97ff9e46c48a058d5f493188509",
+    "title": "Клава Кока и Дима Масленников раскрыли историю отношений",
+    "url": "https://lenta.ru/news/2026/04/05/klava-koka-i-dima-maslennikov-raskryli-istoriyu-otnosheniy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T13:04:34+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "a0b2d1f8faaeb5c3d7522c5dc3c2ce35",
     "title": "Ардашев: можно пятёрку за сезон поставить",
     "url": "https://russian.rt.com/sport/news/1616053-ardashev-sezon-ocenka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -941,132 +1067,6 @@
     "url": "https://tass.ru/mezhdunarodnaya-panorama/27006389",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T11:51:13+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "0b955b2ced906de7afa662078540cfd8",
-    "title": "Песков назвал вопрос принадлежности Карабаха решением властей Армении",
-    "url": "https://russian.rt.com/world/news/1616008-peskov-karabah-reshenie-armeniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T11:51:02+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a8acc5b198c28710482e9f345043e9a2",
-    "title": "Сийярто назвал попытку диверсии на газопроводе нападением на суверенитет Венгрии",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188019-napadeniem-na-vengrii",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T11:50:59+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "bd4abd5db6496c06ec2e14a6b967fa0d",
-    "title": "Лавров отреагировал на сообщение о прослушке его разговора с Сийярто",
-    "url": "https://lenta.ru/news/2026/04/05/lavrov-otreagiroval-na-soobschenie-o-proslushke-ego-razgovora-s-siyyarto/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T11:48:00+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "be5549eb73d7a66c22e19811c5b55bfe",
-    "title": "Дмитриев призвал готовиться к серьезному кризису",
-    "url": "https://ria.ru/20260405/dmitriev-2085294633.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:47:54+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "71eb8055d9b7d4c8629fa23264d672f7",
-    "title": "Бородавко — о пяти победах Большунова в финале Кубка России: показал уровень",
-    "url": "https://russian.rt.com/sport/news/1616036-borodavko-bolshunov-kubok-uroven?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T11:46:55+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "881a0075e8db968f6f1d59eaf1615a1e",
-    "title": "Лихачев: ударов по ЗАЭС в последние дни не было, но были по Энергодару",
-    "url": "https://ria.ru/20260405/likhachev-2085294477.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:45:13+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "be93101bf5c93caf50e262f621705348",
-    "title": "В аэропорту Сочи ввели ограничения",
-    "url": "https://tass.ru/obschestvo/27006373",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:43:25+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "01e4eb2d32f434c25d9d45147cb5faa2",
-    "title": "Еще один дом оказался под угрозой разрушения в Махачкале",
-    "url": "https://lenta.ru/news/2026/04/05/esche-odin-dom-okazalsya-pod-ugrozoy-razrusheniya-v-mahachkale/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T11:43:22+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "3cd858eec3e4840361e4ff25f6663f51",
-    "title": "КСИР заявил об ударах по нефтегазовой инфраструктуре США на Ближнем Востоке",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006365",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:43:11+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "5fd4d2ed33116a85bebc287de3428dfa",
-    "title": "Силы ПВО с 08:00 до 14:00 мск сбили 77 БПЛА ВСУ над четырьмя регионами России",
-    "url": "https://russian.rt.com/ussr/news/1616035-pvo-rossiya-regiony-bespilotniki?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T11:42:23+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "fc2470c34778fb37641f35b8f317d1b0",
-    "title": "Росатом минимально задействован в эксплуатации первого энергоблока АЭС \"Бушер\"",
-    "url": "https://tass.ru/ekonomika/27006317",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:41:16+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "6ee02534eb94f139855b04d90f3bcbcf",
-    "title": "Врач рассказал, у кого возможен кратковременный подъем давления от кофеина",
-    "url": "https://ria.ru/20260405/kofe-2085294198.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:40:52+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d543d44f865beee1417f38bd3d4a3b11",
-    "title": "В России предрекли США второй Афганистан в случае срыва наземной операции",
-    "url": "https://lenta.ru/news/2026/04/05/v-rossii-predrekli-ssha-vtoroy-afganistan-v-sluchae-sryva-nazemnoy-operatsii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T11:40:08+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "b229ce9a4be0b5fd7eb2f5fbe608230f",
-    "title": "Иран заявил об ударах по предприятиям химической промышленности в Израиле",
-    "url": "https://ria.ru/20260405/ksir-2085294102.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:39:56+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
