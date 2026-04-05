@@ -1,13 +1,5 @@
 [
   {
-    "id": "f0fe2f92c3188e2e36294b915c304546",
-    "title": "Трамп потребовал от Ирана немедленной сделки и пригрозил уничтожением мостов",
-    "url": "https://lenta.ru/news/2026/04/03/tramp-potreboval-ot-irana-nemedlennoy-sdelki-i-prigrozil-unichtozheniem-mostov/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T03:20:49+00:00",
-    "no_image": true
-  },
-  {
     "id": "634ea5300434ffd49ecaeed8b965948c",
     "title": "В четырех российских регионах отразили атаку беспилотников",
     "url": "https://lenta.ru/news/2026/04/03/v-chetyreh-rossiyskih-regionah-otrazili-ataku-bespilotnikov/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T05:00:40+00:00",
     "no_image": true
+  },
+  {
+    "id": "8f931e0e9f56351646fe47b6cf3b555e",
+    "title": "КСИР заявил о поражении беспилотника MQ-9 над страной, пишут СМИ",
+    "url": "https://ria.ru/20260405/iran-2085259926.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T05:11:17+00:00",
+    "no_image": false
   }
 ]
