@@ -1,5 +1,77 @@
 [
   {
+    "id": "15894adc6f94cc2fd3742c740f84a5dc",
+    "title": "Армия Нигерии освободила 31 заложника, захваченного террористами в церкви",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27009123",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:54:00+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "bf019ccb86d172e73f18dc93a0be4c47",
+    "title": "В Дагестане несколько человек, которых смыло течение, достали из воды",
+    "url": "https://ria.ru/20260405/dagestan-2085336695.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:53:46+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "35dc04fe227e9e9768c9c571ac912991",
+    "title": "В ДНР более полмиллиона человек остались без электричества",
+    "url": "https://lenta.ru/news/2026/04/05/v-dnr-bolee-polmilliona-chelovek-ostalis-bez-elektrichestva/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T18:52:00+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "c7ff54c45c232a614b156f51be28e6c2",
+    "title": "Прокуратура Дагестана взяла на контроль эвакуацию жителей Дербентского района",
+    "url": "https://tass.ru/obschestvo/27009111",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:51:58+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "eb4dac4a54e45c6a5e1382c9923e2ff3",
+    "title": "Разведка Сербии назвала страну производства взрывчатки для газопровода",
+    "url": "https://ria.ru/20260405/serbiya-2085336474.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:51:46+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ef19bfc840fb3d071ba463fbdda25a44",
+    "title": "Сальдо пообещал Украине ответ после атаки на судно с зерном в Азовском море",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188079-saldo-poobeschal-ukraine",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T18:51:28+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "adcbb9d62e77dba3f427642f4ab205a7",
+    "title": "Два пожарных пострадали при тушении пожара в ТЦ в Калининграде",
+    "url": "https://ria.ru/20260405/kaliningrad-2085336301.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:50:03+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "52c37e0344260cdd9c8acc0be61780ce",
+    "title": "Главы ДНР и Абхазии договорились о курсе на взаимное снижение тарифов роуминга",
+    "url": "https://tass.ru/ekonomika/27009097",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:48:16+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "df1c947c090bc331b95e6c2e81b5d0d5",
     "title": "Орбан заявил о необходимости поставок энергоресурсов из России в Европу",
     "url": "https://lenta.ru/news/2026/04/05/orban/",
@@ -995,78 +1067,6 @@
     "url": "https://ria.ru/20260405/bundesliga-2085327671.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T17:28:32+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "7361a2ea58b8d68b996fc0c7354379aa",
-    "title": "Тегеран не примет ультиматумы Вашингтона, считает Ульянов",
-    "url": "https://ria.ru/20260405/ulyanov-2085327445.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T17:28:08+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "b08d80d82984469e5b0c25587b462ae0",
-    "title": "Над регионами России сбили 58 украинских БПЛА",
-    "url": "https://tass.ru/armiya-i-opk/27008667",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:27:52+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "0e7032042064c36f2aa593203fe67673",
-    "title": "Один погиб, двое пропали без вести. Что известно об атаке ВСУ на сухогруз в Азовском море",
-    "url": "https://tass.ru/proisshestviya/27008621",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:27:40+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "7f6f04c05db599942a1b67af2e9fc632",
-    "title": "Гимнастка Борисова завоевала пять медалей на этапе Гран-при во Франции",
-    "url": "https://russian.rt.com/sport/news/1616139-gimnastka-borisova-medali?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T17:27:27+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "247f786a0bb338a74ebb9b293c954527",
-    "title": "ПВО уничтожила 58 беспилотников над Россией",
-    "url": "https://ria.ru/20260405/pvo-2085327356.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T17:27:26+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "bfe2c581e23e0617c01f7a96e5c5035f",
-    "title": "Лихачев: победители AtomSkills будут драйверами профессионального роста на предприятиях",
-    "url": "https://tass.ru/ekonomika/27008623",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:27:23+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "362cd2541dce9b1876f21ce19c86d962",
-    "title": "ВС РФ продвигаются к Константиновке по флангам в районе Илиновки и Новодмитровки",
-    "url": "https://tass.ru/armiya-i-opk/27008659",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:27:17+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "61b4991de30bf6b316cc64115dd8fef2",
-    "title": "\"Локомотив\" обыгрывает к перерыву \"Спартак\" в матче РПЛ",
-    "url": "https://ria.ru/20260405/futbol-2085327054.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T17:26:06+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
