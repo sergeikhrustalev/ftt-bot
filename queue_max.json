@@ -1,5 +1,23 @@
 [
   {
+    "id": "70880b27ecbed4d17db8cd88bdf8c28e",
+    "title": "В США возмутились грубым обращением Трампа к Ирану",
+    "url": "https://lenta.ru/news/2026/04/05/v-ssha-vozmutilis-grubym-obrascheniem-trampa-k-iranu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T17:44:04+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ee8bf6d9ce25f1eed8da515770ea2da6",
+    "title": "Трамп пока не видит необходимости в наземной операции в Иране",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008721",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:41:18+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "0c6281bdc30283d101261634708c4af4",
     "title": "В Дагестане из-за обрушения моста закрыли федеральную трасса \"Кавказ\"",
     "url": "https://tass.ru/obschestvo/27008637",
@@ -185,6 +203,15 @@
     "url": "https://ria.ru/20260405/futbol-2085327054.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T17:26:06+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "12215ce7e029e92f7ffeb1d24e18996d",
+    "title": "Трамп уточнил дедлайн для открытия Ормузского пролива Ираном",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188058-tramp-utochnil-dedlain",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T17:25:36+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -1040,33 +1067,6 @@
     "url": "https://tass.ru/obschestvo/27008129",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T16:06:40+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ff552d4dc7337c3de3acbb71de20d727",
-    "title": "СК возбудил дело после гибели женщины при обрушении дома в Дагестане",
-    "url": "https://ria.ru/20260405/dagestan-2085318510.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T16:04:00+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "3d7759b39bbc3f6f4d9cf9bbe9f5ad0e",
-    "title": "Бонгонда не вернулся в \"Спартак\" по просьбе Федерации футбола ДР Конго",
-    "url": "https://tass.ru/sport/27008127",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:01:55+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9e205e24ebdc27da53208d1948ee4b9f",
-    "title": "Очевидец рассказала как люди покидали загоревшийся ТЦ в Калининграде",
-    "url": "https://ria.ru/20260405/kaliningrad-2085318121.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T16:00:55+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
