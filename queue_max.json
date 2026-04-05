@@ -1,5 +1,104 @@
 [
   {
+    "id": "b23e7310d71300a54d79a3d55d63730d",
+    "title": "Перенесшего инфаркт бывшего тренера «Зенита» ввели в медикаментозную кому",
+    "url": "https://lenta.ru/news/2026/04/05/perenesshego-infarkt-byvshego-trenera-zenita-vveli-v-medikamentoznuyu-komu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T14:47:35+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "78bc9819d8329052cf915822c9edff35",
+    "title": "Пожар в ТЦ Калининграда локализовали",
+    "url": "https://tass.ru/proisshestviya/27007633",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T14:47:13+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "15d0772c7f8a5cdeb6f09158ead9b298",
+    "title": "Малкин — о Чинахове: сначала он подпишет контракт, а потом я",
+    "url": "https://russian.rt.com/sport/news/1616082-malkin-chinahov-kontrakt?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T14:47:10+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "3b0c696a0ccb330d5cc9d13ea7b74b33",
+    "title": "В Дагестане после оползня пропал человек",
+    "url": "https://russian.rt.com/russia/news/1616085-dagestan-opolzen-propal-chelovek?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T14:46:48+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "4827fcddae966e53a0ef6cd24b8d514a",
+    "title": "В Махачкале назвали одну из причин разрушения многоэтажного дома после дождей",
+    "url": "https://lenta.ru/news/2026/04/05/v-mahachkale-nazvali-odnu-iz-prichin-razrusheniya-mnogoetazhnogo-doma-posle-dozhdey/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T14:46:37+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9dc164eb03e8391481570ee036ea594f",
+    "title": "В МЧС рассказали, где находился очаг возгорания в ТЦ в Калининграде",
+    "url": "https://ria.ru/20260405/pozhar-2085311541.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T14:45:51+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "510159ae8fc86b27f02d11740cbc2828",
+    "title": "В Калининграде локализовали пожар в торговом центре",
+    "url": "https://ria.ru/20260405/kaliningrad-2085311450.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T14:45:49+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a78c102ba0cd0a9a9fc4697d2a07b592",
+    "title": "CNN: США потеряли не менее семи военных самолётов с начала операции против Ирана",
+    "url": "https://russian.rt.com/world/news/1616084-ssha-samolyoty-poterya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T14:45:24+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "18ccb20d0a04e370067eb6a012275bd0",
+    "title": "В Махачкале могут снести находящиеся под угрозой обрушения многоэтажные дома",
+    "url": "https://tass.ru/obschestvo/27007595",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T14:45:13+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "84eb0086e37562fee5b652e6dad70088",
+    "title": "Трое пострадавших в ТЦ \"Гиант\". Главное о пожаре в Калининграде",
+    "url": "https://tass.ru/proisshestviya/27007551",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T14:43:40+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "8b7bd92c000eb7274ca52ec939f01c6b",
+    "title": "Следующая встреча \"восьмерки\" ОПЕК+ пройдет 3 мая",
+    "url": "https://tass.ru/ekonomika/27007611",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T14:42:17+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "96808c1b217bdd03e10542a5b197a5db",
     "title": "Дмитриев допустил рост цены на нефть выше $150 за баррель в ближайшие две недели",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188035-dmitriev-dopustil-rost",
@@ -969,105 +1068,6 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T13:27:00+00:00",
     "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "03aed7e7033179cfd2e82a2c73fd5b90",
-    "title": "Умер создатель гиперзвуковой ракеты \"Циркон\" Александр Леонов",
-    "url": "https://tass.ru/obschestvo/27007043",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:25:43+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d0cf3d03ed14665dda76a962d4bab6ca",
-    "title": "Фидан, Зеленский и аш-Шараа встретятся в Сирии, пишут СМИ",
-    "url": "https://ria.ru/20260405/smi-2085302931.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T13:25:41+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "62cbff8d787491226462527e0c29789a",
-    "title": "В Московском регионе прошел сильный ливень с градом",
-    "url": "https://tass.ru/obschestvo/27007011",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:25:14+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9b341e4eba6e53fa7c0c2131da320d37",
-    "title": "Polymarket извинился за ставки на судьбу пилотов сбитого в Иране F-15",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188028-polymarket-izvinilsya",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T13:24:47+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "1e7de8b58b440cecc21d523f01f237cc",
-    "title": "Ипотека уйдет от молотка // Торги заложенным имуществом планируется перевести в электронный формат",
-    "url": "https://www.kommersant.ru/doc/8569558",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T13:24:00+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "fdeb911c5b96c9d488b0a4474e54293a",
-    "title": "В Чебоксарах семь школьников обратились в больницу с острой кишечной инфекцией",
-    "url": "https://tass.ru/obschestvo/27006999",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:23:42+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "0a9a8aba169ef03342763d2dd4c0ba66",
-    "title": "В Ленобласти нашли скопление нефтепродуктов на берегу Финского залива",
-    "url": "https://russian.rt.com/russia/news/1616061-finskii-zaliv-nefteprodukty?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T13:23:24+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ba0d7155007107cf1946f61bd36129b6",
-    "title": "После травмирования проводницы в Костромской области завели дело",
-    "url": "https://tass.ru/proisshestviya/27007007",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:23:15+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "23a45799ed4999df255c3ffbe45e05f2",
-    "title": "Mehr: в Иране с начала конфликта погибли 245 учеников",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007017",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:23:04+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "3bdd9cdfc205bccd3c80c015180f2e16",
-    "title": "Глава МИД Ирака поблагодарил Иран за проход танкеров через Ормузский пролив",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007027",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:22:43+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "bbc34b47dec758c047b3e9b4c9a347b8",
-    "title": "Туктамышева заявила, что её номер на «Русском вызове» посвящён проблеме домашнего насилия",
-    "url": "https://russian.rt.com/sport/news/1616056-tuktamysheva-nomer-russkiy-vyzov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T13:22:38+00:00",
-    "no_image": false,
     "priority_boost_minutes": 0
   }
 ]
