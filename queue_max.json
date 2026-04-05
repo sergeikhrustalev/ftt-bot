@@ -1,5 +1,50 @@
 [
   {
+    "id": "932de6aa681ce7285995ef7172746cc1",
+    "title": "Иран обвинил Трампа в намерении совершить военное преступление",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188065-iran-obvinil-trampa",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T18:14:40+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "b5ca14211091867768ad8df04d607c94",
+    "title": "Трамп устроил проверку НАТО",
+    "url": "https://lenta.ru/news/2026/04/05/tramp-ustroil-proverku-nato/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T18:13:36+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ae915a65702850b29c20014c1e8e1d2d",
+    "title": "Дмитриев сравнил обстановку в мире с началом пандемии коронавируса",
+    "url": "https://lenta.ru/news/2026/04/05/dmitriev/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T18:11:00+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d80a43218a387868cf0d0d63d50899ef",
+    "title": "В нескольких районах Донецка пропал свет",
+    "url": "https://tass.ru/obschestvo/27008865",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:09:43+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "fefff94dd67238573a11487e39cf1669",
+    "title": "В российском регионе из-за ливней обрушился мост",
+    "url": "https://lenta.ru/news/2026/04/06/v-rossiyskom-regione-iz-za-livney-obrushilsya-most/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T18:08:19+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "d41942c0722edab033346fe0a6be719f",
     "title": "Арагчи отметил необходимость действий СБ ООН для урегулирования ситуации вокруг Ирана",
     "url": "https://tass.ru/mezhdunarodnaya-panorama/27008855",
@@ -15,6 +60,15 @@
     "source": "РИА",
     "pub_dt": "2026-04-05T18:07:04+00:00",
     "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "23a95893afa4a5f3dd9db5c00dfcee4b",
+    "title": "В России указали на недопонимание Вашингтона",
+    "url": "https://lenta.ru/news/2026/04/05/v-rossii-ukazali-na-nedoponimanie-vashingtona/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T18:07:00+00:00",
+    "no_image": true,
     "priority_boost_minutes": 0
   },
   {
@@ -1013,60 +1067,6 @@
     "url": "https://russian.rt.com/sport/news/1616126-rossiiskie-voleibolistki-polufinal-turnir?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T16:30:41+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f05f9fc87d44bb25aeac0c058499505f",
-    "title": "Bild: в ФРГ стоимость дизеля на одной из АЗС превысила €3 за литр",
-    "url": "https://tass.ru/ekonomika/27008339",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:30:32+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "cbdb18fb16f8e0e782007d818ba3288d",
-    "title": "Депутат Госдумы сравнил ВСУ с сатанистами после атаки на Севастополь",
-    "url": "https://ria.ru/20260405/sevastopol-2085320439.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T16:30:32+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "5907c234d156038d4d00e679d48eef79",
-    "title": "Пайщики потянулись в долги // Впервые с начала года ПИФы облигаций стали лидерами по притоку средств",
-    "url": "https://www.kommersant.ru/doc/8569608",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T16:29:45+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "edee1e36e4168040ead0dd60ebeb3935",
-    "title": "Эксперт Гюрдениз: НАТО в Черном море превратит Турцию в антироссийскую архитектуру",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008311",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:29:07+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "42c772f11e49d2eee964d4923388557f",
-    "title": "Сальдо: сухогруз в Азовском море атаковал украинский БПЛА",
-    "url": "https://russian.rt.com/ussr/news/1616123-ukraina-bpla-suhogruz?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T16:27:56+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "957126aa67e3a8c169505616f0b4caae",
-    "title": "Морякам сухогруза, потерпевшего крушения в Азовском море, оказывают помощь",
-    "url": "https://ria.ru/20260405/sukhogruz-2085320211.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T16:27:11+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
