@@ -1,10 +1,64 @@
 [
   {
+    "id": "0c6281bdc30283d101261634708c4af4",
+    "title": "В Дагестане из-за обрушения моста закрыли федеральную трасса \"Кавказ\"",
+    "url": "https://tass.ru/obschestvo/27008637",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:37:59+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "82747611576517ecc9ad029661118a23",
+    "title": "Удар по журналистам RT в Ливане могли нанести бомбой GBU-38, заявил Суини",
+    "url": "https://ria.ru/20260405/rt-2085327876.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T17:36:20+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "19f9e08ab170b8eeb1ba0972050ff393",
+    "title": "Пушилин: ВС РФ ведут ожесточенные бои в районе Гришина",
+    "url": "https://tass.ru/armiya-i-opk/27008705",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:36:06+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "8b821636053eb4adbcf487b9e1a3bc36",
+    "title": "Внешность 71-летней супермодели на новых фото папарацци взволновала общественность",
+    "url": "https://lenta.ru/news/2026/04/05/vneshnost-71-letney-supermodeli-na-novyh-foto-paparatstsi-vzvolnovala-obschestvennost/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T17:34:32+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "2d9d4ca358e38ff2f559b7c7f35efac2",
+    "title": "В Иране назвали условие для открытия Ормузского пролива",
+    "url": "https://lenta.ru/news/2026/04/05/v-irane-nazvali-uslovie-dlya-otkrytiya-ormuzskogo-proliva/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T17:34:03+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "34f5c01507d8f893aa3637ec01d92ec6",
     "title": "Средства ПВО за шесть часов уничтожили 58 украинских БПЛА над территорией России",
     "url": "https://russian.rt.com/ussr/news/1616154-pvo-bespilotniki-ataka-vsu?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T17:33:50+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "c015bbb7d8fec8a787a1e631343ff7db",
+    "title": "В Дербентском районе Дагестана несколько человек смыло в реку с дороги",
+    "url": "https://tass.ru/proisshestviya/27008699",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:33:22+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -1014,60 +1068,6 @@
     "source": "РИА",
     "pub_dt": "2026-04-05T16:00:55+00:00",
     "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "42d87a7e53fdf91957a03548fc4541ff",
-    "title": "Лавров в разговоре с Аракчи выразил надежду на деэскалацию вокруг Ирана",
-    "url": "https://ria.ru/20260405/lavrov-2085317780.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T16:00:07+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "c1fcdc190334b27661da190d0d3e9fa1",
-    "title": "Галлямов — Транькову: активные программы катать энергозатратней, чем лиричные постановки",
-    "url": "https://russian.rt.com/sport/news/1616113-gallyamov-trankov-programmy?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T15:58:44+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ae57239d88ba6d9ffbee67c3825df63a",
-    "title": "Футболисты \"Ротора\" победили \"Нефтехимик\" в матче Первой лиги",
-    "url": "https://ria.ru/20260405/futbol-2085317484.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T15:58:34+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9d74857600a16de206df2e51c6b08e64",
-    "title": "Трампа обвинили в намерении совершить военное преступление",
-    "url": "https://lenta.ru/news/2026/04/05/trampa-obvinili-v-namerenii-sovershit-voennoe-prestuplenie/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T15:56:45+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "bb826b90e8e2ac849f5d6795f58265c7",
-    "title": "Меликов назвал наиболее пострадавшие от непогоды районы в Дагестане",
-    "url": "https://ria.ru/20260405/dagestan-2085317338.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T15:56:29+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "872fa41d2db667ae794b5fc7d2a78ba4",
-    "title": "Женщина не выжила после схода оползня в Дагестане",
-    "url": "https://lenta.ru/news/2026/04/05/zhenschina-ne-vyzhila-posle-shoda-opolznya-v-dagestane/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T15:55:54+00:00",
-    "no_image": true,
     "priority_boost_minutes": 0
   }
 ]
