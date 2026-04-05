@@ -1,5 +1,59 @@
 [
   {
+    "id": "34f5c01507d8f893aa3637ec01d92ec6",
+    "title": "Средства ПВО за шесть часов уничтожили 58 украинских БПЛА над территорией России",
+    "url": "https://russian.rt.com/ussr/news/1616154-pvo-bespilotniki-ataka-vsu?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T17:33:50+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "b1a4dff1b23d6bd0d1639459d2472bdb",
+    "title": "Женщина поделилась содержимым тревожного чемоданчика на случай третьей мировой",
+    "url": "https://lenta.ru/news/2026/04/05/zhenschina-podelilas-soderzhimym-trevozhnogo-chemodanchika-na-sluchay-tretiey-mirovoy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T17:32:39+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "2420ae38915425cf40c50862cc4dc81d",
+    "title": "Сырье зажато в проливе // ОПЕК+ сохранила темпы увеличения нефтедобычи",
+    "url": "https://www.kommersant.ru/doc/8569652",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T17:32:27+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9e6a786fd6745bd761878b8827063715",
+    "title": "Россиянам назвали быстрее всего разрушающие зубы напитки",
+    "url": "https://lenta.ru/news/2026/04/05/rossiyanam-nazvali-bystree-vsego-razrushayuschie-zuby-napitki/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T17:31:32+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "f0b9e6014a0eeb7fbe1d71f5808d6b88",
+    "title": "Пообещавший Ирану ад Трамп обозначил дедлайн для страны",
+    "url": "https://lenta.ru/news/2026/04/05/obrugavshiy-iran-tramp-soobschil-o-dedlayne-dlya-strany/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T17:30:35+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d27cafe49149e339a298c7512e19631a",
+    "title": "Daily Post: в Нигерии из-за атаки боевиков погибли не менее 17 мирных жителей",
+    "url": "https://tass.ru/proisshestviya/27008651",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:30:04+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "4440cbfc83a869ffe52b6d097a20d926",
     "title": "\"Кельн\" отыграл два мяча в матче с \"Айнтрахтом\" в матче Бундеслиги",
     "url": "https://ria.ru/20260405/bundesliga-2085327671.html",
@@ -18,6 +72,24 @@
     "priority_boost_minutes": 0
   },
   {
+    "id": "b08d80d82984469e5b0c25587b462ae0",
+    "title": "Над регионами России сбили 58 украинских БПЛА",
+    "url": "https://tass.ru/armiya-i-opk/27008667",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:27:52+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "0e7032042064c36f2aa593203fe67673",
+    "title": "Один погиб, двое пропали без вести. Что известно об атаке ВСУ на сухогруз в Азовском море",
+    "url": "https://tass.ru/proisshestviya/27008621",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:27:40+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "7f6f04c05db599942a1b67af2e9fc632",
     "title": "Гимнастка Борисова завоевала пять медалей на этапе Гран-при во Франции",
     "url": "https://russian.rt.com/sport/news/1616139-gimnastka-borisova-medali?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -32,6 +104,24 @@
     "url": "https://ria.ru/20260405/pvo-2085327356.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T17:27:26+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "bfe2c581e23e0617c01f7a96e5c5035f",
+    "title": "Лихачев: победители AtomSkills будут драйверами профессионального роста на предприятиях",
+    "url": "https://tass.ru/ekonomika/27008623",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:27:23+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "362cd2541dce9b1876f21ce19c86d962",
+    "title": "ВС РФ продвигаются к Константиновке по флангам в районе Илиновки и Новодмитровки",
+    "url": "https://tass.ru/armiya-i-opk/27008659",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:27:17+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -977,96 +1067,6 @@
     "url": "https://lenta.ru/news/2026/04/05/zhenschina-ne-vyzhila-posle-shoda-opolznya-v-dagestane/",
     "source": "Лента",
     "pub_dt": "2026-04-05T15:55:54+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "133e63e93f27fc7eea438f04b09840c0",
-    "title": "В Калининграде пожар в ТЦ локализовали на 7000 квадратах",
-    "url": "https://ria.ru/20260405/kaliningrad-2085317234.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T15:53:28+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "86fd222428ab16b944dd2f91e2a2cdd5",
-    "title": "Иран ударил БПЛА по нефтехимическим объектам вблизи израильской Димоны",
-    "url": "https://russian.rt.com/world/news/1616106-iran-izrail-ssha-ataka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T15:53:20+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "c2b1986804eafff29ff70b6597e39d9c",
-    "title": "В Калининграде локализовали пожар на 7 тыс. кв. м",
-    "url": "https://tass.ru/proisshestviya/27008113",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:52:46+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "6d8a18f68a5bcc4fad35e4532ad8d1f1",
-    "title": "Страны ОПЕК+ договорились нарастить нефтедобычу в мае на 206 баррелей в сутки",
-    "url": "https://russian.rt.com/business/news/1616110-opek-neft-dobycha?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T15:52:07+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "325a79ae601bde4526b8f62e431b1484",
-    "title": "Сын Малкина рассказал, почему не приходит на раскатки перед матчами «Питтсбурга»",
-    "url": "https://russian.rt.com/sport/news/1616107-syn-malkin-raskatka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T15:51:59+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "5ad8ff8db212a76e8e3d6a1401fddf69",
-    "title": "Лавров и Арагчи призвали прекратить безрассудные атаки на АЭС \"Бушер\"",
-    "url": "https://tass.ru/politika/27008101",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:51:31+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "4d17fd8ee35d4cbac316db982a919f6d",
-    "title": "Лавров и Ван И продолжат координацию по вопросам взаимного интереса",
-    "url": "https://ria.ru/20260405/lavrov-2085317048.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T15:51:10+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8c2b67d646f0aef11410167fb5875645",
-    "title": "В Калининграде из-за пожара в ТЦ \"Гиант\" заблокировано движение транспорта",
-    "url": "https://tass.ru/obschestvo/27008053",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:49:26+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "b08594021afcc9859f34927417bee8c6",
-    "title": "Лавров и Ван И выразили удовлетворенность совпадением подходов по Ирану",
-    "url": "https://ria.ru/20260405/lavrov-2085316661.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T15:49:00+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "5eb589567ee0aa2e5aec7d537ce90ea9",
-    "title": "Оценены шансы Овечкина с «Вашингтоном» выйти в плей-офф НХЛ",
-    "url": "https://lenta.ru/news/2026/04/05/otseneny-shansy-ovechkina-s-vashingtonom-vyyti-v-pley-off-nhl/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T15:48:38+00:00",
     "no_image": true,
     "priority_boost_minutes": 0
   }
