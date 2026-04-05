@@ -1,5 +1,41 @@
 [
   {
+    "id": "4ae370bea85e77f7852617e7150a0abf",
+    "title": "Экономист Сакс: БРИКС — значимый и полезный для мира стабилизатор",
+    "url": "https://russian.rt.com/world/news/1616130-briks-mir-stabilizator-saks?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T16:57:58+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e9110c75eb250754e08476fde31d1d8c",
+    "title": "Жительница Калининграда рассказала, как ТЦ охватывал огонь",
+    "url": "https://ria.ru/20260405/kaliningrad-2085322651.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T16:57:49+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "c6477bc12d0d3e23f7807f01be30b9c3",
+    "title": "Очевидица рассказала, сколько проработала сигнализация в ТЦ в Калининграде",
+    "url": "https://ria.ru/20260405/kaliningrad-2085322493.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T16:57:03+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e9affde0c60799771f8b2e2d5c2e8983",
+    "title": "Армения движется к катастрофе, выбрав путь в ЕС, считает Киселев",
+    "url": "https://ria.ru/20260405/kiselev-2085322294.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T16:56:16+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "3e11df229cafab2929411e5ce3f21823",
     "title": "Постпредство Ирана: Трамп намерен совершить военное преступление",
     "url": "https://russian.rt.com/world/news/1616131-iran-tramp-prestuplenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -1031,42 +1067,6 @@
     "url": "https://tass.ru/proisshestviya/27007909",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T15:26:58+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "2640254a0b1d99b23e3f493cbdf3d09c",
-    "title": "У черноморского побережья Турции уничтожили мину",
-    "url": "https://ria.ru/20260405/mina-2085314317.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T15:26:11+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "813edee25cc76c1e749db829b6d1cc99",
-    "title": "\"Балтика\" сыграла вничью с махачкалинским \"Динамо\" в матче РПЛ",
-    "url": "https://tass.ru/sport/27007901",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:25:11+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "90756b67ec4e21d97322f209604083f0",
-    "title": "Армия Израиля зафиксировала новый залп со стороны Ирана",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007817",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:25:03+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ee6be82ae12c45c8a6b42da8c5175135",
-    "title": "Хищения в режиме «Энергострима» // Бывшего топ-менеджера сбытового холдинга будут судить заочно",
-    "url": "https://www.kommersant.ru/doc/8569579",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T15:24:53+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
