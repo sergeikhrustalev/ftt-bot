@@ -1,5 +1,59 @@
 [
   {
+    "id": "d1f18995a9ed28d76f1ab3465472327f",
+    "title": "The Times: Украина обратится к конгрессу США с просьбой о ракетах для Patriot",
+    "url": "https://russian.rt.com/world/news/1616042-kiev-kongress-ssha-rakety?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T12:19:14+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "5b7c5013242a747754d36dfa2606a25d",
+    "title": "В Севастополе объявили третью за день воздушную тревогу",
+    "url": "https://ria.ru/20260405/trevogu--2085298125.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T12:18:24+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "536cc51f71b597ae9ef9b499bd38429a",
+    "title": "В Московском зоопарке родились шесть птенцов пингвинов Гумбольдта",
+    "url": "https://ria.ru/20260405/pingviny-2085297991.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T12:16:28+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "40778a3d1899978e2ce74dccb8b23b43",
+    "title": "Гимнаст Маринов завоевал золото на этапе Кубка мира в Египте",
+    "url": "https://tass.ru/sport/27006653",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T12:15:48+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "8283d24338d0cf7e03593bbf7feb4fcf",
+    "title": "В Махачкале нет жертв после обрушения многоэтажного дома",
+    "url": "https://tass.ru/proisshestviya/27006647",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T12:15:01+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "3bb2c330d3efdb3d71f569a0a3c64dde",
+    "title": "Басни о басках // Ресторанная критика — ресторан ОМА",
+    "url": "https://www.kommersant.ru/doc/8569428",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T12:14:23+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "c5f2a90a50d807b99facbeacc72334e5",
     "title": "СМИ: США уничтожили два своих самолета в ходе спасательной операции в Иране",
     "url": "https://ria.ru/20260405/usa-2085297663.html",
@@ -14,6 +68,15 @@
     "url": "https://russian.rt.com/world/news/1616033-lavrov-kallas-zayavlenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T12:13:19+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "504b06c2db52a9d93c4435bc95338580",
+    "title": "В Дагестане более 40 человек обратились к медикам с острой кишечной инфекцией",
+    "url": "https://tass.ru/obschestvo/27006633",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T12:13:13+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -1004,69 +1067,6 @@
     "url": "https://ria.ru/20260405/luchesku-2085288318.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T11:07:55+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "5aae8bff902c828a129241a8db6d6ae0",
-    "title": "Оман и Иран обсудили варианты беспрепятственного прохода судов по Ормузу",
-    "url": "https://ria.ru/20260405/proliv-2085288030.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:06:43+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "7bdc77853926fb5ca331c2defef84cf0",
-    "title": "Лихачев: эвакуированные из Ирана сотрудники Росатома ночью прибудут в Армению",
-    "url": "https://tass.ru/ekonomika/27006063",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:06:19+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f1303bb022204ea60494c22d8d1af765",
-    "title": "Удары по районам ядерных объектов \"добром не кончатся\", предупредил Лихачев",
-    "url": "https://ria.ru/20260405/lihachev-2085287887.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:06:11+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "17e52f240e60290bca819fa4a5a14832",
-    "title": "В Азовском море затонул сухогруз с пшеницей, есть погибшие",
-    "url": "https://ria.ru/20260405/sukhogruz-2085287789.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:05:44+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "cbb458c7ec7f0f28781d0df3538bd4ae",
-    "title": "Людей эвакуируют из дома в Махачкале из-за угрозы обрушения",
-    "url": "https://ria.ru/20260405/makhachkala-2085287676.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:05:25+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "77e4a0a88dd6e5ac11dde603b364a89e",
-    "title": "ВС РФ уничтожили шесть НРТК и британскую САУ AS-90 ВСУ у Константиновки",
-    "url": "https://tass.ru/armiya-i-opk/27006031",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:04:34+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "5dc6887c610666607df777b078d166c2",
-    "title": "Женщина из Петербурга впервые в России родила \"однояйцевую\" четверню",
-    "url": "https://tass.ru/obschestvo/27006023",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:04:25+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
