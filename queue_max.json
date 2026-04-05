@@ -1,5 +1,77 @@
 [
   {
+    "id": "2a6fa5c6793282a3218abb2130e91cdc",
+    "title": "«Может обернуться принудительной мобилизацией»: как в Германии ужесточили выезд за границу для мужчин",
+    "url": "https://russian.rt.com/world/article/1616017-germaniya-armiya-muzhchiny-vyezd-zagranica?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T19:39:10+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "19e7b51485ac7ac0da59b5f477b4b5cb",
+    "title": "В Белгородской области из-за удара дрона ВСУ погиб доброволец народной дружины",
+    "url": "https://tass.ru/proisshestviya/27009365",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:39:00+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "31a3ebcb688a6b9760738c5da804cf99",
+    "title": "Карседо не считает матч \"Спартака\" с \"Локомотивом\" в РПЛ лучшим для команды",
+    "url": "https://tass.ru/sport/27009369",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:38:59+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "735434b830c57254a7a43ec5c7518318",
+    "title": "В Иране заявили, что не будут испытывать дефицита ракет, даже если война продлится годы",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27009359",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:38:42+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "513db7b101f0e69b4fcc9fb25ee2510d",
+    "title": "Channels: запасы нефти в Нигерии сокращаются из-за растущих темпов добычи",
+    "url": "https://tass.ru/ekonomika/27009219",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:38:09+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "4898ee6c3c8bd7b778eae4e152a31f86",
+    "title": "Спасенная из реки в Дербентском районе Дагестана девушка находится без сознания",
+    "url": "https://tass.ru/proisshestviya/27009323",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:37:29+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9f521faee09cdcd932288451d4510a32",
+    "title": "Трамп рассказал о трудностях в поисках второго летчика сбитого F-15",
+    "url": "https://lenta.ru/news/2026/04/05/tramp-rasskazal-o-trudnostyah-v-poiskah-vtorogo-letchika-sbitogo-f-15/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T19:37:00+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "7a4797578df579a5884d0eba94ad72a8",
+    "title": "Роспотребнадзор приступил к контролю за состоянием воздуха после пожара в Калининграде",
+    "url": "https://tass.ru/obschestvo/27009255",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:35:58+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "699cf7c1b3480260b82fe975a06db20c",
     "title": "Балицкий рассказал о восстановлении электроснабжения в Запорожской области",
     "url": "https://ria.ru/20260405/balitskij-2085339473.html",
@@ -14,6 +86,15 @@
     "url": "https://ria.ru/20260405/paskha-2085339176.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T19:34:33+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "524ddad49a777d2d9e436d405e20c1e8",
+    "title": "МЧС: угрозы обрушения несущих конструкций горящего ТЦ в Калининграде нет",
+    "url": "https://tass.ru/proisshestviya/27009247",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:33:54+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -987,87 +1068,6 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T18:11:00+00:00",
     "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d80a43218a387868cf0d0d63d50899ef",
-    "title": "В нескольких районах Донецка пропал свет",
-    "url": "https://tass.ru/obschestvo/27008865",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T18:09:43+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "fefff94dd67238573a11487e39cf1669",
-    "title": "В российском регионе из-за ливней обрушился мост",
-    "url": "https://lenta.ru/news/2026/04/06/v-rossiyskom-regione-iz-za-livney-obrushilsya-most/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T18:08:19+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d41942c0722edab033346fe0a6be719f",
-    "title": "Арагчи отметил необходимость действий СБ ООН для урегулирования ситуации вокруг Ирана",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008855",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T18:07:43+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9c50bdda98fbdab66981e7cf1e285a41",
-    "title": "Силы ПВО сбили две воздушные цели над Севастополем",
-    "url": "https://ria.ru/20260405/sevastopol-2085331406.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T18:07:04+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "23a95893afa4a5f3dd9db5c00dfcee4b",
-    "title": "В России указали на недопонимание Вашингтона",
-    "url": "https://lenta.ru/news/2026/04/05/v-rossii-ukazali-na-nedoponimanie-vashingtona/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T18:07:00+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "0d843200e44be4785f4737872db92c5b",
-    "title": "\"Кончаются ракеты\". СМИ забили тревогу после случившегося в зоне СВО",
-    "url": "https://ria.ru/20260405/svo-2085331237.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T18:05:29+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "2e8c3ecb9e82cd52f23929a6fcc3a07f",
-    "title": "Дания разработала план диверсий в Гренландии, пишут СМИ",
-    "url": "https://ria.ru/20260405/daniya-2085331237.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T18:05:29+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "415d8e2333fd4ec85a668495cd9b7a7b",
-    "title": "Арагчи назвал угрозы США атаковать энергетические объекты признанием военных преступлений",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008851",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T18:05:10+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9e476616d9c7e5d02ae0775f2e0e19ef",
-    "title": "Россиянам рассказали, как в 2026 году будет регулироваться любительская рыбалка",
-    "url": "https://russian.rt.com/russia/news/1616171-rybalka-rossiya-2026?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T18:04:29+00:00",
-    "no_image": false,
     "priority_boost_minutes": 0
   }
 ]
