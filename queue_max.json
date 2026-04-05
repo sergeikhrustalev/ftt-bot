@@ -1,13 +1,5 @@
 [
   {
-    "id": "d591f00e4b926b81532d00ac34dc1bbd",
-    "title": "В Киеве и ряде регионов Украины объявили воздушную тревогу",
-    "url": "https://ria.ru/20260403/trevoga-2084893778.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T01:11:15+00:00",
-    "no_image": false
-  },
-  {
     "id": "38eac012e78115be1a3a124d01827a5e",
     "title": "СМИ: администрация Трампа может лишиться ряда чиновников",
     "url": "https://ria.ru/20260403/tramp-2084894405.html",
@@ -2389,6 +2381,14 @@
     "url": "https://russian.rt.com/business/news/1615904-finansist-kredit-otkaz?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T02:51:21+00:00",
+    "no_image": false
+  },
+  {
+    "id": "3d28ef786e7a4020c1aa3ca4dee837f3",
+    "title": "Дотком считает, что ЕС не выделит Украине кредит в €90 млрд",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27003999",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T03:01:06+00:00",
     "no_image": false
   }
 ]
