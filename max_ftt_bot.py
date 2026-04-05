@@ -33,8 +33,33 @@ HEADERS = {
 TEXT_LIMIT = 500
 QUEUE_FILE = "queue_max.json"
 POSTED_FILE = "posted.json"
-MAX_QUEUE_SIZE = 300
-DEFAULT_CUTOFF_HOURS = 4
+MAX_QUEUE_SIZE = 120
+DEFAULT_CUTOFF_HOURS = 2
+QUEUE_MAX_AGE_HOURS = 8
+
+KNOWN_NOISE_LINES = {
+    "мировые 24/7 новости",
+    "мировые 247 новости",
+    "ria.ru",
+    "ria",
+    "риа",
+    "риа новости",
+    "тасс",
+    "коммерсантъ",
+    "rt",
+    "ведомости",
+    "лента",
+    "лента.ру",
+}
+
+BOILERPLATE_FRAGMENTS = (
+    "читайте также",
+    "поделиться",
+    "подписывайтесь",
+    "подпишитесь",
+    "telegram",
+    "телеграм",
+)
 
 FLAGS = [
     ("🇷🇺", ["россия", "российск", "москва", "кремль", "путин", "медведев"]),
@@ -69,6 +94,106 @@ def detect_flag(text):
     return "🌍"
 
 
+def parse_dt(value):
+    if not value:
+        return None
+    if isinstance(value, datetime):
+        return value
+    try:
+        return datetime.fromisoformat(value)
+    except ValueError:
+        return None
+
+
+def queue_sort_key(item):
+    return parse_dt(item.get("pub_dt")) or datetime.min.replace(tzinfo=timezone.utc)
+
+
+def collapse_spaces(text):
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def normalize_title(title):
+    return re.sub(r"\W+", "", title.lower())[:80]
+
+
+def trim_text(text, limit=TEXT_LIMIT):
+    if len(text) <= limit:
+        return text
+    chunk = text[:limit]
+    dot = chunk.rfind(".")
+    return chunk[: dot + 1] if dot > limit // 2 else chunk.rstrip() + "..."
+
+
+def is_source_credit(line):
+    cleaned = collapse_spaces(line).strip(" .:-|")
+    if not cleaned or len(cleaned) > 60:
+        return False
+    words = re.findall(r"[A-Za-zА-Яа-яЁё'’.-]+", cleaned)
+    if not 1 <= len(words) <= 4:
+        return False
+    return all(word[:1].isupper() for word in words)
+
+
+def clean_body(text, title="", source=""):
+    if not text:
+        return ""
+
+    title_norm = normalize_title(title)
+    source_norm = normalize_title(source)
+    filtered_lines = []
+
+    for raw_line in re.split(r"[\r\n]+", text):
+        line = collapse_spaces(raw_line)
+        if not line:
+            continue
+
+        line_norm = normalize_title(line)
+        line_lower = line.lower().strip(" .:-|")
+
+        if not line_norm:
+            continue
+        if line_norm == title_norm or line_norm == source_norm:
+            continue
+        if line_lower in KNOWN_NOISE_LINES:
+            continue
+        if any(fragment in line_lower for fragment in BOILERPLATE_FRAGMENTS):
+            continue
+        if is_source_credit(line) and not filtered_lines:
+            continue
+
+        filtered_lines.append(line)
+
+    body = collapse_spaces(" ".join(filtered_lines))
+    if not body:
+        return ""
+
+    if title and body.lower().startswith(title.lower()):
+        body = body[len(title) :].lstrip(" .,:;|-")
+
+    if not body:
+        return ""
+
+    return trim_text(body)
+
+
+def dedupe_articles(items):
+    unique = []
+    seen_ids = set()
+    seen_titles = set()
+
+    for item in sorted(items, key=queue_sort_key, reverse=True):
+        article_id = item.get("id")
+        title_key = normalize_title(item.get("title", ""))
+        if not article_id or article_id in seen_ids or title_key in seen_titles:
+            continue
+        seen_ids.add(article_id)
+        seen_titles.add(title_key)
+        unique.append(item)
+
+    return unique
+
+
 def fetch_article(url):
     try:
         response = requests.get(url, timeout=12, headers=HEADERS)
@@ -95,11 +220,6 @@ def fetch_article(url):
         )
         if not text:
             return "", image_url
-
-        if len(text) > TEXT_LIMIT:
-            chunk = text[:TEXT_LIMIT]
-            dot = chunk.rfind(".")
-            text = chunk[: dot + 1] if dot > TEXT_LIMIT // 2 else chunk.rstrip() + "..."
         return text, image_url
     except Exception as exc:
         print(f"Text fetch error: {exc}")
@@ -107,10 +227,12 @@ def fetch_article(url):
 
 
 def format_post(article):
-    title = article.get("title", "")
-    body = article.get("body", "")
+    title = collapse_spaces(article.get("title", ""))
+    body = clean_body(article.get("body", ""), title=title, source=article.get("source", ""))
     flag = detect_flag(title + " " + body)
-    return f"{flag} {body}" if body else f"{flag} {title}"
+    if body:
+        return f"{flag} {title}\n\n{body}"
+    return f"{flag} {title}"
 
 
 def send_message(text, image_url=""):
@@ -176,17 +298,19 @@ def save_posted(posted):
 
 
 def load_queue():
-    queue = load_json_file(QUEUE_FILE, [])
-    queue.sort(key=lambda item: item.get("pub_dt", ""))
-    return queue
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=QUEUE_MAX_AGE_HOURS)
+    queue = [
+        item
+        for item in load_json_file(QUEUE_FILE, [])
+        if (parse_dt(item.get("pub_dt")) or cutoff) >= cutoff
+    ]
+    queue = dedupe_articles(queue)
+    return queue[:MAX_QUEUE_SIZE]
 
 
 def save_queue(queue):
+    queue = dedupe_articles(queue)
     save_json_file(QUEUE_FILE, queue[:MAX_QUEUE_SIZE])
-
-
-def normalize_title(title):
-    return re.sub(r"\W+", "", title.lower())[:80]
 
 
 def fetch_feed(url):
@@ -242,9 +366,8 @@ def collect_articles(cutoff_hours=DEFAULT_CUTOFF_HOURS):
         except Exception as exc:
             print(f"Error fetching {source['name']}: {exc}")
 
-    collected.sort(key=lambda item: item["pub_dt"])
     queue.extend(collected)
-    queue.sort(key=lambda item: item["pub_dt"])
+    queue = dedupe_articles(queue)
     queue = queue[:MAX_QUEUE_SIZE]
     save_queue(queue)
 
