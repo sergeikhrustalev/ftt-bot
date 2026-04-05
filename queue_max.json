@@ -1,5 +1,113 @@
 [
   {
+    "id": "a0089efae632a73ba5836e8565b630c5",
+    "title": "Лихачёв сообщил о потере линии энергоснабжения Запорожской АЭС",
+    "url": "https://russian.rt.com/russia/news/1616038-zaes-energosnabzhenie-liniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T12:03:44+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "f51312dbbdbbc6c7ce378f2569b97000",
+    "title": "Затонувший сухогруз в Азовском море был атакован беспилотником",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188020-atakovan-bespilotnikom",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T12:01:49+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "6d97fc5b936f5a12b9312f7a02fc71c7",
+    "title": "Додик: попытка диверсии на газопроводе в Сербии угрожает всему региону",
+    "url": "https://tass.ru/ekonomika/27006475",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T12:01:17+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "511a29be0999b3846131b581108c995b",
+    "title": "RT: людей спасают из обрушевшегося из-за потопа дома в Махачкале",
+    "url": "https://russian.rt.com/russia/news/1616039-mahachkala-obrushenie-dom-potop?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T12:00:59+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "69341298768b6d9791f2bb21bfbfd3e0",
+    "title": "Власти Сейшел обсуждают с \"Аэрофлотом\" прямые рейсы на круглый год",
+    "url": "https://tass.ru/ekonomika/27006513",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T12:00:51+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "5591cc5dde391efc4d59a001ebb6122d",
+    "title": "Пожилая женщина воссоединилась с пропавшим 12 лет назад котом",
+    "url": "https://lenta.ru/news/2026/04/05/pozhilaya-zhenschina-vossoedinilas-s-propavshim-12-let-nazad-kotom/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T12:00:50+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "03cf9291a160289f210d6a638ab28c7c",
+    "title": "В Турции появились плакаты с надписью \"НАТО, вон из страны!\"",
+    "url": "https://ria.ru/20260405/plakat-2085296388.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T12:00:39+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d5cdb9c479948ea31c3e1ac337a8d9a2",
+    "title": "Al Mayadeen: танкер с иракской нефтью прошел через Ормузский пролив",
+    "url": "https://tass.ru/ekonomika/27006465",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:59:18+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "0687218912b63e50929dd1e52cabd645",
+    "title": "ONA: Оман и Иран провели встречу для обсуждения обеспечения прохода через Ормузский пролив",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006495",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:59:16+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "51f227a6e5f3328a785d45eaf21651f4",
+    "title": "В весенний период МВО направит свыше 35 тыс. призывников на военную службу",
+    "url": "https://tass.ru/armiya-i-opk/27005997",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:57:58+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "1be952414931361099c86000c5099eef",
+    "title": "В Махачкале сохраняется угроза обрушения четырех многоэтажных домов",
+    "url": "https://tass.ru/obschestvo/27006489",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:57:45+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "887c51808d7533fb622d6e2062588da8",
+    "title": "ADAC: в ФРГ цены на дизельное топливо достигли нового рекорда",
+    "url": "https://tass.ru/ekonomika/27006445",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:57:18+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "38f98b8c5f02ad5f9cbefd38148e5b52",
     "title": "\"Расправимся с каждым\". В Сербии сделали заявление после инцидента с бомбой",
     "url": "https://ria.ru/20260405/bomba-2085295608.html",
@@ -961,104 +1069,5 @@
     "pub_dt": "2026-04-05T10:57:27+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
-  },
-  {
-    "id": "625bf472027fa37e807cc87ee9b3492a",
-    "title": "AI Engineer — две разные профессии под одним названием. Разбираю реальные офферы из LinkedIn",
-    "url": "https://vc.ru/dev/2852385-ai-engineer-dve-professii?from=rss",
-    "source": "vc.ru AI",
-    "pub_dt": "2026-04-05T09:56:48+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 60
-  },
-  {
-    "id": "8976829d817e4d260da042d47693bc6f",
-    "title": "Лихачев: Росатом получил несколько сигналов от руководства по атомной энергетике Ирана",
-    "url": "https://tass.ru/ekonomika/27005933",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:56:21+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "0834b829e73c75cf7ed1d56c52a8cbf9",
-    "title": "Песков: рано или поздно все равно нужно будет чинить и нормализовывать",
-    "url": "https://tass.ru/politika/27005941",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:55:54+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a221ffe668cc3c79073d650cb86fb68a",
-    "title": "Лавров: РФ никогда не обсуждает запретных тем со своими партнерами",
-    "url": "https://tass.ru/politika/27005919",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:53:38+00:00",
-    "no_image": false
-  },
-  {
-    "id": "535235dcc29078af84a164fadf6240d1",
-    "title": "Армия Израиля ведет перехват ракет после очередного залпа из Ирана",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27005909",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:53:14+00:00",
-    "no_image": false
-  },
-  {
-    "id": "5bb487e69fd45b01ad5d9973dda474a0",
-    "title": "Песков: Армении придется выбирать между ЕС и ЕАЭС",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188014-armenii-pridetsya-vibirat",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T10:52:38+00:00",
-    "no_image": false
-  },
-  {
-    "id": "b0f298ac41bf214594dc9a884cc3e8f8",
-    "title": "В России разработают ГОСТ на «зелёную» косметику в 2026 году",
-    "url": "https://russian.rt.com/russia/news/1615955-gost-zelenaya-kosmetika?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T10:52:09+00:00",
-    "no_image": false
-  },
-  {
-    "id": "be1e33fe6cf296009ae1733ac456f232",
-    "title": "Посол РФ: на задержанном в Швеции танкере Flora 1 россиян не было",
-    "url": "https://tass.ru/politika/27005847",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:51:15+00:00",
-    "no_image": false
-  },
-  {
-    "id": "c8f951bfed478201387c776dddc06d24",
-    "title": "Пассажирка не выжила на борту российского рейса",
-    "url": "https://lenta.ru/news/2026/04/05/passazhirka-ne-vyzhila-na-bortu-rossiyskogo-reysa/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T10:51:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "d31b5b7e3276abe80e3d8600441d31c7",
-    "title": "Песков: уровень квалификации Каллас не позволяет ей давать комментарии по истории",
-    "url": "https://tass.ru/politika/27005885",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:50:54+00:00",
-    "no_image": false
-  },
-  {
-    "id": "2ac0e46fb2afcf5a8069e75a4ad87047",
-    "title": "«Хезболла» заявила об атаке по израильскому кораблю у берегов Ливана",
-    "url": "https://russian.rt.com/world/news/1615985-ataka-korabl-livan?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T10:50:33+00:00",
-    "no_image": false
-  },
-  {
-    "id": "cb71ca6f716d5d0b1b2719256d79202b",
-    "title": "Женщина родила ребенка во время матча НХЛ",
-    "url": "https://lenta.ru/news/2026/04/05/zhenschina-rodila-rebenka-vo-vremya-matcha-nhl/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T10:49:50+00:00",
-    "no_image": true
   }
 ]
