@@ -1,5 +1,41 @@
 [
   {
+    "id": "ad4b5ea7fc59d52a109c894973224adc",
+    "title": "В Малом театре состоялась премьера спектакля «Проект инженера Гарина»",
+    "url": "https://russian.rt.com/nopolitics/news/1615988-malyi-teatr-premera-proekt-inzhenera-garina?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T17:54:04+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e296de8fe99450619bf5f7c3ca37d5e3",
+    "title": "«СТРАНА.ua»: в Харькове сотрудники ТЦК толпой избили мужчину и женщину",
+    "url": "https://russian.rt.com/ussr/news/1616165-ukraina-mobilizaciya-harkov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T17:52:33+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "c638278cf62a5dd78ec511b921aeb4e0",
+    "title": "В нескольких районах Донецка отключили электричество",
+    "url": "https://ria.ru/20260405/donetsk-2085329077.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T17:52:04+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "36973ef9cccb123433bc3d06ae095665",
+    "title": "Мужчина рассказал, как вернулся в горящий ТЦ в Калининграде за документами",
+    "url": "https://ria.ru/20260405/kaliningrad-2085328861.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T17:50:49+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "891a319c9c04349d43505b59528dace3",
     "title": "ВС России заняли новые позиции в районе Крынки и Александровки в ДНР",
     "url": "https://russian.rt.com/ussr/news/1616166-dnr-poziciya-rossiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -1031,42 +1067,6 @@
     "url": "https://ria.ru/20260405/otets-2085319573.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T16:16:54+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "c8afa343485df770c0fdd8ce6523cf36",
-    "title": "ТАСС: учебные центры ВСУ не принимают мобилизованных с заболеваниями",
-    "url": "https://tass.ru/armiya-i-opk/27008153",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:16:51+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9c39dec61d4d7d62905de55c232ec996",
-    "title": "Welt: в ФРГ при падении дерева на людей погибли три человека, включая ребёнка",
-    "url": "https://russian.rt.com/world/news/1616115-germaniya-derevo-upalo-lyudi?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T16:16:42+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "db1d949dfbac9958df707044118bcb95",
-    "title": "ТАСС: в 225-м полку ВСУ сформировали спецроту для наказания дезертиров",
-    "url": "https://tass.ru/armiya-i-opk/27008203",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:16:05+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d8c88938070e3937c5c702dfb5b9a074",
-    "title": "ТАСС: на полигонах ВСУ под Харьковом фиксируются вспышки инфекционных заболеваний",
-    "url": "https://tass.ru/armiya-i-opk/27008195",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:15:17+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
