@@ -1,10 +1,46 @@
 [
   {
+    "id": "3e11df229cafab2929411e5ce3f21823",
+    "title": "Постпредство Ирана: Трамп намерен совершить военное преступление",
+    "url": "https://russian.rt.com/world/news/1616131-iran-tramp-prestuplenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T16:52:38+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "02e072217db2bc737a262e9dfac90dc4",
+    "title": "Есипенко потерпел третье поражение на турнире претендентов",
+    "url": "https://ria.ru/20260405/esipenko-2085322055.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T16:52:30+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a82918f86733e0a471d56b3d98f9f5f0",
+    "title": "Российские юниорки вышли в полуфинал волейбольного турнира в Италии",
+    "url": "https://tass.ru/sport/27008465",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:50:53+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "86d6bc95c467840ec950e53764414640",
     "title": "Спецоперация, 5 апреля: ВС России поразили инфраструктуру аэродромов ВСУ",
     "url": "https://ria.ru/20260405/spetsoperatsiya-2085321640.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T16:48:46+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "bedff2f9f68ea7e6b5c21e1953282f32",
+    "title": "Депутат Рады Цымбалюк: около 1,5 млн украинцев уклоняются от обновления данных в ТЦК",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008457",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:48:12+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -1031,42 +1067,6 @@
     "url": "https://www.kommersant.ru/doc/8569579",
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-05T15:24:53+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "3298e41042843f05e07c5e377dc9e4b4",
-    "title": "Английский футбол теряет игорную форму // Запрет на рекламу букмекеров обойдется клубам АПЛ в &pound;80 млн за один сезон",
-    "url": "https://www.kommersant.ru/doc/8569597",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T15:24:24+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "937c80dacfd43315cc967bb9dd7a94f1",
-    "title": "В Пермском крае завели дело после нападения собаки на женщину",
-    "url": "https://tass.ru/proisshestviya/27007863",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:23:30+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "6ad218ed3aefb60cc5a69578156af5fc",
-    "title": "Армия Венгрии возьмет под охрану участок «Турецкого потока»",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188039-vengriya-vozmet-pod-ohranu",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T15:23:18+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "20fc9ffb4a728ef3749f711116360221",
-    "title": "От инженера-конструктора до руководителя. Каким был путь Александра Леонова",
-    "url": "https://tass.ru/info/27007699",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:22:40+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
