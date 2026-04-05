@@ -1,5 +1,104 @@
 [
   {
+    "id": "7f649255fbd3f487ff8d65653a3a2698",
+    "title": "Лавров и глава МИД Ирана обсудили удары по объектам АЭС «Бушер»",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188045-lavrov-glava-mid-irana",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T16:18:48+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "1cfb644e6a33e23913a6815950fd0db5",
+    "title": "ТАСС: украинский дезертир в Ровно угрожал гранатой сотрудникам ТЦК и полиции",
+    "url": "https://tass.ru/armiya-i-opk/27008161",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:17:54+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "c8a41c6bc0d0ddacfe6d3b37cdc5a0db",
+    "title": "Турист оттолкнулся от дна // Спрос на отдых в Анапе вырос минимум в два раза",
+    "url": "https://www.kommersant.ru/doc/8569639",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T16:17:14+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "bb99793422c004fe01c6dd7ba34fd5fe",
+    "title": "ВСУ использовали БПЛА для атаки на сухогруз, затонувший в Азовском море",
+    "url": "https://tass.ru/proisshestviya/27008253",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:17:11+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "94f07ab22e1d42c219166eb5bda89137",
+    "title": "Отец ребенка Лерчек опроверг слухи об ухудшении ее самочувствия",
+    "url": "https://ria.ru/20260405/otets-2085319573.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T16:16:54+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "c8afa343485df770c0fdd8ce6523cf36",
+    "title": "ТАСС: учебные центры ВСУ не принимают мобилизованных с заболеваниями",
+    "url": "https://tass.ru/armiya-i-opk/27008153",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:16:51+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9c39dec61d4d7d62905de55c232ec996",
+    "title": "Welt: в ФРГ при падении дерева на людей погибли три человека, включая ребёнка",
+    "url": "https://russian.rt.com/world/news/1616115-germaniya-derevo-upalo-lyudi?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T16:16:42+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "db1d949dfbac9958df707044118bcb95",
+    "title": "ТАСС: в 225-м полку ВСУ сформировали спецроту для наказания дезертиров",
+    "url": "https://tass.ru/armiya-i-opk/27008203",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:16:05+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d8c88938070e3937c5c702dfb5b9a074",
+    "title": "ТАСС: на полигонах ВСУ под Харьковом фиксируются вспышки инфекционных заболеваний",
+    "url": "https://tass.ru/armiya-i-opk/27008195",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:15:17+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d9884899e65fedea7c7f993a18081169",
+    "title": "ТАСС: в Изюмском районе проводится принудительная эвакуация",
+    "url": "https://tass.ru/armiya-i-opk/27008179",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:14:23+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "abef9b11aa764e458dc0c10ae55da170",
+    "title": "ТАСС: ЦИПсО публикует фейковые объявления о якобы пропавших без вести бойцах ВС РФ",
+    "url": "https://tass.ru/armiya-i-opk/27008171",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:13:52+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "ef68648f9f550c0ec428e48201a52ccf",
     "title": "На Украине людей загоняют на принудительные работы под видом эвакуации",
     "url": "https://ria.ru/20260405/ukraina-2085319317.html",
@@ -14,6 +113,15 @@
     "url": "https://russian.rt.com/sport/news/1616118-spartak-zayavlenie-situaciya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T16:13:21+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ebce7ea93a75c1c29c225773ea18d279",
+    "title": "ТАСС: ВСУ минируют границу с Приднестровьем для борьбы с уклонистами",
+    "url": "https://tass.ru/armiya-i-opk/27008145",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:12:57+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -959,114 +1067,6 @@
     "url": "https://russian.rt.com/sport/news/1616082-malkin-chinahov-kontrakt?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T14:47:10+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "3b0c696a0ccb330d5cc9d13ea7b74b33",
-    "title": "В Дагестане после оползня пропал человек",
-    "url": "https://russian.rt.com/russia/news/1616085-dagestan-opolzen-propal-chelovek?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T14:46:48+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "4827fcddae966e53a0ef6cd24b8d514a",
-    "title": "В Махачкале назвали одну из причин разрушения многоэтажного дома после дождей",
-    "url": "https://lenta.ru/news/2026/04/05/v-mahachkale-nazvali-odnu-iz-prichin-razrusheniya-mnogoetazhnogo-doma-posle-dozhdey/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T14:46:37+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9dc164eb03e8391481570ee036ea594f",
-    "title": "В МЧС рассказали, где находился очаг возгорания в ТЦ в Калининграде",
-    "url": "https://ria.ru/20260405/pozhar-2085311541.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:45:51+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "510159ae8fc86b27f02d11740cbc2828",
-    "title": "В Калининграде локализовали пожар в торговом центре",
-    "url": "https://ria.ru/20260405/kaliningrad-2085311450.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:45:49+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a78c102ba0cd0a9a9fc4697d2a07b592",
-    "title": "CNN: США потеряли не менее семи военных самолётов с начала операции против Ирана",
-    "url": "https://russian.rt.com/world/news/1616084-ssha-samolyoty-poterya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T14:45:24+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "18ccb20d0a04e370067eb6a012275bd0",
-    "title": "В Махачкале могут снести находящиеся под угрозой обрушения многоэтажные дома",
-    "url": "https://tass.ru/obschestvo/27007595",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:45:13+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "84eb0086e37562fee5b652e6dad70088",
-    "title": "Трое пострадавших в ТЦ \"Гиант\". Главное о пожаре в Калининграде",
-    "url": "https://tass.ru/proisshestviya/27007551",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:43:40+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8b7bd92c000eb7274ca52ec939f01c6b",
-    "title": "Следующая встреча \"восьмерки\" ОПЕК+ пройдет 3 мая",
-    "url": "https://tass.ru/ekonomika/27007611",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:42:17+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "96808c1b217bdd03e10542a5b197a5db",
-    "title": "Дмитриев допустил рост цены на нефть выше $150 за баррель в ближайшие две недели",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188035-dmitriev-dopustil-rost",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T14:42:15+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a6617393f1d1dd185b92ce92faf5452f",
-    "title": "В США сообщили о стрельбе у Белого дома в ночь на воскресенье",
-    "url": "https://russian.rt.com/world/news/1616086-strelba-u-belogo-doma?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T14:42:02+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a844baeaccc48fd0739e2cf09a1bb41d",
-    "title": "Сийярто назвал попытку подрыва \"Турецкого потока\" нападением на суверенитет",
-    "url": "https://ria.ru/20260405/siyyarto-2085311331.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:42:01+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "e0a23c925af77a50f13e670d88179e74",
-    "title": "Сийярто обвинил Украину в попытке подрыва \"Турецкого потока\" в Сербии",
-    "url": "https://ria.ru/20260405/siyyarto-2085311231.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:41:38+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
