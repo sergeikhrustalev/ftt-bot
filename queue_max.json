@@ -1,5 +1,50 @@
 [
   {
+    "id": "4e2833cd236fadabe4c669b998376a05",
+    "title": "Лавров выразил соболезнования Аракчи из-за гибели сотрудника АЭС \"Бушер\"",
+    "url": "https://ria.ru/20260405/lavrov-2085315428.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T15:34:34+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "2d77a01bd66dc7dda08f33ddc226a0d3",
+    "title": "МИД: отказ США от ультиматумов способствовал бы миру на Ближнем Востоке",
+    "url": "https://ria.ru/20260405/mid-2085315287.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T15:33:01+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "2e7963b3376f03b9828734f6581383fc",
+    "title": "Меликов назвал причину подтоплений в Махачкале",
+    "url": "https://tass.ru/obschestvo/27007923",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:32:03+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d394f7082c793cd975855838846f2615",
+    "title": "Коммунальщики обязаны очистить улицы от оставшихся после зимы реагентов",
+    "url": "https://tass.ru/obschestvo/27007929",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:31:49+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "6d5a068702f76500585d829e4a3007dc",
+    "title": "В Дагестане тело женщины обнаружили после оползня в селе Кирки",
+    "url": "https://ria.ru/20260405/dagestan-2085315001.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T15:30:16+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "02e8dd57aa2443654b8405eda69c6f4e",
     "title": "Гол Варатынова помог «Балтике» сыграть вничью с махачкалинским «Динамо»",
     "url": "https://russian.rt.com/sport/news/1616099-gol-varatynov-baltika?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -24,6 +69,15 @@
     "source": "RT",
     "pub_dt": "2026-04-05T15:28:31+00:00",
     "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "807c7baf3e18b3561adfeb895b6cda7f",
+    "title": "Зеленского заинтересовал военный опыт Сирии",
+    "url": "https://lenta.ru/news/2026/04/05/zelenskogo-zainteresoval-voennyy-opyt-sirii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T15:28:18+00:00",
+    "no_image": true,
     "priority_boost_minutes": 0
   },
   {
@@ -1014,60 +1068,6 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-05T14:03:04+00:00",
     "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "97585df6c7ca9782297a8119e81661d8",
-    "title": "\"Нет другого средства\". В США заговорили о ядерном оружии из-за Ирана",
-    "url": "https://ria.ru/20260405/ssha-2085307109.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:01:16+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "4a55416d5d56b5e214972abb1dc62854",
-    "title": "\"Шанхай Шэньхуа\" Слуцкого выиграл второй матч в чемпионате Китая",
-    "url": "https://ria.ru/20260405/futbol-2085307246.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:01:16+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "e3bdc8c80fb6a78dc442c26617feaf01",
-    "title": "Муж Екатерины Шпицы снялся обнаженным в честь дня рождения",
-    "url": "https://lenta.ru/news/2026/04/05/muzh-ekateriny-shpitsy-snyalsya-obnazhennym-v-chest-dnya-rozhdeniya/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T14:00:27+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f4677b35c3b30ab22cb6f76d00838401",
-    "title": "Акопян: гандболистки \"Звезды\" немного реабилитировались в Кубке России",
-    "url": "https://tass.ru/sport/27007305",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:00:22+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8acede14a0e0e716ccb4b5a6cd3061f4",
-    "title": "Комитет ОПЕК+ подчеркнул важность защиты международных морских путей",
-    "url": "https://tass.ru/ekonomika/27007289",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:59:36+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8f4fa2e48445cb21a758abf8328e7982",
-    "title": "Власти Сейшел обратились к «Аэрофлоту» с вопросом о запуске круглогодичных прямых рейсов",
-    "url": "https://lenta.ru/news/2026/04/05/vlasti-seyshel-obratilis-k-aeroflotu-s-voprosom-o-zapuske-kruglogodichnyh-pryamyh-reysov/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T13:58:00+00:00",
-    "no_image": true,
     "priority_boost_minutes": 0
   }
 ]
