@@ -1,5 +1,77 @@
 [
   {
+    "id": "96b7173f219ecd2e0377cadf7628bea9",
+    "title": "Экс-глава МАГАТЭ призвал остановить «безумца» Трампа",
+    "url": "https://lenta.ru/news/2026/04/05/eks-glava-magate-prizval-ostanovit-bezumtsa-trampa/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T12:43:15+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "c76e38da13c477701b859303719be7d7",
+    "title": "СК назвал предварительную причину обрушения жилого дома в Махачкале",
+    "url": "https://ria.ru/20260405/sk-2085300087.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T12:43:08+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "42ca67edbd9739c21b4b316b6cd0f390",
+    "title": "«Радиостанция Судного дня» передала сигнал «тележка»",
+    "url": "https://lenta.ru/news/2026/04/05/telegram/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T12:42:34+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "dac1fae099055ff62c6d74ddef90ff01",
+    "title": "Возле газопровода из Сербии в Венгрию обнаружили взрывчатку",
+    "url": "https://ria.ru/20260405/gazoprovod-2085299788.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T12:42:22+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "dac036f9e9cec737e6bc19d587481d74",
+    "title": "Глава МИД Венгрии назвал диверсию на «Турецком потоке» атакой на суверенитет",
+    "url": "https://russian.rt.com/world/news/1616041-vengriya-turetskiy-potok-diversiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T12:42:12+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d9e244b90332b8a5422bf96d33545a17",
+    "title": "Пассажира, вытолкнувшего проводницу из поезда, задержали и передали полиции",
+    "url": "https://ria.ru/20260405/poezd-2085299668.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T12:42:03+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "43058d358d1e7c3641a74a4aef6e6ce9",
+    "title": "Миллиарды пропали в «Сказочном лесу» // Девелоперов обвиняют в обмане дольщиков",
+    "url": "https://www.kommersant.ru/doc/8569447",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T12:41:03+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "4d9e801b4adb220cb6b9943bb7d97439",
+    "title": "В Калининграде в торговом центре вспыхнул пожар",
+    "url": "https://ria.ru/20260405/pozhar-2085299556.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T12:40:17+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "f0931ca7d1bda88d196e691be33a5992",
     "title": "Константинов: юг Украины стонет от националистического ига",
     "url": "https://russian.rt.com/ussr/news/1615979-konstantinov-yug-ukrainy?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -995,78 +1067,6 @@
     "url": "https://russian.rt.com/russia/news/1616029-pozhar-moskva-voennoe-uchilische?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T11:26:31+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f14966211246ff4a222ddfd3c59045c8",
-    "title": "«Старания врага провалились»: Иран сообщил о сбитых Black Hawk и С-130 во время операции США по спасению лётчика F-15",
-    "url": "https://russian.rt.com/world/article/1615999-iran-ssha-f-15-pilot?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T11:25:48+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ee51b8e78ed3e33ce93deea420a04c1a",
-    "title": "Беспилотник ВСУ ударил по производственному предприятию в Белгороде",
-    "url": "https://russian.rt.com/ussr/news/1616030-bespilotnik-vsu-belgorod?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T11:25:38+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "b35ffa082ba56f3981afe8c4a5046f11",
-    "title": "СМИ: бывшего тренера \"Зенита\" Луческу ввели в состояние искусственной комы",
-    "url": "https://ria.ru/20260405/trener-2085291318.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:24:56+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "560a6a202f3515c0112219e9ad341aa7",
-    "title": "Жена Паши Техника в годовщину его смерти рассказала о желании сына",
-    "url": "https://lenta.ru/news/2026/04/05/zhena-pashi-tehnika-v-godovschinu-ego-smerti-rasskazala-o-zhelanii-syna/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T11:24:55+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "be5fc8abe1581433966571c544487d76",
-    "title": "ОАЭИ восстановила контакт с \"Росатомом\", заявил Лихачев",
-    "url": "https://ria.ru/20260405/likhachev-2085290683.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:22:18+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "3b2902cfdc73655bd7c86bb138323a47",
-    "title": "Сийярто: Венгрия считает попытку диверсии на газопроводе нападением на свой суверенитет",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006055",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:21:57+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "26f971b6ef2d9d733125516403ef4caa",
-    "title": "В Симферополе организовали ярмарку для сбора средств на нужды детского дома",
-    "url": "https://tass.ru/obschestvo/27006119",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:21:35+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "30419309a28190db90bc9515b79567a6",
-    "title": "В Азовском море потерпел крушение сухогруз",
-    "url": "https://www.vedomosti.ru/society/news/2026/04/05/1188017-krushenie-suhogruz",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T11:21:31+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
