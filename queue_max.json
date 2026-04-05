@@ -1,13 +1,5 @@
 [
   {
-    "id": "62c1bdcbd69c3acb4ea52bb33f295248",
-    "title": "Житель Дагестана рассказал, как его семья спасалась во время потопа",
-    "url": "https://ria.ru/20260402/zhiteli-2084873871.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-02T19:01:06+00:00",
-    "no_image": false
-  },
-  {
     "id": "1eae2f784bd0276662e840e7f2669885",
     "title": "Вэнс посетит Венгрию 7-8 апреля",
     "url": "https://tass.ru/mezhdunarodnaya-panorama/26985227",
@@ -2390,5 +2382,13 @@
     "source": "RT",
     "pub_dt": "2026-04-04T20:47:15+00:00",
     "no_image": false
+  },
+  {
+    "id": "bb30a1fff397d0ff5eb19847f0a4e475",
+    "title": "Эпичное уничтожение пункта дислокации со складом матсредств ВСУ попало на видео",
+    "url": "https://lenta.ru/news/2026/04/04/epichnoe-unichtozhenie-punkta-vremennoy-dislokatsii-so-skladom-matsredstv-popalo-na-video/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T20:51:00+00:00",
+    "no_image": true
   }
 ]
