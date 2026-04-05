@@ -1,5 +1,77 @@
 [
   {
+    "id": "be93101bf5c93caf50e262f621705348",
+    "title": "В аэропорту Сочи ввели ограничения",
+    "url": "https://tass.ru/obschestvo/27006373",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:43:25+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "01e4eb2d32f434c25d9d45147cb5faa2",
+    "title": "Еще один дом оказался под угрозой разрушения в Махачкале",
+    "url": "https://lenta.ru/news/2026/04/05/esche-odin-dom-okazalsya-pod-ugrozoy-razrusheniya-v-mahachkale/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T11:43:22+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "3cd858eec3e4840361e4ff25f6663f51",
+    "title": "КСИР заявил об ударах по нефтегазовой инфраструктуре США на Ближнем Востоке",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006365",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:43:11+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "5fd4d2ed33116a85bebc287de3428dfa",
+    "title": "Силы ПВО с 08:00 до 14:00 мск сбили 77 БПЛА ВСУ над четырьмя регионами России",
+    "url": "https://russian.rt.com/ussr/news/1616035-pvo-rossiya-regiony-bespilotniki?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T11:42:23+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "fc2470c34778fb37641f35b8f317d1b0",
+    "title": "Росатом минимально задействован в эксплуатации первого энергоблока АЭС \"Бушер\"",
+    "url": "https://tass.ru/ekonomika/27006317",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:41:16+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "6ee02534eb94f139855b04d90f3bcbcf",
+    "title": "Врач рассказал, у кого возможен кратковременный подъем давления от кофеина",
+    "url": "https://ria.ru/20260405/kofe-2085294198.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:40:52+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d543d44f865beee1417f38bd3d4a3b11",
+    "title": "В России предрекли США второй Афганистан в случае срыва наземной операции",
+    "url": "https://lenta.ru/news/2026/04/05/v-rossii-predrekli-ssha-vtoroy-afganistan-v-sluchae-sryva-nazemnoy-operatsii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T11:40:08+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "b229ce9a4be0b5fd7eb2f5fbe608230f",
+    "title": "Иран заявил об ударах по предприятиям химической промышленности в Израиле",
+    "url": "https://ria.ru/20260405/ksir-2085294102.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:39:56+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "241c1c1c876cb66ab1feda391fb8bdf7",
     "title": "В ОАЭ заявили о перехвате 9 баллистических ракет и 50 БПЛА из Ирана",
     "url": "https://tass.ru/mezhdunarodnaya-panorama/27006337",
@@ -971,70 +1043,6 @@
     "url": "https://tass.ru/obschestvo/27005709",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T10:38:26+00:00",
-    "no_image": false
-  },
-  {
-    "id": "67d4453ac891d437635e67647b6b4b85",
-    "title": "В Тульской области паводок идет на спад",
-    "url": "https://tass.ru/obschestvo/27005803",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:36:13+00:00",
-    "no_image": false
-  },
-  {
-    "id": "eeafc0cff2c86834e47e6466aa871780",
-    "title": "США уничтожили в Иране два своих самолета при спасении пилота",
-    "url": "https://lenta.ru/news/2026/04/05/ssha-unichtozhili-v-irane-dva-svoih-samoleta-pri-spasenii-pilota/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T10:36:04+00:00",
-    "no_image": true
-  },
-  {
-    "id": "bd827fcdc5639a11ba65b1aa471aa098",
-    "title": "Актриса Екатерина Шпица поздравила мужа с днем рождения откровенным фото",
-    "url": "https://lenta.ru/news/2026/04/05/aktrisa-ekaterina-shpitsa-pozdravila-muzha-s-dnem-rozhdeniya-otkrovennym-foto/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T10:35:40+00:00",
-    "no_image": true
-  },
-  {
-    "id": "215e5b69ee6fe1d7908771c62a51431d",
-    "title": "Российские волейболистки U17 вышли в четвертьфинал международного турнира",
-    "url": "https://ria.ru/20260405/volejbol-2085285522.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T10:35:32+00:00",
-    "no_image": false
-  },
-  {
-    "id": "686b06a883895a3fe524f3d5a52a85aa",
-    "title": "Песков заявил о более высоких темпах роста Армении благодаря ЕАЭС",
-    "url": "https://russian.rt.com/world/news/1616001-armeniya-eaes-peskov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T10:35:25+00:00",
-    "no_image": false
-  },
-  {
-    "id": "c3c65b824cd506195cc1fa2bebb0adfc",
-    "title": "Известный комик рассказал о борьбе с раком и назвал тревожный симптом",
-    "url": "https://lenta.ru/news/2026/04/05/trevozhniy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T10:35:18+00:00",
-    "no_image": true
-  },
-  {
-    "id": "e7532f46cead1da73eb228b523d70ea9",
-    "title": "Число подтопленных низководных мостов в Рязанской области возросло до 20",
-    "url": "https://tass.ru/obschestvo/27005801",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:34:54+00:00",
-    "no_image": false
-  },
-  {
-    "id": "7fa743530de580e9f6c3bfdf4d09d2dc",
-    "title": "Причиной неполадок с туалетом на летящем к Луне корабле Orion могло стать обледенение",
-    "url": "https://tass.ru/kosmos/27005799",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:34:48+00:00",
     "no_image": false
   }
 ]
