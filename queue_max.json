@@ -1,5 +1,59 @@
 [
   {
+    "id": "490f49a320c5796404afd4d044b37be7",
+    "title": "Венгрия, Сербия, Турция и Россия договорились усилить защиту «Турецкого потока»",
+    "url": "https://russian.rt.com/world/news/1616091-tureckii-potok-zaschita?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T14:58:01+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "db3f7c857bafd7a2a66cc40e8486f224",
+    "title": "Bild: в ФРГ при падении дерева на людей погибли трое",
+    "url": "https://tass.ru/proisshestviya/27007691",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T14:56:52+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "b19a3ff3bde2d436a5e5f81f11efd9ae",
+    "title": "Кадыров сообщил об уничтожении станции РЭБ и пункта дислокации ВСУ",
+    "url": "https://tass.ru/armiya-i-opk/27007655",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T14:56:02+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "8bb8ab026d55ec570236960c155d3c50",
+    "title": "Пожар в калининградском ТЦ локализован",
+    "url": "https://russian.rt.com/russia/news/1616090-tc-kaliningrad-pozhar-lokalizovan?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T14:55:21+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "35805ffe1a5db6be56cc84ecde3186ca",
+    "title": "Евгений Малкин сменил обладателя Кубка Стэнли // «Питсбург» лишил «Флориду» шансов прорваться в play-off",
+    "url": "https://www.kommersant.ru/doc/8569574",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T14:55:07+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a012a8adfd8684d15b79bd0e8e3b48d4",
+    "title": "Очевидцы раскрыли подробности пожара в калининградском ТЦ",
+    "url": "https://lenta.ru/news/2026/04/05/ochevidtsy-raskryli-podrobnosti-pozhara-v-kaliningradskom-tts/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T14:55:04+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "7353717770815cc1564a00212d4d3841",
     "title": "ПСВ стал 27-кратным чемпионом Нидерландов по футболу",
     "url": "https://ria.ru/20260405/futbol-2085312128.html",
@@ -1013,60 +1067,6 @@
     "url": "https://tass.ru/proisshestviya/27007093",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T13:31:28+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "4fc91806043a926ef01dad042fe76bb4",
-    "title": "Орбан назвал вопиющим преступлением действия Украины против Венгрии",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007063",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:30:33+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "3462eea44226f5766eb3d23e3e1cf6c6",
-    "title": "Россия и Танзания приняли решение о запуске прямых рейсов",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007085",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:30:32+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "c956f674c80233206d4d5d0ff1a4c3dd",
-    "title": "Волейболистки московского \"Динамо\" выиграли первый матч серии за бронзу ЧР",
-    "url": "https://ria.ru/20260405/volejbol-2085303256.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T13:30:14+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "dfd07dc55d1b0a427b42665914b086d0",
-    "title": "Дмитриев сравнил происходящее с началом COVID-19",
-    "url": "https://russian.rt.com/world/news/1616062-covid-krizis-dmitriev?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T13:29:34+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "106c05c3e2b2b424477ba9704d7c1ed6",
-    "title": "Бестемьянова считает неправильным формат судейства на \"Русском вызове\"",
-    "url": "https://ria.ru/20260405/vyzov-2085303119.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T13:29:19+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "7bed0ba2d6ea10a1c13969378531da34",
-    "title": "В МИД Ирана опровергли слова Рубио об отношении задержанных иранок к Сулеймани",
-    "url": "https://russian.rt.com/world/news/1616055-ssha-iranki-zaderzhanie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T13:28:41+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
