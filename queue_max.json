@@ -1,10 +1,136 @@
 [
   {
+    "id": "35942bca2c904c9b4b4d9e23eb88031b",
+    "title": "В Курской области мирный житель пострадал при атаке ВСУ",
+    "url": "https://ria.ru/20260405/ataka-2085313124.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T15:11:57+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9e4dfb036143925b3e90398707eba0ec",
+    "title": "В Якутии открылся прием документов в образовательный комплекс \"Точка будущего\"",
+    "url": "https://tass.ru/obschestvo/27007715",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:11:32+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "389e52045f7c400f95df57e38738b3cc",
+    "title": "На мужчину, вытолкнувшего проводницу из поезда, завели дело об угрозе убийством",
+    "url": "https://tass.ru/proisshestviya/27007777",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:10:55+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "199abba56e3e83fcba3687bc0fff7c12",
+    "title": "В Хасавюрте укрепляют берег реки Ярык-су из-за подъема уровня воды",
+    "url": "https://tass.ru/obschestvo/27007751",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:10:34+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "552f4614599857dc425df2e84c02b12c",
+    "title": "Царская чета: Большунов и Пеклецова с отрывом выиграли «Большой Вудъявр», оставив позади Коростелёва и Непряеву",
+    "url": "https://russian.rt.com/sport/article/1615983-bolshunov-peklecova-final-kubok-rossii?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T15:10:20+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "1bed561aa4f2fd86aa8e8cb6260f9d89",
+    "title": "Опубликованы кадры пожара в ТЦ \"Гиант\" в Калининграде",
+    "url": "https://tass.ru/proisshestviya/27007723",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:09:19+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "053c28c4a7471b589f6f7f22ae9fe1af",
+    "title": "Первые минуты после пожара в калининградском ТЦ попали на видео",
+    "url": "https://lenta.ru/news/2026/04/05/pervye-minuty-posle-pozhara-v-kaliningradskom-tts-popali-na-video/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T15:09:15+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "5cc819f05afe564a2d1d75512ee23905",
+    "title": "В Дагестане эвакуировали 37 пассажиров поезда Москва - Дербент из-за подтоплений",
+    "url": "https://tass.ru/obschestvo/27007785",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:09:02+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d81d55d99798eb3de42fd6aec9941e40",
+    "title": "Постпредство Ирана назвало заявления Трампа свидетельством намерений военных преступлений",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007773",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:08:59+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a6e2a4946a18c51a4012c11d5e9469c4",
+    "title": "Иран ударил по нефтяной инфраструктуре в Израиле и военной базе США в Кувейте",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007799",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:08:19+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "046d1c007247ae24819fec053b8ebfed",
+    "title": "Число жертв израильских авианалетов на Ливан превысило 1 461",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007793",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:07:51+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "ab3b0a3b0d799fd46376c832b5b708be",
     "title": "The Atlantic: конфликтом с Ираном Трамп сделал подарок Путину",
     "url": "https://russian.rt.com/world/news/1616092-tram-putin-iran?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T15:06:35+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ce8e41722ee1741cff8f69f45ffd3446",
+    "title": "Пушков: заморозка участия США в НАТО перестала быть невозможной",
+    "url": "https://tass.ru/politika/27007733",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:06:32+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a1a872ee2f892d96c9e65366556996aa",
+    "title": "В Дагестане сложная ситуация сохраняется в Карабудахкентском и Хасавюртовском районах",
+    "url": "https://tass.ru/proisshestviya/27007765",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:06:28+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "776e00b327a11025d867807c65935646",
+    "title": "Лидирующий в Первой лиге \"Факел\" продлил беспроигрышную серию в чемпионате",
+    "url": "https://tass.ru/sport/27007771",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:06:00+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -941,132 +1067,6 @@
     "url": "https://ria.ru/20260405/pozhar-2085305053.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T13:41:30+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "48446a9fda1b14b19a44e3d722450080",
-    "title": "Sabah: кабмин Турции обсудит урегулирование на Украине",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007153",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:40:38+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "7ffd7a967b4cc716e42e63f0e10145d9",
-    "title": "Стало известно о смерти создателя гиперзвуковой ракеты «Циркон»",
-    "url": "https://lenta.ru/news/2026/04/05/stalo-izvestno-o-smerti-sozdatelya-giperzvukovoy-rakety-tsirkon/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T13:40:29+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "aa676e2a69a5c6eb6283dceeb73ad3aa",
-    "title": "Застройщик спешит на вызов // Владимир Воронин стал владельцем 100% службы «Врач на дом»",
-    "url": "https://www.kommersant.ru/doc/8569255",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T13:39:21+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8b683725689177147f0dc6186ad4f615",
-    "title": "Дмитриев допустил повышение цен на нефть до 150 долларов за баррель",
-    "url": "https://ria.ru/20260405/neft-2085304634.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T13:39:16+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "529d1cecf7a560171fc668036112c896",
-    "title": "Акинфеев ответил назвавшему цирком судейство в матче «Акрона» с ЦСКА Дзюбе",
-    "url": "https://lenta.ru/news/2026/04/05/akinfeev-otvetil-nazvavshemu-tsirkom-sudeystvo-v-matche-akrona-s-tsska-dzyube/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T13:38:56+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "1f162f7373d518bb343c41cb34f88da7",
-    "title": "В Калининграде при пожаре в ТЦ \"Гиант\" пострадали три человека",
-    "url": "https://tass.ru/proisshestviya/27007169",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:38:34+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "6df5c4938831cb6767e9f32dc4cd4e13",
-    "title": "Карта спецоперации Вооруженных сил России на Украине на 05.04.2026",
-    "url": "https://ria.ru/20260405/spetsoperatsiya-2085304432.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T13:38:12+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "7b9370db4fc4b6eced3c098220918dec",
-    "title": "Аргентинец Навоне завоевал первый титул ATP в карьере",
-    "url": "https://ria.ru/20260405/navone-2085304291.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T13:37:56+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "387bae640c47ca437f95b428406885b6",
-    "title": "В России объяснили причину жесткого призыва Трампа открыть «чертов пролив»",
-    "url": "https://lenta.ru/news/2026/04/05/v-rossii-ob-yasnili-prichinu-zhestkogo-prizyva-trampa-otkryt-chertov-proliv/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T13:37:20+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d2e6850891404f0d16d066388da993c8",
-    "title": "АЭС «Бушер» в зоне риска",
-    "url": "https://www.kommersant.ru/doc/8569566",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T13:37:04+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "baf55e1225fa2d1a45809ac69d97b5f8",
-    "title": "ТАСС: мониторинг ОПЕК+ не планирует давать рекомендаций по изменению политики добычи нефти",
-    "url": "https://tass.ru/ekonomika/27007145",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:36:51+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f2daf44467ce61f45d69f1b26a0c2589",
-    "title": "Траньков считает, что в «Русском вызове» должны участвовать молодые фигуристы",
-    "url": "https://russian.rt.com/sport/news/1616063-trankov-russkiy-vyzov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T13:36:45+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "aaa54f6977fe61d320d438565b490396",
-    "title": "В Дагестане из-за разрушения плотины эвакуировали порядка 800 домохозяйств",
-    "url": "https://tass.ru/proisshestviya/27007141",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:36:09+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "4d7d2e0746c2beafb0cc4b06f712328c",
-    "title": "Филиппо сравнил попытку диверсии на газопроводе в Сербии с \"Северными потоками\"",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007133",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:36:01+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
