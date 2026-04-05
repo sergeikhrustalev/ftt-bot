@@ -1,13 +1,5 @@
 [
   {
-    "id": "50b29fc699c1e120844b8415c73c6f71",
-    "title": "Силы ПВО за три часа сбили 46 украинских беспилотников над Россией",
-    "url": "https://russian.rt.com/ussr/news/1615020-pvo-bespilotniki-rossiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-02T20:41:20+00:00",
-    "no_image": false
-  },
-  {
     "id": "c51c9090a3d121434a623b87448f21d9",
     "title": "Time: Хегсет был удивлён ответными ударами Ирана",
     "url": "https://russian.rt.com/world/news/1615022-hegset-udar-iran?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/sport/27003661",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T22:27:57+00:00",
+    "no_image": false
+  },
+  {
+    "id": "452218ec8246555b2315f24b6419f0d0",
+    "title": "Мурашко: молодые люди стали чаще страдать от сердечных приступов",
+    "url": "https://tass.ru/obschestvo/27003677",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T22:30:55+00:00",
     "no_image": false
   }
 ]
