@@ -1,5 +1,122 @@
 [
   {
+    "id": "73272186f1052321000217eb9d5dfe28",
+    "title": "Два человека, которых вытащили из реки в Дагестане, умерли",
+    "url": "https://ria.ru/20260405/dagestan-2085343199.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T20:14:55+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "4c911d763ef06cc570b4cff1046bb30a",
+    "title": "В Краснодарском крае на территории двух предприятий упали обломки БПЛА",
+    "url": "https://russian.rt.com/ussr/news/1616198-bpla-oblomki-krasnodarskii-krai?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T20:14:31+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "3bd654de00d6880d6306c769090f45fc",
+    "title": "Израиль заявил, что добивается в Ливане разоружения \"Хезболлах\"",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27009425",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T20:11:59+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e46ac525d490180e9fb96bb7ea9e4adc",
+    "title": "В Севастополе сбили семь воздушных целей",
+    "url": "https://tass.ru/proisshestviya/27009439",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T20:11:19+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "24530954b50aceae8a6fe59d9f1f1f52",
+    "title": "В Москве и Подмосковье объявили желтый уровень погодной опасности",
+    "url": "https://tass.ru/obschestvo/27009431",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T20:11:08+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "8a9bd792113b156d3cebfb1510945efc",
+    "title": "В Дагестане оползень перекрыл выезд на федеральную трассу",
+    "url": "https://ria.ru/20260405/opolzen-2085343029.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T20:09:23+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a44224e89e465258e7e6ce821960ee22",
+    "title": "В Азовском море организовали поиски двух моряков с затонувшего сухогруза",
+    "url": "https://russian.rt.com/russia/news/1616197-moryaki-suhogruz-poisk?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T20:09:10+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "4c1944975c15a329aee170ddb535e7fc",
+    "title": "В Малом театре состоялась премьера спектакля \"Проект инженера Гарина\"",
+    "url": "https://tass.ru/kultura/27008839",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T20:08:41+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "34d6b36bee6a055726d6b2458c717377",
+    "title": "\"Мы проиграем\". В США поразились дерзкому шагу Ирана",
+    "url": "https://ria.ru/20260405/iran-2085342864.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T20:08:14+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "81d6a9bfb1d76630126c5a7b210e7c4f",
+    "title": "Нурмагомедов получил подарок от «Атлетико»",
+    "url": "https://lenta.ru/news/2026/04/05/nurmagomedov-poluchil-podarok-ot-atletiko/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T20:07:16+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "4b060435c54e1fb5b83ae2bceea8be5b",
+    "title": "\"Аэрофлот\" корректирует расписание рейсов в Сочи, Геленджик и Краснодар",
+    "url": "https://tass.ru/ekonomika/27009415",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T20:06:58+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "daea75c45f1954b16a8369abc044b8ec",
+    "title": "В Дагестане сообщили о смерти спасенных из реки девушки и ребенка",
+    "url": "https://tass.ru/proisshestviya/27009419",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T20:06:40+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9a8b638a6b46d25004b0804d39a3cc31",
+    "title": "Пятая ракетка мира Пегула защитила титул на турнире в Чарльстоне",
+    "url": "https://ria.ru/20260405/pegula-2085342722.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T20:05:36+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "95e7ac950653c424fbec3ec8bcd26ae9",
     "title": "Эпоха возрождения: «Спартак» одержал волевую победу над «Локомотивом» в 23-м туре РПЛ и включился в борьбу за медали",
     "url": "https://russian.rt.com/sport/article/1616060-spartak-lokomotiv-pobeda-rpl-borba-medali?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -950,123 +1067,6 @@
     "url": "https://russian.rt.com/nopolitics/news/1616147-vrach-klesch-zdorove?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T18:33:15+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "835fbff0c03ae07b1e3d0a34da7c41ec",
-    "title": "HR-эксперт Романова рассказала о тренде на снижение нагрузки в начале рабочей недели",
-    "url": "https://russian.rt.com/russia/news/1616151-hr-ekspert-rabota?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T18:32:58+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "182e6555e61206998e783df342aac7a6",
-    "title": "Россиян предупредили, что ИИ может воспроизводить мимику и поведение человека",
-    "url": "https://russian.rt.com/russia/news/1616150-ii-poddelka-socset?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T18:32:42+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "cad5c3354055a81e0209388c10141ddf",
-    "title": "\"Спартак\" в большинстве одолел \"Локомотив\" в домашнем матче РПЛ",
-    "url": "https://ria.ru/20260405/spartak-2085333670.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T18:32:35+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "e368e745291d012f56a6aa2a8ca75964",
-    "title": "Адвокат Жаров рассказал, что делать для борьбы с курящими соседями",
-    "url": "https://russian.rt.com/russia/news/1616153-advokat-kuryaschie-sosedi?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T18:32:22+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "6b7033fbe54848e11dd840d125e85b40",
-    "title": "США и Израиль дважды атаковали аэропорт на юго-западе Ирана",
-    "url": "https://ria.ru/20260405/iran-2085333512.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T18:32:11+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "86d603dcf6be47e1f59a6ca350df3f75",
-    "title": "HR-эксперт Мурадян: удалёнка закрепилась, но не стала доминирующей",
-    "url": "https://russian.rt.com/russia/news/1616158-hr-ekspert-udalyonka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T18:32:06+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ff5611373f8c31cdb25de06874818331",
-    "title": "Экономист Щербаченко: финансовая подушка должна покрывать расходы за 10—12 месяцев",
-    "url": "https://russian.rt.com/russia/news/1616160-ekonomist-finansovaya-podushka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T18:31:43+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8b4457fbe528ff2fa285e133bb159353",
-    "title": "Количество нарушений ПДД водителями грузовиков в Москве снизилось на 47%",
-    "url": "https://russian.rt.com/russia/news/1616168-moskva-pdd-statistika?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T18:31:20+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "bfcd42c453848dbe8d06ae8c3ec6a120",
-    "title": "Почти 500 тыс. абонентов ДНР остались без света из-за атаки ВСУ",
-    "url": "https://tass.ru/obschestvo/27009051",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T18:31:14+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d5b121a257ffe159480047ae04aab4b8",
-    "title": "Гол Солари принёс «Спартаку» победу над «Локомотивом» в матче 23-го тура РПЛ",
-    "url": "https://russian.rt.com/sport/news/1616176-gol-solari-spartak-lokomotiv?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T18:31:10+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "2a55a2497d5f589e65a4f19b78ef1d96",
-    "title": "Турэксперт Воронина рассказала о росте спроса на туры в Китай",
-    "url": "https://russian.rt.com/russia/news/1616164-ekspert-turizm-kitai?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T18:31:08+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "673f843aeb3a9878d4690dff28dc0ece",
-    "title": "Тренер Чайковская: единственный конкурент россиян — Илья Малинин",
-    "url": "https://russian.rt.com/sport/news/1616161-trener-figurnoe-katanie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T18:30:55+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "b608eccd8d391e1d3dc9ee3ee6bf87a4",
-    "title": "\"Спартак\" одержал волевую победу над \"Локомотивом\" в матче РПЛ",
-    "url": "https://tass.ru/sport/27009059",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T18:30:32+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
