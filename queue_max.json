@@ -1,10 +1,100 @@
 [
   {
+    "id": "fe90c37273a8f4f6c0ff38a2b89fc52a",
+    "title": "Финальный аккорд прозвучит заново // СКР и прокуратура еще раз проверят обстоятельства гибели оперного певца",
+    "url": "https://www.kommersant.ru/doc/8569441",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T12:22:12+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "b16dcc98320aee09a2ca026da8c35051",
+    "title": "Празднование Вербного Воскресенья",
+    "url": "https://ria.ru/20260405/pravoslavie-2085285312.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T12:22:11+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "30e28c512389eeaa257075f4339a8b55",
+    "title": "Утекание и наказание // Как компании штрафуют за утечку персональных данных",
+    "url": "https://www.kommersant.ru/doc/8569285",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T12:21:49+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "0bf2369f33a99911ee5d84d590e306bc",
+    "title": "Стало известно об ухудшении состояния перенесшего инфаркт бывшего тренера «Зенита»",
+    "url": "https://lenta.ru/news/2026/04/05/stalo-izvestno-ob-uhudshenii-sostoyaniya-perenesshego-infarkt-byvshego-trenera-zenita/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T12:21:18+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "48f53db628aefcf436a8cfa214529231",
+    "title": "Около 300 жителей эвакуировали из четырёх домов Махачкалы из-за угрозы обрушения",
+    "url": "https://russian.rt.com/russia/news/1616045-mahachkala-obrushenie-doma-evakuaciya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T12:20:40+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "8163a4dd09afd513ced14e779c281d7f",
+    "title": "Трамп в матерной форме обратился к Ирану и упомянул Аллаха",
+    "url": "https://ria.ru/20260405/tramp-2085298413.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T12:20:33+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ec064c5430f7d31ce72b48c5def1d138",
+    "title": "Специализирующийся на тайном проникновении самолет США заметили в небе над Ираном",
+    "url": "https://lenta.ru/news/2026/04/05/spetsializiruyuschiysya-na-taynom-proniknovenii-samolet-ssha-zametili-v-nebe-nad-iranom/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T12:20:26+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "1ccacb08f59cbc61438f6d7cb75712de",
+    "title": "Трамп подтвердил спасение второго члена экипажа F-15",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006679",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T12:20:09+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "d1f18995a9ed28d76f1ab3465472327f",
     "title": "The Times: Украина обратится к конгрессу США с просьбой о ракетах для Patriot",
     "url": "https://russian.rt.com/world/news/1616042-kiev-kongress-ssha-rakety?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T12:19:14+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "61a0381277c48d207fcbc54f3c290c50",
+    "title": "В Кузбассе девятилетняя девочка погибла, провалившись под лед",
+    "url": "https://tass.ru/proisshestviya/27006659",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T12:18:49+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "b0f83c6c2171e023612a07da646691f0",
+    "title": "Трамп пригрозил Ирану адом, если он не откроет Ормузский пролив",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006671",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T12:18:33+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -977,96 +1067,6 @@
     "url": "https://tass.ru/proisshestviya/27006095",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T11:10:33+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "813e850660480299d78986ca4ffd0b38",
-    "title": "Экипаж затонувшего в Азовском море сухогруза покинул борт",
-    "url": "https://ria.ru/20260405/ekipazh-2085288901.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:10:26+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "b7bcade3bdd60b49ab742769a51aa299",
-    "title": "В Азовском море затонул сухогруз, один человек погиб, двое пропали",
-    "url": "https://ria.ru/20260405/saldo-2085288787.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:10:22+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ea8adba993222ad132f599d6183e1e50",
-    "title": "В Кремле высказались об уровне квалификации Каллас",
-    "url": "https://lenta.ru/news/2026/04/05/v-kremle-vyskazalis-ob-urovne-kvalifikatsii-kallas/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T11:10:16+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "98aae00f7f4c448fba68d32a39fe86f8",
-    "title": "Стандарты в Европе весьма относительные, заявил Песков",
-    "url": "https://ria.ru/20260405/peskov-2085288648.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:09:26+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "b079a23c875e215eefb34b7d298d0122",
-    "title": "В Махачкале жителей дома эвакуировали после угрозы обрушения здания",
-    "url": "https://tass.ru/obschestvo/27006077",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:09:17+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "2a3eb78d75e94e0439dbb0f45b8e8224",
-    "title": "Пропавших в Таиланде модель и владельца ритуальной фирмы нашли в Москве",
-    "url": "https://ria.ru/20260405/tailand-2085288191.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:08:17+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "4d9813be4f0462d3357f86e114665c03",
-    "title": "СМИ Ирана опубликовали фотографии сбитой американской техники",
-    "url": "https://ria.ru/20260405/tekhnika-2085288452.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:08:01+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "13aebefdee8c17bc1eb814ddebbab55d",
-    "title": "Разрушение дома в Махачкале попало на видео",
-    "url": "https://lenta.ru/news/2026/04/05/razrushenie-doma-v-mahachkale-popalo-na-video/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T11:08:00+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ef53b5ad0738328be4a469ff806a2786",
-    "title": "Галибаф: ещё три операции, похожие на спасение пилота F-15E, разрушат США",
-    "url": "https://russian.rt.com/world/news/1616022-ssha-razrushenie-pilot-iran?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T11:07:59+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "29ad3b193dab5b303dc0689fb4adbc68",
-    "title": "Состояние перенесшего сердечный приступ  Луческу ухудшилось",
-    "url": "https://ria.ru/20260405/luchesku-2085288318.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:07:55+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
