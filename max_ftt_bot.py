@@ -93,6 +93,24 @@ SOURCES = [
     {"name": "Ведомости", "url": "https://www.vedomosti.ru/rss/news", "no_image": False},
     {"name": "Лента", "url": "https://lenta.ru/rss/news", "no_image": True},
     {
+        "name": "vc.ru AI",
+        "url": "https://vc.ru/rss/tag/ai",
+        "no_image": False,
+        "priority_boost_minutes": 60,
+    },
+    {
+        "name": "vc.ru Marketing",
+        "url": "https://vc.ru/rss/tag/marketing",
+        "no_image": False,
+        "priority_boost_minutes": 50,
+    },
+    {
+        "name": "vc.ru Business",
+        "url": "https://vc.ru/rss/tag/business",
+        "no_image": False,
+        "priority_boost_minutes": 40,
+    },
+    {
         "name": "RB.RU",
         "url": "https://rb.ru/feeds/all/",
         "no_image": False,
@@ -144,6 +162,8 @@ KNOWN_NOISE_LINES = {
     "russian business",
     "cnews",
     "cnews.ru",
+    "vc",
+    "vc.ru",
 }
 
 BOILERPLATE_FRAGMENTS = (
