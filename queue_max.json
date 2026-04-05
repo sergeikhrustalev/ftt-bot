@@ -1,5 +1,68 @@
 [
   {
+    "id": "a9f499f45bd8b55ecdac8aa0782c6728",
+    "title": "В Новой Каховке из-за атаки ВСУ пострадал человек",
+    "url": "https://tass.ru/proisshestviya/27008411",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:38:03+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e346d1fea0fec91778258a71b17f7562",
+    "title": "В Сербии иностранца подозревают в попытке диверсии на \"Турецком потоке\"",
+    "url": "https://ria.ru/20260405/serbija-2085320934.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T16:35:44+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "145f5016b9e3be20f432eb2362cf07b1",
+    "title": "На Западе раскрыли, какой удар Зеленский получил от Ирана",
+    "url": "https://ria.ru/20260405/zelenskiy-2085320769.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T16:35:21+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ee4c3a3244cb49d3992f245093e2a29d",
+    "title": "В Иране заявили, что весь Ближний Восток \"сгорит дотла\" из-за действий США",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008367",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:34:50+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "8b0ff2979d6619edfb7cec94e3faa9cd",
+    "title": "Гандболистку ЦСКА госпитализировали после травмы в финале Кубка России",
+    "url": "https://tass.ru/sport/27008421",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:34:47+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "bcd7478a46139efeaa7e382c36f01230",
+    "title": "Сальдо пообещал Киеву ответ за атаку на сухогруз в Азовском море",
+    "url": "https://tass.ru/proisshestviya/27008395",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:34:04+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "2ac94ed6c77ed94c1b6be0630f03c981",
+    "title": "ТАСС: \"деревья правды\" стали самым распространенным способом наказания в ВСУ",
+    "url": "https://tass.ru/armiya-i-opk/27008187",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:33:25+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "9ebccbbf576d43c6c8535b01953d0045",
     "title": "Лавров и Ван И обсудили пути укрепления взаимодействия России и Китая",
     "url": "https://russian.rt.com/world/news/1616125-lavrov-van-i-otnosheniya-stran?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -1004,69 +1067,6 @@
     "url": "https://tass.ru/obschestvo/27007751",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T15:10:34+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "552f4614599857dc425df2e84c02b12c",
-    "title": "Царская чета: Большунов и Пеклецова с отрывом выиграли «Большой Вудъявр», оставив позади Коростелёва и Непряеву",
-    "url": "https://russian.rt.com/sport/article/1615983-bolshunov-peklecova-final-kubok-rossii?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T15:10:20+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "1bed561aa4f2fd86aa8e8cb6260f9d89",
-    "title": "Опубликованы кадры пожара в ТЦ \"Гиант\" в Калининграде",
-    "url": "https://tass.ru/proisshestviya/27007723",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:09:19+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "053c28c4a7471b589f6f7f22ae9fe1af",
-    "title": "Первые минуты после пожара в калининградском ТЦ попали на видео",
-    "url": "https://lenta.ru/news/2026/04/05/pervye-minuty-posle-pozhara-v-kaliningradskom-tts-popali-na-video/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T15:09:15+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "5cc819f05afe564a2d1d75512ee23905",
-    "title": "В Дагестане эвакуировали 37 пассажиров поезда Москва - Дербент из-за подтоплений",
-    "url": "https://tass.ru/obschestvo/27007785",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:09:02+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d81d55d99798eb3de42fd6aec9941e40",
-    "title": "Постпредство Ирана назвало заявления Трампа свидетельством намерений военных преступлений",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007773",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:08:59+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a6e2a4946a18c51a4012c11d5e9469c4",
-    "title": "Иран ударил по нефтяной инфраструктуре в Израиле и военной базе США в Кувейте",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007799",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:08:19+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "046d1c007247ae24819fec053b8ebfed",
-    "title": "Число жертв израильских авианалетов на Ливан превысило 1 461",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007793",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:07:51+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
