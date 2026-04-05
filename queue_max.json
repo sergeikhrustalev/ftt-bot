@@ -1,13 +1,5 @@
 [
   {
-    "id": "44e354f4dcf4d40e9016dba04b26557e",
-    "title": "Настоятеля храма уличили в непристойных ритуалах",
-    "url": "https://lenta.ru/news/2026/04/03/nastoyatelya-hrama-ulichili-v-nepristoynyh-ritualah/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T03:00:15+00:00",
-    "no_image": true
-  },
-  {
     "id": "b1dd7ecf29b35f2006cd30cc33564093",
     "title": "Иран подготовил список целей для атак из американских и израильских кораблей",
     "url": "https://lenta.ru/news/2026/04/03/iran-podgotovil-spisok-tseley-dlya-atak-iz-amerikanskih-i-izrailskih-korabley/",
@@ -2390,5 +2382,13 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-05T04:40:58+00:00",
     "no_image": false
+  },
+  {
+    "id": "e8d7d7a87754c5029c05e6b63c6a7a83",
+    "title": "ВСУ столкнулись с проблемой в Орехове",
+    "url": "https://lenta.ru/news/2026/04/05/vsu-stolknulis-s-problemoy-v-orehove/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T04:53:00+00:00",
+    "no_image": true
   }
 ]
