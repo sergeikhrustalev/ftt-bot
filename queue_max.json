@@ -1,5 +1,41 @@
 [
   {
+    "id": "42c772f11e49d2eee964d4923388557f",
+    "title": "Сальдо: сухогруз в Азовском море атаковал украинский БПЛА",
+    "url": "https://russian.rt.com/ussr/news/1616123-ukraina-bpla-suhogruz?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T16:27:56+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "957126aa67e3a8c169505616f0b4caae",
+    "title": "Морякам сухогруза, потерпевшего крушения в Азовском море, оказывают помощь",
+    "url": "https://ria.ru/20260405/sukhogruz-2085320211.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T16:27:11+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "8cf1f530c5730c1a6ce3dfa4b554db08",
+    "title": "Проект «Исследуем Россию» открыл цикл встреч на выставке «Уроки географии» в НЦ «Россия»",
+    "url": "https://russian.rt.com/russia/news/1616122-proekt-issleduem-rossiyu-otkryl-cikl-vstrech-na?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T16:26:04+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "1061e932c44ec8caf80d6a9c4936c568",
+    "title": "Сухогруз в Азовском море был атакован украинским БПЛА",
+    "url": "https://lenta.ru/news/2026/04/05/suhogruz-v-azovskom-more-byl-atakovan-ukrainskim-bpla/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T16:26:00+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "0a90108418f9700afbf6124ad542ee18",
     "title": "Вероятность выхода США из НАТО оценили",
     "url": "https://lenta.ru/news/2026/04/05/veroyatnost-vyhoda-ssha-iz-nato-otsenili/",
@@ -59,6 +95,15 @@
     "url": "https://tass.ru/mezhdunarodnaya-panorama/27008259",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T16:20:07+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "14580b533fa70f4c271e9e7d2c53708a",
+    "title": "Банкротство физических лиц в 2025 году: порядок, стоимость и последствия",
+    "url": "https://ria.ru/20260405/bankrotstvo-1600141843.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T16:19:32+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -1022,51 +1067,6 @@
     "url": "https://russian.rt.com/world/news/1616091-tureckii-potok-zaschita?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T14:58:01+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "fcdee5aa877c836205c8e678b751ad86",
-    "title": "Три человека пострадали при пожаре в ТЦ в Калининграде",
-    "url": "https://russian.rt.com/russia/video/1616088-pozhar-torgovyi-centr-kaliningrad?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T14:57:42+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "db3f7c857bafd7a2a66cc40e8486f224",
-    "title": "Bild: в ФРГ при падении дерева на людей погибли трое",
-    "url": "https://tass.ru/proisshestviya/27007691",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:56:52+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "b19a3ff3bde2d436a5e5f81f11efd9ae",
-    "title": "Кадыров сообщил об уничтожении станции РЭБ и пункта дислокации ВСУ",
-    "url": "https://tass.ru/armiya-i-opk/27007655",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:56:02+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8bb8ab026d55ec570236960c155d3c50",
-    "title": "Пожар в калининградском ТЦ локализован",
-    "url": "https://russian.rt.com/russia/news/1616090-tc-kaliningrad-pozhar-lokalizovan?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T14:55:21+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "35805ffe1a5db6be56cc84ecde3186ca",
-    "title": "Евгений Малкин сменил обладателя Кубка Стэнли // «Питсбург» лишил «Флориду» шансов прорваться в play-off",
-    "url": "https://www.kommersant.ru/doc/8569574",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T14:55:07+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
