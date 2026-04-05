@@ -1,13 +1,5 @@
 [
   {
-    "id": "25dea355b5bd1a01009aec242d97ec07",
-    "title": "Раскрыто, сколько времени в марте солнце светило в Москве",
-    "url": "https://ria.ru/20260403/solntse-2084887920.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-02T23:00:38+00:00",
-    "no_image": false
-  },
-  {
     "id": "fe52321cfb63e58488ee2166b63ba008",
     "title": "Япония захотела отправить в Россию делегацию по экономическому сотрудничеству",
     "url": "https://lenta.ru/news/2026/04/02/yaponiya-zahotela-otpravit-v-rossiyu-delegatsiyu-po-ekonomicheskomu-sotrudnichestvu/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T00:42:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "cd9c5531ca741edb3db3076037a0c91a",
+    "title": "В аэропортах Пензы, Саратова и Ульяновска сняли ограничения на полеты",
+    "url": "https://ria.ru/20260405/aeroport-2085247855.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T00:50:46+00:00",
+    "no_image": false
   }
 ]
