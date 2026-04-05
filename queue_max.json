@@ -1,10 +1,46 @@
 [
   {
+    "id": "49041f2e16f5462f4ccbfde89d6a5a29",
+    "title": "Китай заявил о готовности сотрудничать с РФ для деэскалации на Ближнем Востоке",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008031",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:43:28+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9133252ac72d8d2e3c1a7e9deeda0a41",
+    "title": "В части населенных пунктов Дербентского района Дагестана проводят эвакуацию",
+    "url": "https://tass.ru/obschestvo/27008025",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:40:31+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "bfbae46daeeacb434b302a17f8a6761b",
+    "title": "Виллу Муссолини продали за 111 миллионов рублей для спасения от его фанатов",
+    "url": "https://lenta.ru/news/2026/04/05/villu-mussolini-prodali-za-111-millionov-rubley-dlya-spaseniya-ot-ego-fanatov/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T15:40:28+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "0d3576bae93c4e611f677e7b3c78cd34",
     "title": "Российский углерод сближают с зарубежным // Верификация отчетности о выбросах будет стандартизирована",
     "url": "https://www.kommersant.ru/doc/8569588",
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-05T15:39:13+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "5ae19d726c7b7442b1856cd215d776e2",
+    "title": "Лавров и Арагчи надеются на отказ США от ультиматумов для возвращения к дипломатии",
+    "url": "https://tass.ru/politika/27007997",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:39:12+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -23,6 +59,15 @@
     "url": "https://ria.ru/20260405/pushkov-2085315791.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T15:37:38+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ddff67f61c060389f420d7cb23a87e3f",
+    "title": "Арагчи обсудил с Лавровым события в регионе",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007979",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:36:13+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -54,11 +99,29 @@
     "priority_boost_minutes": 0
   },
   {
+    "id": "9459e095b3529e5d7929682b4055b5d5",
+    "title": "Трамп: США направляли оружие протестующим в Иране",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007955",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:34:49+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "4e2833cd236fadabe4c669b998376a05",
     "title": "Лавров выразил соболезнования Аракчи из-за гибели сотрудника АЭС \"Бушер\"",
     "url": "https://ria.ru/20260405/lavrov-2085315428.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T15:34:34+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "26f3470dbacb4188e9d3d6a6f2d75e81",
+    "title": "Гандболистки ЦСКА в четвертый раз выиграли Кубок России",
+    "url": "https://tass.ru/sport/27007971",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:34:11+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -491,6 +554,15 @@
     "url": "https://russian.rt.com/world/news/1616091-tureckii-potok-zaschita?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T14:58:01+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "fcdee5aa877c836205c8e678b751ad86",
+    "title": "Три человека пострадали при пожаре в ТЦ в Калининграде",
+    "url": "https://russian.rt.com/russia/video/1616088-pozhar-torgovyi-centr-kaliningrad?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T14:57:42+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -996,78 +1068,6 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-05T14:18:42+00:00",
     "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "1fc708f70b6a936b0336f77c2081cc83",
-    "title": "Ушедшая из России немецкая компания зарегистрировала в стране товарные знаки",
-    "url": "https://lenta.ru/news/2026/04/05/ushedshaya-iz-rossii-nemetskaya-kompaniya-zaregistrirovala-v-strane-tovarnye-znaki/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T14:17:07+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "4a15a584935d6e7080ed3a196ba86975",
-    "title": "Эрдоган обсудит с правительством Украину и Ближний Восток, сообщил источник",
-    "url": "https://ria.ru/20260405/erdogan-2085308899.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:15:52+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "eb346a85650769fa9b93f1233b93c7ef",
-    "title": "Акинфеев ответил Дзюбе по поводу отмененного гола",
-    "url": "https://ria.ru/20260405/akinfeev-2085308731.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:15:25+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "b6f023c52739e0e909dab3cf416e672d",
-    "title": "Бестемьянова объяснила, почему не вошла в жюри \"Русского вызова\"",
-    "url": "https://ria.ru/20260405/vyzov-2085308563.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:15:23+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "bf3cab89dcbb71c195d232a60e95aff7",
-    "title": "ТАСС: \"восьмерка\" ОПЕК+ договорилась нарастить добычу нефти в мае на 206 тыс. б/с",
-    "url": "https://tass.ru/ekonomika/27007395",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:14:25+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d2e2680a01248a5d97061abce154af9b",
-    "title": "Трамп допустил заключение сделки с Ираном в понедельник",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188033-tramp-dopustil-zaklyuchenie",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T14:13:01+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "81e79983648f0862adb69dc9044639f9",
-    "title": "Прокуратура начала проверку после крушения сухогруза в Азовском море",
-    "url": "https://ria.ru/20260405/prokuratura-2085308345.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:12:43+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "dc795b7be96519a9fa23c547d97f8493",
-    "title": "В Сербии раскрыли новые подробности о найденной взрывчатке",
-    "url": "https://lenta.ru/news/2026/04/05/v-serbii-raskryli-novye-podrobnosti-o-naydennoy-vzryvchatke/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T14:12:39+00:00",
-    "no_image": true,
     "priority_boost_minutes": 0
   }
 ]
