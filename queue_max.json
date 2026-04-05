@@ -1,5 +1,41 @@
 [
   {
+    "id": "910a1cbfa8be68ee5f0400dce41345e9",
+    "title": "Очевидец рассказал об отключении пожарной сигнализации в ТЦ в Калининграде",
+    "url": "https://ria.ru/20260405/kaliningrad-2085321184.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T16:42:23+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "f892770b97698f913ad5aed9c954eb76",
+    "title": "В Дагестане завели дело после гибели женщины из-за обрушения дома",
+    "url": "https://tass.ru/proisshestviya/27008211",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:41:35+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9a6fa81a8f4ecc0f673843de57a15001",
+    "title": "В Краснодарском крае при падении обломков БПЛА пострадал мирный житель",
+    "url": "https://russian.rt.com/ussr/news/1616127-krasnodarskii-krai-bpla-oblomki-upali?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T16:41:33+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "570339b747ccc4ae992d787c163e30a8",
+    "title": "В аэропорту Сочи число задерживающихся рейсов выросло до 40",
+    "url": "https://tass.ru/ekonomika/27008375",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:40:41+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "a9f499f45bd8b55ecdac8aa0782c6728",
     "title": "В Новой Каховке из-за атаки ВСУ пострадал человек",
     "url": "https://tass.ru/proisshestviya/27008411",
@@ -1031,42 +1067,6 @@
     "url": "https://tass.ru/obschestvo/27007807",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T15:12:58+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "35942bca2c904c9b4b4d9e23eb88031b",
-    "title": "В Курской области мирный житель пострадал при атаке ВСУ",
-    "url": "https://ria.ru/20260405/ataka-2085313124.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T15:11:57+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9e4dfb036143925b3e90398707eba0ec",
-    "title": "В Якутии открылся прием документов в образовательный комплекс \"Точка будущего\"",
-    "url": "https://tass.ru/obschestvo/27007715",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:11:32+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "389e52045f7c400f95df57e38738b3cc",
-    "title": "На мужчину, вытолкнувшего проводницу из поезда, завели дело об угрозе убийством",
-    "url": "https://tass.ru/proisshestviya/27007777",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:10:55+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "199abba56e3e83fcba3687bc0fff7c12",
-    "title": "В Хасавюрте укрепляют берег реки Ярык-су из-за подъема уровня воды",
-    "url": "https://tass.ru/obschestvo/27007751",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:10:34+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
