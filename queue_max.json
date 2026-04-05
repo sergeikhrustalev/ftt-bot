@@ -1,13 +1,5 @@
 [
   {
-    "id": "195f40d28b0181895a70e495eb49eb47",
-    "title": "Балерина Светлана Захарова официально назначена ректором МГАХ",
-    "url": "https://russian.rt.com/nopolitics/news/1615026-zaharova-rektor-mgah-naznachenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-02T21:10:21+00:00",
-    "no_image": false
-  },
-  {
     "id": "5a32dfb2c860681c8c89b203a94b46dd",
     "title": "Посол Ирана пригрозил блокировкой Баб-эль-Мандеба при наземной операции США",
     "url": "https://ria.ru/20260403/ataka-2084883373.html",
@@ -2389,6 +2381,14 @@
     "url": "https://russian.rt.com/world/news/1615875-iran-raketnyy-udar-pogibshie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-04T22:50:51+00:00",
+    "no_image": false
+  },
+  {
+    "id": "9828bffbd27b63534f621f03bf62d091",
+    "title": "Израильская полиция задержала 17 человек на протестах в Тель-Авиве",
+    "url": "https://ria.ru/20260405/izrail-2085241877.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T23:02:58+00:00",
     "no_image": false
   }
 ]
