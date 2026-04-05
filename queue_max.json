@@ -1,5 +1,41 @@
 [
   {
+    "id": "d4d675d709954760e1b274b5173c44d4",
+    "title": "Документы с персональными данными нельзя выбрасывать, заявил юрист",
+    "url": "https://ria.ru/20260405/yurist-2085299281.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T12:32:22+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9418f3bfffd7ccfc3b26f76ca04ebf81",
+    "title": "При атаке Израиля на жилой квартал в Бейруте погибли четыре человека",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006745",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T12:31:40+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "c487dfd30fdadd6c3a8e4d329b6b64e8",
+    "title": "Республика Корея может возобновить закупку нефти и энергоресурсов у России",
+    "url": "https://tass.ru/ekonomika/27006723",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T12:30:24+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a8f00553a4d9af541306fcae1f24d27d",
+    "title": "Во Франции высказались об инциденте со взрывчаткой у газопровода в Сербии",
+    "url": "https://ria.ru/20260405/frantsiya-2085299125.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T12:30:06+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "546a2d513f6b66216c7201af3cd8060b",
     "title": "Губерниев рассказал, почему подарил бы Вяльбе крем",
     "url": "https://russian.rt.com/sport/news/1616044-guberniev-vyalbe-podarok-krem?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -14,6 +50,15 @@
     "url": "https://ria.ru/20260405/ad-2085298915.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T12:28:50+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a0b34bd56017b9e398989466a21d087f",
+    "title": "В Сербии завели дело о диверсии после обнаружения взрывчатки у газопровода",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006707",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T12:28:49+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -1022,51 +1067,6 @@
     "url": "https://russian.rt.com/ussr/news/1616023-peskov-peregovory-putin-pashinyan?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T11:18:55+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d5ddee013fa9c1b2a2574a172000d299",
-    "title": "Сухогруз затонул в Азовском море",
-    "url": "https://lenta.ru/news/2026/04/05/suhogruz-zatonul-v-azovskom-more/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T11:18:00+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "781fd27e24e2a84f003fb6df8f2478e1",
-    "title": "WSJ: США взорвали два своих C-130 в Иране во время спасательной миссии",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006121",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:16:38+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "479b422aba48eb3dd3e533ac44e18385",
-    "title": "Украинские \"Белые ангелы\" увозят детей из Славянска, сообщил Марочко",
-    "url": "https://ria.ru/20260405/marochko-2085289745.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:16:12+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "acde308a2199df7414e00b80e1b92d9b",
-    "title": "Путин на следующей неделе проведёт международные контакты и обсудит ИИ",
-    "url": "https://russian.rt.com/russia/news/1616016-putin-rabochie-plany?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T11:15:49+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "76b3c0eae4d567b5498aa5135c67dba8",
-    "title": "Лихачев: некоторые сотрудники Росатома готовы остаться в Иране для службы на АЭС \"Бушер\"",
-    "url": "https://tass.ru/ekonomika/27006137",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:15:23+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
