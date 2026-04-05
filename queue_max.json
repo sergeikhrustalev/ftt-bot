@@ -1,5 +1,86 @@
 [
   {
+    "id": "937c80dacfd43315cc967bb9dd7a94f1",
+    "title": "В Пермском крае завели дело после нападения собаки на женщину",
+    "url": "https://tass.ru/proisshestviya/27007863",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:23:30+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "6ad218ed3aefb60cc5a69578156af5fc",
+    "title": "Армия Венгрии возьмет под охрану участок «Турецкого потока»",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188039-vengriya-vozmet-pod-ohranu",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T15:23:18+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "20fc9ffb4a728ef3749f711116360221",
+    "title": "От инженера-конструктора до руководителя. Каким был путь Александра Леонова",
+    "url": "https://tass.ru/info/27007699",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:22:40+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "2b6e731362a80f43dcce5b757492b601",
+    "title": "Вагенкнехт призвала к отставке главы МО ФРГ из-за нового закона о военной службе",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007857",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:22:24+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d91819665c9b0c60e40ff2c7d8cb7d1a",
+    "title": "Меликов рассказал, с чем связаны подтопления Махачкалы",
+    "url": "https://ria.ru/20260405/makhachkala-2085314097.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T15:22:14+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "228e08261d014410bcce42781e280e33",
+    "title": "Лавров и Ван И обсудили укрепление взаимодействия двух стран",
+    "url": "https://ria.ru/20260405/mid-2085314210.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T15:22:13+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "76c6f8c0a38a286b9b8bda969bb33461",
+    "title": "Лавров и Ван И обсудили конфронтацию в Персидском заливе",
+    "url": "https://ria.ru/20260405/lavrov-2085314001.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T15:22:12+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "dbe52e5a8ca6b732572a653bd0e60757",
+    "title": "Лавров и глава МИД Китая обсудили ситуацию на Ближнем Востоке",
+    "url": "https://tass.ru/politika/27007875",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:22:10+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "75086829e00a23ab1fdef97993fcfa1f",
+    "title": "В Раде заявили об уклонении 1,5 миллиона мужчин от обновления данных в ТЦК",
+    "url": "https://ria.ru/20260405/ukraina-2085313830.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T15:20:20+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "3c82be585c945ad185d637adbd82a155",
     "title": "В Курской области в результате атаки ВСУ пострадал мирный житель",
     "url": "https://russian.rt.com/ussr/news/1616096-kurskaya-oblast-vsu-ataka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -987,87 +1068,6 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T13:53:18+00:00",
     "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "21c6ba38bedf9c4c9b1b290e70e30afc",
-    "title": "В Махачкале завели дело о халатности после обрушения жилого дома",
-    "url": "https://ria.ru/20260405/makhachkala-2085306044.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T13:52:05+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "1d08d961aba5f1013028c81f66ceafb8",
-    "title": "RT: возможная причина пожара в ТЦ в Калининграде — возгорание авто на парковке",
-    "url": "https://russian.rt.com/russia/news/1616068-tc-kaliningrad-pozhar-prichina?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T13:49:47+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d11f5434c5fc9732557c50f8af96e792",
-    "title": "Ушедшая из РФ Henkel зарегистрировала товарные знаки для косметических средств",
-    "url": "https://tass.ru/ekonomika/27007211",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:49:04+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "81ecdfdd1adaf3b35a90cd561dc6f575",
-    "title": "Армия Израиля заявила, что устранила в Тегеране офицера нефтяного управления КСИР",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007217",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:49:00+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "57743369c4380b83eb317cd30fb17ba1",
-    "title": "Трамп заявил, что США и Иран могут заключить сделку к 6 апреля",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007197",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:48:47+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d025df607bec6c9bd02d1cdd3b5124e7",
-    "title": "В районе промзоны на юге Израиля произошел пожар после обстрела из Ирана",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007161",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:46:32+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "24319711747ff9edf0e2484bef623764",
-    "title": "В Махачкале собрались сносить поплывшую многоэтажку",
-    "url": "https://lenta.ru/news/2026/04/05/snosim/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T13:46:30+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9f347dacf7f26d1b7a73def636c420a2",
-    "title": "Прокуратура Сербии раскрыла новые подробности о найденной взрывчатке",
-    "url": "https://ria.ru/20260405/serbiya-2085305308.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T13:44:34+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d2e7949ab8b6df63dcd3afcee5c9b780",
-    "title": "Следователи завели дело из-за обрушения жилого дома в Махачкале",
-    "url": "https://tass.ru/proisshestviya/27007189",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:44:26+00:00",
-    "no_image": false,
     "priority_boost_minutes": 0
   }
 ]
