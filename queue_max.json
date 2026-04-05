@@ -1,13 +1,5 @@
 [
   {
-    "id": "088d18606f3c15b422832f455474e09b",
-    "title": "Иран сбил передовой вражеский истребитель над Персидским заливом",
-    "url": "https://ria.ru/20260402/pvo-2084879605.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-02T20:10:19+00:00",
-    "no_image": false
-  },
-  {
     "id": "b3caeb1fd0db7f4711e759fce3bd007c",
     "title": "В Иране рассказали о желании изгнать Израиль и США с Ближнего Востока",
     "url": "https://lenta.ru/news/2026/04/03/v-irane-rasskazali-o-zhelanii-izgnat-izrail-i-ssha-s-blizhnego-vostoka/",
@@ -2390,5 +2382,13 @@
     "source": "РИА",
     "pub_dt": "2026-04-04T21:51:00+00:00",
     "no_image": false
+  },
+  {
+    "id": "474ffa07788b780069574297d4f58fe5",
+    "title": "Бывший футболист «Челси» завершил карьеру из-за проблем с сердцем",
+    "url": "https://lenta.ru/news/2026/04/05/byvshiy-futbolist-chelsi-zavershil-karieru-iz-za-problem-s-serdtsem/",
+    "source": "Лента",
+    "pub_dt": "2026-04-04T22:02:20+00:00",
+    "no_image": true
   }
 ]
