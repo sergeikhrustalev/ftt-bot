@@ -1,13 +1,5 @@
 [
   {
-    "id": "b3caeb1fd0db7f4711e759fce3bd007c",
-    "title": "В Иране рассказали о желании изгнать Израиль и США с Ближнего Востока",
-    "url": "https://lenta.ru/news/2026/04/03/v-irane-rasskazali-o-zhelanii-izgnat-izrail-i-ssha-s-blizhnego-vostoka/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T20:23:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "089bf87825a0ffefb94529aba666f67d",
     "title": "На Солнце произошла сильная вспышка",
     "url": "https://tass.ru/kosmos/26985557",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-04T22:02:20+00:00",
     "no_image": true
+  },
+  {
+    "id": "8bf179655136a6617801ee07a5d156a8",
+    "title": "В Татарстане ввели режим беспилотной опасности",
+    "url": "https://ria.ru/20260405/tatarstan-2085240036.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-04T22:11:14+00:00",
+    "no_image": false
   }
 ]
