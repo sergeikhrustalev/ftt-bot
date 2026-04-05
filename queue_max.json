@@ -1,5 +1,59 @@
 [
   {
+    "id": "4440cbfc83a869ffe52b6d097a20d926",
+    "title": "\"Кельн\" отыграл два мяча в матче с \"Айнтрахтом\" в матче Бундеслиги",
+    "url": "https://ria.ru/20260405/bundesliga-2085327671.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T17:28:32+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "7361a2ea58b8d68b996fc0c7354379aa",
+    "title": "Тегеран не примет ультиматумы Вашингтона, считает Ульянов",
+    "url": "https://ria.ru/20260405/ulyanov-2085327445.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T17:28:08+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "7f6f04c05db599942a1b67af2e9fc632",
+    "title": "Гимнастка Борисова завоевала пять медалей на этапе Гран-при во Франции",
+    "url": "https://russian.rt.com/sport/news/1616139-gimnastka-borisova-medali?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T17:27:27+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "247f786a0bb338a74ebb9b293c954527",
+    "title": "ПВО уничтожила 58 беспилотников над Россией",
+    "url": "https://ria.ru/20260405/pvo-2085327356.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T17:27:26+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "61b4991de30bf6b316cc64115dd8fef2",
+    "title": "\"Локомотив\" обыгрывает к перерыву \"Спартак\" в матче РПЛ",
+    "url": "https://ria.ru/20260405/futbol-2085327054.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T17:26:06+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "90476a092ae30418af1b2e5f1f89a5dd",
+    "title": "Освобождение Рай-Александровки поможет контролировать краматорско-славянскую агломерацию",
+    "url": "https://tass.ru/armiya-i-opk/27008631",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:24:49+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "0693381ec05de01866921fbf1524f957",
     "title": "В Калининграде при пожаре в ТЦ пострадали два человек",
     "url": "https://ria.ru/20260405/kaliningrad-2085326881.html",
@@ -1014,60 +1068,6 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T15:48:38+00:00",
     "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "97821c7adc71812691e0bb0bb652aedf",
-    "title": "Над Черным морем появилось необычное облако",
-    "url": "https://ria.ru/20260405/oblako-2085316531.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T15:48:35+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a308b62813fe273c0292d305496af530",
-    "title": "Налоги ищут где попроще // Малый бизнес продолжает менять банки из-за автоматизированной упрощенки",
-    "url": "https://www.kommersant.ru/doc/8569555",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T15:48:21+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "07cd5957f1cb488b090388d8473e7018",
-    "title": "В Кувейте пожарные ликвидировали возгорания на НПЗ после атак Ирана",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008075",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:48:01+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "c6af6672889abed1c703f7935ffe7235",
-    "title": "Батраков выйдет в стартовом составе \"Локомотива\" на матч РПЛ со \"Спартаком\"",
-    "url": "https://ria.ru/20260405/batrakov-2085316342.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T15:47:17+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "c62fc3eed5c6312a1a7294c563a6ba63",
-    "title": "Баскетболистки УГМК обыграли \"Надежду\" в матче чемпионата России",
-    "url": "https://ria.ru/20260405/basketbol-2085316203.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T15:46:56+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "60ccc00e77d907377b963663675d4956",
-    "title": "В России готовят ГОСТ для москитных сеток",
-    "url": "https://russian.rt.com/russia/news/1616102-moskitnye-setki-gost?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T15:46:46+00:00",
-    "no_image": false,
     "priority_boost_minutes": 0
   }
 ]
