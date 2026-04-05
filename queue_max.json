@@ -1,5 +1,77 @@
 [
   {
+    "id": "df1c947c090bc331b95e6c2e81b5d0d5",
+    "title": "Орбан заявил о необходимости поставок энергоресурсов из России в Европу",
+    "url": "https://lenta.ru/news/2026/04/05/orban/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T18:47:14+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "dc700422289dc2188c90babf0cd8c4e9",
+    "title": "Пушилин рассказал о продвижении ВС России на Константиновском направлении",
+    "url": "https://ria.ru/20260405/rossiya-2085335626.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:46:36+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "f2a19efd20110c57820abb20957b29b5",
+    "title": "Нагорных считает, что \"Локомотив\" остается в чемпионской гонке",
+    "url": "https://tass.ru/sport/27009109",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:46:30+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d9cd03181ff5614f32e0c2f0b5782959",
+    "title": "В акватории Черного моря в 32 км от Анапы произошло землетрясение магнитудой 3,7",
+    "url": "https://tass.ru/proisshestviya/27009003",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:46:12+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "2e435c32f2a02c91c28bdcc4781ee192",
+    "title": "В Иране уличили США в признании военных преступлений",
+    "url": "https://lenta.ru/news/2026/04/06/v-irane-ulichili-ssha-v-priznanii-voennyh-prestupleniy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T18:45:58+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "675750a6c145d9f4cb371687c1dc7c75",
+    "title": "Al Jadeed: израильский дрон атаковал дом в христианском районе на востоке Бейрута",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27009103",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:45:52+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "6f5c46959b7fe3a5b9c07a6d01eea042",
+    "title": "Аракчи назвал угрозы США бить по энергообъектам признанием военных преступлений",
+    "url": "https://russian.rt.com/world/news/1616179-ssha-ugrozy-iran-priznanie-prestuplenii?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:45:38+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "05aab76f22385d1c2d9210142075f45c",
+    "title": "Во Владимирской области подтоплены 262 приусадебных участка",
+    "url": "https://tass.ru/proisshestviya/27008973",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:44:47+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "8abe17d1c5c80d6ba44c2b20cd189e34",
     "title": "Почти 500 тысяч человек остались без света в ДНР из-за удара ВСУ",
     "url": "https://russian.rt.com/ussr/news/1616180-vsu-doneck-svet?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -32,6 +104,24 @@
     "url": "https://ria.ru/20260405/ukraina-2085334927.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T18:40:09+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ca342fcf70f6dc9845f22d6f69fb2e86",
+    "title": "Все жители Дербентского района Дагестана, находящиеся в зоне подтопления, эвакуированы",
+    "url": "https://tass.ru/proisshestviya/27009085",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:39:50+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a82daeb6fc6e0346fa24a5988d8737b0",
+    "title": "На Урале завели дело из-за видео, где учитель физкультуры бьет подростка по лицу",
+    "url": "https://tass.ru/proisshestviya/27008905",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:39:28+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -977,96 +1067,6 @@
     "url": "https://ria.ru/20260405/futbol-2085327054.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T17:26:06+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "12215ce7e029e92f7ffeb1d24e18996d",
-    "title": "Трамп уточнил дедлайн для открытия Ормузского пролива Ираном",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188058-tramp-utochnil-dedlain",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T17:25:36+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "90476a092ae30418af1b2e5f1f89a5dd",
-    "title": "Освобождение Рай-Александровки поможет контролировать краматорско-славянскую агломерацию",
-    "url": "https://tass.ru/armiya-i-opk/27008631",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:24:49+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "0693381ec05de01866921fbf1524f957",
-    "title": "В Калининграде при пожаре в ТЦ пострадали два человек",
-    "url": "https://ria.ru/20260405/kaliningrad-2085326881.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T17:23:38+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "88bd1dc0b8a5c9b51e915e30113e90c6",
-    "title": "Локальные прорывы произошли на дамбе Геджухского водохранилища в Дагестане",
-    "url": "https://tass.ru/proisshestviya/27008617",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:23:25+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f9e68310ac27726088e98df3c4ae37c8",
-    "title": "Два агрария погибли в Запорожской области после удара БПЛА ВСУ по трактору",
-    "url": "https://russian.rt.com/ussr/news/1616144-vsu-ataka-zaporozhskaya-oblast?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T17:21:29+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a877a992d84a94a95e91b05e25aa08e6",
-    "title": "Пушилин: ВСУ пытались перейти в контрнаступление возле Святогорска",
-    "url": "https://tass.ru/armiya-i-opk/27008595",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:20:56+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ff7fe6f3a49f1e67c78bdcf6581e4f08",
-    "title": "Пушилин: ВС РФ заняли новые позиции в районе освобожденной Александровки",
-    "url": "https://tass.ru/armiya-i-opk/27008589",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:20:34+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f51cfd2c774d2c5456b3c6f84a083d6c",
-    "title": "В Пакистане из-за ливней погибли не менее 45 человек",
-    "url": "https://tass.ru/proisshestviya/27008555",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:18:36+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "dc6d2c70bde62f6116a9b95d96f88c0d",
-    "title": "Пушилин: группировка войск \"Запад\" продвигается на краснолиманском направлении",
-    "url": "https://tass.ru/armiya-i-opk/27008563",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:18:24+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "1e63809a1b29f39782460b0c643bf822",
-    "title": "Умер художник Алексей Ги Коровин",
-    "url": "https://tass.ru/kultura/27008517",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:14:07+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
