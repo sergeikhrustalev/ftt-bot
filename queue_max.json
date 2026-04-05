@@ -1,5 +1,50 @@
 [
   {
+    "id": "90fc75cb5d75bae1f980e02a1a2e9fe4",
+    "title": "Сийярто: Венгрия, РФ, Турция и Сербия договорились усилить защиту \"Турецкого потока\"",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007527",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T14:31:59+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e3a910d3dc409d45aebdd0fa3752e1f3",
+    "title": "Лавров обсудил с главой МИД Китая ситуацию на Ближнем Востоке",
+    "url": "https://ria.ru/20260405/situatsiya-2085310183.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T14:31:32+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ba2c60238bb650542e4a13d0bf857fad",
+    "title": "В России появится ГОСТ на антимоскитные сетки",
+    "url": "https://lenta.ru/news/2026/04/05/v-rossii-poyavitsya-gost-na-antimoskitnye-setki/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T14:31:28+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "f6fd5d6d94e41774c9be8f0c6657408a",
+    "title": "GSP: экс-тренер \"Зенита\" Луческу введен в медикаментозную кому",
+    "url": "https://tass.ru/sport/27007519",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T14:31:03+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "5b3f166110464e4ac3b232691dbd1390",
+    "title": "Скончался разработчик гиперзвуковой ракеты «Циркон» Александр Леонов",
+    "url": "https://www.vedomosti.ru/society/news/2026/04/05/1188034-skonchalsya-aleksandr-leonov",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T14:30:24+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "bb78bbf7b3862e0ef24904cfc0ff92da",
     "title": "The Sunday Times: у ВСУ заканчиваются ракеты Patriot из-за тактики России",
     "url": "https://russian.rt.com/ussr/news/1616083-vsu-rakety-rossiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -23,6 +68,15 @@
     "url": "https://russian.rt.com/sport/news/1616076-akinfeev-dzyuba-obrashenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T14:28:20+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "acad10b71d6182759bdc90d9d3861c08",
+    "title": "Очаг возгорания в ТЦ Калининграда находится в фасадной части здания",
+    "url": "https://tass.ru/proisshestviya/27007513",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T14:27:13+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -1014,60 +1068,6 @@
     "source": "РИА",
     "pub_dt": "2026-04-05T13:09:37+00:00",
     "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ad00de30867658d895e5c69cfdc34262",
-    "title": "В Калининграде площадь пожара в ТЦ увеличилась до тысячи квадратных метров",
-    "url": "https://ria.ru/20260405/kaliningrad-2085301994.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T13:09:36+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "cf7f3639ff92be3987d0f6572031344b",
-    "title": "Лихачёв анонсировал эвакуацию россиян с АЭС «Бушер» на следующей неделе",
-    "url": "https://russian.rt.com/russia/news/1616058-evakuaciya-aes-busher?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T13:09:21+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ad50bb4ecc3e49f6482a068497efc8e6",
-    "title": "В \"Нафтогазе\" сообщили о пожаре на объекте в Сумской области",
-    "url": "https://tass.ru/proisshestviya/27006925",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:08:11+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "5da39235dcbce65bfd720630465145d1",
-    "title": "Песков высказался об интеллигентности российской риторики",
-    "url": "https://lenta.ru/news/2026/04/05/peskov-vyskazalsya-ob-intelligentnosti-rossiyskoy-ritoriki/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T13:07:50+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "1dd58f21e3bc1682a80316cd159ebd3f",
-    "title": "В российском городе вспыхнул крупный торговый центр",
-    "url": "https://lenta.ru/news/2026/04/05/fire/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T13:07:37+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "52e5e2bee1656122b24a3fa9f0baa8fd",
-    "title": "Россиянам раскрыли порядок действий при укусе клеща",
-    "url": "https://lenta.ru/news/2026/04/05/rossiyanam-raskryli-poryadok-deystviy-pri-ukuse-klescha/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T13:06:58+00:00",
-    "no_image": true,
     "priority_boost_minutes": 0
   }
 ]
