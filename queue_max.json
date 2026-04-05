@@ -1,5 +1,101 @@
 [
   {
+    "id": "8759cf2717d1091fa0ab410753dfc454",
+    "title": "Песков: Каллас могла бы внести немного позитивного вклада в починку того, что ЕС наломал",
+    "url": "https://tass.ru/politika/27005901",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:53:43+00:00",
+    "no_image": false
+  },
+  {
+    "id": "a221ffe668cc3c79073d650cb86fb68a",
+    "title": "Лавров: РФ никогда не обсуждает запретных тем со своими партнерами",
+    "url": "https://tass.ru/politika/27005919",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:53:38+00:00",
+    "no_image": false
+  },
+  {
+    "id": "535235dcc29078af84a164fadf6240d1",
+    "title": "Армия Израиля ведет перехват ракет после очередного залпа из Ирана",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27005909",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:53:14+00:00",
+    "no_image": false
+  },
+  {
+    "id": "5bb487e69fd45b01ad5d9973dda474a0",
+    "title": "Песков: Армении придется выбирать между ЕС и ЕАЭС",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188014-armenii-pridetsya-vibirat",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T10:52:38+00:00",
+    "no_image": false
+  },
+  {
+    "id": "b0f298ac41bf214594dc9a884cc3e8f8",
+    "title": "В России разработают ГОСТ на «зелёную» косметику в 2026 году",
+    "url": "https://russian.rt.com/russia/news/1615955-gost-zelenaya-kosmetika?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:52:09+00:00",
+    "no_image": false
+  },
+  {
+    "id": "be1e33fe6cf296009ae1733ac456f232",
+    "title": "Посол РФ: на задержанном в Швеции танкере Flora 1 россиян не было",
+    "url": "https://tass.ru/politika/27005847",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:51:15+00:00",
+    "no_image": false
+  },
+  {
+    "id": "c8f951bfed478201387c776dddc06d24",
+    "title": "Пассажирка не выжила на борту российского рейса",
+    "url": "https://lenta.ru/news/2026/04/05/passazhirka-ne-vyzhila-na-bortu-rossiyskogo-reysa/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T10:51:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "d31b5b7e3276abe80e3d8600441d31c7",
+    "title": "Песков: уровень квалификации Каллас не позволяет ей давать комментарии по истории",
+    "url": "https://tass.ru/politika/27005885",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:50:54+00:00",
+    "no_image": false
+  },
+  {
+    "id": "2ac0e46fb2afcf5a8069e75a4ad87047",
+    "title": "«Хезболла» заявила об атаке по израильскому кораблю у берегов Ливана",
+    "url": "https://russian.rt.com/world/news/1615985-ataka-korabl-livan?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:50:33+00:00",
+    "no_image": false
+  },
+  {
+    "id": "cb71ca6f716d5d0b1b2719256d79202b",
+    "title": "Женщина родила ребенка во время матча НХЛ",
+    "url": "https://lenta.ru/news/2026/04/05/zhenschina-rodila-rebenka-vo-vremya-matcha-nhl/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T10:49:50+00:00",
+    "no_image": true
+  },
+  {
+    "id": "63f08992de72e191ef514c5113cb86de",
+    "title": "Лавров: коллегам Каллас по ЕС нравится наслаждаться тем, как она позорится",
+    "url": "https://tass.ru/politika/27005877",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:49:11+00:00",
+    "no_image": false
+  },
+  {
+    "id": "e2981b28857649d1409b8470a10bd60c",
+    "title": "Гендир футбольного «Динамо»: мы рассчитываем на летнюю встречу с Овечкиным",
+    "url": "https://russian.rt.com/sport/news/1616013-dinamo-ovechkin-moskva-vizit?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:48:31+00:00",
+    "no_image": false
+  },
+  {
     "id": "1086e277a328b15a80bb4cda343fb415",
     "title": "Состояние перенесшего инфаркт футбольного тренера Луческу ухудшилось",
     "url": "https://tass.ru/sport/27005839",
@@ -854,101 +950,5 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T09:29:00+00:00",
     "no_image": true
-  },
-  {
-    "id": "7831203ddd9e79c79cc896a39300acbc",
-    "title": "Политолог спрогнозировал эскалацию конфликта между США и Ираном",
-    "url": "https://lenta.ru/news/2026/04/05/politolog-sprognoziroval-eskalatsiyu-konflikta-mezhdu-ssha-i-iranom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T09:29:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "ee847e06ff066cf6549b918fc27bc0ac",
-    "title": "Рядом с газопроводом из Сербии в Венгрию обнаружили взрывчатку",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188006-obnaruzhili-vzrivchatku",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T09:28:24+00:00",
-    "no_image": false
-  },
-  {
-    "id": "b021a8f4c73349c43b9612b3bdcea6a2",
-    "title": "ВС России поразили инфраструктуру военных аэродромов и объекты ТЭК ВСУ",
-    "url": "https://ria.ru/20260405/svo-2085278814.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T09:28:17+00:00",
-    "no_image": false
-  },
-  {
-    "id": "326f104c0f63c9b2c36a93d5d2469827",
-    "title": "Путин на неделе продолжит международные контакты и работу с регионами",
-    "url": "https://tass.ru/politika/27005475",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T09:28:14+00:00",
-    "no_image": false
-  },
-  {
-    "id": "4b37c9d85dc040ca6c76d046832e7a56",
-    "title": "Песков: системы ЕАЭС и Евросоюза не сочетаются",
-    "url": "https://tass.ru/politika/27005467",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T09:26:45+00:00",
-    "no_image": false
-  },
-  {
-    "id": "d471b4213a4abdedf889a75952d874ac",
-    "title": "Что такое магнитные бури и как они влияют на человека",
-    "url": "https://ria.ru/20260405/chto_takoe_magnitnye_buri_vliyanie_na_zdorove_cheloveka-1870201378.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T09:25:17+00:00",
-    "no_image": false
-  },
-  {
-    "id": "aa252639cf0cde6875841915d6006b2a",
-    "title": "Пассажирка рассказала, как им помогали выбираться после ЧП под Ульяновском",
-    "url": "https://ria.ru/20260405/ulyanovsk-2085278463.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T09:24:39+00:00",
-    "no_image": false
-  },
-  {
-    "id": "603a96585ee8fbc6c10f4309b98e9802",
-    "title": "Лыжник Большунов считает, что способен брать любые вершины",
-    "url": "https://tass.ru/sport/27005457",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T09:23:07+00:00",
-    "no_image": false
-  },
-  {
-    "id": "c9165d8a2da4bffa7e34fa51c9eb10a0",
-    "title": "Песков: членство в ЕАЭС дает возможность Армении развиваться повышенными темпами",
-    "url": "https://tass.ru/politika/27005449",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T09:22:08+00:00",
-    "no_image": false
-  },
-  {
-    "id": "532f3f46efe53df7c36673a6f629f835",
-    "title": "ЦАХАЛ сообщил о новой волне ударов по объектам \"Хезболлах\" в Бейруте",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27005443",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T09:21:53+00:00",
-    "no_image": false
-  },
-  {
-    "id": "6e06ebbf2ed319e55d1a8f9027591c94",
-    "title": "Царукян шокировал блогера из США, рассказав, что в России бесплатно смотрят UFC",
-    "url": "https://russian.rt.com/sport/news/1615986-carukyan-bloger-ufc-translyacii?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T09:21:42+00:00",
-    "no_image": false
-  },
-  {
-    "id": "8d066075b764416650204b73e600ccd1",
-    "title": "ВС России поразили военные аэродромы и используемые ВСУ объекты ТЭК Украины",
-    "url": "https://russian.rt.com/ussr/news/1615989-porazhenie-ukraina-aerodromy-toplivo?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T09:20:48+00:00",
-    "no_image": false
   }
 ]
