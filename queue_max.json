@@ -1,13 +1,5 @@
 [
   {
-    "id": "35fa05dfb3d68dbbd1fbf1820abb45e7",
-    "title": "Дмитриев обвинил западные СМИ в причастности к энергетическому кризису",
-    "url": "https://lenta.ru/news/2026/04/03/dmitriev-obvinil-zapadnye-smi-v-prichastnosti-k-energeticheskomu-krizisu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T02:41:25+00:00",
-    "no_image": true
-  },
-  {
     "id": "c0511a4771fad0dad9a637d1574f636b",
     "title": "Эксперт по жестам оценила поведение Трампа во время речи по Ирану",
     "url": "https://lenta.ru/news/2026/04/03/ekspert-po-zhestam-otsenila-povedenie-trampa-vo-vremya-rechi-po-iranu/",
@@ -2389,6 +2381,14 @@
     "url": "https://lenta.ru/news/2026/04/05/yaponii-grozit-polnoe-otklyuchenie-elektrosnabzheniya-i-rezervnyh-generatorov/",
     "source": "Лента",
     "pub_dt": "2026-04-05T04:20:58+00:00",
+    "no_image": true
+  },
+  {
+    "id": "bab84da814ef1c63a0b0a65661ea0313",
+    "title": "Россиянам развеяли два популярных мифа об органическом вине",
+    "url": "https://lenta.ru/news/2026/04/05/rossiyanam-razveyali-dva-populyarnyh-mifa-ob-organicheskom-vine/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T04:30:54+00:00",
     "no_image": true
   }
 ]
