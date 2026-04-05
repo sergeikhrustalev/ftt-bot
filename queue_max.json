@@ -1,5 +1,50 @@
 [
   {
+    "id": "95e7ac950653c424fbec3ec8bcd26ae9",
+    "title": "Эпоха возрождения: «Спартак» одержал волевую победу над «Локомотивом» в 23-м туре РПЛ и включился в борьбу за медали",
+    "url": "https://russian.rt.com/sport/article/1616060-spartak-lokomotiv-pobeda-rpl-borba-medali?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T20:03:45+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "8424cf4d9b65fe5e82cb295f6782e736",
+    "title": "В большей части Запорожской области восстановили электроснабжение",
+    "url": "https://ria.ru/20260405/balitskiy-2085341829.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T20:03:40+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "cdf81b12e155b2310ae69b1ac9463745",
+    "title": "Орбан: Европе нужны российские энергоносители, а Украина мешает их поставке",
+    "url": "https://russian.rt.com/world/news/1616194-energetika-evropa-postavki-kiev?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T20:03:24+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d2fc9c536ceef435ef96c026f4c5fc08",
+    "title": "В Иране заявили о готовности продолжать боевые действия годами",
+    "url": "https://lenta.ru/news/2026/04/06/v-irane-zayavili-o-gotovnosti-prodolzhat-boevye-deystviya-godami/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T20:01:58+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "441378fb6d1dfcff266db07df6c95321",
+    "title": "В Азовском море организовали поиски двух пропавших моряков сухогруза",
+    "url": "https://ria.ru/20260405/sukhogruz-2085341494.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T20:00:21+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "d823e5c282b0c0a4b6c36b8c06973aae",
     "title": "Страны ОПЕК+ договорились увеличить добычу нефти при открытии Ормузского пролива",
     "url": "https://www.vedomosti.ru/business/news/2026/04/05/1188089-dogovorilis-uvelichit-dobichu",
@@ -1022,51 +1067,6 @@
     "url": "https://tass.ru/sport/27009059",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T18:30:32+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "dab1002c684c1cb3b6ddbf9739afc102",
-    "title": "Юрист Хаминский: выбрасывать документы с персональными данными в мусор небезопасно",
-    "url": "https://russian.rt.com/russia/news/1616157-yurist-personalnye-dannye?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T18:30:32+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "37660362c104d012803e96cf703a5b87",
-    "title": "14-й канал: \"Хезболлах\" по ошибке обстреляла британский корабль",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27009037",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T18:30:15+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f874885d4713d895b15dfad97bfa1960",
-    "title": "Юрист Асанова: односторонний отказ сотрудника от отпуска невозможен",
-    "url": "https://russian.rt.com/russia/news/1616149-yurist-rabota-otpusk?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T18:29:29+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "6acde6735496a5e192dda9f1d0e64a78",
-    "title": "Психолог Гончарова рассказала, что делать при увольнении с работы",
-    "url": "https://russian.rt.com/russia/news/1616148-psiholog-rabota-uvolnenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T18:29:13+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "6fddd7570913862469dbeb620dafeb53",
-    "title": "Депутат Толмачёв рассказал о способах помочь ребёнку с выбором работы",
-    "url": "https://russian.rt.com/russia/news/1616145-ekspert-deti-rabota?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T18:28:48+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
