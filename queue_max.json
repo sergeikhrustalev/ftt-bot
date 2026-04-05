@@ -1,13 +1,5 @@
 [
   {
-    "id": "b3d524954cc4a81b53e009433696de02",
-    "title": "Вирус водных животных оказался опасен для здоровья человека",
-    "url": "https://lenta.ru/news/2026/04/03/virus-vodnyh-zhivotnyh-okazalsya-opasen-dlya-zdorovya-glaz-cheloveka/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T01:30:27+00:00",
-    "no_image": true
-  },
-  {
     "id": "ffc2d096ff0adb3eb14257b9858c1d5f",
     "title": "Трамп из-за страха утечек имитировал отмену операции по Ирану, пишут СМИ",
     "url": "https://ria.ru/20260403/tramp-2084895323.html",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260405/potroshitel-2085254144.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T03:11:09+00:00",
+    "no_image": false
+  },
+  {
+    "id": "ffc343b31ac1000823b55b7fb84d99b3",
+    "title": "Дрозденко сообщил об уничтожении второго дрона над Ленинградской областью",
+    "url": "https://russian.rt.com/ussr/news/1615908-drozdenko-dron-leningradskaya-oblast?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T03:20:23+00:00",
     "no_image": false
   }
 ]
