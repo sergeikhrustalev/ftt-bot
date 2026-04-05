@@ -1,13 +1,5 @@
 [
   {
-    "id": "e9350ff58bd1c97d8bc5fcbed8128756",
-    "title": "Эксперт ЭИСИ: участие ветерана в ЦИК подчеркивает запрос на справедливость",
-    "url": "https://www.vedomosti.ru/society/news/2026/04/02/1187590-veterana-spetsoperatsii-tsik",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T18:11:35+00:00",
-    "no_image": false
-  },
-  {
     "id": "e11ee0f6fa4ae8b4501bee0a226abaac",
     "title": "В Европе заявили о подготовке Киевом «цветной революции»",
     "url": "https://lenta.ru/news/2026/04/02/v-evrope-zayavili-o-podgotovke-kievom-tsvetnoy-revolyutsii/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/proisshestviya/27003431",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T19:51:29+00:00",
+    "no_image": false
+  },
+  {
+    "id": "fc41cdb9bb1f16c3b80e91869cea2905",
+    "title": "В Петербурге при пожаре в доме пострадали трое детей",
+    "url": "https://tass.ru/proisshestviya/27003437",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T20:00:44+00:00",
     "no_image": false
   }
 ]
