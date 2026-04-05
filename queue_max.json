@@ -1,13 +1,5 @@
 [
   {
-    "id": "39aeb9f967a3d25ba10feb23c8412f15",
-    "title": "Британский политик призвал запретить Канье Уэсту въезд в страну",
-    "url": "https://ria.ru/20260402/uest-2084875587.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-02T19:22:52+00:00",
-    "no_image": false
-  },
-  {
     "id": "b43b6e333cc7eeb5eaba68cc57fd2bd7",
     "title": "Обнаружено гигантское теплое кольцо газа у молодой звезды",
     "url": "https://tass.ru/nauka/26985289",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/armiya-i-opk/27001697",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T21:00:38+00:00",
+    "no_image": false
+  },
+  {
+    "id": "1eee0f6064288368b1cc60534c0ad137",
+    "title": "В Саратовской области объявили угрозу атаки БПЛА",
+    "url": "https://tass.ru/proisshestviya/27003595",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T21:11:31+00:00",
     "no_image": false
   }
 ]
