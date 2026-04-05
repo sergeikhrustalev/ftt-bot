@@ -1,13 +1,5 @@
 [
   {
-    "id": "ffc7462131f6d364f2c7ac246e1303d4",
-    "title": "Людей с одной проблемой со сном предупредили о сокращении жизни на семь лет",
-    "url": "https://lenta.ru/news/2026/04/03/lyudey-s-odnoy-problemoy-so-snom-predupredili-o-sokraschenii-zhizni-na-sem-let/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T22:00:31+00:00",
-    "no_image": true
-  },
-  {
     "id": "cfb8013f2b33890ed0057a492f9c3f28",
     "title": "Трампа уличили в сокрытии важной детали о конфликте с Ираном",
     "url": "https://lenta.ru/news/2026/04/03/trampa-ulichili-v-sokrytii-vazhnoy-detali-o-konflikte-s-iranom/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/proisshestviya/27003763",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T23:44:45+00:00",
+    "no_image": false
+  },
+  {
+    "id": "4ce8794bb7219929595542955c9a8c8c",
+    "title": "Отец Илона Маска назвал Вашингтон гетто по сравнению с Москвой",
+    "url": "https://russian.rt.com/world/news/1615884-mask-vashington-moskva-getto?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-04T23:54:31+00:00",
     "no_image": false
   }
 ]
