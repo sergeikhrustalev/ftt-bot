@@ -1,5 +1,41 @@
 [
   {
+    "id": "8ba0022578afe0be795fa42bacc3bf27",
+    "title": "В Черном море произошло землетрясение",
+    "url": "https://ria.ru/20260405/zemletryasenie-2085332692.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:22:30+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "b1742370c5feb704dab5580a0a4027d7",
+    "title": "Нефтедоллары пока в пути // Бюджет еще не почувствовал выгод от войны на Ближнем Востоке",
+    "url": "https://www.kommersant.ru/doc/8569699",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T18:22:24+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "39c5eaaf0cae7e0e84466859c8ff6d8d",
+    "title": "В Иране допустили открытие Ормузского пролива после компенсации ущерба от войны",
+    "url": "https://russian.rt.com/world/news/1616174-ormuzskii-proliv-otkrytie-kompensaciya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:21:45+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e6b6f8be2def37aaf7ea4eada94ef519",
+    "title": "На Западе увидели сигнал для Украины и Европы в словах Медведева",
+    "url": "https://lenta.ru/news/2026/04/05/na-zapade-uvideli-signal-dlya-ukrainy-i-evropy-v-slovah-medvedeva/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T18:21:00+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "41c8781dcedbdc9dee44712046ea22f4",
     "title": "В Дербентском районе Дагестана прорвало земляной вал водохранилища",
     "url": "https://ria.ru/20260405/mchs-2085332458.html",
@@ -1031,42 +1067,6 @@
     "url": "https://ria.ru/20260405/serbija-2085320934.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T16:35:44+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "145f5016b9e3be20f432eb2362cf07b1",
-    "title": "На Западе раскрыли, какой удар Зеленский получил от Ирана",
-    "url": "https://ria.ru/20260405/zelenskiy-2085320769.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T16:35:21+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ee4c3a3244cb49d3992f245093e2a29d",
-    "title": "В Иране заявили, что весь Ближний Восток \"сгорит дотла\" из-за действий США",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008367",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:34:50+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8b0ff2979d6619edfb7cec94e3faa9cd",
-    "title": "Гандболистку ЦСКА госпитализировали после травмы в финале Кубка России",
-    "url": "https://tass.ru/sport/27008421",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:34:47+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "bcd7478a46139efeaa7e382c36f01230",
-    "title": "Сальдо пообещал Киеву ответ за атаку на сухогруз в Азовском море",
-    "url": "https://tass.ru/proisshestviya/27008395",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:34:04+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
