@@ -1,5 +1,41 @@
 [
   {
+    "id": "ff552d4dc7337c3de3acbb71de20d727",
+    "title": "СК возбудил дело после гибели женщины при обрушении дома в Дагестане",
+    "url": "https://ria.ru/20260405/dagestan-2085318510.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T16:04:00+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "3d7759b39bbc3f6f4d9cf9bbe9f5ad0e",
+    "title": "Бонгонда не вернулся в \"Спартак\" по просьбе Федерации футбола ДР Конго",
+    "url": "https://tass.ru/sport/27008127",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:01:55+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9e205e24ebdc27da53208d1948ee4b9f",
+    "title": "Очевидец рассказала как люди покидали загоревшийся ТЦ в Калининграде",
+    "url": "https://ria.ru/20260405/kaliningrad-2085318121.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T16:00:55+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "42d87a7e53fdf91957a03548fc4541ff",
+    "title": "Лавров в разговоре с Аракчи выразил надежду на деэскалацию вокруг Ирана",
+    "url": "https://ria.ru/20260405/lavrov-2085317780.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T16:00:07+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "c1fcdc190334b27661da190d0d3e9fa1",
     "title": "Галлямов — Транькову: активные программы катать энергозатратней, чем лиричные постановки",
     "url": "https://russian.rt.com/sport/news/1616113-gallyamov-trankov-programmy?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -1031,42 +1067,6 @@
     "url": "https://tass.ru/ekonomika/27007559",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T14:36:05+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "311a6e8f47672016345452f908520f5f",
-    "title": "Конфликт США и Ирана перешел в фазу истерики, считает Пушков",
-    "url": "https://ria.ru/20260405/pushkov-2085310610.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:35:51+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a5a575ea981497ea12341bd3fa276f10",
-    "title": "Секретная служба США сообщила о стрельбе у Белого дома",
-    "url": "https://ria.ru/20260405/strelba-2085310487.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:35:48+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "efa771c46a2b275a730a2fe3e692e7ae",
-    "title": "Третье за день сообщение появилось на «радио Судного дня»",
-    "url": "https://lenta.ru/news/2026/04/05/tretie-za-den-soobschenie-poyavilos-na-radio-sudnogo-dnya/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T14:35:20+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "92ddc66fb452eaa067c86e1f6912a4a4",
-    "title": "Сийярто: Венгрия обеспечит охрану газопровода от границы с Сербией до границы со Словакией",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007555",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:34:44+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
