@@ -1,5 +1,32 @@
 [
   {
+    "id": "975a4559669845c5fb8b989dd3d2e7e2",
+    "title": "Сенатор Шейкин: в России создадут технологическую базу для 6G к 2032 году",
+    "url": "https://russian.rt.com/russia/news/1615984-rossiya-6g-svyaz?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T13:11:00+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a9d2ef31360ea6cfa730b0a3ac51c335",
+    "title": "Пассажира, вытолкнувшего проводницу из поезда в Костромской области, задержали",
+    "url": "https://tass.ru/proisshestviya/27006933",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:10:31+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "cb6da3e99d4f48e7b59e6a8832d096ac",
+    "title": "«Ростов» одержал победу над «Пари НН» в 23-м туре РПЛ",
+    "url": "https://russian.rt.com/sport/news/1616057-rostov-pobeda-pari-nn?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T13:10:19+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "0339925d9f12a040c021f0e9b25e60cd",
     "title": "Синоптик Шувалов рассказал, когда закончатся осадки в Дагестане",
     "url": "https://russian.rt.com/nopolitics/news/1616043-dagestan-osadki-pogoda?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -1041,33 +1068,6 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T11:53:00+00:00",
     "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "dee31c92aa0dc9ce42bed770673ee807",
-    "title": "CNN: США потеряли не менее семи военных самолетов в конфликте с Ираном",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006411",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:52:46+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "05846284ad8582300ee5adefb63484b8",
-    "title": "В Махачкале эвакуировали около 300 человек из-за угрозы обрушения",
-    "url": "https://ria.ru/20260405/makhachkala-2085295001.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:52:29+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "513578c26fb5db47637d9b08d434007b",
-    "title": "La Tribune: Франция многократно увеличит выпуск управляемых боеприпасов",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006389",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:51:13+00:00",
-    "no_image": false,
     "priority_boost_minutes": 0
   }
 ]
