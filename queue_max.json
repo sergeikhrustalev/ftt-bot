@@ -1,13 +1,5 @@
 [
   {
-    "id": "089bf87825a0ffefb94529aba666f67d",
-    "title": "На Солнце произошла сильная вспышка",
-    "url": "https://tass.ru/kosmos/26985557",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-02T20:30:36+00:00",
-    "no_image": false
-  },
-  {
     "id": "50b29fc699c1e120844b8415c73c6f71",
     "title": "Силы ПВО за три часа сбили 46 украинских беспилотников над Россией",
     "url": "https://russian.rt.com/ussr/news/1615020-pvo-bespilotniki-rossiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260405/tatarstan-2085240036.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T22:11:14+00:00",
+    "no_image": false
+  },
+  {
+    "id": "3d3b517af4848d36f94244383a7fbb30",
+    "title": "Малкин преодолел отметку в 1 400 очков в регулярных чемпионатах НХЛ",
+    "url": "https://tass.ru/sport/27003661",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T22:27:57+00:00",
     "no_image": false
   }
 ]
