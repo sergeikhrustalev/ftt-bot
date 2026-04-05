@@ -1,5 +1,77 @@
 [
   {
+    "id": "2d8f2b9cfe95f749cb46c8b3149a9f23",
+    "title": "Силы ПВО уничтожили 77 украинских БПЛА за шесть часов",
+    "url": "https://ria.ru/20260405/pvo-2085292905.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:33:26+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e475fd762fe0a664d9e5e1fb012ba6b8",
+    "title": "Ротенберг поздравил Тюкавина с рекордом по голам за «Динамо» в XXI веке",
+    "url": "https://russian.rt.com/sport/news/1616031-rotenberg-tyukavin-rekord-pozdravlenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T11:33:07+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d7726aef438a45c5dc2c126ac0573694",
+    "title": "Песков назвал классикой интеллигентный подход РФ на международной арене",
+    "url": "https://tass.ru/politika/27006241",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:32:28+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e794c311771ce1c5c8a0f47461d50ec3",
+    "title": "\"Росатом\" на следующей неделе эвакуирует группу сотрудников с АЭС \"Бушер\"",
+    "url": "https://ria.ru/20260405/rosatom-2085292700.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:32:16+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "59bda71ef0884d0a5971fbcc2e6b098c",
+    "title": "В Иране заявили об изменении стратегии США",
+    "url": "https://lenta.ru/news/2026/04/05/v-irane-zayavili-ob-izmenenii-strategii-ssha/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T11:30:45+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "f064f2a1bff9999897257404e7265739",
+    "title": "В Москве предстоящей ночью ожидаются первые апрельские заморозки",
+    "url": "https://tass.ru/obschestvo/27006249",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:30:07+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "83a41ebaf9321b26a92b06e9b7765eb7",
+    "title": "NDR: специалисты обнаружили новые травмы у кита Тимми",
+    "url": "https://tass.ru/obschestvo/27006235",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:29:20+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a40b4b26a1e7ee777454ea0a87faa47f",
+    "title": "В Махачкале из-за подтоплений эвакуируют жителей одного из микрорайонов",
+    "url": "https://tass.ru/obschestvo/27006187",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:28:58+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "7e26cf93a4ad8f756def8875884e99b2",
     "title": "ТАСС: пожар на кровле Московского высшего командного училища потушен",
     "url": "https://russian.rt.com/russia/news/1616029-pozhar-moskva-voennoe-uchilische?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -950,70 +1022,6 @@
     "url": "https://tass.ru/obschestvo/27005529",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T10:19:10+00:00",
-    "no_image": false
-  },
-  {
-    "id": "962d79775e8f331add1a0b2427710068",
-    "title": "The Times: Киев намерен обратиться к Конгрессу с просьбой о ракетах для Patriot",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27005723",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:18:53+00:00",
-    "no_image": false
-  },
-  {
-    "id": "96dc4fd51bde2fdb38e9fedfae57250c",
-    "title": "В Дагестане из-за подтоплений отменили движение 12 пригородных поездов",
-    "url": "https://tass.ru/obschestvo/27005547",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:18:49+00:00",
-    "no_image": false
-  },
-  {
-    "id": "a965252b1a3a4a697339262e91210372",
-    "title": "От мобилизации мужчин до призыва женщин: как Киев пытается заткнуть дыры на фронте",
-    "url": "https://russian.rt.com/ussr/video/1616002-kak-kiev-pytaetsya-zatknut-dyry-na-fronte?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T10:18:19+00:00",
-    "no_image": false
-  },
-  {
-    "id": "fa3f59db9507ae4ebbcb0ab93f74169c",
-    "title": "Филиппо поддержал экономические меры правительств Словакии и Венгрии",
-    "url": "https://tass.ru/ekonomika/27005733",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:17:26+00:00",
-    "no_image": false
-  },
-  {
-    "id": "ab801e1eb6a005e4d66e1c52a464bbbb",
-    "title": "Эксперт Гапоненко: нефть может удержаться выше $100 до конца года",
-    "url": "https://tass.ru/ekonomika/27005717",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:15:13+00:00",
-    "no_image": false
-  },
-  {
-    "id": "c77384df521d8321b4c1ea63a7c6a103",
-    "title": "Шохин: вопрос о шестидневной рабочей неделе не обсуждается",
-    "url": "https://russian.rt.com/russia/news/1615973-shohin-rabochaya-nedelya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T10:14:56+00:00",
-    "no_image": false
-  },
-  {
-    "id": "fa22d7df0731055cae90ab60a61973e4",
-    "title": "Операция США по спасению пилота обнажила проблемы охраны ядерных объектов Ирана",
-    "url": "https://lenta.ru/news/2026/04/05/operatsiya-ssha-po-spaseniyu-pilota-obnazhila-problemy-ohrany-yadernyh-ob-ektov-irana/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T10:14:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "b9825362af176aada34211df6810a98b",
-    "title": "Сальдо: ВСУ минируют береговую линию Херсона",
-    "url": "https://russian.rt.com/ussr/news/1616004-saldo-minirovanie-vsu?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T10:13:10+00:00",
     "no_image": false
   }
 ]
