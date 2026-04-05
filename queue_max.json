@@ -1,5 +1,32 @@
 [
   {
+    "id": "7353717770815cc1564a00212d4d3841",
+    "title": "ПСВ стал 27-кратным чемпионом Нидерландов по футболу",
+    "url": "https://ria.ru/20260405/futbol-2085312128.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T14:52:50+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "7d8c95a3620912827acdd3f5dd69ac03",
+    "title": "Лавров созвонился с китайским министром иностранных дел",
+    "url": "https://lenta.ru/news/2026/04/05/lavrov-sozvonilsya-s-kitayskim-ministrom-inostrannyh-del/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T14:52:48+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "dd8ca4302b2e1df0fb4843ebfa1716cb",
+    "title": "Губернатор Калининградской области рассказал об эвакуации посетителей ТЦ",
+    "url": "https://ria.ru/20260405/kaliningrad-2085311991.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T14:52:33+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "b23e7310d71300a54d79a3d55d63730d",
     "title": "Перенесшего инфаркт бывшего тренера «Зенита» ввели в медикаментозную кому",
     "url": "https://lenta.ru/news/2026/04/05/perenesshego-infarkt-byvshego-trenera-zenita-vveli-v-medikamentoznuyu-komu/",
@@ -1041,33 +1068,6 @@
     "source": "RT",
     "pub_dt": "2026-04-05T13:28:41+00:00",
     "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "b7c8172c8abb7a0adb229425913b2c34",
-    "title": "В Иране сообщили, что аэропорт в Ахвазе подвергся удару",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007055",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:28:27+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "7998d2c6f15439c81fa43d54749a935b",
-    "title": "В Дербенте эвакуируют заблокированных в доме людей в районе крепости Нарын-Кала",
-    "url": "https://tass.ru/proisshestviya/27007047",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:27:39+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "981c1259566ca81bd4b0606e2fea5962",
-    "title": "«Радиостанция Судного дня» передала второе сообщение за день",
-    "url": "https://lenta.ru/news/2026/04/05/radiostantsiya-sudnogo-dnya-peredala-vtoroe-soobschenie-za-den/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T13:27:00+00:00",
-    "no_image": true,
     "priority_boost_minutes": 0
   }
 ]
