@@ -1,13 +1,5 @@
 [
   {
-    "id": "11d0f105272d06b77a074e1896485ebe",
-    "title": "СМИ: Иран повредил ключевой радар ПРО США на авиабазе в Саудовской Аравии",
-    "url": "https://ria.ru/20260403/radar-2084887157.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-02T22:51:45+00:00",
-    "no_image": false
-  },
-  {
     "id": "25dea355b5bd1a01009aec242d97ec07",
     "title": "Раскрыто, сколько времени в марте солнце светило в Москве",
     "url": "https://ria.ru/20260403/solntse-2084887920.html",
@@ -2390,5 +2382,13 @@
     "source": "RT",
     "pub_dt": "2026-04-05T00:31:18+00:00",
     "no_image": false
+  },
+  {
+    "id": "9bc4b1cd949c78ea4cef7b71e09e8212",
+    "title": "В Греции раскрыли последствия антироссийских санкций для ЕС",
+    "url": "https://lenta.ru/news/2026/04/05/v-gretsii-raskryli-posledstviya-antirossiyskih-sanktsiy-dlya-es/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T00:42:00+00:00",
+    "no_image": true
   }
 ]
