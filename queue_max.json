@@ -1,11 +1,56 @@
 [
   {
+    "id": "1e78a975cb156a3d89ead9d0d1516886",
+    "title": "В Калининграде три человека пострадали во время пожара в ТЦ",
+    "url": "https://ria.ru/20260405/pozhar-2085305053.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T13:41:30+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "48446a9fda1b14b19a44e3d722450080",
+    "title": "Sabah: кабмин Турции обсудит урегулирование на Украине",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007153",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:40:38+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "7ffd7a967b4cc716e42e63f0e10145d9",
+    "title": "Стало известно о смерти создателя гиперзвуковой ракеты «Циркон»",
+    "url": "https://lenta.ru/news/2026/04/05/stalo-izvestno-o-smerti-sozdatelya-giperzvukovoy-rakety-tsirkon/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T13:40:29+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "aa676e2a69a5c6eb6283dceeb73ad3aa",
+    "title": "Застройщик спешит на вызов // Владимир Воронин стал владельцем 100% службы «Врач на дом»",
+    "url": "https://www.kommersant.ru/doc/8569255",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T13:39:21+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "8b683725689177147f0dc6186ad4f615",
     "title": "Дмитриев допустил повышение цен на нефть до 150 долларов за баррель",
     "url": "https://ria.ru/20260405/neft-2085304634.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T13:39:16+00:00",
     "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "529d1cecf7a560171fc668036112c896",
+    "title": "Акинфеев ответил назвавшему цирком судейство в матче «Акрона» с ЦСКА Дзюбе",
+    "url": "https://lenta.ru/news/2026/04/05/akinfeev-otvetil-nazvavshemu-tsirkom-sudeystvo-v-matche-akrona-s-tsska-dzyube/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T13:38:56+00:00",
+    "no_image": true,
     "priority_boost_minutes": 0
   },
   {
@@ -1023,51 +1068,6 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-05T12:25:16+00:00",
     "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "c79ac2995f6e586c80c28a9bdf339d65",
-    "title": "Трамп призвал «сумасшедших ублюдков» открыть «чертов пролив»",
-    "url": "https://lenta.ru/news/2026/04/05/tramp-prizval-sumasshedshih-ublyudkov-otkryt-chertov-proliv/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T12:25:00+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "fe90c37273a8f4f6c0ff38a2b89fc52a",
-    "title": "Финальный аккорд прозвучит заново // СКР и прокуратура еще раз проверят обстоятельства гибели оперного певца",
-    "url": "https://www.kommersant.ru/doc/8569441",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T12:22:12+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "b16dcc98320aee09a2ca026da8c35051",
-    "title": "Празднование Вербного Воскресенья",
-    "url": "https://ria.ru/20260405/pravoslavie-2085285312.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T12:22:11+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "30e28c512389eeaa257075f4339a8b55",
-    "title": "Утекание и наказание // Как компании штрафуют за утечку персональных данных",
-    "url": "https://www.kommersant.ru/doc/8569285",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T12:21:49+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "0bf2369f33a99911ee5d84d590e306bc",
-    "title": "Стало известно об ухудшении состояния перенесшего инфаркт бывшего тренера «Зенита»",
-    "url": "https://lenta.ru/news/2026/04/05/stalo-izvestno-ob-uhudshenii-sostoyaniya-perenesshego-infarkt-byvshego-trenera-zenita/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T12:21:18+00:00",
-    "no_image": true,
     "priority_boost_minutes": 0
   }
 ]
