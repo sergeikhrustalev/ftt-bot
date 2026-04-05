@@ -1,13 +1,5 @@
 [
   {
-    "id": "eaaefb44d01dc4dbdd51b82bcd9f68c5",
-    "title": "Стало известно о поддержке контактов по «Турецкому потоку»",
-    "url": "https://lenta.ru/news/2026/04/03/stalo-izvestno-o-podederzhke-kontaktov-po-turetskomu-potoku/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T03:44:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "2d7e120e56dd001d890c0be9fea8e488",
     "title": "Трамп пригрозил ввести 100-процентные пошлины на импортные лекарства",
     "url": "https://lenta.ru/news/2026/04/03/tramp-prigrozil-vvesti-100-protsentnye-poshliny-na-importnye-lekarstva/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260405/hromachev-2085260792.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T05:20:39+00:00",
+    "no_image": false
+  },
+  {
+    "id": "0707359c3877da7150d4220b203e39ea",
+    "title": "В Нижегородской области ТЭЦ и жилые дома повреждены из-за падения БПЛА",
+    "url": "https://ria.ru/20260405/bpla-2085261635.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T05:30:49+00:00",
     "no_image": false
   }
 ]
