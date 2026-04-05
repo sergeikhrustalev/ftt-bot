@@ -1,13 +1,5 @@
 [
   {
-    "id": "ff00f6a65745487e557f957a7d0a9a89",
-    "title": "Байкер из известного мотоклуба заставил жену оказывать секс-услуги 120 мужчинам",
-    "url": "https://lenta.ru/news/2026/04/03/bayker-iz-izvestnogo-motokluba-zastavil-zhenu-okazyvat-seks-uslugi-120-muzhchinam/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T01:00:26+00:00",
-    "no_image": true
-  },
-  {
     "id": "d591f00e4b926b81532d00ac34dc1bbd",
     "title": "В Киеве и ряде регионов Украины объявили воздушную тревогу",
     "url": "https://ria.ru/20260403/trevoga-2084893778.html",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260405/strastnaya-2085072938.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T02:44:00+00:00",
+    "no_image": false
+  },
+  {
+    "id": "35f112e712d7f3bae30e4ad9f2e75b2d",
+    "title": "Финансист Валишвили назвала три вида кредитов, от которых стоит отказаться",
+    "url": "https://russian.rt.com/business/news/1615904-finansist-kredit-otkaz?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T02:51:21+00:00",
     "no_image": false
   }
 ]
