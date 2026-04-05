@@ -1,5 +1,41 @@
 [
   {
+    "id": "d41942c0722edab033346fe0a6be719f",
+    "title": "Арагчи отметил необходимость действий СБ ООН для урегулирования ситуации вокруг Ирана",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008855",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:07:43+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9c50bdda98fbdab66981e7cf1e285a41",
+    "title": "Силы ПВО сбили две воздушные цели над Севастополем",
+    "url": "https://ria.ru/20260405/sevastopol-2085331406.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:07:04+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "0d843200e44be4785f4737872db92c5b",
+    "title": "\"Кончаются ракеты\". СМИ забили тревогу после случившегося в зоне СВО",
+    "url": "https://ria.ru/20260405/svo-2085331237.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:05:29+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "415d8e2333fd4ec85a668495cd9b7a7b",
+    "title": "Арагчи назвал угрозы США атаковать энергетические объекты признанием военных преступлений",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008851",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:05:10+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "9e476616d9c7e5d02ae0775f2e0e19ef",
     "title": "Россиянам рассказали, как в 2026 году будет регулироваться любительская рыбалка",
     "url": "https://russian.rt.com/russia/news/1616171-rybalka-rossiya-2026?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -1031,42 +1067,6 @@
     "url": "https://ria.ru/20260405/sukhogruz-2085320211.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T16:27:11+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8cf1f530c5730c1a6ce3dfa4b554db08",
-    "title": "Проект «Исследуем Россию» открыл цикл встреч на выставке «Уроки географии» в НЦ «Россия»",
-    "url": "https://russian.rt.com/russia/news/1616122-proekt-issleduem-rossiyu-otkryl-cikl-vstrech-na?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T16:26:04+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "1061e932c44ec8caf80d6a9c4936c568",
-    "title": "Сухогруз в Азовском море был атакован украинским БПЛА",
-    "url": "https://lenta.ru/news/2026/04/05/suhogruz-v-azovskom-more-byl-atakovan-ukrainskim-bpla/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T16:26:00+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "4b08fb4ca0a5dfdf399c758bf2e6eb24",
-    "title": "Украина заявила о непричастности к попытке диверсии на \"Турецком потоке\"",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008245",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:25:38+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "57bf7882e6f82bea5b986e00637440a8",
-    "title": "Глава NASA считает высокими шансы найти внеземную жизнь",
-    "url": "https://tass.ru/kosmos/27008277",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:24:16+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
