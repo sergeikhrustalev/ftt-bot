@@ -1,13 +1,5 @@
 [
   {
-    "id": "66f716981741a53a4aa3eb495db113d2",
-    "title": "В МИД назвали кратчайший путь урегулирования на Украине",
-    "url": "https://lenta.ru/news/2026/04/03/v-mid-nazvali-kratchayshiy-put-uregulirovaniya-na-ukraine/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T04:52:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "a8ed143a1e37079c69cc4ec70c76edfd",
     "title": "Иран заявил об уничтожении американского F-35",
     "url": "https://lenta.ru/news/2026/04/03/iran-zayavil-ob-unichtozhenii/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260405/veschi-2085051332.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T06:33:00+00:00",
+    "no_image": false
+  },
+  {
+    "id": "fe6e8b4f1fb4e134d6e4dd5ad0e45106",
+    "title": "ВСУ 34 раза применили артиллерию по курскому приграничью за сутки",
+    "url": "https://ria.ru/20260405/vsu-2085267284.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T06:40:18+00:00",
     "no_image": false
   }
 ]
