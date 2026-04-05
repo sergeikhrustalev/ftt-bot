@@ -1,13 +1,5 @@
 [
   {
-    "id": "9329051c25d5355bfed4e468fce4ac94",
-    "title": "В Ленобласти при атаке беспилотников пострадали два человека",
-    "url": "https://lenta.ru/news/2026/04/03/v-lenoblasti-pri-atake-bespilotnikov-postradali-dva-cheloveka/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T02:21:55+00:00",
-    "no_image": true
-  },
-  {
     "id": "d0980f0c6df853e807d0e25f9f0fe81b",
     "title": "На Бали встревожились из-за волны изнасилований и расправ над туристами",
     "url": "https://lenta.ru/news/2026/04/03/na-bali-vstrevozhilis-iz-za-volny-iznasilovaniy-i-rasprav-nad-turistami/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T04:00:34+00:00",
     "no_image": true
+  },
+  {
+    "id": "aa692165a1b4345ba4e0b62cfefd913e",
+    "title": "Эксперт Средин: рост спроса на медь в Китае выгоден России",
+    "url": "https://tass.ru/ekonomika/27004185",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T04:10:49+00:00",
+    "no_image": false
   }
 ]
