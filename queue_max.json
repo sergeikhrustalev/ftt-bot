@@ -1,11 +1,29 @@
 [
   {
+    "id": "ab3b0a3b0d799fd46376c832b5b708be",
+    "title": "The Atlantic: конфликтом с Ираном Трамп сделал подарок Путину",
+    "url": "https://russian.rt.com/world/news/1616092-tram-putin-iran?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T15:06:35+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "d4c89b33336c5519db71ed28211ad899",
     "title": "Не стареют кулаками ветераны // Деонтей Уайлдер и Дерек Чисора устроили рубку в Лондоне",
     "url": "https://www.kommersant.ru/doc/8569611",
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-05T15:04:00+00:00",
     "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d4fdb0bb5f2f4736af55685c7b5eb6f4",
+    "title": "Лерчек воссоединилась с младшим сыном и вышла на связь в парике",
+    "url": "https://lenta.ru/news/2026/04/05/lerchek-vossoedinilas-s-mladshim-synom-i-vyshla-na-svyaz-v-parike/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T15:03:51+00:00",
+    "no_image": true,
     "priority_boost_minutes": 0
   },
   {
@@ -1049,24 +1067,6 @@
     "url": "https://tass.ru/mezhdunarodnaya-panorama/27007133",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T13:36:01+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "393d362c8ee2883911ee66ae547f8894",
-    "title": "США и Иран могут достичь сделки в понедельник, заявил Трамп",
-    "url": "https://ria.ru/20260405/tramp-2085303758.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T13:34:05+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "752e38a0f199fd33cb19844c7cfc1668",
-    "title": "AFP: проиранские силы в Ираке дважды атаковали дипломатические объекты США",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007119",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:32:42+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
