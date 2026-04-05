@@ -1,5 +1,86 @@
 [
   {
+    "id": "dfd07dc55d1b0a427b42665914b086d0",
+    "title": "Дмитриев сравнил происходящее с началом COVID-19",
+    "url": "https://russian.rt.com/world/news/1616062-covid-krizis-dmitriev?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T13:29:34+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "106c05c3e2b2b424477ba9704d7c1ed6",
+    "title": "Бестемьянова считает неправильным формат судейства на \"Русском вызове\"",
+    "url": "https://ria.ru/20260405/vyzov-2085303119.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T13:29:19+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "7bed0ba2d6ea10a1c13969378531da34",
+    "title": "В МИД Ирана опровергли слова Рубио об отношении задержанных иранок к Сулеймани",
+    "url": "https://russian.rt.com/world/news/1616055-ssha-iranki-zaderzhanie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T13:28:41+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "b7c8172c8abb7a0adb229425913b2c34",
+    "title": "В Иране сообщили, что аэропорт в Ахвазе подвергся удару",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007055",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:28:27+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "7998d2c6f15439c81fa43d54749a935b",
+    "title": "В Дербенте эвакуируют заблокированных в доме людей в районе крепости Нарын-Кала",
+    "url": "https://tass.ru/proisshestviya/27007047",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:27:39+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "981c1259566ca81bd4b0606e2fea5962",
+    "title": "«Радиостанция Судного дня» передала второе сообщение за день",
+    "url": "https://lenta.ru/news/2026/04/05/radiostantsiya-sudnogo-dnya-peredala-vtoroe-soobschenie-za-den/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T13:27:00+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "03aed7e7033179cfd2e82a2c73fd5b90",
+    "title": "Умер создатель гиперзвуковой ракеты \"Циркон\" Александр Леонов",
+    "url": "https://tass.ru/obschestvo/27007043",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:25:43+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d0cf3d03ed14665dda76a962d4bab6ca",
+    "title": "Фидан, Зеленский и аш-Шараа встретятся в Сирии, пишут СМИ",
+    "url": "https://ria.ru/20260405/smi-2085302931.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T13:25:41+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "62cbff8d787491226462527e0c29789a",
+    "title": "В Московском регионе прошел сильный ливень с градом",
+    "url": "https://tass.ru/obschestvo/27007011",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:25:14+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "9b341e4eba6e53fa7c0c2131da320d37",
     "title": "Polymarket извинился за ставки на судьбу пилотов сбитого в Иране F-15",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188028-polymarket-izvinilsya",
@@ -986,87 +1067,6 @@
     "url": "https://ria.ru/20260405/moldavija-2085297381.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T12:10:35+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f23a5ef04eb6a6c4db42e025272f59d4",
-    "title": "Сергей Меликов прибыл на место обрушения многоэтажного дома в Махачкале",
-    "url": "https://tass.ru/obschestvo/27006627",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:09:46+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "53ae0aa974da30efe91698738ff77994",
-    "title": "Иран атаковал несколько нефтегазовых объектов и заводов США на Ближнем Востоке",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188021-iran-atakoval-neskolko",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T12:08:20+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ec4bd62f360647e30cbf79dab32905ce",
-    "title": "Ушаков заметил, что Каллас пора бы уже последовать собственному призыву \"выпить\"",
-    "url": "https://tass.ru/politika/27006569",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:07:16+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "64a5c432fe922966bfb2479251f6c077",
-    "title": "Появились подробности о затонувшем в Азовском море сухогрузе",
-    "url": "https://lenta.ru/news/2026/04/05/poyavilis-podrobnosti-o-zatonuvshem-v-azovskom-more-suhogruze/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T12:06:57+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8727f5a92078faa433ebbe3778861af8",
-    "title": "Пострадавших при обрушении части многоквартирного дома в Махачкале нет",
-    "url": "https://tass.ru/proisshestviya/27006601",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:06:47+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "0329e9f3ec9171ae6d5a25fe72ff2a2c",
-    "title": "Кадры не решают ничего // Трамп начал жесткую чистку правительства, назначая виновных в системных провалах",
-    "url": "https://www.kommersant.ru/doc/8569452",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T12:06:32+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "785521c97ee5412a4fc0d53ce17a765d",
-    "title": "Россияне из Прибалтики просят Москалькову помочь с возвращением в страну",
-    "url": "https://ria.ru/20260405/moskalkova-2085296813.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T12:06:19+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "349f470c3ab089f85f571ec0776d7c67",
-    "title": "В Петербурге родилась первая в России «однояйцевая» четверня",
-    "url": "https://russian.rt.com/science/news/1616027-peterburg-rossiya-rody?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T12:06:13+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "4f744c02e0b0afc7af0e644830093f2a",
-    "title": "Прокуратура начала проверку после обрушения дома в Махачкале",
-    "url": "https://tass.ru/proisshestviya/27006529",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:05:25+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
