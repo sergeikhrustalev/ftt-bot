@@ -1,5 +1,41 @@
 [
   {
+    "id": "530c4006b302e9d1b67382845688da41",
+    "title": "Telegram начал помечать аккаунты неофициальных клиентов",
+    "url": "https://lenta.ru/news/2026/04/05/telegram-nachal-pomechat-akkaunty-neofitsialnyh-klientov/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T19:27:57+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "7cfd0e90bc860ce897d5c3e4a7ff6863",
+    "title": "В Киеве заявили об истерике Зеленского",
+    "url": "https://lenta.ru/news/2026/04/06/v-kieve-zayavili-ob-isterike-zelenskogo/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T19:27:03+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "3db7181f985b64bdd10f12f70b205f11",
+    "title": "Несколько округов Запорожской области остались без электроснабжения",
+    "url": "https://tass.ru/proisshestviya/27009287",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:26:48+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "77e4e3b71fe3f1119edb0de6d5f85cc9",
+    "title": "В Харькове сотрудники военкомата избили мужчину и женщину",
+    "url": "https://ria.ru/20260405/harkov-2085338337.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T19:25:53+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "d9af4f53b3b2be24e4a6c2cec86306d7",
     "title": "В Иране заявили, что из-за действий США Ближний Восток «сгорит дотла»",
     "url": "https://russian.rt.com/world/news/1616189-ssha-blizhnii-vostok?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -1032,42 +1068,6 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T17:56:44+00:00",
     "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "efa22fa1b2db7b2df0cc2f3d0a423d33",
-    "title": "В Дагестане восстановили 50 процентов электроснабжения",
-    "url": "https://ria.ru/20260405/dagestan-2085329293.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T17:56:36+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "299267b7077ea23586ae4e3a9229ec7e",
-    "title": "В США Зеленского назвали безумным карликом",
-    "url": "https://lenta.ru/news/2026/04/05/v-ssha-zelenskogo-nazvali-bezumnym-karlikom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T17:55:52+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "7799219427f879d85028baf4ee8653fd",
-    "title": "В Калининграде при пожаре в ТЦ \"Гиант\" пострадали два человека",
-    "url": "https://tass.ru/proisshestviya/27008581",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:54:25+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ad4b5ea7fc59d52a109c894973224adc",
-    "title": "В Малом театре состоялась премьера спектакля «Проект инженера Гарина»",
-    "url": "https://russian.rt.com/nopolitics/news/1615988-malyi-teatr-premera-proekt-inzhenera-garina?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T17:54:04+00:00",
-    "no_image": false,
     "priority_boost_minutes": 0
   }
 ]
