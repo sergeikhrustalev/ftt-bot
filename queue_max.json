@@ -1,5 +1,32 @@
 [
   {
+    "id": "cbeafc9f3a76277eba3cb7f54c40a59c",
+    "title": "Силы ПВО за шесть часов сбили 77 украинских БПЛА над территорией России",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188025-sbili-77-ukrainskih-bpla",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T12:51:53+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "32d6b6c1afa846f77e483f9df135fb49",
+    "title": "Обрушение дома в Махачкале. Главное о происшествии",
+    "url": "https://tass.ru/proisshestviya/27006751",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T12:51:01+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "66fff3b7be696ff89224cc95e1b49cfe",
+    "title": "В Севастополе осколком сбитого дрона ВСУ повреждена воздушная линия",
+    "url": "https://tass.ru/proisshestviya/27006833",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T12:48:54+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "d047c8049b5e4655acc62c503f7e7f88",
     "title": "Трамп пригрозил Ирану «адом» в случае отказа открыть Ормузский пролив к 6 апреля",
     "url": "https://russian.rt.com/world/news/1616050-tramp-ad-iran-ormuzskii-proliv?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -1040,33 +1067,6 @@
     "url": "https://ria.ru/20260405/rosatom-2085292700.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T11:32:16+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "59bda71ef0884d0a5971fbcc2e6b098c",
-    "title": "В Иране заявили об изменении стратегии США",
-    "url": "https://lenta.ru/news/2026/04/05/v-irane-zayavili-ob-izmenenii-strategii-ssha/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T11:30:45+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f064f2a1bff9999897257404e7265739",
-    "title": "В Москве предстоящей ночью ожидаются первые апрельские заморозки",
-    "url": "https://tass.ru/obschestvo/27006249",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:30:07+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "83a41ebaf9321b26a92b06e9b7765eb7",
-    "title": "NDR: специалисты обнаружили новые травмы у кита Тимми",
-    "url": "https://tass.ru/obschestvo/27006235",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:29:20+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
