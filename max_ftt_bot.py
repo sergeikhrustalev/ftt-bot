@@ -200,6 +200,12 @@ FLAGS = [
     ("🌍", []),
 ]
 
+LEADING_NOISE_RE = re.compile(
+    r"^\s*(?:(?:мировые\s*24\s*/?\s*7\s*новости|rb\.ru|russian business|cnews(?:\.ru)?|vc(?:\.ru)?|"
+    r"ria(?:\.ru)?|риа(?:\s+новости)?|тасс|rt|ведомости|лента(?:\.ру)?)\s*[\-–—|:.,]*)+",
+    re.IGNORECASE,
+)
+
 
 def detect_flag(text):
     text_lower = text.lower()
@@ -256,6 +262,33 @@ def is_source_credit(line):
     return all(word[:1].isupper() for word in words)
 
 
+def looks_like_leading_source_sentence(sentence):
+    cleaned = collapse_spaces(sentence).strip(" .:-|")
+    if not cleaned:
+        return False
+    if normalize_title(cleaned) in {normalize_title(x) for x in KNOWN_NOISE_LINES}:
+        return True
+    if not is_source_credit(cleaned):
+        return False
+    return bool(re.search(r"[A-Za-z]", cleaned))
+
+
+def strip_leading_noise(text):
+    cleaned = collapse_spaces(text)
+    if not cleaned:
+        return ""
+
+    previous = None
+    while cleaned and cleaned != previous:
+        previous = cleaned
+        cleaned = LEADING_NOISE_RE.sub("", cleaned).lstrip(" .,:;|-")
+        match = re.match(r"^([^.!?\n]{2,60}[.!?])\s+(.*)$", cleaned)
+        if match and looks_like_leading_source_sentence(match.group(1)):
+            cleaned = match.group(2).lstrip(" .,:;|-")
+
+    return cleaned
+
+
 def clean_body(text, title="", source=""):
     if not text:
         return ""
@@ -265,7 +298,7 @@ def clean_body(text, title="", source=""):
     filtered_lines = []
 
     for raw_line in re.split(r"[\r\n]+", text):
-        line = collapse_spaces(raw_line)
+        line = strip_leading_noise(raw_line)
         if not line:
             continue
 
@@ -285,7 +318,7 @@ def clean_body(text, title="", source=""):
 
         filtered_lines.append(line)
 
-    body = collapse_spaces(" ".join(filtered_lines))
+    body = strip_leading_noise(" ".join(filtered_lines))
     if not body:
         return ""
 
