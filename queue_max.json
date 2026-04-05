@@ -1,13 +1,5 @@
 [
   {
-    "id": "e62ec7ba423f3351b637c98fdd26c6d1",
-    "title": "Politico: Франция и Британия поспорили из-за текста резолюции СБ ООН по Ирану",
-    "url": "https://russian.rt.com/world/news/1615053-franciya-britaniya-posporili?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-02T23:40:19+00:00",
-    "no_image": false
-  },
-  {
     "id": "60a1d24ede0a6ccbf479400d4ab4091d",
     "title": "SHOT: взрывы прогремели над Воронежем",
     "url": "https://russian.rt.com/russia/news/1615054-shot-vzryvy-progremeli-voronezh?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2390,5 +2382,13 @@
     "source": "RT",
     "pub_dt": "2026-04-05T01:25:26+00:00",
     "no_image": false
+  },
+  {
+    "id": "177c9466db78dc5832a258758bdf422f",
+    "title": "В Иране сообщили о попытке США ликвидировать собственного пилота",
+    "url": "https://lenta.ru/news/2026/04/05/v-irane-soobschili-o-popytke-ssha-likvidirovat-sobstvennogo-pilota/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T01:34:42+00:00",
+    "no_image": true
   }
 ]
