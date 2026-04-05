@@ -1,5 +1,77 @@
 [
   {
+    "id": "a4e46ed759eec35e0192b8a8ce312662",
+    "title": "В Сербии назвали подозреваемого в диверсии на газопроводе",
+    "url": "https://lenta.ru/news/2026/04/05/v-serbii-nazvali-podozrevaemogo-v-diversii-na-gazoprovode/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T17:09:17+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "2ea952ba93e6b20a68e841ff18714db2",
+    "title": "В Запорожской области два человека погибли из-за атаки ВСУ",
+    "url": "https://ria.ru/20260405/balitskiy-2085324555.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T17:08:23+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e0c4e7faa5f284b97ada5c99f608fcbb",
+    "title": "Очевидица заявила об отключившейся сигнализации при пожаре в калининградском ТЦ",
+    "url": "https://lenta.ru/news/2026/04/05/ocheviditsa-zayavila-ob-otklyuchivsheysya-signalizatsii-pri-pozhare-v-kaliningradskom-tts/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T17:08:23+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a593003fcfe4723f355b7b957777bff0",
+    "title": "РИА Новости: на Украине «полицаи» загоняют людей на принудительные работы",
+    "url": "https://russian.rt.com/ussr/news/1616140-ukraina-prinuditelnye-raboty?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T17:08:09+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "259ffa11515a86c466ce81ccb8d8bb62",
+    "title": "КСИР: Иран нанёс ракетный удар по торговому судну Израиля в порту в Дубае",
+    "url": "https://russian.rt.com/world/news/1616138-iran-sudno-izrail-ataka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T17:07:54+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "838826d3f4c229eddd9ad731f813893a",
+    "title": "После потопа в Дагестане начали обваливаться скалы",
+    "url": "https://lenta.ru/news/2026/04/05/posle-potopa-v-dagestane-nachali-obvalivatsya-skaly/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T17:06:14+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "7081a3d121cdb0e851fc75996af9c006",
+    "title": "\"Заставят капитулировать\". В США возмутились матерным постом Трампа",
+    "url": "https://ria.ru/20260405/tramp-2085324332.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T17:06:04+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "cf53b0a041d0e91afd29c4a1fe80d6e0",
+    "title": "В Севастополе объявили четвертую за день воздушную тревогу",
+    "url": "https://ria.ru/20260405/sevastopol-2085324187.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T17:05:27+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "c825ad75d060e3cf6f057aab56435974",
     "title": "Axios: США продлили на сутки сроки заключения возможной сделки с Ираном",
     "url": "https://tass.ru/mezhdunarodnaya-panorama/27008501",
@@ -995,78 +1067,6 @@
     "url": "https://tass.ru/mezhdunarodnaya-panorama/27007955",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T15:34:49+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "4e2833cd236fadabe4c669b998376a05",
-    "title": "Лавров выразил соболезнования Аракчи из-за гибели сотрудника АЭС \"Бушер\"",
-    "url": "https://ria.ru/20260405/lavrov-2085315428.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T15:34:34+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "26f3470dbacb4188e9d3d6a6f2d75e81",
-    "title": "Гандболистки ЦСКА в четвертый раз выиграли Кубок России",
-    "url": "https://tass.ru/sport/27007971",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:34:11+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "670b6a022bf6781306118fc2a0e2c55f",
-    "title": "Украина открестилась от попытки взорвать трубопровод в Сербии и обвинила Россию",
-    "url": "https://lenta.ru/news/2026/04/05/ukraina-otkrestilas-ot-popytki-vzorvat-truboprovod-v-serbii-i-obvinila-rossiyu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T15:34:00+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "2d77a01bd66dc7dda08f33ddc226a0d3",
-    "title": "МИД: отказ США от ультиматумов способствовал бы миру на Ближнем Востоке",
-    "url": "https://ria.ru/20260405/mid-2085315287.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T15:33:01+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "2e7963b3376f03b9828734f6581383fc",
-    "title": "Меликов назвал причину подтоплений в Махачкале",
-    "url": "https://tass.ru/obschestvo/27007923",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:32:03+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d394f7082c793cd975855838846f2615",
-    "title": "Коммунальщики обязаны очистить улицы от оставшихся после зимы реагентов",
-    "url": "https://tass.ru/obschestvo/27007929",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:31:49+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "6d5a068702f76500585d829e4a3007dc",
-    "title": "В Дагестане тело женщины обнаружили после оползня в селе Кирки",
-    "url": "https://ria.ru/20260405/dagestan-2085315001.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T15:30:16+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "02e8dd57aa2443654b8405eda69c6f4e",
-    "title": "Гол Варатынова помог «Балтике» сыграть вничью с махачкалинским «Динамо»",
-    "url": "https://russian.rt.com/sport/news/1616099-gol-varatynov-baltika?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T15:29:35+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
