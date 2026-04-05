@@ -1,2394 +1,954 @@
 [
   {
-    "id": "a8ed143a1e37079c69cc4ec70c76edfd",
-    "title": "Иран заявил об уничтожении американского F-35",
-    "url": "https://lenta.ru/news/2026/04/03/iran-zayavil-ob-unichtozhenii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T05:04:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "6d8358d3210f7f297bb1840fd3729c12",
-    "title": "Несколько регионов России предупредили об опасности",
-    "url": "https://lenta.ru/news/2026/04/03/neskolko-regionov-rossii-predupredili-ob-opasnosti/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T05:14:48+00:00",
-    "no_image": true
-  },
-  {
-    "id": "e355262c8899b8499bbc489f5103892f",
-    "title": "Российским медикам пришлось везти пациентку на садовой тележке по одной причине",
-    "url": "https://lenta.ru/news/2026/04/03/rossiyskim-medikam-prishlos-vezti-patsientku-na-sadovoy-telezhke-po-odnoy-prichine/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T05:24:41+00:00",
-    "no_image": true
-  },
-  {
-    "id": "ce2425240df6dbf1c6784f3c21dd0533",
-    "title": "Сексолог посоветовала женщинам неочевидный способ мастурбации",
-    "url": "https://lenta.ru/news/2026/04/03/seksolog-posovetovala-zhenschinam-neochevidnyy-sposob-masturbatsii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T05:30:31+00:00",
-    "no_image": true
-  },
-  {
-    "id": "24e2244127d0474adf4a6a8ca218ab40",
-    "title": "Названы новые приоритеты Ирана в конфликте с США",
-    "url": "https://lenta.ru/news/2026/04/03/nazvany-novye-prioritety-irana-v-konflikte-s-ssha/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T05:40:44+00:00",
-    "no_image": true
-  },
-  {
-    "id": "4c1c2c4378124414901fc0b4236e55e2",
-    "title": "Пассажирский поезд Москва — Челябинск сошел с рельсов. В нем находилось несколько сотен человек",
-    "url": "https://lenta.ru/news/2026/04/03/passazhirskiy-poezd-chelyabinsk-moskva-soshel-s-relsov-v-nem-nahodilos-neskolko-soten-chelovek/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T05:51:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "e64384a3403611efcc684e18ac5baa12",
-    "title": "Разведка США раскрыла неожиданные данные об Иране",
-    "url": "https://lenta.ru/news/2026/04/03/razvedka-ssha-raskryla-neozhidannye-dannye-ob-irane/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T06:02:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "8a7566f5bad9d1e7cecd356ee62d499c",
-    "title": "Раскрыта стоимость высмеянного в сети наряда Собчак",
-    "url": "https://lenta.ru/news/2026/04/03/raskryta-stoimost-vysmeyannogo-v-seti-naryada-sobchak/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T06:11:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "d90f8974e7dc760b6e89fc2b18c54ced",
-    "title": "Рябков: прекращение поставок оружия Киеву позволит быстрее всего достичь мира",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/03/1187655-prekraschenie-postavok",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-03T06:20:33+00:00",
-    "no_image": false
-  },
-  {
-    "id": "3835e63d9b5f1a5af6cf74f6b1d53270",
-    "title": "Назван самый полезный вариант кофе",
-    "url": "https://lenta.ru/news/2026/04/03/nazvan-samyy-poleznyy-variant-kofe/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T06:32:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "a36bf6760d2abd7fd8544c0b2ef6a017",
-    "title": "СК возбудил дело после схода вагонов в Ульяновской области",
-    "url": "https://www.vedomosti.ru/society/news/2026/04/03/1187660-delo-posle-shoda",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-03T06:40:40+00:00",
-    "no_image": false
-  },
-  {
-    "id": "0eb2fdcbbcca5e5d48a3b8b59b65cd40",
-    "title": "Названы самые подорожавшие смартфоны",
-    "url": "https://lenta.ru/news/2026/04/03/smartphone-prices/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T06:51:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "888db4a44ac3afd3e46157b5b16a6147",
-    "title": "Российская поп-группа находилась в сошедшем с рельсов поезде Москва — Челябинск",
-    "url": "https://lenta.ru/news/2026/04/03/rossiyskaya-pop-gruppa-nahodilas-v-soshedshem-s-relsov-poezde-moskva-chelyabinsk/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T07:01:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "0ff712f190259cf85af5a77e90a72254",
-    "title": "Полицейских обвинили в многочасовых пытках российского подростка",
-    "url": "https://lenta.ru/news/2026/04/03/politseyskih-obvinili-v-mnogochasovyh-pytkah-rossiyskogo-podrostka/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T07:12:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "9a1f80e1b729511e760bdfd013d9d55d",
-    "title": "Выручка МГКЛ увеличилась в четыре раза за I квартал",
-    "url": "https://www.vedomosti.ru/investments/news/2026/04/03/1187672-viruchka-mgkl",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-03T07:22:10+00:00",
-    "no_image": false
-  },
-  {
-    "id": "1c9ffcfa80f9e29d5ed83330fed77fca",
-    "title": "Любителей некоторых видов спорта предупредили об анальном зуде",
-    "url": "https://lenta.ru/news/2026/04/03/lyubiteley-nekotoryh-vidov-sporta-predupredili-ob-analnom-zude/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T07:32:47+00:00",
-    "no_image": true
-  },
-  {
-    "id": "f53201795ca9358bec439e0025b7deff",
-    "title": "Volga представила вторую модель линейки бренда",
-    "url": "https://www.vedomosti.ru/auto/news/2026/04/03/1187678-volga-predstavila-model",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-03T07:42:24+00:00",
-    "no_image": false
-  },
-  {
-    "id": "24e950946a0a527ae155626891f285a1",
-    "title": "Time: Трамп за день до удара по Ирану объявил о его отмене",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/03/1187681-za-den-do-udara",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-03T07:51:35+00:00",
-    "no_image": false
-  },
-  {
-    "id": "172ebc3deb515b73fbdf448738d50e67",
-    "title": "Возрожденный российский автобренд анонсировал продажи новой модели",
-    "url": "https://lenta.ru/news/2026/04/03/vozrozhdennyy-rossiyskiy-avtobrend-anonsiroval-prodazhi-novoy-modeli/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T08:01:47+00:00",
-    "no_image": true
-  },
-  {
-    "id": "07368bee1933b10b1b745b767c553835",
-    "title": "Трамп пошел на обман окружения перед атакой на Иран",
-    "url": "https://lenta.ru/news/2026/04/03/tramp-poshel-na-obman-okruzheniya-pered-atakoy-na-iran/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T08:12:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "19ee172727f4b4ce9f5023fb1702d473",
-    "title": "Власти сообщили о росте числа пострадавших при сходе поезда под Ульяновском",
-    "url": "https://lenta.ru/news/2026/04/03/vlasti-soobschili-o-roste-chisla-postradavshih-pri-shode-poezda-pod-ulyanovskom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T08:21:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "f2a0b098117f29abc3764f73065891a3",
-    "title": "Пострадавших в Ульяновской области пассажиров доставят домой резервным составом",
-    "url": "https://lenta.ru/news/2026/04/03/postradavshih-v-ulyanovskoy-oblasti-passazhirov-dostavyat-domoy-rezervnym-sostavom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T08:32:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "0f3df12d975272de22fb0da03b9f0ee5",
-    "title": "Цена оферты «Недвижимых активов» на выкуп акций ПИК составила 551,4 рубля",
-    "url": "https://www.vedomosti.ru/investments/news/2026/04/03/1187701-tsena-oferti",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-03T08:41:44+00:00",
-    "no_image": false
-  },
-  {
-    "id": "e171e2c7f93e49dd4b28ba7f0a541f8f",
-    "title": "Скидки на смартфоны Xiaomi отменили",
-    "url": "https://lenta.ru/news/2026/04/03/no-sales/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T08:51:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "424c1c5480c8b43a21f7ba61eb776f6f",
-    "title": "Праздновавшей день рождения в батутном клубе российской школьнице оторвало палец",
-    "url": "https://lenta.ru/news/2026/04/03/prazdnovavshey-den-rozhdeniya-v-batutnom-klube-rossiyskoy-shkolnitse-otorvalo-palets/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T09:02:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "d5dd316fc7d3e93d2e3fa97d9e6e16a4",
-    "title": "Шеф Пентагона застал врасплох армию США одним решением",
-    "url": "https://lenta.ru/news/2026/04/03/shef-pentagona-zastal-vrasploh-armiyu-ssha-odnim-resheniem/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T09:12:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "46d59ddcce02087003abe593a91e4be9",
-    "title": "Данные о введении комиссии при снятии наличных свыше 5 тысяч рублей оказались недостоверны",
-    "url": "https://lenta.ru/news/2026/04/03/dannye-o-vvedenii-komissii-pri-snyatii-nalichnyh-svyshe-5-tysyach-rubley-okazalis-nedostoverny/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T09:22:12+00:00",
-    "no_image": true
-  },
-  {
-    "id": "4c9bac6a8a5c7f3af805fa6f4633cd45",
-    "title": "Европейские авиакомпании начали отменять рейсы из-за ситуации с топливом",
-    "url": "https://lenta.ru/news/2026/04/03/evropeyskie-aviakompanii-nachali-otmenyat-reysy-iz-za-situatsii-s-toplivom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T09:32:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "2a49f97cd6da309a77e33fe125c27b05",
-    "title": "На Западе заявили об ударе Ирана по самому уязвимому месту Трампа",
-    "url": "https://lenta.ru/news/2026/04/03/na-zapade-zayavili-ob-udare-irana-po-samomu-uyazvimomu-mestu-trampa/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T09:42:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "05ad88f2ada51cedf1b4fc1f4f39b587",
-    "title": "Внешность лысеющего мужчины после стрижки взорвала соцсети",
-    "url": "https://lenta.ru/news/2026/04/03/vneshnost-lyseyuschego-muzhchiny-posle-strizhki-vzorvala-sotsseti/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T09:51:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "5a965cf438f1b0db6ca3d802a20817a2",
-    "title": "Первому европейскому судну удалось пройти через Ормузский пролив",
-    "url": "https://lenta.ru/news/2026/04/03/pervomu-evropeyskomu-sudnu-udalos-proyti-cherez-ormuzskiy-proliv/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T10:01:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "85fc0b5caa56a7a3527af7a5366f2576",
-    "title": "Австралия направила спецназ на Ближний Восток для одной задачи",
-    "url": "https://lenta.ru/news/2026/04/03/avstraliya-napravila-spetsnaz-na-blizhniy-vostok-dlya-odnoy-zadachi/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T10:13:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "6f29a1d8ddcc926876c2e8c486fafefc",
-    "title": "В Госдуме нашли способ решить проблему с этническими анклавами",
-    "url": "https://lenta.ru/news/2026/04/03/v-gosdume-nashli-sposob-reshit-problemu-s-etnicheskimi-anklavami/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T10:21:25+00:00",
-    "no_image": true
-  },
-  {
-    "id": "96ddc3a94b1f04484c46bdfd6268d8f5",
-    "title": "Макрон призвал объединиться против США и Китая",
-    "url": "https://lenta.ru/news/2026/04/03/makron-prizval-ob-edinitsya-protiv-ssha-i-kitaya/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T10:31:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "f720d26b43610aa7fa772e4e0cdeed9e",
-    "title": "МИД РФ осудил удар США и Израиля по русскому православному собору в Тегеране",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/03/1187764-mid-osudil-udar-ssha",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-03T10:43:28+00:00",
-    "no_image": false
-  },
-  {
-    "id": "b736c4e93755cdeff395e901b4b74dd7",
-    "title": "Доходы блогера Влада Бумаги резко упали",
-    "url": "https://lenta.ru/news/2026/04/03/dohody-blogera-vlada-bumagi-rezko-upali/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T10:52:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "eca23d9c1658bfb6037368c3368b030a",
-    "title": "Россиян предупредили о сложностях с получением испанского шенгена",
-    "url": "https://lenta.ru/news/2026/04/03/rossiyan-predupredili-o-slozhnostyah-s-polucheniem-ispanskogo-shengena/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T11:02:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "c3ba93ce84c0185c006f24ae8fa7a0bf",
-    "title": "Россиянам назвали главные ошибки при аренде жилья",
-    "url": "https://lenta.ru/news/2026/04/03/rossiyanam-nazvali-glavnye-oshibki-pri-arende-zhilya/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T11:11:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "e0a18d9e511d6b5185f884b7dce84d46",
-    "title": "Стало известно о захвате американского пилота иранскими силами",
-    "url": "https://lenta.ru/news/2026/04/03/stalo-izvestno-o-zahvate-amerikanskogo-pilota-iranskimi-silami/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T11:21:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "049f2e3f7b18c83aba1a9b91d4ee8a39",
-    "title": "На Украине захотели полностью запретить Telegram",
-    "url": "https://lenta.ru/news/2026/04/03/na-ukraine-zahoteli-polnostyu-zapretit-telegram/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T11:33:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "d7625854a4fb7a7238af7aa91fed66e2",
-    "title": "В России высказались о новом центре принятия решений в Европе",
-    "url": "https://lenta.ru/news/2026/04/03/v-rossii-vyskazalis-o-novom-tsentre-prinyatiya-resheniy-v-evrope/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T11:42:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "246db8c758f30c7d22183bb6de3efc1b",
-    "title": "Выявлен неочевидный способ снизить риск инфаркта и инсульта",
-    "url": "https://lenta.ru/news/2026/04/03/vyyavlen-neochevidnyy-sposob-snizit-risk-infarkta-i-insulta/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T11:51:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "cf181d94cd7993c5e6dadb4710667646",
-    "title": "Появились подробности о необязательной сдаче ЕГЭ в некоторых российских регионах",
-    "url": "https://lenta.ru/news/2026/04/03/minprosvescheniya-vneslo-izmeneniya-v-sdachu-ege-dlya-nekotoryh-rossiyskih-regionov/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T12:01:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "06828552bdd30fca2ca5f29a675c17ca",
-    "title": "Зеленский захотел помочь разблокировать Ормузский пролив",
-    "url": "https://lenta.ru/news/2026/04/03/zelenskiy-zahotel-pomoch-razblokirovat-ormuzskiy-proliv/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T12:12:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "ceee106fff2936e9df1f1957917365d5",
-    "title": "Модель фитнес-бикини и владелец ритуальной конторы из России бесследно пропали в Таиланде",
-    "url": "https://lenta.ru/news/2026/04/03/model-fitnes-bikini-i-vladelets-ritualnoy-kontory-iz-rossii-bessledno-propali-v-tailande/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T12:26:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "079e8e225cb4d485951701b47794109f",
-    "title": "Айсберг бродит по Европе // «Титаник» у ворот Парижа",
-    "url": "https://www.kommersant.ru/doc/8568590",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-03T12:30:56+00:00",
-    "no_image": false
-  },
-  {
-    "id": "6a7ab53773572f5a9698cba2dcd2f888",
-    "title": "Бензин АИ-92 на бирже подешевел за неделю на 2,73%",
-    "url": "https://www.vedomosti.ru/business/news/2026/04/03/1187801-benzin-podeshevel",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-03T12:40:45+00:00",
-    "no_image": false
-  },
-  {
-    "id": "c9bc063f951ca7df946c919c7c878ba7",
-    "title": "12 тонн украденных батончиков KitKat решили искать с помощью любителей сладостей",
-    "url": "https://lenta.ru/news/2026/04/03/12-tonn-ukradennyh-batonchikov-kitkat-reshili-iskat-s-pomoschyu-lyubiteley-sladostey/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T12:52:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "4b97a1caee471a406e7766bcb0f2221e",
-    "title": "Беременная стюардесса ошпарилась кипятком из-за взорвавшегося пакета с кофе",
-    "url": "https://lenta.ru/news/2026/04/03/beremennaya-styuardessa-oshparilas-kipyatkom-iz-za-vzorvavshegosya-paketa-s-kofe/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T13:05:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "28fe4518b0147fea76b7e0517899bf02",
-    "title": "В Германии резко подорожал один вид топлива",
-    "url": "https://lenta.ru/news/2026/04/03/v-germanii-rezko-podorozhal-odin-vid-topliva/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T13:11:38+00:00",
-    "no_image": true
-  },
-  {
-    "id": "90daadae483d35106da7a16f422d37e1",
-    "title": "Иранские селяне отправились на поиски американцев",
-    "url": "https://lenta.ru/news/2026/04/03/iranskie-selyane-otpravilis-na-poiski-amerikantsev/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T13:22:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "41f4aedb522d994523530efa5415e8c1",
-    "title": "У женщины разнесло рот после чистки зубов",
-    "url": "https://lenta.ru/news/2026/04/03/u-zhenschiny-razneslo-rot-posle-chistki-zubov/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T13:30:19+00:00",
-    "no_image": true
-  },
-  {
-    "id": "70b5ecdecd8db83cdce0fec5eb9b410d",
-    "title": "Москвичам рассказали о погоде в выходные",
-    "url": "https://lenta.ru/news/2026/04/03/moskvicham-rasskazali-o-pogode-na-vyhodnyh/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T13:42:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "54021d8cc6bc29786a5307e775d9ed0c",
-    "title": "Путин упразднил комиссию по вопросам развития авиации на основе ГЛОНАСС",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/03/1187823-putin-komissiyu-glonass",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-03T13:50:57+00:00",
-    "no_image": false
-  },
-  {
-    "id": "5fefd18a9e8bd32f8ca01af8ebe430d1",
-    "title": "Туристка нашла любовь во время отпуска и получила ножом в живот от бывшего мужа",
-    "url": "https://lenta.ru/news/2026/04/03/turistka-nashla-lyubov-vo-vremya-otpuska-i-poluchila-nozhom-v-zhivot-ot-byvshego-muzha/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T14:03:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "86c47e5cf4b72bb66f8d779a67598eb6",
-    "title": "В России не смогли справиться с дефицитом ряда профессий",
-    "url": "https://lenta.ru/news/2026/04/03/v-rossii-ne-smogli-spravitsya-s-defitsitom-ryada-professiy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T14:10:33+00:00",
-    "no_image": true
-  },
-  {
-    "id": "142d25e6f2f7bf17d3cc100f60f3c33b",
-    "title": "Продажи новых LCV в марте снизились на 15%",
-    "url": "https://www.vedomosti.ru/auto/news/2026/04/03/1187828-kommercheskih-mashin",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-03T14:21:45+00:00",
-    "no_image": false
-  },
-  {
-    "id": "2aae35e51de07babe474d2a854f3a8e1",
-    "title": "Врач развеял миф о связи катания на велосипеде и риске одного вида рака",
-    "url": "https://lenta.ru/news/2026/04/03/vrach-razveyal-mif-o-svyazi-kataniya-na-velosipede-i-riske-odnogo-vida-raka/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T14:33:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "f282038b599017560096c71c46f5b533",
-    "title": "Смолов сделал громкое заявление о кафе «Кофемания» на Большой Никитской",
-    "url": "https://lenta.ru/news/2026/04/03/smolov-sdelal-gromkoe-zayavlenie-o-kafe-kofemaniya-na-bolshoy-nikitskoy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T14:41:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "b452bc62b8bf7053d141e2306538b0fd",
-    "title": "Кидающие за деньги // НБА получила свыше 120 заявок на вступление в свой европейский проект",
-    "url": "https://www.kommersant.ru/doc/8568683",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-03T14:50:57+00:00",
-    "no_image": false
-  },
-  {
-    "id": "ebece02bca559d8b9800f9d1ffd984ee",
-    "title": "Отправка бомжей на СВО провалилась",
-    "url": "https://lenta.ru/news/2026/04/03/otpravka-bomzhey-na-svo-provalilas/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T15:00:46+00:00",
-    "no_image": true
-  },
-  {
-    "id": "09865c7043905d656112d17274b3b543",
-    "title": "Очевидец описал первые минуты схода поезда под Ульяновском фразой «люди попадали в проход»",
-    "url": "https://lenta.ru/news/2026/04/03/ochevidets-opisal-pervye-minuty-shoda-poezda-pod-ulyanovskom-frazoy-lyudi-popadali-v-prohod/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T15:11:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "8142640df6d066003200eb2356bee634",
-    "title": "В российском регионе паводками снесло мост",
-    "url": "https://lenta.ru/news/2026/04/03/shiloksha-most/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T15:22:34+00:00",
-    "no_image": true
-  },
-  {
-    "id": "e4e1c50fb58155f4229cdb7376d57d62",
-    "title": "Крупнейший производитель алюминия назвал сроки восстановления завода после атаки Ирана",
-    "url": "https://lenta.ru/news/2026/04/03/krupneyshiy-proizvoditel-alyuminiya-nazval-sroki-vosstanovleniya-zavoda-posle-ataki-irana/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T15:33:49+00:00",
-    "no_image": true
-  },
-  {
-    "id": "9732fbd07e9b400ffbe0a6d09ed101cf",
-    "title": "Россию похвалили за подход в международных делах",
-    "url": "https://lenta.ru/news/2026/04/03/rossiyu-pohvalili-za-podhod-v-mezhdunarodnyh-delah/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T15:41:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "6a3f7641c345bdda02e7aa10de1c43d2",
-    "title": "Трампа уведомили о возможном крушении американского истребителя над Ираном",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/03/1187874-trampa-istrebitelya-bombardirovschika",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-03T15:50:58+00:00",
-    "no_image": false
-  },
-  {
-    "id": "5a781c2865e5f6dfcc1f9dde8f0673c3",
-    "title": "\"Стал мишенью\". СМИ раскрыли, что случилось с Трампом из-за Ирана",
-    "url": "https://ria.ru/20260403/tramp-2085109024.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T16:02:00+00:00",
-    "no_image": false
-  },
-  {
-    "id": "63577a8f1ebc5c8edf7695c7bbf9bde1",
-    "title": "Рублев вышел в полуфинал выставочного турнира в римском амфитеатре в Ниме",
-    "url": "https://ria.ru/20260403/rublev-2085111395.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T16:11:08+00:00",
-    "no_image": false
-  },
-  {
-    "id": "8e4afa025e07b9e0b7420e2569f19227",
-    "title": "Очевидцы: мужчины выносили детей из перевернувшихся вагонов под Ульяновском",
-    "url": "https://tass.ru/obschestvo/26997451",
+    "id": "e379d86b7628390b309ec9a9c7f180b5",
+    "title": "Самолет \"Уральских авиалиний\" совершил вынужденную посадку из-за смерти пассажирки",
+    "url": "https://tass.ru/proisshestviya/27005859",
     "source": "ТАСС",
-    "pub_dt": "2026-04-03T16:20:40+00:00",
+    "pub_dt": "2026-04-05T10:44:54+00:00",
     "no_image": false
   },
   {
-    "id": "19775074f98f58225a83616b01d008b6",
-    "title": "Людям с диабетом объяснили пользу одного популярного кисломолочного продукта",
-    "url": "https://lenta.ru/news/2026/04/03/lyudyam-s-diabetom-ob-yasnili-polzu-odnogo-populyarnogo-kislomolochnogo-produkta/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T16:31:44+00:00",
-    "no_image": true
-  },
-  {
-    "id": "da10a8f9786c5b593cb52ea6bcfe51b0",
-    "title": "Матвиенко: многие страны поняли, что единственная защита — ядерное оружие",
-    "url": "https://ria.ru/20260403/matvienko-2085115143.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T16:40:59+00:00",
-    "no_image": false
-  },
-  {
-    "id": "7a26f1b146e64e3f9ff1f373af4c4288",
-    "title": "Запрета абортов в России не будет, заявила Матвиенко",
-    "url": "https://ria.ru/20260403/matvienko-2085116199.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T16:50:38+00:00",
-    "no_image": false
-  },
-  {
-    "id": "c3d11516b38d99e41ca555694612306f",
-    "title": "В Севастополе отменили воздушную тревогу",
-    "url": "https://ria.ru/20260403/opasnost-2085119645.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T17:00:56+00:00",
-    "no_image": false
-  },
-  {
-    "id": "352c22ba174d777616251b097141f205",
-    "title": "Российская пара намеренно заморила родного ребенка голодом",
-    "url": "https://lenta.ru/news/2026/04/03/rossiyskaya-para-namerenno-zamorila-rodnogo-rebenka-golodom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T17:11:33+00:00",
-    "no_image": true
-  },
-  {
-    "id": "789d26333dc07e59d436f39bdb30b1b4",
-    "title": "ДТП с участием автобусов, перевозивших детей, в России в 2025 году",
-    "url": "https://ria.ru/20260403/dtp-2021500562.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T17:20:50+00:00",
-    "no_image": false
-  },
-  {
-    "id": "5944cda910042715d41025b0ef111ac9",
-    "title": "Стоимость проезда по МСД проиндексируют на 4 рубля за участок с 10 апреля",
-    "url": "https://tass.ru/ekonomika/26997781",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-03T17:30:47+00:00",
-    "no_image": false
-  },
-  {
-    "id": "5567cb731d4502be26aec5936c06e1e6",
-    "title": "Силы ПВО сбили 40 беспилотников над регионами России",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/03/1187892-40-bespilotnikov",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-03T17:40:37+00:00",
-    "no_image": false
-  },
-  {
-    "id": "35d593e2813bdbd645bff5e54be67700",
-    "title": "Над регионами России сбили 40 украинских БПЛА",
-    "url": "https://tass.ru/armiya-i-opk/26997809",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-03T17:50:54+00:00",
-    "no_image": false
-  },
-  {
-    "id": "e50ba953b7f3b5875aeac1acb1871c46",
-    "title": "Fix Price получил прибыль в 11 млрд рублей в I квартале",
-    "url": "https://www.vedomosti.ru/business/news/2026/04/03/1187893-fix-price-pribil",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-03T18:00:28+00:00",
-    "no_image": false
-  },
-  {
-    "id": "ab2fdc9450c56761a5d1221d72156d91",
-    "title": "Мининформ Белоруссии прокомментировало удаление YouTube-канала БелТА",
-    "url": "https://ria.ru/20260403/belorussiya-2085125440.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T18:10:54+00:00",
-    "no_image": false
-  },
-  {
-    "id": "243a4ef7bc1c2386c174e7779d1d649d",
-    "title": "Мужчина поссорился с соседом и напугал его привидениями",
-    "url": "https://lenta.ru/news/2026/04/03/muzhchina-possorilsya-s-sosedom-i-napugal-ego-privideniyami/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T18:21:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "36ff89df0c32972d24564d7292c5a21e",
-    "title": "Раскрыт хитрый план Израиля в отношении Трампа",
-    "url": "https://lenta.ru/news/2026/04/03/raskryt-plan-izrailya-v-otnoshenii-trampa/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T18:31:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "18a8d333a735980d37ff4f3f3d991f76",
-    "title": "Депутат одобрил переезд россиян в Белоруссию",
-    "url": "https://lenta.ru/news/2026/04/03/deputat-odobril-pereezd-rossiyan-v-belorussiyu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T18:40:59+00:00",
-    "no_image": true
-  },
-  {
-    "id": "8e69bd1af234b3b28eb8f74a9c20be33",
-    "title": "В Заполярье в ДТП с автобусом погиб человек",
-    "url": "https://tass.ru/proisshestviya/26998111",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-03T18:50:47+00:00",
-    "no_image": false
-  },
-  {
-    "id": "4b04e9169b76e47bb0549459cf587aff",
-    "title": "Баскетболисты \"Локомотива-Кубани\" обыграли МБА-МАИ в матче Единой лиги ВТБ",
-    "url": "https://ria.ru/20260403/basketbol-2085130476.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T19:00:17+00:00",
-    "no_image": false
-  },
-  {
-    "id": "a35817bfdc7118498722a798affcc3f8",
-    "title": "Главу Токсовского поселения задержали по делу о получении взятки",
-    "url": "https://ria.ru/20260403/vzyatka-2085131200.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T19:10:48+00:00",
-    "no_image": false
-  },
-  {
-    "id": "fb960930654a7cdb63f769f0b7b072b4",
-    "title": "На Западе рассказали о расстройстве властей Украины из-за Каллас",
-    "url": "https://lenta.ru/news/2026/04/03/na-zapade-rasskazali-o-rasstroystve-vlastey-ukrainy-iz-za-kallas/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T19:22:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "f0e780714d5754667635f8177c9fb078",
-    "title": "Париж запросил проверку нефтеперерабатывающих заводов в ЕС из-за роста цен",
-    "url": "https://tass.ru/ekonomika/26998437",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-03T19:30:55+00:00",
-    "no_image": false
-  },
-  {
-    "id": "9cf1953decb53a370637a21d6559baf7",
-    "title": "Блогер Чжу Минюэ умерла от рака на 42-м году жизни",
-    "url": "https://russian.rt.com/world/news/1615487-minyue-bloger-smert?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "id": "6e06efbb738b1bffc2974164bc9a9936",
+    "title": "Зеленский заявил о страхе Киева остаться без оружия из-за войны в Иране",
+    "url": "https://russian.rt.com/world/news/1616015-zelenskii-ukraina-iran?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
-    "pub_dt": "2026-04-03T19:40:24+00:00",
+    "pub_dt": "2026-04-05T10:44:43+00:00",
     "no_image": false
   },
   {
-    "id": "fe62139ce5ead45ea05f0f29e518364e",
-    "title": "Трамп прокомментировал крушение истребителя США над Ираном",
-    "url": "https://lenta.ru/news/2026/04/03/tramp-prokommentiroval-krushenie-istrebitelya-ssha-nad-iranom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T19:51:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "5d2d5dd3f0f06c3852a3999008d07ee0",
-    "title": "Fars: Иран 2 апреля отверг предложение США о 48-часовом перемирии",
-    "url": "https://russian.rt.com/world/news/1615489-iran-peremirie-ssha?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "id": "2013c5a453164b18db8f8b0168252ff6",
+    "title": "Песков: Россия считает себя вправе прояснить планы Армении перед выборами",
+    "url": "https://russian.rt.com/world/news/1616012-peskov-rossiya-plany-armeniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
-    "pub_dt": "2026-04-03T20:00:25+00:00",
+    "pub_dt": "2026-04-05T10:43:26+00:00",
     "no_image": false
   },
   {
-    "id": "022a463b5d93468d97bf279d97f49bb5",
-    "title": "Подполье сообщило о «нездоровом движе» офицеров НАТО на Украине",
-    "url": "https://lenta.ru/news/2026/04/03/v-podpolie-soobschili-o-nezdorovom-dvizhe-ofitserov-nato-na-ukraine/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T20:11:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "0184dc11a07649543ed47273aeb9c735",
-    "title": "В Энергодаре из-за атаки ВСУ повреждены вышка связи и многоэтажный дом",
-    "url": "https://tass.ru/proisshestviya/26998649",
+    "id": "afdd55fb2ed90eb85647d35c8bbc0e2b",
+    "title": "ТАСС: в Московском высшем общевойсковом командном училище локализовали пожар",
+    "url": "https://tass.ru/proisshestviya/27005819",
     "source": "ТАСС",
-    "pub_dt": "2026-04-03T20:23:20+00:00",
+    "pub_dt": "2026-04-05T10:42:24+00:00",
     "no_image": false
   },
   {
-    "id": "57065daf09d91d1fd4ab7f650b4a5262",
-    "title": "КСИР призвал главу ВВС США уйти в отставку после падения самолетов в Иране",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26998685",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-03T20:30:59+00:00",
-    "no_image": false
-  },
-  {
-    "id": "265d586079a5f2d164d24c0e1f07c95b",
-    "title": "Дубль Дембеле помог \"ПСЖ\" Сафонова обыграть \"Тулузу\"",
-    "url": "https://ria.ru/20260403/futbol-2085135674.html",
+    "id": "7eef5085affce9df8f38d000aeda54c4",
+    "title": "Россиян не было на задержанном Швецией судне Flora 1, заявил посол",
+    "url": "https://ria.ru/20260405/shvetsiya-2085285920.html",
     "source": "РИА",
-    "pub_dt": "2026-04-03T20:40:44+00:00",
+    "pub_dt": "2026-04-05T10:41:44+00:00",
     "no_image": false
   },
   {
-    "id": "ff18d9cc18d823ff3422e15bdd53c191",
-    "title": "Бойцы ВС России рассказали об уничтожении украинской ДРГ у села Владимировка",
-    "url": "https://russian.rt.com/ussr/news/1615501-drg-vladimirovka-vsu?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "id": "20e02573d237e401aea6ab3bcd6e980f",
+    "title": "Вучич пообещал «безжалостные разборки» из-за взрывчатки у трубопровода с российским газом",
+    "url": "https://lenta.ru/news/2026/04/05/vuchich-poobeschal-bezzhalostnye-razborki-iz-za-vzryvchatki-u-truboprovoda-s-rossiyskim-gazom/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T10:41:33+00:00",
+    "no_image": true
+  },
+  {
+    "id": "94f49ef9b41348514d547dcaa3a1f622",
+    "title": "В Дагестане штормовое предупреждение сохранится до конца суток",
+    "url": "https://tass.ru/obschestvo/27005791",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:40:35+00:00",
+    "no_image": false
+  },
+  {
+    "id": "6dce3c64d2daf70eadefa6910ed9b070",
+    "title": "NYT: спасенного в Иране штурмана американского F-15E доставили в Кувейт",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27005809",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:40:21+00:00",
+    "no_image": false
+  },
+  {
+    "id": "6b6c8032ad838b8f5dedfe1867a6bc52",
+    "title": "Вытолкнувшего проводницу на пути россиянина задержали",
+    "url": "https://lenta.ru/news/2026/04/05/vytolknuvshego-provodnitsu-na-puti-rossiyanina-zaderzhali/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T10:39:43+00:00",
+    "no_image": true
+  },
+  {
+    "id": "e2274f93b3a83ec59a165190b9d9006a",
+    "title": "Российские юниорки вышли в 1/4 финала волейбольного турнира в Италии",
+    "url": "https://tass.ru/sport/27005825",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:39:41+00:00",
+    "no_image": false
+  },
+  {
+    "id": "ef235bb84d6dbae5c3eb7707686365f3",
+    "title": "В Новосибирской области в ДТП погиб человек",
+    "url": "https://tass.ru/proisshestviya/27005805",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:39:26+00:00",
+    "no_image": false
+  },
+  {
+    "id": "3cfb473452d628b636558dcb422f2812",
+    "title": "Посол КНР предложил сделать безвиз с Россией бессрочным",
+    "url": "https://russian.rt.com/world/news/1615996-bezviz-rossiya-kitay?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
-    "pub_dt": "2026-04-03T20:50:34+00:00",
+    "pub_dt": "2026-04-05T10:39:20+00:00",
     "no_image": false
   },
   {
-    "id": "00d4fedf4c94d0bc27113eebc53afd12",
-    "title": "Сотрудников администрации Токсово задержали по делу о взятке в 40 млн рублей",
-    "url": "https://www.vedomosti.ru/society/news/2026/04/03/1187907-toksovo-vzyatke",
+    "id": "b2e6bf49a8582b1915e0a24fee7069f9",
+    "title": "В католическую Пасху Папа Римский высказался против силы доминирования",
+    "url": "https://tass.ru/obschestvo/27005709",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:38:26+00:00",
+    "no_image": false
+  },
+  {
+    "id": "67d4453ac891d437635e67647b6b4b85",
+    "title": "В Тульской области паводок идет на спад",
+    "url": "https://tass.ru/obschestvo/27005803",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:36:13+00:00",
+    "no_image": false
+  },
+  {
+    "id": "eeafc0cff2c86834e47e6466aa871780",
+    "title": "США уничтожили в Иране два своих самолета при спасении пилота",
+    "url": "https://lenta.ru/news/2026/04/05/ssha-unichtozhili-v-irane-dva-svoih-samoleta-pri-spasenii-pilota/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T10:36:04+00:00",
+    "no_image": true
+  },
+  {
+    "id": "bd827fcdc5639a11ba65b1aa471aa098",
+    "title": "Актриса Екатерина Шпица поздравила мужа с днем рождения откровенным фото",
+    "url": "https://lenta.ru/news/2026/04/05/aktrisa-ekaterina-shpitsa-pozdravila-muzha-s-dnem-rozhdeniya-otkrovennym-foto/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T10:35:40+00:00",
+    "no_image": true
+  },
+  {
+    "id": "215e5b69ee6fe1d7908771c62a51431d",
+    "title": "Российские волейболистки U17 вышли в четвертьфинал международного турнира",
+    "url": "https://ria.ru/20260405/volejbol-2085285522.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T10:35:32+00:00",
+    "no_image": false
+  },
+  {
+    "id": "686b06a883895a3fe524f3d5a52a85aa",
+    "title": "Песков заявил о более высоких темпах роста Армении благодаря ЕАЭС",
+    "url": "https://russian.rt.com/world/news/1616001-armeniya-eaes-peskov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:35:25+00:00",
+    "no_image": false
+  },
+  {
+    "id": "c3c65b824cd506195cc1fa2bebb0adfc",
+    "title": "Известный комик рассказал о борьбе с раком и назвал тревожный симптом",
+    "url": "https://lenta.ru/news/2026/04/05/trevozhniy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T10:35:18+00:00",
+    "no_image": true
+  },
+  {
+    "id": "e7532f46cead1da73eb228b523d70ea9",
+    "title": "Число подтопленных низководных мостов в Рязанской области возросло до 20",
+    "url": "https://tass.ru/obschestvo/27005801",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:34:54+00:00",
+    "no_image": false
+  },
+  {
+    "id": "7fa743530de580e9f6c3bfdf4d09d2dc",
+    "title": "Причиной неполадок с туалетом на летящем к Луне корабле Orion могло стать обледенение",
+    "url": "https://tass.ru/kosmos/27005799",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:34:48+00:00",
+    "no_image": false
+  },
+  {
+    "id": "c8a74560b31caa3a0cc537b4201a14cc",
+    "title": "Лихачёв назвал тревожной нормой сдвигание красных линий в ядерной безопасности",
+    "url": "https://russian.rt.com/world/news/1616005-lihachyov-krasnye-linii?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:34:37+00:00",
+    "no_image": false
+  },
+  {
+    "id": "ccd803d607dc58e235ca977ae8fc5661",
+    "title": "Папа Римский в католическую Пасху объявил о молитве за мир 11 апреля",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27005765",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:32:10+00:00",
+    "no_image": false
+  },
+  {
+    "id": "9b9f827d9950c7f0dd1fe049685ec04b",
+    "title": "Захарова прокомментировала инцидент со взрывчаткой у газопровода в Сербии",
+    "url": "https://ria.ru/20260405/zakharova-2085285224.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T10:31:54+00:00",
+    "no_image": false
+  },
+  {
+    "id": "1425a573b57719dea633f0f276371eea",
+    "title": "В России женщина впервые родила однояйцевую четверню",
+    "url": "https://lenta.ru/news/2026/04/05/v-rossii-zhenschina-vpervye-rodila-odnoyaytsevuyu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T10:31:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "c9ac12fb49dbc36ddcbc45594a2a1028",
+    "title": "В России впервые родились однояйцевые четверняшки",
+    "url": "https://ria.ru/20260405/chetvernyashki-2085285011.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T10:29:36+00:00",
+    "no_image": false
+  },
+  {
+    "id": "fd353355c4104750a078054c0cf580d1",
+    "title": "Юрист Шестерякова рассказала, чем грозит употребление чужой еды на работе",
+    "url": "https://tass.ru/obschestvo/27004291",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:29:21+00:00",
+    "no_image": false
+  },
+  {
+    "id": "58a8f1c8d2bc1658fb71961aa3dd745a",
+    "title": "В Киеве заявили, что в одну из частей ВСУ попали 2 тыс. непригодных к службе",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27005759",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:26:59+00:00",
+    "no_image": false
+  },
+  {
+    "id": "9cbfc8b37ade5afee7c064c190c0bb53",
+    "title": "Москвичей предупредили об опасностях из-за сильного ветра",
+    "url": "https://lenta.ru/news/2026/04/05/moskvichey-predupredili-ob-opasnostyah-iz-za-silnogo-vetra/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T10:25:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "b2d79b9f89f247bca54632b13c399db4",
+    "title": "Дегтярёв: Россия и Турция — важные партнёры в сфере спорта",
+    "url": "https://russian.rt.com/sport/news/1616006-rossiya-turciya-sport-partnyorstvo?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:24:51+00:00",
+    "no_image": false
+  },
+  {
+    "id": "c9c96fda4f456ccab1ffce2ef7771130",
+    "title": "В Москве предупредили о ветре с порывами до 15 м/с",
+    "url": "https://tass.ru/obschestvo/27005747",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:21:09+00:00",
+    "no_image": false
+  },
+  {
+    "id": "b039ae5b3ac338c4d9acbc7f61c54baa",
+    "title": "Песков: ЕАЭС и ЕС не сочетаются, Армении придётся выбирать",
+    "url": "https://russian.rt.com/ussr/news/1616007-eaes-es-armeniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:20:57+00:00",
+    "no_image": false
+  },
+  {
+    "id": "75bc81fc8bc419e448859b8e67f8992c",
+    "title": "Захарова: Венгрию хотят лишить суверенитета, лишая ресурсов по разумной цене",
+    "url": "https://tass.ru/politika/27005739",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:19:34+00:00",
+    "no_image": false
+  },
+  {
+    "id": "55984529f5d30f7cc265abe5a0cae717",
+    "title": "В Саратовской области на малых реках бассейнов Волги и Урала снизился уровень воды",
+    "url": "https://tass.ru/obschestvo/27005529",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:19:10+00:00",
+    "no_image": false
+  },
+  {
+    "id": "962d79775e8f331add1a0b2427710068",
+    "title": "The Times: Киев намерен обратиться к Конгрессу с просьбой о ракетах для Patriot",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27005723",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:18:53+00:00",
+    "no_image": false
+  },
+  {
+    "id": "96dc4fd51bde2fdb38e9fedfae57250c",
+    "title": "В Дагестане из-за подтоплений отменили движение 12 пригородных поездов",
+    "url": "https://tass.ru/obschestvo/27005547",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:18:49+00:00",
+    "no_image": false
+  },
+  {
+    "id": "a965252b1a3a4a697339262e91210372",
+    "title": "От мобилизации мужчин до призыва женщин: как Киев пытается заткнуть дыры на фронте",
+    "url": "https://russian.rt.com/ussr/video/1616002-kak-kiev-pytaetsya-zatknut-dyry-na-fronte?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:18:19+00:00",
+    "no_image": false
+  },
+  {
+    "id": "fa3f59db9507ae4ebbcb0ab93f74169c",
+    "title": "Филиппо поддержал экономические меры правительств Словакии и Венгрии",
+    "url": "https://tass.ru/ekonomika/27005733",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:17:26+00:00",
+    "no_image": false
+  },
+  {
+    "id": "ab801e1eb6a005e4d66e1c52a464bbbb",
+    "title": "Эксперт Гапоненко: нефть может удержаться выше $100 до конца года",
+    "url": "https://tass.ru/ekonomika/27005717",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:15:13+00:00",
+    "no_image": false
+  },
+  {
+    "id": "c77384df521d8321b4c1ea63a7c6a103",
+    "title": "Шохин: вопрос о шестидневной рабочей неделе не обсуждается",
+    "url": "https://russian.rt.com/russia/news/1615973-shohin-rabochaya-nedelya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:14:56+00:00",
+    "no_image": false
+  },
+  {
+    "id": "fa22d7df0731055cae90ab60a61973e4",
+    "title": "Операция США по спасению пилота обнажила проблемы охраны ядерных объектов Ирана",
+    "url": "https://lenta.ru/news/2026/04/05/operatsiya-ssha-po-spaseniyu-pilota-obnazhila-problemy-ohrany-yadernyh-ob-ektov-irana/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T10:14:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "b9825362af176aada34211df6810a98b",
+    "title": "Сальдо: ВСУ минируют береговую линию Херсона",
+    "url": "https://russian.rt.com/ussr/news/1616004-saldo-minirovanie-vsu?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:13:10+00:00",
+    "no_image": false
+  },
+  {
+    "id": "e268163b1e0d08bd80f2e1a9f9a15aa0",
+    "title": "Средняя номинальная зарплата в России выросла в пять раз с 2010 года",
+    "url": "https://russian.rt.com/russia/news/1615987-zarplata-rost-rossiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:11:27+00:00",
+    "no_image": false
+  },
+  {
+    "id": "1c1006289f523675f9cfc91a3c46a4e4",
+    "title": "Белгородскую область за сутки атаковали более 170 украинских БПЛА",
+    "url": "https://tass.ru/proisshestviya/27005701",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:11:17+00:00",
+    "no_image": false
+  },
+  {
+    "id": "fbf7f12b9ddc19edad9fd2cb537a131a",
+    "title": "Лихачев назвал тревожным смещение красных линий в отношении ядерных объектов",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188011-smeschenie-krasnih-linii",
     "source": "Ведомости",
-    "pub_dt": "2026-04-03T21:01:59+00:00",
+    "pub_dt": "2026-04-05T10:11:05+00:00",
     "no_image": false
   },
   {
-    "id": "67c7fea30bbbb52b4316c0047c7085c9",
-    "title": "Иран атаковал два вертолета США из поисковой миссии F-15",
-    "url": "https://lenta.ru/news/2026/04/03/iran-atakoval-dva-vertoleta-ssha-iz-poiskovoy-missii-f-15/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T21:11:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "df14bc561af03c73bf2300e311250720",
-    "title": "В Липецкой области объявили опасность атаки БПЛА",
-    "url": "https://tass.ru/proisshestviya/26998819",
+    "id": "057718f27bf2e553b451154523725d76",
+    "title": "Марокканский футболист \"Оренбурга\" Муфи назвал особенность РПЛ",
+    "url": "https://tass.ru/sport/27005715",
     "source": "ТАСС",
-    "pub_dt": "2026-04-03T21:21:04+00:00",
+    "pub_dt": "2026-04-05T10:10:12+00:00",
     "no_image": false
   },
   {
-    "id": "e8cca7d3db1c14208921cbc42c752e20",
-    "title": "NPR: США эвакуировали 1,5 тыс. военных с базы в Бахрейне",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26998843",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-03T21:31:38+00:00",
-    "no_image": false
-  },
-  {
-    "id": "b63b13ca955b704122c11aafb138148b",
-    "title": "В МИД России заверили в поддержке Приднестровья после роста цен на топливо",
-    "url": "https://ria.ru/20260404/mid-2085138404.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T21:44:30+00:00",
-    "no_image": false
-  },
-  {
-    "id": "2e03d17d7bb1d0512293f99034aa4ae3",
-    "title": "Трамп действительно заинтересован в договоре по Украине, считает Матвиенко",
-    "url": "https://ria.ru/20260404/matvienko-2085139135.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T21:50:34+00:00",
-    "no_image": false
-  },
-  {
-    "id": "c4af096f698e0ab481c776af5351dca6",
-    "title": "При падении обломков БПЛА в Бахрейне пострадали четыре человека",
-    "url": "https://ria.ru/20260404/bahrejn-2085139843.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T22:00:23+00:00",
-    "no_image": false
-  },
-  {
-    "id": "4a783823c00b13ac54e993ba87051eb6",
-    "title": "Программу помощи семьям раненых и погибших в \"Крокусе\" продлили до 1 июля",
-    "url": "https://ria.ru/20260404/krokus-2085140593.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T22:12:25+00:00",
-    "no_image": false
-  },
-  {
-    "id": "e8c935bedceca8917ec8790cff5789c8",
-    "title": "СМИ сообщили подробности крушения штурмовика ВВС США после удара Ирана",
-    "url": "https://ria.ru/20260404/samolet-2085141276.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T22:22:22+00:00",
-    "no_image": false
-  },
-  {
-    "id": "879a3384b7b24bc3ad85f51b6be21e32",
-    "title": "Названы регионы России, где температура воздуха выше климатической нормы",
-    "url": "https://ria.ru/20260404/temperatura-2085141611.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T22:31:03+00:00",
-    "no_image": false
-  },
-  {
-    "id": "005c38595db1613abd9b89c59736a464",
-    "title": "На Западе раскрыли серьезную провокацию Украины в Венгрии",
-    "url": "https://ria.ru/20260404/ukraina-2085142182.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T22:43:08+00:00",
-    "no_image": false
-  },
-  {
-    "id": "ea4f09a12bb0b713b9bbeab9912a37ed",
-    "title": "В Европе выступили с «серьезным обвинением» против Украины",
-    "url": "https://lenta.ru/news/2026/04/04/v-evrope-vystupili-s-serieznym-obvineniem-protiv-ukrainy/",
+    "id": "645b3b1bf953772b4c1bc806383e4b33",
+    "title": "В Крыму пожаловались на заставляющее юг Украины стонать националистическое иго",
+    "url": "https://lenta.ru/news/2026/04/05/v-krymu-pozhalovalis-na-zastavlyayuschee-yug-ukrainy-stonat-natsionalisticheskoe-igo/",
     "source": "Лента",
-    "pub_dt": "2026-04-03T22:50:47+00:00",
+    "pub_dt": "2026-04-05T10:10:00+00:00",
     "no_image": true
   },
   {
-    "id": "abe28e21d51b3c9410905bae140e7da4",
-    "title": "В аэропорту Калуги ввели временные ограничения на прием и выпуск самолетов",
-    "url": "https://ria.ru/20260404/kaluga-2085143212.html",
+    "id": "9b0f358041c23154ba42cfed9579629b",
+    "title": "На Новопесчаной улице в Москве отреставрировали дома в стиле неоклассицизма",
+    "url": "https://ria.ru/20260405/moskva-2085282563.html",
     "source": "РИА",
-    "pub_dt": "2026-04-03T23:00:53+00:00",
+    "pub_dt": "2026-04-05T10:09:36+00:00",
     "no_image": false
   },
   {
-    "id": "c206c3b7b9a49991e9360504b45249d9",
-    "title": "Армия Израиля зафиксировала запуск ракет из Ирана",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26999047",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-03T23:10:52+00:00",
-    "no_image": false
-  },
-  {
-    "id": "e36a57d32b9544ce5f43c0e4f3f36a41",
-    "title": "В Госдуме раскрыли, что изменится в выплатах больничных с 1 июля",
-    "url": "https://ria.ru/20260404/gosduma-2085144113.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T23:21:44+00:00",
-    "no_image": false
-  },
-  {
-    "id": "b806a0e332b6783c1148ae4314fa1cdc",
-    "title": "Иран обратился с просьбой к России",
-    "url": "https://lenta.ru/news/2026/04/04/iran-obratilsya-s-prosboy-k-rossii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T23:30:35+00:00",
-    "no_image": true
-  },
-  {
-    "id": "7d4446e124f8d60a1f4cdfffcfbe8e27",
-    "title": "Взрыв прогремел у здания организации «Христиане за Израиль» в Нидерландах",
-    "url": "https://russian.rt.com/world/news/1615524-vzryv-izrail-niderlandy?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-03T23:40:46+00:00",
-    "no_image": false
-  },
-  {
-    "id": "ff93c85c794f25d3b3060f0cfdc46c8a",
-    "title": "В Госдуме рассказали, как отличить сотрудников газовой службы от мошенников",
-    "url": "https://ria.ru/20260404/gosduma-2085145387.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T23:52:31+00:00",
-    "no_image": false
-  },
-  {
-    "id": "8707b5c9383dc82af6381947f3126793",
-    "title": "Ученый рассказал, когда на деревьях появятся первые листья",
-    "url": "https://ria.ru/20260404/listy-2085146226.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T00:00:25+00:00",
-    "no_image": false
-  },
-  {
-    "id": "527fc954efa581809514a2afb034c046",
-    "title": "ФНПР не поддержала введение шестидневной рабочей недели",
-    "url": "https://tass.ru/obschestvo/26999193",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T00:10:51+00:00",
-    "no_image": false
-  },
-  {
-    "id": "23e8fa1ba784f310b412f633fc8cb680",
-    "title": "Сын пропавшей Усольцевой озвучил, что могло произойти с его семьей",
-    "url": "https://ria.ru/20260404/usoltsevy-2085147042.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T00:21:37+00:00",
-    "no_image": false
-  },
-  {
-    "id": "40ebdff4f91d547f9188a70142c31dca",
-    "title": "Медианная предлагаемая зарплата в России составила 86,2 тысячи рублей",
-    "url": "https://ria.ru/20260404/zarplata-2085147494.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T00:31:12+00:00",
-    "no_image": false
-  },
-  {
-    "id": "0c99eff400f15086727fc21f11d63cc3",
-    "title": "Трамп распорядился выплатить зарплаты всем сотрудникам МВБ",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26999249",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T00:40:57+00:00",
-    "no_image": false
-  },
-  {
-    "id": "7ac7a4068baa1482b123a2fd7c8ce3af",
-    "title": "Пентагон раскрыл число пострадавших военных США в операции против Ирана",
-    "url": "https://lenta.ru/news/2026/04/04/pentagon-raskryl-chislo-postradavshih-voennyh-ssha-v-operatsii-protiv-irana/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T00:51:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "d07a893446acb3861e68e25f2f102225",
-    "title": "В СФ предложили ограничить движение электровелосипедов в людных местах",
-    "url": "https://tass.ru/obschestvo/26999281",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T01:04:53+00:00",
-    "no_image": false
-  },
-  {
-    "id": "937083454fd425835ebf4bc0cfd47b30",
-    "title": "На Западе встревожились из-за внезапного удара Украины по НАТО",
-    "url": "https://lenta.ru/news/2026/04/04/na-zapade-vstrevozhilis-iz-za-vnezapnogo-udara-ukrainy-po-nato/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T01:11:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "0a7a1f0c70101d42eb8ac200cf922f46",
-    "title": "Reuters: американцы пессимистично оценивают войну с Ираном",
-    "url": "https://russian.rt.com/world/news/1615535-ssha-iran-opros-pessimizm-reuters?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-04T01:20:59+00:00",
-    "no_image": false
-  },
-  {
-    "id": "034ff3215e9a78c1a4933072ad3042ac",
-    "title": "В Пензенской области отменили план \"Ковер\"",
-    "url": "https://ria.ru/20260404/kover-2085150011.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T01:30:47+00:00",
-    "no_image": false
-  },
-  {
-    "id": "89246f9e97b6918375eec9293ef103e0",
-    "title": "NYT: Трамп запросил $152 млн на восстановление тюрьмы Алькатрас",
-    "url": "https://russian.rt.com/world/news/1615539-tramp-vosstanovlenie-tyurma?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-04T01:44:46+00:00",
-    "no_image": false
-  },
-  {
-    "id": "33d1b7fc0411f21bafcace4c43e8a0f5",
-    "title": "Суд в Москве продлил арест задержанному после перестрелки на Рублевке",
-    "url": "https://ria.ru/20260404/sud-2085150342.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T01:52:55+00:00",
-    "no_image": false
-  },
-  {
-    "id": "8cf2973a4e8c4ee90454c72aec250b0b",
-    "title": "МИД: РФ и Китай координируются в вопросе поддержки кандидатур на пост генсека ООН",
-    "url": "https://tass.ru/politika/26999333",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T02:00:35+00:00",
-    "no_image": false
-  },
-  {
-    "id": "c427591ab2eda34e1c3290c9b8cc9271",
-    "title": "ВС РФ сбили барражирующий боеприпас \"Батон\" и семь БПЛА-разведчиков у Харькова",
-    "url": "https://tass.ru/armiya-i-opk/26999455",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T02:11:58+00:00",
-    "no_image": false
-  },
-  {
-    "id": "1352bc3e928cdd5b7a8ca1f209ced2f2",
-    "title": "В Дубае сообщили о повреждении здания из-за работы ПВО",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26999463",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T02:21:10+00:00",
-    "no_image": false
-  },
-  {
-    "id": "f86f4f62de5fb236f6eeced7a48123a8",
-    "title": "Группировка \"Север\" уничтожила обнаруженные дроном \"Орлан-10\" позиции ВСУ",
-    "url": "https://tass.ru/armiya-i-opk/26999493",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T02:32:34+00:00",
-    "no_image": false
-  },
-  {
-    "id": "e98dbeb453f8641076518fe1e137d0ec",
-    "title": "Аналог Нобелевской премии должен носить имя Достоевского, считает Поляков",
-    "url": "https://ria.ru/20260404/poljakov-2085151862.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T02:42:00+00:00",
-    "no_image": false
-  },
-  {
-    "id": "a3ffd27c1beca94aef60aec986588c98",
-    "title": "NYT: Трамп запросил у Конгресса $152 млн на восстановление Алькатраса",
-    "url": "https://tass.ru/obschestvo/26999501",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T02:51:10+00:00",
-    "no_image": false
-  },
-  {
-    "id": "fbccd795d03c397b05b0d62f7a382bda",
-    "title": "Отец Илона Маска рассказал о желании сына приехать в Россию",
-    "url": "https://ria.ru/20260404/mask-2085152381.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T03:00:40+00:00",
-    "no_image": false
-  },
-  {
-    "id": "96082d335928c451d9e3781feed6386b",
-    "title": "Силы ПВО за ночь сбили 18 беспилотников над Воронежской областью",
-    "url": "https://ria.ru/20260404/pvo-2085152857.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T03:11:04+00:00",
-    "no_image": false
-  },
-  {
-    "id": "2c0a9f6283de6043df2cf109b92f8531",
-    "title": "В Тульской области отменили опасность атаки беспилотников",
-    "url": "https://ria.ru/20260404/opasnost-2085153462.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T03:21:09+00:00",
-    "no_image": false
-  },
-  {
-    "id": "7c895911e8d4d34da44ccda1bdd04f3b",
-    "title": "Россиян предостерегли от трех главных ошибок при смене зимних шин на летние",
-    "url": "https://lenta.ru/news/2026/04/04/rossiyan-predosteregli-ot-treh-glavnyh-oshibok-pri-smene-zimnih-shin-na-letnie/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T03:31:16+00:00",
-    "no_image": true
-  },
-  {
-    "id": "722bf01d8c648eaa8fa63d178e4f34c5",
-    "title": "Москвичам пообещали теплые выходные",
-    "url": "https://ria.ru/20260404/subbota-2085154750.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T03:41:56+00:00",
-    "no_image": false
-  },
-  {
-    "id": "f9375df15fb2dceb84c928a2b8bc7f21",
-    "title": "При воздушной атаке ВСУ на Ростовскую область погиб человек",
-    "url": "https://ria.ru/20260404/bpla-2085155351.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T03:53:04+00:00",
-    "no_image": false
-  },
-  {
-    "id": "bf2f4af4f6c046d9d8c50de762e2aab0",
-    "title": "В Киеве прогремели взрывы",
-    "url": "https://ria.ru/20260404/kiev-2085155645.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T04:00:18+00:00",
-    "no_image": false
-  },
-  {
-    "id": "13c438f091a66d5fa9ac2f7395f73e10",
-    "title": "\"Очень умно\". В США пожаловались, что Иран их обманул",
-    "url": "https://ria.ru/20260404/iran-2085156238.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T04:10:59+00:00",
-    "no_image": false
-  },
-  {
-    "id": "ca0bd209675ec6e2057aabd7739065e9",
-    "title": "Силы ПВО за ночь уничтожили 85 БПЛА над регионами России",
-    "url": "https://ria.ru/20260404/bpla-2085157005.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T04:21:07+00:00",
-    "no_image": false
-  },
-  {
-    "id": "9cf3c96ef774dd041719c7c9155fce7e",
-    "title": "Букмекеры назвали финалистов Кубка Гагарина",
-    "url": "https://lenta.ru/news/2026/04/04/bukmekery-nazvali-finalistov-kubka-gagarina/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T04:31:14+00:00",
-    "no_image": true
-  },
-  {
-    "id": "e96ad7e5fae13feb53b246e2cdb3c3a0",
-    "title": "Южная Корея возобновила работу реактора \"Кори-2\" спустя три года",
-    "url": "https://ria.ru/20260404/koreja-2085157967.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T04:44:20+00:00",
-    "no_image": false
-  },
-  {
-    "id": "e619c17e6bfcbccedc3bf24d490c0094",
-    "title": "В Совфеде выступили против сокращения 11-летнего обучения в школах",
-    "url": "https://ria.ru/20260404/shkola-2085158287.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T04:51:38+00:00",
-    "no_image": false
-  },
-  {
-    "id": "3f22baaf1355e08c6752073e3433ad7e",
-    "title": "Танкисты \"Севера\" уничтожили опорный пункт ВСУ под Харьковом",
-    "url": "https://ria.ru/20260404/ukraina-2085158635.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T05:06:22+00:00",
-    "no_image": false
-  },
-  {
-    "id": "1d234089de46b50bcf69ad83db51ef41",
-    "title": "Власти Швеции отпустили судно, задержанное по подозрению в разливе нефти",
-    "url": "https://ria.ru/20260404/sudno-2085159960.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T05:14:50+00:00",
-    "no_image": false
-  },
-  {
-    "id": "4a308377b2d54b49065598561cd66d03",
-    "title": "\"Орландо\" обыграл \"Даллас\" в матче НБА, Флэгг набрал 51 очко",
-    "url": "https://ria.ru/20260404/basketbol-2085160494.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T05:20:45+00:00",
-    "no_image": false
-  },
-  {
-    "id": "bbcfb15e9c47846fb8e7e1a5af7f6dda",
-    "title": "Террина, бульотка и обманка: безумные предметы сервировки из XIX века",
-    "url": "https://ria.ru/20260404/stol-2084797059.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T05:32:00+00:00",
-    "no_image": false
-  },
-  {
-    "id": "cda05a3001ea63ec958de6219caf1512",
-    "title": "\"Ждали вовсе не этого\": находка в Иерусалиме разрушила древний миф",
-    "url": "https://ria.ru/20260404/skelet-2085053919.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T05:42:00+00:00",
-    "no_image": false
-  },
-  {
-    "id": "2aab9aa808c3958ea7d2c8afacda8900",
-    "title": "Российские бойцы уничтожили более 100 дронов ВСУ «Баба-Яга»",
-    "url": "https://lenta.ru/news/2026/04/04/rossiyskie-boytsy-unichtozhili-bolee-100-dronov-vsu-baba-yaga/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T05:51:34+00:00",
-    "no_image": true
-  },
-  {
-    "id": "4effaa264981659e8b6812c72c65d7a9",
-    "title": "ВСУ ночью попытались ударить по десяти регионам России",
-    "url": "https://lenta.ru/news/2026/04/04/vsu-nochyu-popytalis-udarit-po-desyati-regionam-rossii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T06:01:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "af86953d146ea0ed0f2df7df980e38a4",
-    "title": "Раскрыта стоимость самого дорогого путешествия россиян в 2026 году",
-    "url": "https://lenta.ru/news/2026/04/04/raskryta-stoimost-samogo-dorogogo-puteshestviya-rossiyan-v-2026-godu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T06:11:05+00:00",
-    "no_image": true
-  },
-  {
-    "id": "2299850c4c4d573d62101c58e8b24f89",
-    "title": "Дончич пропустит конец сезона НБА из-за травмы",
-    "url": "https://ria.ru/20260404/basketbol-2085164747.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T06:22:00+00:00",
-    "no_image": false
-  },
-  {
-    "id": "90e23fc96d8bad2339bb966d82ffaa1e",
-    "title": "Авантюры НАТО всегда приводили к разрушительным последствиям, заявили в МИД",
-    "url": "https://ria.ru/20260404/mid-2085165674.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T06:35:26+00:00",
-    "no_image": false
-  },
-  {
-    "id": "64a069c17ba38f4fa82c6c5e3c2bb359",
-    "title": "Олимпийский чемпион призвал лишить норвежских лыжников привилегий",
-    "url": "https://lenta.ru/news/2026/04/04/olimpiyskiy-chempion-prizval-lishit-norvezhskih-lyzhnikov-privilegiy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T06:47:07+00:00",
-    "no_image": true
-  },
-  {
-    "id": "f26f741dc6cafc8e716fd3e1cb87923e",
-    "title": "Названы последствия для российских компаний за неоплаченные переработки сотрудников",
-    "url": "https://lenta.ru/news/2026/04/04/nazvany-posledstviya-dlya-rossiyskih-kompaniy-za-neoplachennye-pererabotki-sotrudnikov/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T06:50:47+00:00",
-    "no_image": true
-  },
-  {
-    "id": "8c02a7fcbed5a61b2e76b911468f4092",
-    "title": "В ВСУ утверждают, что женщин на Украине ставят на воинский учет случайно",
-    "url": "https://ria.ru/20260404/vsu-2085167121.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T07:02:00+00:00",
-    "no_image": false
-  },
-  {
-    "id": "db0d86f1680c2e09e0849058c9028a02",
-    "title": "Посол назвал затею Британии по захвату судов в Ла-Манше взрывоопасной",
-    "url": "https://ria.ru/20260404/britaniya-2085167806.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T07:10:21+00:00",
-    "no_image": false
-  },
-  {
-    "id": "43caa19a98a4336e262370bfb633cf68",
-    "title": "В японской больнице нашли тело забитого иранца",
-    "url": "https://lenta.ru/news/2026/04/04/v-yaponskoy-bolnitse-nashli-telo-zabitogo-irantsa/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T07:21:02+00:00",
-    "no_image": true
-  },
-  {
-    "id": "13f347b9053cd412e5bfc9525ccfa054",
-    "title": "Богатые китайцы нашли новое пристанище в неожиданной части света",
-    "url": "https://lenta.ru/news/2026/04/04/bogatye-kitaytsy-nashli-novoe-pristanische-v-neozhidannoy-chasti-sveta/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T07:30:17+00:00",
-    "no_image": true
-  },
-  {
-    "id": "f73d88602a569957ed65317d28cccea1",
-    "title": "Назван самый вероятный счет матча между «Манчестер Сити» и «Ливерпулем»",
-    "url": "https://lenta.ru/news/2026/04/04/nazvan-samyy-veroyatnyy-schet-matcha-mezhdu-manchester-siti-i-liverpulem/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T07:41:22+00:00",
-    "no_image": true
-  },
-  {
-    "id": "4ae8187d373d0575df8a4fd4c8e2b456",
-    "title": "На территории особой нефтехимической зоны в Иране прогремели взрывы",
-    "url": "https://ria.ru/20260404/fars-2085169965.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T07:53:17+00:00",
-    "no_image": false
-  },
-  {
-    "id": "3d321c6478cb9dddbe57daddc2cfbb9a",
-    "title": "Житель Ленинградской области повредил окно квартиры бывшей жены петардой",
-    "url": "https://ria.ru/20260404/lenoblast-2085170854.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T08:04:38+00:00",
-    "no_image": false
-  },
-  {
-    "id": "bd737ea786b4e2efce0ad8587122c816",
-    "title": "В Херсоне прогремели взрывы",
-    "url": "https://ria.ru/20260404/herson-2085171491.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T08:11:25+00:00",
-    "no_image": false
-  },
-  {
-    "id": "0aac44b997ad043749c38df335535fa2",
-    "title": "Спецслужбы Молдавии по телефону запугивают жительницу ПМР, сообщили в МГБ",
-    "url": "https://ria.ru/20260404/spetssluzhba-2085172156.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T08:22:08+00:00",
-    "no_image": false
-  },
-  {
-    "id": "3f93230b58c0a4bc301d6421bd22accc",
-    "title": "В России запретили и заблокировали сайты с инструкциями по сваттингу",
-    "url": "https://lenta.ru/news/2026/04/04/v-rossii-zapretili-i-zablokirovali-sayty-s-instruktsiyami-po-svattingu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T08:31:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "d91544bcf6b2efa44bfac41e83642ee2",
-    "title": "Пять стран ЕС призвали ввести налог на сверхприбыль энергокомпаний",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/04/1187925-pyat-stran-prizvali",
+    "id": "7dae20a57fc95d21d671ea79df4c0a94",
+    "title": "Песков: решение по признанию Карабаха принадлежит Армении",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188010-priznaniyu-karabaha",
     "source": "Ведомости",
-    "pub_dt": "2026-04-04T08:42:56+00:00",
+    "pub_dt": "2026-04-05T10:09:19+00:00",
     "no_image": false
   },
   {
-    "id": "24255bcdc1553fce58a0408207a8b30f",
-    "title": "Атомная электростанция в Иране попала под обстрел",
-    "url": "https://lenta.ru/news/2026/04/04/atomnaya-elektrostantsiya-v-irane-popala-pod-obstrel/",
+    "id": "eac86e847ebcaac67c0320343bc0adff",
+    "title": "Раскрыты подробности обнаружения взрывчатки рядом с газопроводом между Венгрией и Сербией",
+    "url": "https://lenta.ru/news/2026/04/05/raskryty-podrobnosti-obnaruzheniya-vzryvchatki-ryadom-s-gazoprovodom-mezhdu-vengriey-i-serbiey/",
     "source": "Лента",
-    "pub_dt": "2026-04-04T08:51:00+00:00",
+    "pub_dt": "2026-04-05T10:09:00+00:00",
     "no_image": true
   },
   {
-    "id": "740a873b73fbbeb46497835037fcfc9f",
-    "title": "В ЕС предложили решение проблемы роста цен на топливо из-за Ирана",
-    "url": "https://lenta.ru/news/2026/04/04/v-es-predlozhili-reshenie-problemy-rosta-tsen-na-toplivo-iz-za-irana/",
+    "id": "5b138cc803f8f0ceb5da9b9f2487da34",
+    "title": "Песков: Россия проявляет повышенный интерес к ориентирам руководства Армении",
+    "url": "https://russian.rt.com/ussr/news/1615998-peskov-rossiya-armeniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:07:31+00:00",
+    "no_image": false
+  },
+  {
+    "id": "5361a687621193bb18ec5b9369f11f21",
+    "title": "Иран заявил, что сбил второй транспортный самолет С-130 Hercules армии США",
+    "url": "https://ria.ru/20260405/iran-2085282383.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T10:06:22+00:00",
+    "no_image": false
+  },
+  {
+    "id": "b9900e47542538508b42113228a3e77b",
+    "title": "Сальдо: подполье в Херсоне ослабляет ВСУ и готовит освобождение города",
+    "url": "https://russian.rt.com/ussr/news/1615975-saldo-podpole-herson?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:04:21+00:00",
+    "no_image": false
+  },
+  {
+    "id": "6298e09c875738207dd42288b5f20f86",
+    "title": "Подрыв газопровода нанес бы большой ущерб Сербии и Венгрии, заявил Вучич",
+    "url": "https://ria.ru/20260405/vuchich-2085282177.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T10:03:30+00:00",
+    "no_image": false
+  },
+  {
+    "id": "36991fca1f4c9889c9b7b33fc6db8083",
+    "title": "Средние зарплаты в России выросли в пять раз с 2010 года",
+    "url": "https://ria.ru/20260405/zarplata-2085282040.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T10:03:26+00:00",
+    "no_image": false
+  },
+  {
+    "id": "8631a1941f4585d123ea8a86a00ba663",
+    "title": "Песков заявил о необходимости Армении выбрать между ЕС и ЕАЭС",
+    "url": "https://lenta.ru/news/2026/04/05/peskov-zayavil/",
     "source": "Лента",
-    "pub_dt": "2026-04-04T09:00:59+00:00",
+    "pub_dt": "2026-04-05T10:03:00+00:00",
     "no_image": true
   },
   {
-    "id": "bf1e94e25cbaed2608c9965d95507aa9",
-    "title": "Росстандарт принял новый ГОСТ на спирт",
-    "url": "https://www.vedomosti.ru/business/news/2026/04/04/1187928-rosstandart-gost-spirt",
+    "id": "ab7a1f54a3188ead3b40b49f4b5561bd",
+    "title": "Удары по мирным жителям, ТЭЦ и нефтяным объектам: за ночь над Россией уничтожено 87 украинских БПЛА",
+    "url": "https://russian.rt.com/russia/article/1615952-minoborony-ataka-vsu-bpla?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:02:54+00:00",
+    "no_image": false
+  },
+  {
+    "id": "6c9424355932ef43441eb2976e30c133",
+    "title": "RT: дело завели на вытолкнувшего проводницу из поезда Челябинск — Петербург",
+    "url": "https://russian.rt.com/russia/news/1615990-poezd-passazhir-provodnica?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:01:26+00:00",
+    "no_image": false
+  },
+  {
+    "id": "dd43807f219bdfb7bdafc57f43777f1b",
+    "title": "Ликсутов: в ЗАО создадут около 4 тысяч новых рабочих мест",
+    "url": "https://ria.ru/20260405/moskva-2085279825.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T10:01:00+00:00",
+    "no_image": false
+  },
+  {
+    "id": "30feb477db577b02e59ab86b421df484",
+    "title": "Песков: Россия считает себя вправе прояснить планы Армении по выборам",
+    "url": "https://ria.ru/20260405/peskov-2085281534.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T09:59:25+00:00",
+    "no_image": false
+  },
+  {
+    "id": "edee0e5977dde802f93742d9451d0347",
+    "title": "Зендея показала фото в свадебном платье",
+    "url": "https://lenta.ru/news/2026/04/05/zendeya-pokazala-foto-v-svadebnom-platie/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T09:58:21+00:00",
+    "no_image": true
+  },
+  {
+    "id": "2c8f15bbccf98a24cab9f710c01a63e7",
+    "title": "Песков: интерес Москвы к планам Армении закономерен",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188008-interes-moskvi-zakonomeren",
     "source": "Ведомости",
-    "pub_dt": "2026-04-04T09:19:25+00:00",
+    "pub_dt": "2026-04-05T09:57:17+00:00",
     "no_image": false
   },
   {
-    "id": "da82f0a70c1ffcc665d8d9ce1331fb0a",
-    "title": "Российские ученые открыли оазис",
-    "url": "https://lenta.ru/news/2026/04/04/rossiyskie-uchenye-otkryli-oazis/",
+    "id": "51192aff049fc749613dcd35671fa9d7",
+    "title": "В Иране предрекли разрушение США из-за похожих на спасение пилота F-15E миссий",
+    "url": "https://lenta.ru/news/2026/04/05/v-irane-predrekli-razrushenie-ssha-iz-za-pohozhih/",
     "source": "Лента",
-    "pub_dt": "2026-04-04T09:21:00+00:00",
+    "pub_dt": "2026-04-05T09:57:00+00:00",
     "no_image": true
   },
   {
-    "id": "0ae7fe23c8556025da4bf1fac21e7b61",
-    "title": "Российские военные ударили по аэродромам ВСУ",
-    "url": "https://lenta.ru/news/2026/04/04/rossiyskie-voennye-udarili-po-aerodromam-vsu/",
+    "id": "60450c46401e5cd92e9334093979e426",
+    "title": "Армения считает, что ничего не мешает ее нахождению в ЕАЭС, заявил Песков",
+    "url": "https://ria.ru/20260405/peskov-2085281242.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T09:54:31+00:00",
+    "no_image": false
+  },
+  {
+    "id": "9b70cd65fa89d389ae1f2cbfa164bd65",
+    "title": "Герой РФ Александр Буйлов получил знак почетного гражданина Чувашии в зоне СВО",
+    "url": "https://tass.ru/obschestvo/27005653",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T09:53:29+00:00",
+    "no_image": false
+  },
+  {
+    "id": "dabc5ac6ad5c8cd958ccdaa646560675",
+    "title": "Система \"Купол Донбасса\" за неделю сбила 240 украинских беспилотников",
+    "url": "https://tass.ru/armiya-i-opk/27005625",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T09:52:20+00:00",
+    "no_image": false
+  },
+  {
+    "id": "afca6a1f2f1d8bdac6184ecb4ad1bc0c",
+    "title": "Вучич сообщил подробности обнаружения взрывчатки у газопровода в Сербии",
+    "url": "https://ria.ru/20260405/vuchich-2085280801.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T09:51:22+00:00",
+    "no_image": false
+  },
+  {
+    "id": "1c51d087e611cca6653d821ff5c65391",
+    "title": "Стало известно об изменении Россией тактики на СВО",
+    "url": "https://lenta.ru/news/2026/04/05/stalo-izvestno-ob-izmenenii-rossiey-taktiki-na-svo/",
     "source": "Лента",
-    "pub_dt": "2026-04-04T09:31:17+00:00",
+    "pub_dt": "2026-04-05T09:51:00+00:00",
     "no_image": true
   },
   {
-    "id": "b3063d655d0c3c4d5880eab59019cbfa",
-    "title": "Российские войска ПВО за сутки сбили 308 украинских БПЛА и ракету «Фламинго»",
-    "url": "https://lenta.ru/news/2026/04/04/rossiyskie-voyska-pvo-sbili-308-ukrainskih-bpla-i-shest-raket-flamingo-za-sutki/",
+    "id": "b35f54de4a609603bd78320819e77e06",
+    "title": "Солнце поглотило первую комету, открытую в 2026 году",
+    "url": "https://tass.ru/kosmos/27005593",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T09:50:16+00:00",
+    "no_image": false
+  },
+  {
+    "id": "def8422252e7e89cd2eb21a391958455",
+    "title": "В Махачкале развернули девять ПВР из-за непогоды",
+    "url": "https://tass.ru/obschestvo/27005619",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T09:48:08+00:00",
+    "no_image": false
+  },
+  {
+    "id": "66792935037928aa0aab906d1b3b1f51",
+    "title": "Желающим внести приготовление завтрака в брачный договор россиянам сделали предупреждение",
+    "url": "https://lenta.ru/news/2026/04/05/zhelayuschim-vnesti-prigotovlenie-zavtraka-v-brachnyy-dogovor-rossiyanam-sdelali-preduprezhdenie/",
     "source": "Лента",
-    "pub_dt": "2026-04-04T09:41:00+00:00",
+    "pub_dt": "2026-04-05T09:48:00+00:00",
     "no_image": true
   },
   {
-    "id": "42285e2fe2abb6349bfe52d27bf20f8d",
-    "title": "WSJ: Пентагон занизил данные об ущербе посольству США после иранского удара",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/04/1187933-wsj-pentagon-zanizil",
+    "id": "159af7af0849254823ed9788e4cb8cdd",
+    "title": "Минобороны подтвердило задымление на чердаке военного учебного заведения Москвы",
+    "url": "https://russian.rt.com/russia/news/1615992-moskva-voennoe-zadymlenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T09:47:13+00:00",
+    "no_image": false
+  },
+  {
+    "id": "a9fb2133e379ad6fa70c0b8489e256ab",
+    "title": "Песков: Москва хочет, чтобы в обсуждении Карабаха не было отсылок к России",
+    "url": "https://ria.ru/20260405/peskov-2085280298.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T09:43:51+00:00",
+    "no_image": false
+  },
+  {
+    "id": "985f34e17f097af7d37482a3a01a446b",
+    "title": "Орбан созывает Совет обороны из-за взрывчатки у газопровода в Сербии",
+    "url": "https://russian.rt.com/world/news/1615994-orban-sovet-oborony?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T09:42:39+00:00",
+    "no_image": false
+  },
+  {
+    "id": "099116b70ce6d4420b8b3781c11c9ba4",
+    "title": "\"Русские уничтожат\". ВСУ ужаснулись из-за произошедшего на Украине",
+    "url": "https://ria.ru/20260405/ukraina-2085280172.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T09:42:21+00:00",
+    "no_image": false
+  },
+  {
+    "id": "735a8eaec646c0af85c8fabe57409ddf",
+    "title": "Темпы развития Армении в составе ЕАЭС выше, чем у стран СНГ, заявил Песков",
+    "url": "https://ria.ru/20260405/peskov-2085280031.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T09:42:19+00:00",
+    "no_image": false
+  },
+  {
+    "id": "8c01c192eda805246eee207ed52e9973",
+    "title": "В мэрии Махачкалы назвали причину подтоплений",
+    "url": "https://tass.ru/obschestvo/27005429",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T09:41:46+00:00",
+    "no_image": false
+  },
+  {
+    "id": "1e82c0ab5962d9fc41ec1fcba7d43585",
+    "title": "Россия проявляет интерес к ориентирам армянского руководства, заявил Песков",
+    "url": "https://ria.ru/20260405/peskov-2085279919.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T09:40:35+00:00",
+    "no_image": false
+  },
+  {
+    "id": "91185a116316ea8c6e013dc7c07fd893",
+    "title": "Песков рассказал об откровенном разговоре Путина и Пашиняна",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188007-ob-otkrovennom-razgovore",
     "source": "Ведомости",
-    "pub_dt": "2026-04-04T09:59:07+00:00",
+    "pub_dt": "2026-04-05T09:40:02+00:00",
     "no_image": false
   },
   {
-    "id": "cf1fd432a32eef64c6ce5e26e8cd0fa3",
-    "title": "Системы ПВО за сутки уничтожили 308 беспилотников",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/04/1187934-sistemi-pvo-unichtozhili",
+    "id": "6229872d39356e17a6bf754d10d8fb71",
+    "title": "В России опровергли повреждение нефтепровода после атаки дронов",
+    "url": "https://lenta.ru/news/2026/04/05/ne-popali/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T09:40:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "c23417b9f65f42cf0d8a6b0c10bd36dd",
+    "title": "Лихачев: красные линии в вопросах ядерной безопасности сдвигаются",
+    "url": "https://tass.ru/politika/27005589",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T09:39:27+00:00",
+    "no_image": false
+  },
+  {
+    "id": "e15e443c265a66e911718f4f10c435e5",
+    "title": "Песков объяснил, почему встреча Путина и Пашиняна прошла в закрытом формате",
+    "url": "https://ria.ru/20260405/peskov-2085279697.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T09:39:17+00:00",
+    "no_image": false
+  },
+  {
+    "id": "d97f1bd046ce37fead4ff197106d4ff8",
+    "title": "В Иране заявили о провале миссии США по спасению пилота истребителя F-15E",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27005569",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T09:39:03+00:00",
+    "no_image": false
+  },
+  {
+    "id": "247e367775a0b0d71ecfdc1cfbab254a",
+    "title": "Тревел-блогер описал застольную традицию Грузии фразой «это не алкоголь, это терапия»",
+    "url": "https://lenta.ru/news/2026/04/05/trevel-bloger-opisal-zastolnuyu-traditsiyu-gruzii-frazoy-eto-ne-alkogol-eto-terapiya/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T09:39:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "d9ee9cc951b155c09b1cbab451e413cd",
+    "title": "Песков: РФ вправе обсуждать с Арменией предстоящие там выборы",
+    "url": "https://tass.ru/politika/27005579",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T09:38:45+00:00",
+    "no_image": false
+  },
+  {
+    "id": "95f38e636ae1c63282092a2c5a8d6ad9",
+    "title": "Стали известны подробности пожара в военном институте в Москве",
+    "url": "https://lenta.ru/news/2026/04/05/stali-izvestny-podrobnosti-pozhara-v-voennom-institute-v-moskve/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T09:38:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "3fca37c117f8d9dc1f89371839c80c3f",
+    "title": "В ЯНАО прошёл 65-й Слёт оленеводов",
+    "url": "https://russian.rt.com/russia/video/1615997-yanao-65-slyot-olenevodov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T09:37:37+00:00",
+    "no_image": false
+  },
+  {
+    "id": "b847cb4ffcd707cc24278abf1621deb3",
+    "title": "В Иране заявили, что миссии, похожие на спасение пилота F-15E, разрушат США",
+    "url": "https://ria.ru/20260405/iran-2085279538.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T09:37:11+00:00",
+    "no_image": false
+  },
+  {
+    "id": "c5e9948b062dfd3e9c355bf8ad6583f8",
+    "title": "В футбольном \"Динамо\" рассчитывают провести встречу с Овечкиным летом",
+    "url": "https://tass.ru/sport/27005557",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T09:36:58+00:00",
+    "no_image": false
+  },
+  {
+    "id": "9f609af9f6542b1bbe9a1e2f60ac3bcb",
+    "title": "У Путина на следующей неделе запланированы международные контакты",
+    "url": "https://ria.ru/20260405/putin-2085279429.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T09:36:14+00:00",
+    "no_image": false
+  },
+  {
+    "id": "d39d90caacb18fd1f40b24f019293a1d",
+    "title": "Песков: принадлежность Карабаха остается самостоятельным решением Армении",
+    "url": "https://tass.ru/politika/27005559",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T09:36:13+00:00",
+    "no_image": false
+  },
+  {
+    "id": "1010f9984333edbaa757c3efd1a56252",
+    "title": "Морпех Кот уничтожил шесть джипов ВСУ одним дроном-камикадзе",
+    "url": "https://tass.ru/armiya-i-opk/27005553",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T09:36:10+00:00",
+    "no_image": false
+  },
+  {
+    "id": "7b9be5f6b8ba2ec6b687ef690035fa1a",
+    "title": "Гарбузов: промышленникам могут компенсировать проценты по инвесткредитам",
+    "url": "https://ria.ru/20260405/garbuzov-2085279270.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T09:35:00+00:00",
+    "no_image": false
+  },
+  {
+    "id": "0cc550992eab5431f52a8b6e72e30bee",
+    "title": "Венгрия созовет совет обороны из-за обнаружения взрывчатки около газопровода в Сербии",
+    "url": "https://lenta.ru/news/2026/04/05/vengriya-sozovet-sovet-oborony-iz-za-obnaruzheniya-vzryvchatki-okolo-gazoprovoda-v-serbii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T09:35:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "3217c42c863e7f43aa1677492c5eba29",
+    "title": "ЕАЭС и Евросоюз не сочетаются, Армении придется выбирать, заявил Песков",
+    "url": "https://ria.ru/20260405/peskov-2085278976.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T09:34:09+00:00",
+    "no_image": false
+  },
+  {
+    "id": "6d7d3eaffa779cf28fe534942d35e055",
+    "title": "Песков назвал полезной встречу Путина и Пашиняна",
+    "url": "https://tass.ru/politika/27005537",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T09:33:35+00:00",
+    "no_image": false
+  },
+  {
+    "id": "b900ed274b0bcb72d91304200d4d3aab",
+    "title": "На береговой линии Финского залива нашли локальное скопление нефтепродуктов",
+    "url": "https://tass.ru/obschestvo/27005533",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T09:33:35+00:00",
+    "no_image": false
+  },
+  {
+    "id": "6fac4c44552959685334112564a87ac5",
+    "title": "ВС России нанесли поражение бригаде охраны Генштаба ВСУ в ДНР",
+    "url": "https://russian.rt.com/ussr/news/1615995-porazhenie-brigada-genshtab-ukraina-dnr?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T09:32:10+00:00",
+    "no_image": false
+  },
+  {
+    "id": "8b871844900d4b5ea33fe2c922c6f1c4",
+    "title": "Арбитр из России впервые с 2021 года будет судить чемпионат Европы по тяжёлой атлетике",
+    "url": "https://russian.rt.com/sport/news/1615991-atletika-arbitr-rossiya-vklyuchenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T09:31:19+00:00",
+    "no_image": false
+  },
+  {
+    "id": "598d551efdc714271d0b9e1fe2e63b93",
+    "title": "Дегтярев назвал Турцию важным партнером РФ в сфере спорта",
+    "url": "https://tass.ru/sport/27005511",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T09:31:05+00:00",
+    "no_image": false
+  },
+  {
+    "id": "ecc3fa8172501e8663df896f12aff862",
+    "title": "Песков назвал ориентиры Армении предметом повышенного интереса РФ",
+    "url": "https://tass.ru/politika/27005519",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T09:31:02+00:00",
+    "no_image": false
+  },
+  {
+    "id": "01d019562fcf42edcdf0d712ebc2f4bf",
+    "title": "Орбан созвал Совет обороны из-за угрозы газовой инфраструктуре",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27005481",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T09:30:48+00:00",
+    "no_image": false
+  },
+  {
+    "id": "9081a6c3fee91aa28c81ba7f4e82f050",
+    "title": "Володин: вступили в силу законы о защите финансовых прав граждан",
+    "url": "https://www.vedomosti.ru/finance/news/2026/04/05/1188005-vstupili-v-silu",
     "source": "Ведомости",
-    "pub_dt": "2026-04-04T10:01:19+00:00",
+    "pub_dt": "2026-04-05T09:30:25+00:00",
     "no_image": false
   },
   {
-    "id": "dc14c01609c150a896f2f2e8369e97ee",
-    "title": "Иностранец получил ранения в результате атаки ВСУ на Таганрог",
-    "url": "https://lenta.ru/news/2026/04/04/inostranets-poluchil-raneniya-v-rezultate-ataki-vsu-na-taganrog/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T10:13:30+00:00",
-    "no_image": true
-  },
-  {
-    "id": "b4181b6965991c192b73d313ea1e22e7",
-    "title": "В Госдуме прокомментировали ситуацию с отказом от занятий в 10 и 11 классах в Сибири",
-    "url": "https://lenta.ru/news/2026/04/04/v-rossii-prokommentirovali-situatsiyu-s-otkazom-ot-zanyatiy-v-10-i-11-klassah-v-sibiri/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T10:22:17+00:00",
-    "no_image": true
-  },
-  {
-    "id": "ef83d6a428f5be135e128ba59faa7c06",
-    "title": "Видео с забытой в сушильной машине ручкой описали в сети фразой «самое страшное за день»",
-    "url": "https://lenta.ru/news/2026/04/04/video-s-zabytoy-v-sushilnoy-mashine-ruchkoy-opisali-v-seti-frazoy-samoe-strashnoe-za-den/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T10:33:26+00:00",
-    "no_image": true
-  },
-  {
-    "id": "56f4ecb493e7c097946e6fdd3157215e",
-    "title": "Бельгия обвинила Европу в закладывании бомбы под НАТО",
-    "url": "https://lenta.ru/news/2026/04/04/belgiya-obvinila-evropu-v-zakladyvanii-bomby-pod-nato/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T10:45:45+00:00",
-    "no_image": true
-  },
-  {
-    "id": "56d8bbf36451f4fae7b5a0f07a531cd3",
-    "title": "Захарова высказалась о вручении Каллас ордена в честь православной святой",
-    "url": "https://lenta.ru/news/2026/04/04/zaharova-vyskazalas-o-vruchenii-kallas-ordena-v-chest-pravoslavnoy-svyatoy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T10:53:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "457647534be9846c5b9e7635ec74896f",
-    "title": "В США прокомментировали закупку Индией у России пяти ЗРК С-400 «Триумф»",
-    "url": "https://lenta.ru/news/2026/04/04/v-ssha-prokommentirovali-zakupku-indiey-u-rossii-pyati-zrk-s-400-triumf/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T11:00:25+00:00",
-    "no_image": true
-  },
-  {
-    "id": "37e3ac41649bfe7c7d4c8c6ccf409c3a",
-    "title": "Звезду «Счастливы вместе» оштрафовали за хулиганство",
-    "url": "https://lenta.ru/news/2026/04/04/zvezdu-schastlivy-vmeste-oshtrafovali-za-huliganstvo/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T11:10:28+00:00",
-    "no_image": true
-  },
-  {
-    "id": "0e9ad5e29cbaba7eea8b454ccb8fdf53",
-    "title": "Иностранные политики проявили интерес ко Дню Победы",
-    "url": "https://lenta.ru/news/2026/04/04/inostrannye-politiki-proyavili-interes-ko-dnyu-pobedy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T11:23:24+00:00",
-    "no_image": true
-  },
-  {
-    "id": "b0e74abf66ef710e1e9d73a0a2be544d",
-    "title": "На раскопках в Помпеях нашли редкий артефакт из Египта",
-    "url": "https://lenta.ru/news/2026/04/04/na-raskopkah-v-pompeyah-nashli-redkiy-artefakt-iz-egipta/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T11:30:49+00:00",
-    "no_image": true
-  },
-  {
-    "id": "67240eb6eca0bdf58dfe31cf69c995b5",
-    "title": "Россиянина задержали за незаконные экскурсии в азиатской стране",
-    "url": "https://lenta.ru/news/2026/04/04/rossiyanina-zaderzhali-za-nezakonnye-ekskursii-v-aziatskoy-strane/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T11:41:16+00:00",
-    "no_image": true
-  },
-  {
-    "id": "e6f3fa294cb5e2dbaccc143d41714d73",
-    "title": "Адмирал в отставке Гюрдениз обвинил НАТО в стремлении стравить Турцию и Россию",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27001649",
+    "id": "24a879a562a2eb8e83d156d98f68f1b0",
+    "title": "Песков: Ереван понимает невозможность одновременного нахождения в ЕАЭС и ЕС",
+    "url": "https://tass.ru/politika/27005501",
     "source": "ТАСС",
-    "pub_dt": "2026-04-04T11:50:25+00:00",
+    "pub_dt": "2026-04-05T09:30:15+00:00",
     "no_image": false
   },
   {
-    "id": "12cf05b68837d3d00ae700cab924f35f",
-    "title": "Американскую газету The New York Times высмеяли за незнание расшифровки аббревиатуры НАТО",
-    "url": "https://lenta.ru/news/2026/04/04/amerikanskuyu-gazetu-the-new-york-times-vysmeyali-za-neznanie-rasshifrovki-abbreviatury-nato/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T12:03:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "428326ef5c00ec55167ac0926116089f",
-    "title": "В Виннице мужчина ранил ножом двух сотрудников военкомата",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27001797",
+    "id": "f0fdb33c1519084bee40935ed48e152c",
+    "title": "В Хасавюрте сильные осадки повредили несколько торговых контейнеров",
+    "url": "https://tass.ru/obschestvo/27005495",
     "source": "ТАСС",
-    "pub_dt": "2026-04-04T12:11:10+00:00",
+    "pub_dt": "2026-04-05T09:30:10+00:00",
     "no_image": false
   },
   {
-    "id": "1b5ee31ead9aabc2903decae5e9b7099",
-    "title": "Украинец порезал ножом двух сотрудников ТЦК",
-    "url": "https://lenta.ru/news/2026/04/04/ukrainets-porezal-nozhom-dvuh-sotrudnikov-ttsk/",
+    "id": "fd64bab78bdf542087b8dddd543a6082",
+    "title": "Минобороны заявило об улучшении позиций России",
+    "url": "https://lenta.ru/news/2026/04/05/minoborony-zayavilo-ob-uluchshenii-pozitsiy-rossii/",
     "source": "Лента",
-    "pub_dt": "2026-04-04T12:21:45+00:00",
+    "pub_dt": "2026-04-05T09:29:00+00:00",
     "no_image": true
   },
   {
-    "id": "abd50d3012d37a0f9bb33c21c3ebbdd9",
-    "title": "Задержан гендиректор финтех-компании Solfy",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/04/1187949-zaderzhan-gendirektor-finteh-kompanii",
+    "id": "7831203ddd9e79c79cc896a39300acbc",
+    "title": "Политолог спрогнозировал эскалацию конфликта между США и Ираном",
+    "url": "https://lenta.ru/news/2026/04/05/politolog-sprognoziroval-eskalatsiyu-konflikta-mezhdu-ssha-i-iranom/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T09:29:00+00:00",
+    "no_image": true
+  },
+  {
+    "id": "ee847e06ff066cf6549b918fc27bc0ac",
+    "title": "Рядом с газопроводом из Сербии в Венгрию обнаружили взрывчатку",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188006-obnaruzhili-vzrivchatku",
     "source": "Ведомости",
-    "pub_dt": "2026-04-04T12:31:41+00:00",
+    "pub_dt": "2026-04-05T09:28:24+00:00",
     "no_image": false
   },
   {
-    "id": "b08a1f7e18e7ea6f68a05f4d1fff24f5",
-    "title": "Новак: пункт пропуска на границе РФ и Абхазии сможет обслуживать 80 тыс. человек в сутки",
-    "url": "https://tass.ru/ekonomika/27001893",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T12:40:35+00:00",
-    "no_image": false
-  },
-  {
-    "id": "552b7645f84f3caadb52c663dc47f9d0",
-    "title": "В Чечне и Дагестане сумма ущерба от паводков превысит 1 млрд рублей",
-    "url": "https://tass.ru/obschestvo/27001935",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T12:52:18+00:00",
-    "no_image": false
-  },
-  {
-    "id": "a425f7133d8a70282d80fd320c1d451e",
-    "title": "Мурашко подтвердил хорошее самочувствие первого получившего онковакцину пациента",
-    "url": "https://tass.ru/obschestvo/27002023",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T13:00:48+00:00",
-    "no_image": false
-  },
-  {
-    "id": "3db5b90f6db6a18c539dffacb6718fcf",
-    "title": "Лихачев: иранская сторона делает много для безопасной эвакуации сотрудников Росатома",
-    "url": "https://tass.ru/ekonomika/27002087",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T13:11:39+00:00",
-    "no_image": false
-  },
-  {
-    "id": "183869e4693492189ce964f2c32c9695",
-    "title": "Женщина-политик омолодила себя на фото с помощью ИИ и поплатилась",
-    "url": "https://lenta.ru/news/2026/04/04/ai-woman/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T13:21:51+00:00",
-    "no_image": true
-  },
-  {
-    "id": "10b4c75ee9818d05c3916079a78f9bd8",
-    "title": "Королева Елизавета II не успела попрощаться с мужем перед смертью",
-    "url": "https://lenta.ru/news/2026/04/04/koroleva-elizaveta-ii-ne-uspela-poproschatsya-s-muzhem-pered-smertyu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T13:30:24+00:00",
-    "no_image": true
-  },
-  {
-    "id": "4ab523babbef4e6e27322b2959f7a5cc",
-    "title": "ТАСС: в пасхальном обращении Папа Римский выразит обеспокоенность действиями США",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27002253",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T13:40:17+00:00",
-    "no_image": false
-  },
-  {
-    "id": "1753d1dab84cf100793eda923646f86e",
-    "title": "Трамп назвал НАТО ослабленным и ненадежным партнером",
-    "url": "https://lenta.ru/news/2026/04/04/tramp-nazval-nato-oslablennym-i-nenadezhnym-partnerom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T13:52:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "3957ac272a1fd49ec07155ef9ef5b1ed",
-    "title": "В Донецке при обстреле ВСУ пострадали два человека",
-    "url": "https://tass.ru/proisshestviya/27002407",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T14:01:57+00:00",
-    "no_image": false
-  },
-  {
-    "id": "fed93986e69f8b2cea10a0ca1d8b1133",
-    "title": "В Москве в Музее космонавтики подготовили дни космического кино, уроков и семьи",
-    "url": "https://tass.ru/obschestvo/27002431",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T14:13:03+00:00",
-    "no_image": false
-  },
-  {
-    "id": "0dd2711916d83a21fd1f77dbfed1b9fd",
-    "title": "Филиппо обвинил ФРГ в \"военном безумии\" из-за ограничения выезда для мужчин",
-    "url": "https://ria.ru/20260404/filippo-2085213519.html",
+    "id": "b021a8f4c73349c43b9612b3bdcea6a2",
+    "title": "ВС России поразили инфраструктуру военных аэродромов и объекты ТЭК ВСУ",
+    "url": "https://ria.ru/20260405/svo-2085278814.html",
     "source": "РИА",
-    "pub_dt": "2026-04-04T14:21:13+00:00",
+    "pub_dt": "2026-04-05T09:28:17+00:00",
     "no_image": false
   },
   {
-    "id": "a400cb07958c8e9d97e94baaff970f66",
-    "title": "Россиян предупредили о трех грозящих алкоголизмом повседневных ритуалах",
-    "url": "https://lenta.ru/news/2026/04/04/rossiyan-predupredili-o-treh-grozyaschih-alkogolizmom-povsednevnyh-ritualah/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T14:32:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "fbf48cfb853971585ebac1f90c30de3e",
-    "title": "Крюкова внесли в базу \"Миротворца\"",
-    "url": "https://ria.ru/20260404/kryukov-2085214743.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T14:43:01+00:00",
-    "no_image": false
-  },
-  {
-    "id": "9889e124cb0f243c84cb4c84c1e4a22b",
-    "title": "В Абхазии удвоят темпы роста экспорта товаров и услуг к 2028 году",
-    "url": "https://ria.ru/20260404/abkhaziya-2085215348.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T14:52:02+00:00",
-    "no_image": false
-  },
-  {
-    "id": "da8852f5f07c083f82997e7426931949",
-    "title": "Эксперт прокомментировал вероятность выхода США из НАТО",
-    "url": "https://ria.ru/20260404/nato-2085216022.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T15:00:32+00:00",
-    "no_image": false
-  },
-  {
-    "id": "04e5a9c677e4dae5b74df83142a267a2",
-    "title": "В Госдуме назвали новые украинские санкции заезженной пластинкой",
-    "url": "https://lenta.ru/news/2026/04/04/v-gosdume-nazvali-novye-ukrainskie-sanktsii-zaezzhennoy-plastinkoy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T15:11:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "3c0017df72cf9807e76a75fe1747bcf8",
-    "title": "Число пострадавших при ударах Ирана по ОАЭ достигло 217",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/04/1187965-postradavshih-oae",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-04T15:21:52+00:00",
-    "no_image": false
-  },
-  {
-    "id": "702ebb235252b7b5985a900d67c4e4ab",
-    "title": "Пилотный проект новой модели высшего образования оценят на эффективность",
-    "url": "https://tass.ru/obschestvo/27002681",
+    "id": "326f104c0f63c9b2c36a93d5d2469827",
+    "title": "Путин на неделе продолжит международные контакты и работу с регионами",
+    "url": "https://tass.ru/politika/27005475",
     "source": "ТАСС",
-    "pub_dt": "2026-04-04T15:30:42+00:00",
+    "pub_dt": "2026-04-05T09:28:14+00:00",
     "no_image": false
   },
   {
-    "id": "80baf2e23e17471b12a888de4ee167ea",
-    "title": "В Таганском районе Москвы открыли дорожное движение",
-    "url": "https://tass.ru/obschestvo/27002735",
+    "id": "4b37c9d85dc040ca6c76d046832e7a56",
+    "title": "Песков: системы ЕАЭС и Евросоюза не сочетаются",
+    "url": "https://tass.ru/politika/27005467",
     "source": "ТАСС",
-    "pub_dt": "2026-04-04T15:44:08+00:00",
+    "pub_dt": "2026-04-05T09:26:45+00:00",
     "no_image": false
   },
   {
-    "id": "e2e50e359cfb51442b98d59ce0f8a826",
-    "title": "Решение Зеленского по Донбассу вызвало возмущение на Западе",
-    "url": "https://ria.ru/20260404/zelenskiy-2085219176.html",
+    "id": "d471b4213a4abdedf889a75952d874ac",
+    "title": "Что такое магнитные бури и как они влияют на человека",
+    "url": "https://ria.ru/20260405/chto_takoe_magnitnye_buri_vliyanie_na_zdorove_cheloveka-1870201378.html",
     "source": "РИА",
-    "pub_dt": "2026-04-04T15:50:40+00:00",
+    "pub_dt": "2026-04-05T09:25:17+00:00",
     "no_image": false
   },
   {
-    "id": "f69faca7ee0655126ddd3f56f492ed4e",
-    "title": "В Дагестане начали экстренную иммунизацию от гепатита А",
-    "url": "https://tass.ru/obschestvo/27002701",
+    "id": "aa252639cf0cde6875841915d6006b2a",
+    "title": "Пассажирка рассказала, как им помогали выбираться после ЧП под Ульяновском",
+    "url": "https://ria.ru/20260405/ulyanovsk-2085278463.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T09:24:39+00:00",
+    "no_image": false
+  },
+  {
+    "id": "603a96585ee8fbc6c10f4309b98e9802",
+    "title": "Лыжник Большунов считает, что способен брать любые вершины",
+    "url": "https://tass.ru/sport/27005457",
     "source": "ТАСС",
-    "pub_dt": "2026-04-04T16:01:17+00:00",
+    "pub_dt": "2026-04-05T09:23:07+00:00",
     "no_image": false
   },
   {
-    "id": "467d0dd051a7683c776b7243ca89c99b",
-    "title": "Курское \"Динамо\" обыграло \"Нику\" в матче ЧР по баскетболу",
-    "url": "https://ria.ru/20260404/basketbol-2085219866.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T16:11:51+00:00",
-    "no_image": false
-  },
-  {
-    "id": "927a2c2c58763ded1038b02f14c1b5c3",
-    "title": "Захарова назвала главную беду Украины",
-    "url": "https://ria.ru/20260404/zakharova-2085220785.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T16:22:01+00:00",
-    "no_image": false
-  },
-  {
-    "id": "b9b88e077e18ecf4920901ff95935f3f",
-    "title": "«Акрон» опротестует отмену гола в ворота ЦСКА",
-    "url": "https://lenta.ru/news/2026/04/04/akron-oprotestuet-otmenu-gola-v-vorota-tsska/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T16:30:18+00:00",
-    "no_image": true
-  },
-  {
-    "id": "99fa936318c4c972d9ada9be25d5cf40",
-    "title": "Как встать на биржу труда в 2025 году: пошаговая инструкция",
-    "url": "https://ria.ru/20260404/bezrabotnye-1599982658.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T16:41:00+00:00",
-    "no_image": false
-  },
-  {
-    "id": "0670cba94be641201a0f8c7b056c319b",
-    "title": "Россия и Абхазия заключили соглашение о сотрудничестве в сфере энергетики",
-    "url": "https://ria.ru/20260404/minenergo-2085222818.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T16:50:39+00:00",
-    "no_image": false
-  },
-  {
-    "id": "9460b10ed9e648f31b3deeab2389b53a",
-    "title": "На Западе предупредили Зеленского о территориальных потерях",
-    "url": "https://lenta.ru/news/2026/04/04/na-zapade-predupredili-zelenskogo-o-territorialnyh-poteryah/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T17:00:50+00:00",
-    "no_image": true
-  },
-  {
-    "id": "55c44fa5e980492530ec181cb40f7c66",
-    "title": "Израильская полиция применила силу против митингующих в Тель-Авиве",
-    "url": "https://ria.ru/20260404/izrail-2085225457.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T17:10:58+00:00",
-    "no_image": false
-  },
-  {
-    "id": "2fd987f7a45d0734035f31f4383a7aa8",
-    "title": "Росавиация исключила закрытие аэропорта Сочи",
-    "url": "https://tass.ru/obschestvo/27003073",
+    "id": "c9165d8a2da4bffa7e34fa51c9eb10a0",
+    "title": "Песков: членство в ЕАЭС дает возможность Армении развиваться повышенными темпами",
+    "url": "https://tass.ru/politika/27005449",
     "source": "ТАСС",
-    "pub_dt": "2026-04-04T17:21:46+00:00",
+    "pub_dt": "2026-04-05T09:22:08+00:00",
     "no_image": false
   },
   {
-    "id": "b73a15b8ea7ae655b41ba62f4a833430",
-    "title": "В Чечне шесть населенных пунктов остаются без проезда после непогоды",
-    "url": "https://ria.ru/20260404/chechnya-2085227489.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T17:35:53+00:00",
-    "no_image": false
-  },
-  {
-    "id": "abf7e2f66471ca589f1d3857efcdb360",
-    "title": "СМИ раскрыли критерии США для будущего посла в России",
-    "url": "https://ria.ru/20260404/usa-2085228100.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T17:45:41+00:00",
-    "no_image": false
-  },
-  {
-    "id": "874bc0f075218344b0eb7cf8f36c1edb",
-    "title": "Российские юниорки вышли в плей-офф волейбольного турнира в Италии",
-    "url": "https://tass.ru/sport/27003161",
+    "id": "532f3f46efe53df7c36673a6f629f835",
+    "title": "ЦАХАЛ сообщил о новой волне ударов по объектам \"Хезболлах\" в Бейруте",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27005443",
     "source": "ТАСС",
-    "pub_dt": "2026-04-04T17:51:38+00:00",
+    "pub_dt": "2026-04-05T09:21:53+00:00",
     "no_image": false
   },
   {
-    "id": "1c2d782d172c0f50408a6cf367c12308",
-    "title": "Иран нанес удары по объектам алюминиевой промышленности в ОАЭ",
-    "url": "https://ria.ru/20260404/iran-2085230167.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T18:02:34+00:00",
-    "no_image": false
-  },
-  {
-    "id": "0e96f3f4f690c9a4ee61e5704ebec5cf",
-    "title": "В ЕС и Британии резко сократят число летних авиаперелетов, считает Дмитриев",
-    "url": "https://ria.ru/20260404/dmitriev-2085232114.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T18:12:11+00:00",
-    "no_image": false
-  },
-  {
-    "id": "26b931d7b40f46483b31147cd7bc0337",
-    "title": "Европу обвинили в совершении преступления в отношении России",
-    "url": "https://lenta.ru/news/2026/04/04/evropu-obvinili-v-sovershenii-prestupleniya-v-otnoshenii-rossii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T18:21:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "0d379435509ae29b2fa878c2f2299281",
-    "title": "В Тель-Авиве прошел митинг против войны с Ираном",
-    "url": "https://lenta.ru/news/2026/04/04/v-tel-avive-proshel-miting-protiv-voyny-s-iranom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T18:30:49+00:00",
-    "no_image": true
-  },
-  {
-    "id": "33149c7a6df3b3bf763ca46cc67dde5f",
-    "title": "Мощное уничтожение украинских бойцов в укрытии сняли на видео",
-    "url": "https://lenta.ru/news/2026/04/04/moschnoe-unichtozhenie-ukrainskih-boytsov-v-ukrytii-snyali-na-video/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T18:41:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "9b6ac3363bf3a9b8019f627cc6bf5ded",
-    "title": "Звезда «Сумерек» назвал любимую часть саги",
-    "url": "https://lenta.ru/news/2026/04/04/zvezda-sumerek-nazval-lyubimuyu-chast-sagi/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T18:51:04+00:00",
-    "no_image": true
-  },
-  {
-    "id": "21d680d2787d5bbd1269584e730b2696",
-    "title": "Кадыров показал кадры работы «Ахмата» на харьковском направлении",
-    "url": "https://lenta.ru/news/2026/04/04/kadyrov-pokazal-kadry-raboty-ahmata-na-harkovskom-napravlenii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T19:01:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "caa6e261d4eff7e0b1e57e10d58da5e8",
-    "title": "ПВО сбила 69 украинских БПЛА над регионами России за семь часов",
-    "url": "https://ria.ru/20260404/pvo-2085234806.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T19:10:58+00:00",
-    "no_image": false
-  },
-  {
-    "id": "a02965f86d60d94799f7c55ec75fa14a",
-    "title": "В Петербурге трое детей пострадали при пожаре в квартире",
-    "url": "https://ria.ru/20260404/mchs-2085235265.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T19:22:10+00:00",
-    "no_image": false
-  },
-  {
-    "id": "23cbae4122dd6d598354510a31eedf1d",
-    "title": "В МИД Ирана предупредили о «радиоактивных осадках» в Персидском заливе",
-    "url": "https://lenta.ru/news/2026/04/04/v-mid-irana-predupredili-o-radioaktivnyh-osadkah-v-persidskom-zalive/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T19:33:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "1568c318a00c2534ffe774223945a8b2",
-    "title": "Жулин выделил на \"Русском вызове\" номер Ветлугина, посвященный паралимпийцам",
-    "url": "https://tass.ru/sport/27003413",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T19:40:23+00:00",
-    "no_image": false
-  },
-  {
-    "id": "ae6d1f0fc07f2b895cee56443cdc28c1",
-    "title": "В Самарской области объявили угрозу подлета БПЛА",
-    "url": "https://tass.ru/proisshestviya/27003431",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T19:51:29+00:00",
-    "no_image": false
-  },
-  {
-    "id": "fc41cdb9bb1f16c3b80e91869cea2905",
-    "title": "В Петербурге при пожаре в доме пострадали трое детей",
-    "url": "https://tass.ru/proisshestviya/27003437",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T20:00:44+00:00",
-    "no_image": false
-  },
-  {
-    "id": "9b2a29f5ebaedb1e6e676f9fda5d24eb",
-    "title": "Танкер Flora 1 получил разрешение покинуть Швецию",
-    "url": "https://tass.ru/obschestvo/27003485",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T20:11:51+00:00",
-    "no_image": false
-  },
-  {
-    "id": "b2aada6d0dfe8652eb42fbd527d1976b",
-    "title": "В аэропорту Ульяновска ввели временные ограничения",
-    "url": "https://tass.ru/ekonomika/27003515",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T20:23:10+00:00",
-    "no_image": false
-  },
-  {
-    "id": "9af42c1a1531e1e038a5bfe582044797",
-    "title": "Жулин назвал крутым номер Ветлугина на «Русском вызове», посвящённый паралимпийцам",
-    "url": "https://russian.rt.com/sport/news/1615852-zhulin-vetlugin-russkii-vyzov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "id": "6e06ebbf2ed319e55d1a8f9027591c94",
+    "title": "Царукян шокировал блогера из США, рассказав, что в России бесплатно смотрят UFC",
+    "url": "https://russian.rt.com/sport/news/1615986-carukyan-bloger-ufc-translyacii?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
-    "pub_dt": "2026-04-04T20:31:49+00:00",
+    "pub_dt": "2026-04-05T09:21:42+00:00",
     "no_image": false
   },
   {
-    "id": "bf5ed471e5fbc064f035eb58e64b20d3",
-    "title": "ТАСС: боевики ВСУ отступили с позиций без единого выстрела в лесополосе",
-    "url": "https://russian.rt.com/ussr/news/1615855-vsu-otstuplenie-shturm?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "id": "8d066075b764416650204b73e600ccd1",
+    "title": "ВС России поразили военные аэродромы и используемые ВСУ объекты ТЭК Украины",
+    "url": "https://russian.rt.com/ussr/news/1615989-porazhenie-ukraina-aerodromy-toplivo?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
-    "pub_dt": "2026-04-04T20:47:15+00:00",
+    "pub_dt": "2026-04-05T09:20:48+00:00",
     "no_image": false
   },
   {
-    "id": "bb30a1fff397d0ff5eb19847f0a4e475",
-    "title": "Эпичное уничтожение пункта дислокации со складом матсредств ВСУ попало на видео",
-    "url": "https://lenta.ru/news/2026/04/04/epichnoe-unichtozhenie-punkta-vremennoy-dislokatsii-so-skladom-matsredstv-popalo-na-video/",
+    "id": "ac2c63efbcb316f0fc24abb1aa8652a4",
+    "title": "Россиян заверили в отсутствии планов по 12-часовому рабочему дню и шестидневке",
+    "url": "https://lenta.ru/news/2026/04/05/tverdo-i-chetko/",
     "source": "Лента",
-    "pub_dt": "2026-04-04T20:51:00+00:00",
+    "pub_dt": "2026-04-05T09:20:00+00:00",
     "no_image": true
-  },
-  {
-    "id": "ad8b910906fb6a2ee9510feafb9213b1",
-    "title": "Военная операция на Украине. Онлайн",
-    "url": "https://tass.ru/armiya-i-opk/27001697",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T21:00:38+00:00",
-    "no_image": false
-  },
-  {
-    "id": "1eee0f6064288368b1cc60534c0ad137",
-    "title": "В Саратовской области объявили угрозу атаки БПЛА",
-    "url": "https://tass.ru/proisshestviya/27003595",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T21:11:31+00:00",
-    "no_image": false
-  },
-  {
-    "id": "eb5f104f1b742c0576eb63a9d6f41ddc",
-    "title": "В Тульской области объявили опасность атаки беспилотников",
-    "url": "https://ria.ru/20260405/tulskaya-2085238045.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T21:20:20+00:00",
-    "no_image": false
-  },
-  {
-    "id": "5fe4dde955bb9757cf1078ddb960888b",
-    "title": "\"Лилль\" разгромил занимающий второе место в чемпионате Франции \"Ланс\"",
-    "url": "https://ria.ru/20260405/lill-2085238510.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T21:31:44+00:00",
-    "no_image": false
-  },
-  {
-    "id": "c4b7ab5f25b231b4177fe3f07cdb262f",
-    "title": "Крупная американская авиакомпания начала отменять рейсы из-за цен на топливо",
-    "url": "https://lenta.ru/news/2026/04/05/krupnaya-amerikanskaya-aviakompaniya-nachala-otmenyat-reysy-iz-za-tsen-na-toplivo/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T21:43:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "d333474dcfc4675bfccf02139058afad",
-    "title": "Селевые массы сошли на федеральную трассу в Дербенте из-за ливня",
-    "url": "https://ria.ru/20260405/derbent-2085239182.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T21:51:00+00:00",
-    "no_image": false
-  },
-  {
-    "id": "474ffa07788b780069574297d4f58fe5",
-    "title": "Бывший футболист «Челси» завершил карьеру из-за проблем с сердцем",
-    "url": "https://lenta.ru/news/2026/04/05/byvshiy-futbolist-chelsi-zavershil-karieru-iz-za-problem-s-serdtsem/",
-    "source": "Лента",
-    "pub_dt": "2026-04-04T22:02:20+00:00",
-    "no_image": true
-  },
-  {
-    "id": "8bf179655136a6617801ee07a5d156a8",
-    "title": "В Татарстане ввели режим беспилотной опасности",
-    "url": "https://ria.ru/20260405/tatarstan-2085240036.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T22:11:14+00:00",
-    "no_image": false
-  },
-  {
-    "id": "3d3b517af4848d36f94244383a7fbb30",
-    "title": "Малкин преодолел отметку в 1 400 очков в регулярных чемпионатах НХЛ",
-    "url": "https://tass.ru/sport/27003661",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T22:27:57+00:00",
-    "no_image": false
-  },
-  {
-    "id": "452218ec8246555b2315f24b6419f0d0",
-    "title": "Мурашко: молодые люди стали чаще страдать от сердечных приступов",
-    "url": "https://tass.ru/obschestvo/27003677",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T22:30:55+00:00",
-    "no_image": false
-  },
-  {
-    "id": "a3b60ec5ab6673bf3e3e01484c86935e",
-    "title": "В Дагестане 25 человек госпитализировали с признаками отравления",
-    "url": "https://russian.rt.com/russia/news/1615873-dagestan-otravlenie-karabudahkent?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-04T22:42:17+00:00",
-    "no_image": false
-  },
-  {
-    "id": "7ff965568992a8f5e6cc00af7c50dd0e",
-    "title": "Tasnim: в Иране три человека погибли при ракетном ударе по горному району",
-    "url": "https://russian.rt.com/world/news/1615875-iran-raketnyy-udar-pogibshie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-04T22:50:51+00:00",
-    "no_image": false
-  },
-  {
-    "id": "9828bffbd27b63534f621f03bf62d091",
-    "title": "Израильская полиция задержала 17 человек на протестах в Тель-Авиве",
-    "url": "https://ria.ru/20260405/izrail-2085241877.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T23:02:58+00:00",
-    "no_image": false
-  },
-  {
-    "id": "5ff50dbff584f2548821ea34297dfcd5",
-    "title": "В МИД раскрыли настоящую причину саммита Запада с арабскими странами",
-    "url": "https://ria.ru/20260405/mid-2085242673.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T23:11:39+00:00",
-    "no_image": false
-  },
-  {
-    "id": "ab51ef627f3aa74ab8ee34c1063da45f",
-    "title": "Четыре человека погибли, 18 пострадали в ДТП с автобусом в Индии",
-    "url": "https://russian.rt.com/world/news/1615881-dtp-avtobus-indiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-04T23:21:26+00:00",
-    "no_image": false
-  },
-  {
-    "id": "2115aebff81b9358c321378849c66d79",
-    "title": "В Госдуме рассказали, что делать при ошибках в квитанциях ЖКХ",
-    "url": "https://ria.ru/20260405/kvitantsii-2085244409.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-04T23:30:38+00:00",
-    "no_image": false
-  },
-  {
-    "id": "474ec046c87284245b156747c086f0c0",
-    "title": "Почти на всей территории Украины отменили воздушную тревогу",
-    "url": "https://tass.ru/proisshestviya/27003763",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-04T23:44:45+00:00",
-    "no_image": false
-  },
-  {
-    "id": "4ce8794bb7219929595542955c9a8c8c",
-    "title": "Отец Илона Маска назвал Вашингтон гетто по сравнению с Москвой",
-    "url": "https://russian.rt.com/world/news/1615884-mask-vashington-moskva-getto?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-04T23:54:31+00:00",
-    "no_image": false
-  },
-  {
-    "id": "3a52d75bdac8bf2aa8d1c191b8048545",
-    "title": "\"Тампа\" обыграла \"Бостон\", Кучеров отметился голом",
-    "url": "https://ria.ru/20260405/khokkey-2085245686.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T00:01:36+00:00",
-    "no_image": false
-  },
-  {
-    "id": "ba0fbfcd094fa9ad430582c14cf9c870",
-    "title": "НИЦ Гамалеи: создание онковакцины для конкретного пациента занимает три месяца",
-    "url": "https://tass.ru/obschestvo/27003781",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T00:10:28+00:00",
-    "no_image": false
-  },
-  {
-    "id": "1870f7316253e0d5bd0933fcf4d559c7",
-    "title": "Задержан еще один подозреваемый по делу о расправе над московской предпринимательницей",
-    "url": "https://lenta.ru/news/2026/04/05/zaderzhan-esche-odin-podozrevaemyy-po-delu-o-rasprave-nad-moskovskoy-predprinimatelnitsey/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T00:21:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "189c5de206a137e99ee8aa94b827e737",
-    "title": "Мошенники обманывают подростков под предлогом обновления электронных дневников",
-    "url": "https://russian.rt.com/russia/news/1615887-moshennik-podrostki-dnevnik?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T00:31:18+00:00",
-    "no_image": false
-  },
-  {
-    "id": "9bc4b1cd949c78ea4cef7b71e09e8212",
-    "title": "В Греции раскрыли последствия антироссийских санкций для ЕС",
-    "url": "https://lenta.ru/news/2026/04/05/v-gretsii-raskryli-posledstviya-antirossiyskih-sanktsiy-dlya-es/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T00:42:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "cd9c5531ca741edb3db3076037a0c91a",
-    "title": "В аэропортах Пензы, Саратова и Ульяновска сняли ограничения на полеты",
-    "url": "https://ria.ru/20260405/aeroport-2085247855.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T00:50:46+00:00",
-    "no_image": false
-  },
-  {
-    "id": "2297b961bfadf57ad7a214592e62e4ec",
-    "title": "Press TV: Иран нанёс удары по военным объектам США в ОАЭ и Кувейте",
-    "url": "https://russian.rt.com/world/news/1615890-iran-udary-obekty?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T01:01:31+00:00",
-    "no_image": false
-  },
-  {
-    "id": "26c850f069735ab69d523c310b84f12b",
-    "title": "Эксперт Минакова: современная молодежь принимает решения быстрее",
-    "url": "https://tass.ru/obschestvo/27003837",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T01:12:37+00:00",
-    "no_image": false
-  },
-  {
-    "id": "f7f13b3a2d7cb2f4976f679227720ad1",
-    "title": "ČN: задержаны ещё двое подозреваемых в поджоге оборонного предприятия в Чехии",
-    "url": "https://russian.rt.com/world/news/1615894-zaderzhanie-podzhog-zavod?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T01:25:26+00:00",
-    "no_image": false
-  },
-  {
-    "id": "177c9466db78dc5832a258758bdf422f",
-    "title": "В Иране сообщили о попытке США ликвидировать собственного пилота",
-    "url": "https://lenta.ru/news/2026/04/05/v-irane-soobschili-o-popytke-ssha-likvidirovat-sobstvennogo-pilota/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T01:34:42+00:00",
-    "no_image": true
-  },
-  {
-    "id": "770f59594f73a622c4183f4d9d5a61c2",
-    "title": "Россиян предупредили о штрафах за работу стиральной машины ночью",
-    "url": "https://russian.rt.com/russia/news/1615897-rossiyane-shtraf-stirka-noch?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T01:42:02+00:00",
-    "no_image": false
-  },
-  {
-    "id": "d2375cf4a6655e408b369693e73e4da4",
-    "title": "КСИР заявил, что сбил еще один БПЛА MQ-9 над центром Ирана",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27003881",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T01:52:19+00:00",
-    "no_image": false
-  },
-  {
-    "id": "1f9532101e13cbea9a8cb10506f95730",
-    "title": "Операторы дронов \"Востока\" сорвали ротацию ВСУ в Запорожской области",
-    "url": "https://tass.ru/armiya-i-opk/27003905",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T02:00:34+00:00",
-    "no_image": false
-  },
-  {
-    "id": "06fde8689988a81cffba1571809c96f1",
-    "title": "Добровольцам отряда \"БАРС-22\" вручили госнаграды в зоне СВО",
-    "url": "https://ria.ru/20260405/nagrady-2085251455.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T02:10:43+00:00",
-    "no_image": false
-  },
-  {
-    "id": "e385129c1e9a0e268e05f9be2f56f007",
-    "title": "В аэропортах Калуги, Тамбова и Ярославля сняли ограничения",
-    "url": "https://tass.ru/ekonomika/27003947",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T02:22:15+00:00",
-    "no_image": false
-  },
-  {
-    "id": "fb8285ae4f9a130d2082f8dd48016204",
-    "title": "МВД: обстановку с подростковой преступностью стабилизировали",
-    "url": "https://tass.ru/obschestvo/27003967",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T02:30:46+00:00",
-    "no_image": false
-  },
-  {
-    "id": "57d7c5699fec43cccdcedd7c10ea83fd",
-    "title": "Священник рассказал, как нужно провести Страстную неделю",
-    "url": "https://ria.ru/20260405/strastnaya-2085072938.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T02:44:00+00:00",
-    "no_image": false
-  },
-  {
-    "id": "35f112e712d7f3bae30e4ad9f2e75b2d",
-    "title": "Финансист Валишвили назвала три вида кредитов, от которых стоит отказаться",
-    "url": "https://russian.rt.com/business/news/1615904-finansist-kredit-otkaz?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T02:51:21+00:00",
-    "no_image": false
-  },
-  {
-    "id": "3d28ef786e7a4020c1aa3ca4dee837f3",
-    "title": "Дотком считает, что ЕС не выделит Украине кредит в €90 млрд",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27003999",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T03:01:06+00:00",
-    "no_image": false
-  },
-  {
-    "id": "95e5e90480488befed84ffd02bb2eb5f",
-    "title": "Тольяттинский потрошитель потребовал от суда 300 тысяч рублей",
-    "url": "https://ria.ru/20260405/potroshitel-2085254144.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T03:11:09+00:00",
-    "no_image": false
-  },
-  {
-    "id": "ffc343b31ac1000823b55b7fb84d99b3",
-    "title": "Дрозденко сообщил об уничтожении второго дрона над Ленинградской областью",
-    "url": "https://russian.rt.com/ussr/news/1615908-drozdenko-dron-leningradskaya-oblast?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T03:20:23+00:00",
-    "no_image": false
-  },
-  {
-    "id": "a83c8a8ebdd296903a65aa32fdf281cd",
-    "title": "Сальдо: пророссийское подполье успешно ослабляет ВСУ к освобождению Херсона",
-    "url": "https://tass.ru/armiya-i-opk/27004079",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T03:30:44+00:00",
-    "no_image": false
-  },
-  {
-    "id": "22e59489c33f5e77a7adbdb7207ce455",
-    "title": "Американский военный сделал признание о вторжении в Иран",
-    "url": "https://lenta.ru/news/2026/04/05/amerikanskiy-voennyy-sdelal-priznanie-o-vtorzhenii-v-iran/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T03:41:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "f064ccf4ce11178bfd98802b8315f912",
-    "title": "Экс-аналитик ЦРУ объяснил потерю техники США в операции против Ирана",
-    "url": "https://ria.ru/20260405/ssha-2085256045.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T03:50:38+00:00",
-    "no_image": false
-  },
-  {
-    "id": "a9556720d9ca89f38d167fc6ca79b94e",
-    "title": "Юрист предупредил о последствиях выбрасывания документов и чеков в мусор",
-    "url": "https://lenta.ru/news/2026/04/05/yurist-predupredil-o-posledstviyah-vybrasyvaniya-dokumentov-i-chekov-v-musor/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T04:00:34+00:00",
-    "no_image": true
-  },
-  {
-    "id": "aa692165a1b4345ba4e0b62cfefd913e",
-    "title": "Эксперт Средин: рост спроса на медь в Китае выгоден России",
-    "url": "https://tass.ru/ekonomika/27004185",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T04:10:49+00:00",
-    "no_image": false
-  },
-  {
-    "id": "13434ef17cfa9abab89d5483da15c353",
-    "title": "Японии грозит полное отключение электроснабжения и резервных генераторов",
-    "url": "https://lenta.ru/news/2026/04/05/yaponii-grozit-polnoe-otklyuchenie-elektrosnabzheniya-i-rezervnyh-generatorov/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T04:20:58+00:00",
-    "no_image": true
-  },
-  {
-    "id": "bab84da814ef1c63a0b0a65661ea0313",
-    "title": "Россиянам развеяли два популярных мифа об органическом вине",
-    "url": "https://lenta.ru/news/2026/04/05/rossiyanam-razveyali-dva-populyarnyh-mifa-ob-organicheskom-vine/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T04:30:54+00:00",
-    "no_image": true
-  },
-  {
-    "id": "1b2a224a50166eb5b2f14991ffaebc66",
-    "title": "В Ленинградской области отменили воздушную опасность",
-    "url": "https://tass.ru/proisshestviya/27004323",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T04:40:58+00:00",
-    "no_image": false
-  },
-  {
-    "id": "e8d7d7a87754c5029c05e6b63c6a7a83",
-    "title": "ВСУ столкнулись с проблемой в Орехове",
-    "url": "https://lenta.ru/news/2026/04/05/vsu-stolknulis-s-problemoy-v-orehove/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T04:53:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "e6b6d378d9ee77d43b336105dcf4f88e",
-    "title": "Роднина оценила результаты введения поправок в Конституцию",
-    "url": "https://lenta.ru/news/2026/04/04/rodnina-otsenila-rezultaty-vvedeniya-popravok-v-konstitutsiyu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T05:00:40+00:00",
-    "no_image": true
-  },
-  {
-    "id": "8f931e0e9f56351646fe47b6cf3b555e",
-    "title": "КСИР заявил о поражении беспилотника MQ-9 над страной, пишут СМИ",
-    "url": "https://ria.ru/20260405/iran-2085259926.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T05:11:17+00:00",
-    "no_image": false
-  },
-  {
-    "id": "65f67951ea6467e3f02a97b31e9bc654",
-    "title": "Хромачева и Долхайд обыграли российско-украинский дуэт в финале турнира WTA",
-    "url": "https://ria.ru/20260405/hromachev-2085260792.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T05:20:39+00:00",
-    "no_image": false
-  },
-  {
-    "id": "0707359c3877da7150d4220b203e39ea",
-    "title": "В Нижегородской области ТЭЦ и жилые дома повреждены из-за падения БПЛА",
-    "url": "https://ria.ru/20260405/bpla-2085261635.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T05:30:49+00:00",
-    "no_image": false
-  },
-  {
-    "id": "7c367350d85c78bed8ab0faa126d7f32",
-    "title": "ВСУ столкнулись с дефицитом топлива",
-    "url": "https://lenta.ru/news/2026/04/05/vsu-stolknulis-s-defitsitom-topliva/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T05:41:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "2bce581c41337b8207a9447ada02fc1d",
-    "title": "Украинские беспилотники повредили ТЭЦ в Нижегородской области",
-    "url": "https://www.vedomosti.ru/society/news/2026/04/05/1187987-povredili-tets",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T05:54:11+00:00",
-    "no_image": false
-  },
-  {
-    "id": "eaefa6aac1d0ae0edcab574662b22c4c",
-    "title": "Гол Миранчука не спас \"Атланту\" от поражения в матче MLS",
-    "url": "https://ria.ru/20260405/miranchuk-2085264020.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T06:04:49+00:00",
-    "no_image": false
-  },
-  {
-    "id": "779e400eaaaa8d95bb19fc3135ba7f51",
-    "title": "Синоптик рассказал о погоде в Москве на следующей неделе",
-    "url": "https://ria.ru/20260405/sneg-2085264669.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T06:10:28+00:00",
-    "no_image": false
-  },
-  {
-    "id": "5d5c605a2d559aea456a2f05adee5b3b",
-    "title": "Бойцы \"Севера\" уничтожили ракетный комплекс \"Бук-М1\" ВСУ в Сумской области",
-    "url": "https://ria.ru/20260405/ukraina-2085265813.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T06:22:28+00:00",
-    "no_image": false
-  },
-  {
-    "id": "f8edb45b0127a802443829577153ca23",
-    "title": "\"Забытые\" советские вещи, которые покоряют современные подиумы",
-    "url": "https://ria.ru/20260405/veschi-2085051332.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T06:33:00+00:00",
-    "no_image": false
-  },
-  {
-    "id": "fe6e8b4f1fb4e134d6e4dd5ad0e45106",
-    "title": "ВСУ 34 раза применили артиллерию по курскому приграничью за сутки",
-    "url": "https://ria.ru/20260405/vsu-2085267284.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T06:40:18+00:00",
-    "no_image": false
   }
 ]
