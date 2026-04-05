@@ -1,5 +1,32 @@
 [
   {
+    "id": "3c82be585c945ad185d637adbd82a155",
+    "title": "В Курской области в результате атаки ВСУ пострадал мирный житель",
+    "url": "https://russian.rt.com/ussr/news/1616096-kurskaya-oblast-vsu-ataka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T15:15:27+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e81cd098c39d207fed7fe0061ad236eb",
+    "title": "Минобороны Турции сообщило об уничтожении в Черном море дрейфующей мины",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007759",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:13:38+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e6641a8d4b64f8e39fde558e6dbffbd3",
+    "title": "На Херсонщине отобрали 34 вакантных места для \"Земских работников культуры\"",
+    "url": "https://tass.ru/obschestvo/27007807",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T15:12:58+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "35942bca2c904c9b4b4d9e23eb88031b",
     "title": "В Курской области мирный житель пострадал при атаке ВСУ",
     "url": "https://ria.ru/20260405/ataka-2085313124.html",
@@ -1040,33 +1067,6 @@
     "url": "https://tass.ru/proisshestviya/27007189",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T13:44:26+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ff37ed883d5abe6948947f85cdf656a3",
-    "title": "Семь кругов Трампа // Президент США не может выйти из «иранского ада»",
-    "url": "https://www.kommersant.ru/doc/8569561",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T13:44:14+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "49a65f7fd7c9ee1e37fc140810a2a9a3",
-    "title": "Оверчук: при вступлении в ЕС у Армении не будет авиасообщения с РФ",
-    "url": "https://tass.ru/politika/27007181",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T13:43:56+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "1e78a975cb156a3d89ead9d0d1516886",
-    "title": "В Калининграде три человека пострадали во время пожара в ТЦ",
-    "url": "https://ria.ru/20260405/pozhar-2085305053.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T13:41:30+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
