@@ -1,13 +1,5 @@
 [
   {
-    "id": "6b713153dcef041e46198c9949f01f55",
-    "title": "Ким Чен Ын посетил стройку Музея боевых подвигов в зарубежной военной операции",
-    "url": "https://tass.ru/obschestvo/26985827",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-02T21:51:39+00:00",
-    "no_image": false
-  },
-  {
     "id": "ffc7462131f6d364f2c7ac246e1303d4",
     "title": "Людей с одной проблемой со сном предупредили о сокращении жизни на семь лет",
     "url": "https://lenta.ru/news/2026/04/03/lyudey-s-odnoy-problemoy-so-snom-predupredili-o-sokraschenii-zhizni-na-sem-let/",
@@ -2389,6 +2381,14 @@
     "url": "https://ria.ru/20260405/kvitantsii-2085244409.html",
     "source": "РИА",
     "pub_dt": "2026-04-04T23:30:38+00:00",
+    "no_image": false
+  },
+  {
+    "id": "474ec046c87284245b156747c086f0c0",
+    "title": "Почти на всей территории Украины отменили воздушную тревогу",
+    "url": "https://tass.ru/proisshestviya/27003763",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T23:44:45+00:00",
     "no_image": false
   }
 ]
