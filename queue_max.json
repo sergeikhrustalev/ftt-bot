@@ -1,5 +1,95 @@
 [
   {
+    "id": "8b683725689177147f0dc6186ad4f615",
+    "title": "Дмитриев допустил повышение цен на нефть до 150 долларов за баррель",
+    "url": "https://ria.ru/20260405/neft-2085304634.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T13:39:16+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "1f162f7373d518bb343c41cb34f88da7",
+    "title": "В Калининграде при пожаре в ТЦ \"Гиант\" пострадали три человека",
+    "url": "https://tass.ru/proisshestviya/27007169",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:38:34+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "6df5c4938831cb6767e9f32dc4cd4e13",
+    "title": "Карта спецоперации Вооруженных сил России на Украине на 05.04.2026",
+    "url": "https://ria.ru/20260405/spetsoperatsiya-2085304432.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T13:38:12+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "7b9370db4fc4b6eced3c098220918dec",
+    "title": "Аргентинец Навоне завоевал первый титул ATP в карьере",
+    "url": "https://ria.ru/20260405/navone-2085304291.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T13:37:56+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "387bae640c47ca437f95b428406885b6",
+    "title": "В России объяснили причину жесткого призыва Трампа открыть «чертов пролив»",
+    "url": "https://lenta.ru/news/2026/04/05/v-rossii-ob-yasnili-prichinu-zhestkogo-prizyva-trampa-otkryt-chertov-proliv/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T13:37:20+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d2e6850891404f0d16d066388da993c8",
+    "title": "АЭС «Бушер» в зоне риска",
+    "url": "https://www.kommersant.ru/doc/8569566",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T13:37:04+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "baf55e1225fa2d1a45809ac69d97b5f8",
+    "title": "ТАСС: мониторинг ОПЕК+ не планирует давать рекомендаций по изменению политики добычи нефти",
+    "url": "https://tass.ru/ekonomika/27007145",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:36:51+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "f2daf44467ce61f45d69f1b26a0c2589",
+    "title": "Траньков считает, что в «Русском вызове» должны участвовать молодые фигуристы",
+    "url": "https://russian.rt.com/sport/news/1616063-trankov-russkiy-vyzov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T13:36:45+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "aaa54f6977fe61d320d438565b490396",
+    "title": "В Дагестане из-за разрушения плотины эвакуировали порядка 800 домохозяйств",
+    "url": "https://tass.ru/proisshestviya/27007141",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:36:09+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "4d7d2e0746c2beafb0cc4b06f712328c",
+    "title": "Филиппо сравнил попытку диверсии на газопроводе в Сербии с \"Северными потоками\"",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007133",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:36:01+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "393d362c8ee2883911ee66ae547f8894",
     "title": "США и Иран могут достичь сделки в понедельник, заявил Трамп",
     "url": "https://ria.ru/20260405/tramp-2085303758.html",
@@ -978,96 +1068,6 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T12:21:18+00:00",
     "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "48f53db628aefcf436a8cfa214529231",
-    "title": "Около 300 жителей эвакуировали из четырёх домов Махачкалы из-за угрозы обрушения",
-    "url": "https://russian.rt.com/russia/news/1616045-mahachkala-obrushenie-doma-evakuaciya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T12:20:40+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8163a4dd09afd513ced14e779c281d7f",
-    "title": "Трамп в матерной форме обратился к Ирану и упомянул Аллаха",
-    "url": "https://ria.ru/20260405/tramp-2085298413.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T12:20:33+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ec064c5430f7d31ce72b48c5def1d138",
-    "title": "Специализирующийся на тайном проникновении самолет США заметили в небе над Ираном",
-    "url": "https://lenta.ru/news/2026/04/05/spetsializiruyuschiysya-na-taynom-proniknovenii-samolet-ssha-zametili-v-nebe-nad-iranom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T12:20:26+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "1ccacb08f59cbc61438f6d7cb75712de",
-    "title": "Трамп подтвердил спасение второго члена экипажа F-15",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006679",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:20:09+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d1f18995a9ed28d76f1ab3465472327f",
-    "title": "The Times: Украина обратится к конгрессу США с просьбой о ракетах для Patriot",
-    "url": "https://russian.rt.com/world/news/1616042-kiev-kongress-ssha-rakety?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T12:19:14+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "61a0381277c48d207fcbc54f3c290c50",
-    "title": "В Кузбассе девятилетняя девочка погибла, провалившись под лед",
-    "url": "https://tass.ru/proisshestviya/27006659",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:18:49+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "b0f83c6c2171e023612a07da646691f0",
-    "title": "Трамп пригрозил Ирану адом, если он не откроет Ормузский пролив",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006671",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:18:33+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "5b7c5013242a747754d36dfa2606a25d",
-    "title": "В Севастополе объявили третью за день воздушную тревогу",
-    "url": "https://ria.ru/20260405/trevogu--2085298125.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T12:18:24+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "536cc51f71b597ae9ef9b499bd38429a",
-    "title": "В Московском зоопарке родились шесть птенцов пингвинов Гумбольдта",
-    "url": "https://ria.ru/20260405/pingviny-2085297991.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T12:16:28+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "40778a3d1899978e2ce74dccb8b23b43",
-    "title": "Гимнаст Маринов завоевал золото на этапе Кубка мира в Египте",
-    "url": "https://tass.ru/sport/27006653",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:15:48+00:00",
-    "no_image": false,
     "priority_boost_minutes": 0
   }
 ]
