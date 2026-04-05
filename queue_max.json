@@ -1,5 +1,68 @@
 [
   {
+    "id": "0a90108418f9700afbf6124ad542ee18",
+    "title": "Вероятность выхода США из НАТО оценили",
+    "url": "https://lenta.ru/news/2026/04/05/veroyatnost-vyhoda-ssha-iz-nato-otsenili/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T16:23:42+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "5880a877cd1285aa0b7e62d86dcc6738",
+    "title": "Российские волейболистки U17 вышли в полуфинал турнира в Италии",
+    "url": "https://ria.ru/20260405/voleybol-2085319880.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T16:23:41+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "607cb13f841411023206c56786d1d89d",
+    "title": "NASA: рекорд по удаленности нахождения людей от Земли будет побит в течение суток",
+    "url": "https://tass.ru/kosmos/27008219",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:23:39+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9774c19db9ab517af869cf1804c8d888",
+    "title": "Лыжникам Ардашеву и Пеклецовой вручили Кубок России",
+    "url": "https://tass.ru/sport/27008283",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:23:16+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "19e054ba95dfad7def14138eb3e55d17",
+    "title": "На Западе заявили об «абсолютно точных» ударах Ирана по Израилю",
+    "url": "https://lenta.ru/news/2026/04/05/na-zapade-zayavili-ob-absolyutno-tochnyh-udarah-irana-po-izrailyu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T16:22:25+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "1ee296fd6ad7580dedcd611db2f513a7",
+    "title": "Затонувший в Азовском море сухогруз атаковал украинский БПЛА, заявил Сальдо",
+    "url": "https://ria.ru/20260405/sukhogruz-2085319788.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T16:22:13+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "3dda9f564902d9ccbe302f3dfdf3f099",
+    "title": "В Сербии заявили, что диверсию на газопроводе планировал иностранец",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008259",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:20:07+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "7f649255fbd3f487ff8d65653a3a2698",
     "title": "Лавров и глава МИД Ирана обсудили удары по объектам АЭС «Бушер»",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188045-lavrov-glava-mid-irana",
@@ -1004,69 +1067,6 @@
     "url": "https://www.kommersant.ru/doc/8569574",
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-05T14:55:07+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a012a8adfd8684d15b79bd0e8e3b48d4",
-    "title": "Очевидцы раскрыли подробности пожара в калининградском ТЦ",
-    "url": "https://lenta.ru/news/2026/04/05/ochevidtsy-raskryli-podrobnosti-pozhara-v-kaliningradskom-tts/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T14:55:04+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "7353717770815cc1564a00212d4d3841",
-    "title": "ПСВ стал 27-кратным чемпионом Нидерландов по футболу",
-    "url": "https://ria.ru/20260405/futbol-2085312128.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:52:50+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "7d8c95a3620912827acdd3f5dd69ac03",
-    "title": "Лавров созвонился с китайским министром иностранных дел",
-    "url": "https://lenta.ru/news/2026/04/05/lavrov-sozvonilsya-s-kitayskim-ministrom-inostrannyh-del/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T14:52:48+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "dd8ca4302b2e1df0fb4843ebfa1716cb",
-    "title": "Губернатор Калининградской области рассказал об эвакуации посетителей ТЦ",
-    "url": "https://ria.ru/20260405/kaliningrad-2085311991.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:52:33+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "b23e7310d71300a54d79a3d55d63730d",
-    "title": "Перенесшего инфаркт бывшего тренера «Зенита» ввели в медикаментозную кому",
-    "url": "https://lenta.ru/news/2026/04/05/perenesshego-infarkt-byvshego-trenera-zenita-vveli-v-medikamentoznuyu-komu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T14:47:35+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "78bc9819d8329052cf915822c9edff35",
-    "title": "Пожар в ТЦ Калининграда локализовали",
-    "url": "https://tass.ru/proisshestviya/27007633",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:47:13+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "15d0772c7f8a5cdeb6f09158ead9b298",
-    "title": "Малкин — о Чинахове: сначала он подпишет контракт, а потом я",
-    "url": "https://russian.rt.com/sport/news/1616082-malkin-chinahov-kontrakt?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T14:47:10+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
