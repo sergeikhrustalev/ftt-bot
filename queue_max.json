@@ -1,11 +1,74 @@
 [
   {
+    "id": "0d3576bae93c4e611f677e7b3c78cd34",
+    "title": "Российский углерод сближают с зарубежным // Верификация отчетности о выбросах будет стандартизирована",
+    "url": "https://www.kommersant.ru/doc/8569588",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T15:39:13+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "7248f6cf77da82578e2c7da0ac8f28a5",
+    "title": "Израиль мог ударить по журналистам RT в Ливане управляемой бомбой с F-16",
+    "url": "https://russian.rt.com/world/news/1616098-syomochnaya-gruppa-rt-izrail-ataka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T15:37:55+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ddac2c9327bb8c6bf6500ce7e63742c2",
+    "title": "Заморозка участия США в НАТО перестала быть невозможной, считает Пушков",
+    "url": "https://ria.ru/20260405/pushkov-2085315791.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T15:37:38+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e06a8c287f6bb09c75b2cefc1df404ef",
+    "title": "В Дагестане под завалами обрушившегося из-за оползня дома нашли тело женщины",
+    "url": "https://russian.rt.com/russia/news/1616105-telo-zhenschiny-dagestan?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T15:36:09+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a04a819fd462ff2e8e1f77f33f143ffb",
+    "title": "Недопустимо увеличивать риски радиоактивной катастрофы, заявил Лавров",
+    "url": "https://ria.ru/20260405/mid-2085315657.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T15:35:41+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "455d6a18b02d20a6e9c4adc990912e3c",
+    "title": "Четыре страны усилят защиту «Турецкого потока» после обнаружения взрывчатки",
+    "url": "https://lenta.ru/news/2026/04/05/chetyre-strany-usilyat-zaschitu-turetskogo-potoka-posle-obnaruzheniya-vzryvchatki/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T15:35:41+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "4e2833cd236fadabe4c669b998376a05",
     "title": "Лавров выразил соболезнования Аракчи из-за гибели сотрудника АЭС \"Бушер\"",
     "url": "https://ria.ru/20260405/lavrov-2085315428.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T15:34:34+00:00",
     "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "670b6a022bf6781306118fc2a0e2c55f",
+    "title": "Украина открестилась от попытки взорвать трубопровод в Сербии и обвинила Россию",
+    "url": "https://lenta.ru/news/2026/04/05/ukraina-otkrestilas-ot-popytki-vzorvat-truboprovod-v-serbii-i-obvinila-rossiyu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T15:34:00+00:00",
+    "no_image": true,
     "priority_boost_minutes": 0
   },
   {
@@ -1005,69 +1068,6 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T14:12:39+00:00",
     "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "de69e9557516463a71d4ccc575438d40",
-    "title": "Корреспондент RT Суини: более 1 млн человек покинули дома в Ливане",
-    "url": "https://russian.rt.com/world/news/1616074-livan-doma-pokinuli?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T14:12:32+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a9c2bbf04979b5a2370485f09883dbb5",
-    "title": "В Дербентском районе эвакуировали 800 домохозяйств из-за перелива реки",
-    "url": "https://ria.ru/20260405/dagestan-2085308233.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T14:12:31+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8cf8bde4c773419073c0a4ccc5f78147",
-    "title": "Патриарх Кирилл поздравил глав инославных Церквей с Пасхой",
-    "url": "https://tass.ru/obschestvo/27007375",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:12:29+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "2620128912d16a8e082fd5f7ea6dd904",
-    "title": "Пожар в калининградском ТЦ связали с российским электромобилем",
-    "url": "https://lenta.ru/news/2026/04/05/amber/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T14:09:18+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a46f1a7a87e794efaf9f5576f819d9c4",
-    "title": "Три человека пострадали при пожаре в ТЦ в Калининграде",
-    "url": "https://russian.rt.com/russia/news/1616075-pozhar-kaliningrad-tc-postradavshie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T14:06:25+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "366f9b106590bf51de330f4c35230a54",
-    "title": "Россия и Танзания запустят прямые рейсы",
-    "url": "https://lenta.ru/news/2026/04/05/rossiya-i-tanzaniya-zapustyat-pryamye-reysy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T14:03:49+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "bb5283691658a67fd45e3932a113fe75",
-    "title": "В Махачкале четыре дома находятся в зоне риска после обрушения здания",
-    "url": "https://tass.ru/obschestvo/27007313",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T14:03:04+00:00",
-    "no_image": false,
     "priority_boost_minutes": 0
   }
 ]
