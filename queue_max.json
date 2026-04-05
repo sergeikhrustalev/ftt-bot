@@ -1,5 +1,122 @@
 [
   {
+    "id": "241c1c1c876cb66ab1feda391fb8bdf7",
+    "title": "В ОАЭ заявили о перехвате 9 баллистических ракет и 50 БПЛА из Ирана",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006337",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:38:41+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9732bee7b7f960f379199ebd2f4efa21",
+    "title": "На юге Израиля вспыхнул пожар после ракетного обстрела из Ирана",
+    "url": "https://ria.ru/20260405/izrail-2085293968.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:38:40+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "71e7b2fe604a61d8634a1889d266199e",
+    "title": "Зеленский начал затыкать \"дыры\" на фронте старшими офицерами, заявил Рогов",
+    "url": "https://ria.ru/20260405/zelenskiy-2085293786.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:37:53+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d44d3e0da9202fd1e66958c9f4990e6f",
+    "title": "Bloomberg: ОПЕК+ может повысить квоты на добычу нефти",
+    "url": "https://www.vedomosti.ru/business/news/2026/04/05/1188018-kvoti-na-dobichu",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T11:37:43+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "fe433d4d7cb7d93d975d6150839570d0",
+    "title": "На \"Радио Судного дня\" прозвучало новое сообщение",
+    "url": "https://ria.ru/20260405/radio-2085293667.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:37:36+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e291bebb2260c2602c8535f9e822cb39",
+    "title": "Песков с иронией назвал заявления Каллас \"новыми изысканиями эстонских историков\"",
+    "url": "https://tass.ru/politika/27006291",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:37:29+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "944e5919be0c8c32e0eb9f8e8ef5eb0b",
+    "title": "\"Большунову нравятся свои тараканы\": интервью самого загадочного лыжника",
+    "url": "https://ria.ru/20260405/terentev-2085291486.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:37:19+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "f1332ebbd270b36bad0484bcf6f7f535",
+    "title": "Стала известна судьба пропавших в Таиланде фитнес-модели и владельца ритуальной конторы",
+    "url": "https://lenta.ru/news/2026/04/05/stala-izvestna-sudba-propavshih-v-tailande-fitnes-modeli-i-vladeltsa-ritualnoy-kontory/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T11:37:18+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a10dd7f9f42bf7cd1e7bc36eee4174d8",
+    "title": "Тухватуллина: Кузнецов собрал мощную команду на посту главного архитектора Москвы",
+    "url": "https://tass.ru/kultura/27006265",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:36:59+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d3bad7c3be738e1e9913ffff63808306",
+    "title": "Украина рассказала о просьбах перестать бить по нефтяным объектам в России",
+    "url": "https://lenta.ru/news/2026/04/05/please/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T11:35:38+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "47ddea4a9f45a793362744a0608f0521",
+    "title": "Лихачев выразил надежду, что россияне с АЭС \"Бушер\" ночью приедут в Армению",
+    "url": "https://ria.ru/20260405/likhachev-2085293376.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:35:17+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "4ce086630e5aef720820b1ad694e9afa",
+    "title": "Над регионами России сбили 77 украинских БПЛА",
+    "url": "https://tass.ru/armiya-i-opk/27006301",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:34:36+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "6d03d10ce99545881a37d6c62f9d2000",
+    "title": "При атаке БПЛА на сухогруз с пшеницей, затонувший в Азовском море, погибли двое",
+    "url": "https://tass.ru/proisshestviya/27006281",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:33:57+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "2d8f2b9cfe95f749cb46c8b3149a9f23",
     "title": "Силы ПВО уничтожили 77 украинских БПЛА за шесть часов",
     "url": "https://ria.ru/20260405/pvo-2085292905.html",
@@ -918,110 +1035,6 @@
     "url": "https://tass.ru/kosmos/27005799",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T10:34:48+00:00",
-    "no_image": false
-  },
-  {
-    "id": "c8a74560b31caa3a0cc537b4201a14cc",
-    "title": "Лихачёв назвал тревожной нормой сдвигание красных линий в ядерной безопасности",
-    "url": "https://russian.rt.com/world/news/1616005-lihachyov-krasnye-linii?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T10:34:37+00:00",
-    "no_image": false
-  },
-  {
-    "id": "ccd803d607dc58e235ca977ae8fc5661",
-    "title": "Папа Римский в католическую Пасху объявил о молитве за мир 11 апреля",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27005765",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:32:10+00:00",
-    "no_image": false
-  },
-  {
-    "id": "9b9f827d9950c7f0dd1fe049685ec04b",
-    "title": "Захарова прокомментировала инцидент со взрывчаткой у газопровода в Сербии",
-    "url": "https://ria.ru/20260405/zakharova-2085285224.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T10:31:54+00:00",
-    "no_image": false
-  },
-  {
-    "id": "1425a573b57719dea633f0f276371eea",
-    "title": "В России женщина впервые родила однояйцевую четверню",
-    "url": "https://lenta.ru/news/2026/04/05/v-rossii-zhenschina-vpervye-rodila-odnoyaytsevuyu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T10:31:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "c9ac12fb49dbc36ddcbc45594a2a1028",
-    "title": "В России впервые родились однояйцевые четверняшки",
-    "url": "https://ria.ru/20260405/chetvernyashki-2085285011.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T10:29:36+00:00",
-    "no_image": false
-  },
-  {
-    "id": "fd353355c4104750a078054c0cf580d1",
-    "title": "Юрист Шестерякова рассказала, чем грозит употребление чужой еды на работе",
-    "url": "https://tass.ru/obschestvo/27004291",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:29:21+00:00",
-    "no_image": false
-  },
-  {
-    "id": "58a8f1c8d2bc1658fb71961aa3dd745a",
-    "title": "В Киеве заявили, что в одну из частей ВСУ попали 2 тыс. непригодных к службе",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27005759",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:26:59+00:00",
-    "no_image": false
-  },
-  {
-    "id": "9cbfc8b37ade5afee7c064c190c0bb53",
-    "title": "Москвичей предупредили об опасностях из-за сильного ветра",
-    "url": "https://lenta.ru/news/2026/04/05/moskvichey-predupredili-ob-opasnostyah-iz-za-silnogo-vetra/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T10:25:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "b2d79b9f89f247bca54632b13c399db4",
-    "title": "Дегтярёв: Россия и Турция — важные партнёры в сфере спорта",
-    "url": "https://russian.rt.com/sport/news/1616006-rossiya-turciya-sport-partnyorstvo?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T10:24:51+00:00",
-    "no_image": false
-  },
-  {
-    "id": "c9c96fda4f456ccab1ffce2ef7771130",
-    "title": "В Москве предупредили о ветре с порывами до 15 м/с",
-    "url": "https://tass.ru/obschestvo/27005747",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:21:09+00:00",
-    "no_image": false
-  },
-  {
-    "id": "b039ae5b3ac338c4d9acbc7f61c54baa",
-    "title": "Песков: ЕАЭС и ЕС не сочетаются, Армении придётся выбирать",
-    "url": "https://russian.rt.com/ussr/news/1616007-eaes-es-armeniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T10:20:57+00:00",
-    "no_image": false
-  },
-  {
-    "id": "75bc81fc8bc419e448859b8e67f8992c",
-    "title": "Захарова: Венгрию хотят лишить суверенитета, лишая ресурсов по разумной цене",
-    "url": "https://tass.ru/politika/27005739",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:19:34+00:00",
-    "no_image": false
-  },
-  {
-    "id": "55984529f5d30f7cc265abe5a0cae717",
-    "title": "В Саратовской области на малых реках бассейнов Волги и Урала снизился уровень воды",
-    "url": "https://tass.ru/obschestvo/27005529",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:19:10+00:00",
     "no_image": false
   }
 ]
