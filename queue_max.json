@@ -1,13 +1,5 @@
 [
   {
-    "id": "3f8a2bc615b5146a8bd3e82daa25b9e9",
-    "title": "В Японии назвали неотложной задачей улучшение отношений с Россией",
-    "url": "https://lenta.ru/news/2026/04/03/v-yaponii-nazvali-neotlozhnoy-zadachey-uluchshenie-otnosheniy-s-rossiey/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T00:26:36+00:00",
-    "no_image": true
-  },
-  {
     "id": "1358fdb00251b7a69f008d2197e23ab8",
     "title": "Российская тревел-блогерша раскрыла главный секрет долголетия японцев",
     "url": "https://lenta.ru/news/2026/04/03/rossiyskaya-trevel-blogersha-raskryla-glavnyy-sekret-dolgoletiya-yapontsev/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/armiya-i-opk/27003905",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T02:00:34+00:00",
+    "no_image": false
+  },
+  {
+    "id": "06fde8689988a81cffba1571809c96f1",
+    "title": "Добровольцам отряда \"БАРС-22\" вручили госнаграды в зоне СВО",
+    "url": "https://ria.ru/20260405/nagrady-2085251455.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T02:10:43+00:00",
     "no_image": false
   }
 ]
