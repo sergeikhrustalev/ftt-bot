@@ -1,13 +1,5 @@
 [
   {
-    "id": "1eae2f784bd0276662e840e7f2669885",
-    "title": "Вэнс посетит Венгрию 7-8 апреля",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26985227",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-02T19:12:53+00:00",
-    "no_image": false
-  },
-  {
     "id": "39aeb9f967a3d25ba10feb23c8412f15",
     "title": "Британский политик призвал запретить Канье Уэсту въезд в страну",
     "url": "https://ria.ru/20260402/uest-2084875587.html",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-04T20:51:00+00:00",
     "no_image": true
+  },
+  {
+    "id": "ad8b910906fb6a2ee9510feafb9213b1",
+    "title": "Военная операция на Украине. Онлайн",
+    "url": "https://tass.ru/armiya-i-opk/27001697",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T21:00:38+00:00",
+    "no_image": false
   }
 ]
