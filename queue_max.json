@@ -1,5 +1,68 @@
 [
   {
+    "id": "d9af4f53b3b2be24e4a6c2cec86306d7",
+    "title": "В Иране заявили, что из-за действий США Ближний Восток «сгорит дотла»",
+    "url": "https://russian.rt.com/world/news/1616189-ssha-blizhnii-vostok?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T19:24:43+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "6ad7e0bd676015e467d2f01f5e4f1a74",
+    "title": "Сальдо: все округа Херсонской области полностью или частично обесточены",
+    "url": "https://tass.ru/proisshestviya/27009267",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:23:48+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e1c316a7020416b3e91ada95ae6ba579",
+    "title": "В Сербии назвали страну производства найденной у газопровода взрывчатки",
+    "url": "https://lenta.ru/news/2026/04/05/v-serbii-nazvali-stranu-proizvodstva-naydennoy-u-gazoprovoda-vzryvchatki/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T19:23:00+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "4546b14e48efc1559babbafdc04a1caa",
+    "title": "Карседо выразил надежду на честное судейство в кубковом матче с \"Зенитом\"",
+    "url": "https://tass.ru/sport/27009263",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:22:00+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "c3bab0e6e48620259ccfba413cb8093b",
+    "title": "Партия Лагно и Дешмукх на турнире претенденток завершилась вничью на 135-м ходу",
+    "url": "https://russian.rt.com/sport/news/1616188-partiya-lagno-deshmukh-turnir?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T19:21:25+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "785aa727ade3dceb4d461b7246b98764",
+    "title": "На Западе заявили о попытках Киева отрезать ЕС от газа из России",
+    "url": "https://lenta.ru/news/2026/04/05/zapad/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T19:20:29+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a3fe9144df1c6d574fcb74d194c12411",
+    "title": "Британские ВМС сообщили о критической ситуации в районе Персидского залива",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27009233",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:19:24+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "2b80cce2d8a02349e99926f5c079c006",
     "title": "Около 500 000 жителей ДНР остались без света после удара по энергообъектам",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188081-okolo-dnr-ostalis",
@@ -1005,69 +1068,6 @@
     "source": "RT",
     "pub_dt": "2026-04-05T17:54:04+00:00",
     "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "e296de8fe99450619bf5f7c3ca37d5e3",
-    "title": "«СТРАНА.ua»: в Харькове сотрудники ТЦК толпой избили мужчину и женщину",
-    "url": "https://russian.rt.com/ussr/news/1616165-ukraina-mobilizaciya-harkov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T17:52:33+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "c638278cf62a5dd78ec511b921aeb4e0",
-    "title": "В нескольких районах Донецка отключили электричество",
-    "url": "https://ria.ru/20260405/donetsk-2085329077.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T17:52:04+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "36973ef9cccb123433bc3d06ae095665",
-    "title": "Мужчина рассказал, как вернулся в горящий ТЦ в Калининграде за документами",
-    "url": "https://ria.ru/20260405/kaliningrad-2085328861.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T17:50:49+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "891a319c9c04349d43505b59528dace3",
-    "title": "ВС России заняли новые позиции в районе Крынки и Александровки в ДНР",
-    "url": "https://russian.rt.com/ussr/news/1616166-dnr-poziciya-rossiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T17:48:36+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "93d5cb2b1256d18ce2af16d8fb8f6032",
-    "title": "МЧС: из Дербентского района Дагестана планируют эвакуировать 4165 человек",
-    "url": "https://russian.rt.com/russia/news/1616159-dagestana-mchs-rossii?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T17:48:31+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "c9df9a8a5cfaf161dae564424d7d910e",
-    "title": "Очевидец рассказал, что у ТЦ в Калининграде дотла сгорели две машины",
-    "url": "https://ria.ru/20260405/kaliningrad-2085328697.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T17:47:22+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "aad66f63e1b6c47923d16af9210ab5e8",
-    "title": "«Спартак» сделал заявление о пропустившем матч из-за празднования выхода на ЧМ футболисте",
-    "url": "https://lenta.ru/news/2026/04/05/spartak-sdelal-zayavlenie-o-propustivshem-match-iz-za-prazdnovaniya-vyhoda-na-chm-futboliste/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T17:46:50+00:00",
-    "no_image": true,
     "priority_boost_minutes": 0
   }
 ]
