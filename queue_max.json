@@ -1,5 +1,77 @@
 [
   {
+    "id": "ec4bd62f360647e30cbf79dab32905ce",
+    "title": "Ушаков заметил, что Каллас пора бы уже последовать собственному призыву \"выпить\"",
+    "url": "https://tass.ru/politika/27006569",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T12:07:16+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "64a5c432fe922966bfb2479251f6c077",
+    "title": "Появились подробности о затонувшем в Азовском море сухогрузе",
+    "url": "https://lenta.ru/news/2026/04/05/poyavilis-podrobnosti-o-zatonuvshem-v-azovskom-more-suhogruze/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T12:06:57+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "8727f5a92078faa433ebbe3778861af8",
+    "title": "Пострадавших при обрушении части многоквартирного дома в Махачкале нет",
+    "url": "https://tass.ru/proisshestviya/27006601",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T12:06:47+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "0329e9f3ec9171ae6d5a25fe72ff2a2c",
+    "title": "Кадры не решают ничего // Трамп начал жесткую чистку правительства, назначая виновных в системных провалах",
+    "url": "https://www.kommersant.ru/doc/8569452",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T12:06:32+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "785521c97ee5412a4fc0d53ce17a765d",
+    "title": "Россияне из Прибалтики просят Москалькову помочь с возвращением в страну",
+    "url": "https://ria.ru/20260405/moskalkova-2085296813.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T12:06:19+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "349f470c3ab089f85f571ec0776d7c67",
+    "title": "В Петербурге родилась первая в России «однояйцевая» четверня",
+    "url": "https://russian.rt.com/science/news/1616027-peterburg-rossiya-rody?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T12:06:13+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "4f744c02e0b0afc7af0e644830093f2a",
+    "title": "Прокуратура начала проверку после обрушения дома в Махачкале",
+    "url": "https://tass.ru/proisshestviya/27006529",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T12:05:25+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "dd66e2a0d0d468cf1871346815289ad9",
+    "title": "Над российскими регионами уничтожили десятки беспилотников ВСУ",
+    "url": "https://lenta.ru/news/2026/04/05/nad-rossiyskimi-regionami-unichtozhili-desyatki-bespilotnikov-vsu/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T12:04:43+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "a0089efae632a73ba5836e8565b630c5",
     "title": "Лихачёв сообщил о потере линии энергоснабжения Запорожской АЭС",
     "url": "https://russian.rt.com/russia/news/1616038-zaes-energosnabzhenie-liniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -995,78 +1067,6 @@
     "url": "https://tass.ru/ekonomika/27006015",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T11:02:07+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "cce38cbd1513100af81a5f4ec67103b3",
-    "title": "Лихачев отметил важность недопущения агрессивных действий в зоне реактора АЭС Бушер",
-    "url": "https://tass.ru/ekonomika/27005989",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:00:21+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "3b68ed28589b26e77f330bef70c56439",
-    "title": "Армения проявила понимание озабоченностей России, заявил Лавров",
-    "url": "https://ria.ru/20260405/lavrov-2085286903.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:00:21+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8f7f0a34bb45f197ed72dd2ab29ca664",
-    "title": "Лихачев: планируется еще одна волна эвакуаций сотрудников Росатома из Ирана",
-    "url": "https://tass.ru/ekonomika/27005981",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:00:10+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "6788d7969dfe144247e198db67c3d7f0",
-    "title": "Переговоры Путина и Пашиняна были откровенными, заявил Песков",
-    "url": "https://ria.ru/20260405/peskov-2085286777.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T10:59:33+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8202ffc342094166dd9b21a6a0b058a7",
-    "title": "Пассажирка умерла на борту рейса из Владивостока в Екатеринбург",
-    "url": "https://ria.ru/20260405/samolet-2085286633.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T10:58:49+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "519fde02216d327229f7c33c2ae6fe92",
-    "title": "Лихачев: Росатом готов поделиться с иранскими партнерами опытом по эксплуатации ЗАЭС",
-    "url": "https://tass.ru/ekonomika/27005965",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:58:25+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "3eeff68060ba5854d8b5803e616972ed",
-    "title": "В больнице сообщили, что перенёсший инфаркт Луческу не реагирует на лечение",
-    "url": "https://russian.rt.com/sport/news/1616021-luchesku-sostoyanie-bolezn?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T10:57:45+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f649c4a41aa22780c52a2d3c4dda035e",
-    "title": "Лавров: отстаивание прав попавших под санкции россиян относится к задачам дипломатии",
-    "url": "https://tass.ru/politika/27005949",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:57:27+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
