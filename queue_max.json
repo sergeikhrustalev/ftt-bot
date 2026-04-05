@@ -1,13 +1,5 @@
 [
   {
-    "id": "c51c9090a3d121434a623b87448f21d9",
-    "title": "Time: Хегсет был удивлён ответными ударами Ирана",
-    "url": "https://russian.rt.com/world/news/1615022-hegset-udar-iran?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-02T20:55:13+00:00",
-    "no_image": false
-  },
-  {
     "id": "91b3d6e7176a1ea93610cf0e5d213f0b",
     "title": "В Госдуме объяснили, как изменилась программа диспансеризации в 2026 году",
     "url": "https://russian.rt.com/russia/news/1614872-deputat-dispanserizaciya-rasshirenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/obschestvo/27003677",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T22:30:55+00:00",
+    "no_image": false
+  },
+  {
+    "id": "a3b60ec5ab6673bf3e3e01484c86935e",
+    "title": "В Дагестане 25 человек госпитализировали с признаками отравления",
+    "url": "https://russian.rt.com/russia/news/1615873-dagestan-otravlenie-karabudahkent?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-04T22:42:17+00:00",
     "no_image": false
   }
 ]
