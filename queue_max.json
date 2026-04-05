@@ -1,5 +1,59 @@
 [
   {
+    "id": "d4628c0308fe9234d3240c0e6bbb3900",
+    "title": "В ДНР более 500 тысяч человек остались без света из-за атаки ВСУ",
+    "url": "https://ria.ru/20260405/dnr-2085334602.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:38:52+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a57689b5308d0fc97ba57daf4a56bb5a",
+    "title": "\"Спартак\" помог \"Зениту\" и \"Краснодару\": \"Локомотив\" выбит из золотой гонки",
+    "url": "https://ria.ru/20260405/spartak-2085334306.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:37:48+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "4a20e90448edc3e7c357fb797d105e7a",
+    "title": "Орбан: Европа нуждается в энергоносителях, а Украина мешает их поставке",
+    "url": "https://ria.ru/20260405/orban-2085333961.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:36:45+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "6e455932d695b1e36b6004eb86d31145",
+    "title": "В Ингушетии в селе Троицкое из-за дождей обвалилась часть дороги",
+    "url": "https://tass.ru/proisshestviya/27008911",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:36:05+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "8783de09cc9494768138d06c728dad21",
+    "title": "«Спартак» победил «Локомотив» в матче РПЛ",
+    "url": "https://lenta.ru/news/2026/04/05/spartak-pobedil-lokomotiv-v-matche-rpl/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T18:36:00+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "c38db1edfb8672a5476ddfcd3e2c5bd9",
+    "title": "В Дербентском районе эвакуировали всех жителей из зоны подтопления",
+    "url": "https://ria.ru/20260405/dagestan-2085333869.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:35:55+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "2e6cea82f925da90554e0cf75a49f6cb",
     "title": "Володин раскрыл вступившие в силу законы о защите финансовых прав граждан",
     "url": "https://lenta.ru/news/2026/04/05/volodin-raskryl-vstupivshie-v-silu-zakony-o/",
@@ -1013,60 +1067,6 @@
     "url": "https://lenta.ru/news/2026/04/05/v-serbii-nazvali-podozrevaemogo-v-diversii-na-gazoprovode/",
     "source": "Лента",
     "pub_dt": "2026-04-05T17:09:17+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "2ea952ba93e6b20a68e841ff18714db2",
-    "title": "В Запорожской области два человека погибли из-за атаки ВСУ",
-    "url": "https://ria.ru/20260405/balitskiy-2085324555.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T17:08:23+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "e0c4e7faa5f284b97ada5c99f608fcbb",
-    "title": "Очевидица заявила об отключившейся сигнализации при пожаре в калининградском ТЦ",
-    "url": "https://lenta.ru/news/2026/04/05/ocheviditsa-zayavila-ob-otklyuchivsheysya-signalizatsii-pri-pozhare-v-kaliningradskom-tts/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T17:08:23+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a593003fcfe4723f355b7b957777bff0",
-    "title": "РИА Новости: на Украине «полицаи» загоняют людей на принудительные работы",
-    "url": "https://russian.rt.com/ussr/news/1616140-ukraina-prinuditelnye-raboty?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T17:08:09+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "259ffa11515a86c466ce81ccb8d8bb62",
-    "title": "КСИР: Иран нанёс ракетный удар по торговому судну Израиля в порту в Дубае",
-    "url": "https://russian.rt.com/world/news/1616138-iran-sudno-izrail-ataka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T17:07:54+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "6e4fb512f0418bd1562c3ba96901b006",
-    "title": "В Запорожской области при атаке украинского БПЛА погибли два человека",
-    "url": "https://tass.ru/proisshestviya/27008529",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:07:05+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "838826d3f4c229eddd9ad731f813893a",
-    "title": "После потопа в Дагестане начали обваливаться скалы",
-    "url": "https://lenta.ru/news/2026/04/05/posle-potopa-v-dagestane-nachali-obvalivatsya-skaly/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T17:06:14+00:00",
     "no_image": true,
     "priority_boost_minutes": 0
   }
