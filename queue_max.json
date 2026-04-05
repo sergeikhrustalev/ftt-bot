@@ -1,5 +1,50 @@
 [
   {
+    "id": "391eea341626d369aa34e38f7d590415",
+    "title": "При пожаре в калининградском ТЦ пострадали четыре человека",
+    "url": "https://lenta.ru/news/2026/04/06/pri-pozhare-v-kaliningradskom-tts-postradali-chetyre-cheloveka/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T19:03:00+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "c8379c953a544887498e13d8adb0bf82",
+    "title": "Энергодар и часть муниципалитетов Запорожской области остались без света",
+    "url": "https://tass.ru/obschestvo/27009179",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:02:59+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "477aaa112f14e5cb4dc013741d767c5f",
+    "title": "Атаки дронов ВСУ не помешали артиллеристам ВС РФ доставить боекомплект расчетам",
+    "url": "https://tass.ru/armiya-i-opk/27009171",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:02:57+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "189a7c4fb651dd21ad7032f22b41b69f",
+    "title": "В Дербентском районе Дагестана спасли семерых человек, которых смыло в реку",
+    "url": "https://tass.ru/proisshestviya/27009173",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:01:19+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "f686a84af686015f5b39202af840b13a",
+    "title": "Движение транспорта по Крымскому мосту временно перекрыто",
+    "url": "https://tass.ru/obschestvo/27009149",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:59:10+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "368d200d1acd4dac4ae9dd2f1d51ff1e",
     "title": "В Калининграде при тушении пожара в ТЦ пострадали четыре человека",
     "url": "https://tass.ru/proisshestviya/27009155",
@@ -1023,51 +1068,6 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T17:34:32+00:00",
     "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "2d9d4ca358e38ff2f559b7c7f35efac2",
-    "title": "В Иране назвали условие для открытия Ормузского пролива",
-    "url": "https://lenta.ru/news/2026/04/05/v-irane-nazvali-uslovie-dlya-otkrytiya-ormuzskogo-proliva/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T17:34:03+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "34f5c01507d8f893aa3637ec01d92ec6",
-    "title": "Средства ПВО за шесть часов уничтожили 58 украинских БПЛА над территорией России",
-    "url": "https://russian.rt.com/ussr/news/1616154-pvo-bespilotniki-ataka-vsu?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T17:33:50+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "c015bbb7d8fec8a787a1e631343ff7db",
-    "title": "В Дербентском районе Дагестана несколько человек смыло в реку с дороги",
-    "url": "https://tass.ru/proisshestviya/27008699",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:33:22+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "b1a4dff1b23d6bd0d1639459d2472bdb",
-    "title": "Женщина поделилась содержимым тревожного чемоданчика на случай третьей мировой",
-    "url": "https://lenta.ru/news/2026/04/05/zhenschina-podelilas-soderzhimym-trevozhnogo-chemodanchika-na-sluchay-tretiey-mirovoy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T17:32:39+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "2420ae38915425cf40c50862cc4dc81d",
-    "title": "Сырье зажато в проливе // ОПЕК+ сохранила темпы увеличения нефтедобычи",
-    "url": "https://www.kommersant.ru/doc/8569652",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T17:32:27+00:00",
-    "no_image": false,
     "priority_boost_minutes": 0
   }
 ]
