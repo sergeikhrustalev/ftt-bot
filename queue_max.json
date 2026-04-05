@@ -1,13 +1,5 @@
 [
   {
-    "id": "c0511a4771fad0dad9a637d1574f636b",
-    "title": "Эксперт по жестам оценила поведение Трампа во время речи по Ирану",
-    "url": "https://lenta.ru/news/2026/04/03/ekspert-po-zhestam-otsenila-povedenie-trampa-vo-vremya-rechi-po-iranu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-03T02:58:18+00:00",
-    "no_image": true
-  },
-  {
     "id": "44e354f4dcf4d40e9016dba04b26557e",
     "title": "Настоятеля храма уличили в непристойных ритуалах",
     "url": "https://lenta.ru/news/2026/04/03/nastoyatelya-hrama-ulichili-v-nepristoynyh-ritualah/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T04:30:54+00:00",
     "no_image": true
+  },
+  {
+    "id": "1b2a224a50166eb5b2f14991ffaebc66",
+    "title": "В Ленинградской области отменили воздушную опасность",
+    "url": "https://tass.ru/proisshestviya/27004323",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T04:40:58+00:00",
+    "no_image": false
   }
 ]
