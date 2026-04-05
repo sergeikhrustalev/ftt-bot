@@ -1,5 +1,50 @@
 [
   {
+    "id": "c825ad75d060e3cf6f057aab56435974",
+    "title": "Axios: США продлили на сутки сроки заключения возможной сделки с Ираном",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008501",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:01:49+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "933c3773b737ee6cb977b84e081f3713",
+    "title": "В Калининграде из-за пожара в ТЦ \"Гиант\" сгорели две машины",
+    "url": "https://tass.ru/proisshestviya/27008481",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:01:27+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "8e092baa21eb9a6d6c92998b8d57efa5",
+    "title": "Психолог оказывает помощь семье девочки, провалившейся под лед в Кузбассе",
+    "url": "https://tass.ru/obschestvo/27008467",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:01:08+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "74fc52b9169fcc4fa89cd4f1b5104b98",
+    "title": "ВС Пакистана уничтожили 37 афганских военных при попытке захвата погранпоста",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008489",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T16:58:15+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "1aaf69d6f46c515284da679548f8f721",
+    "title": "Солдат ВСУ стали чаще наказывать «деревьями правды»",
+    "url": "https://lenta.ru/news/2026/04/05/soldat-vsu-stali-chasche-nakazyvat-derevyami-pravdy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T16:58:00+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "4ae370bea85e77f7852617e7150a0abf",
     "title": "Экономист Сакс: БРИКС — значимый и полезный для мира стабилизатор",
     "url": "https://russian.rt.com/world/news/1616130-briks-mir-stabilizator-saks?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -1022,51 +1067,6 @@
     "url": "https://russian.rt.com/sport/news/1616099-gol-varatynov-baltika?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T15:29:35+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "157642c915f270e6c46cc50bfe852823",
-    "title": "Axios: Трамп утверждает, что есть высокие шансы на достижение сделки с Ираном к 7 апреля",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007917",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:29:12+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "e1aff117841c3bb44c29509aa24da94f",
-    "title": "Россия и Танзания договорились о запуске прямого авиасообщения",
-    "url": "https://russian.rt.com/world/news/1616101-rossiya-tanzaniya-aviasoobschenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T15:28:31+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "807c7baf3e18b3561adfeb895b6cda7f",
-    "title": "Зеленского заинтересовал военный опыт Сирии",
-    "url": "https://lenta.ru/news/2026/04/05/zelenskogo-zainteresoval-voennyy-opyt-sirii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T15:28:18+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "e01e49e1154724695cc1a64afe5ff3fa",
-    "title": "Лавров провел телефонный разговор с главой МИД Ирана",
-    "url": "https://ria.ru/20260405/lavrov-2085314764.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T15:27:12+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "24cf5f917adcfa276441d5ff3f0cdcc5",
-    "title": "В селе Кирки в Дагестане под завалами нашли тело погибшей женщины",
-    "url": "https://tass.ru/proisshestviya/27007909",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:26:58+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
