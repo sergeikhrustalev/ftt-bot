@@ -1,5 +1,50 @@
 [
   {
+    "id": "2b80cce2d8a02349e99926f5c079c006",
+    "title": "Около 500 000 жителей ДНР остались без света после удара по энергообъектам",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188081-okolo-dnr-ostalis",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T19:18:05+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d0ddbf58c1c59c230573bb1c13c62fa1",
+    "title": "Вице-премьер Белоруссии: БелАЭС за пять лет выработала более 58 млрд кВт⋅ч электричества",
+    "url": "https://tass.ru/ekonomika/27009203",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:17:31+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "351e9170b403b1d014388c775747274a",
+    "title": "Стало известно о плане диверсий Дании в Гренландии",
+    "url": "https://lenta.ru/news/2026/04/05/stalo-izvestno-o-plane-diversiy-danii-v-grenlandii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T19:15:08+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "fdcd4760aad72314f04299971b07e0ee",
+    "title": "В России предупредили Армению о необходимости сделать выбор",
+    "url": "https://lenta.ru/news/2026/04/05/v-rossii-predupredili-armeniyu-o-neobhodimosti-sdelat-vybor/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T19:15:07+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "1f971879b337769a3e0fc23aa98edcc9",
+    "title": "Предгорный округ Ставрополья направит в зону СВО более 10 тыс. пасхальных подарков",
+    "url": "https://tass.ru/obschestvo/27008941",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:12:58+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "8a3b265fd2820bdc9ea09d26724ed0e4",
     "title": "Нагорных: «Локомотив» по-прежнему в чемпионской гонке",
     "url": "https://russian.rt.com/sport/news/1616181-nagornyh-porazhenie-lokomotiv?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -1022,51 +1067,6 @@
     "url": "https://lenta.ru/news/2026/04/05/spartak-sdelal-zayavlenie-o-propustivshem-match-iz-za-prazdnovaniya-vyhoda-na-chm-futboliste/",
     "source": "Лента",
     "pub_dt": "2026-04-05T17:46:50+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "fe4c299caace50dfbbe57c0a8d8e6fec",
-    "title": "Тегеран пригрозил ударить по инфраструктуре США, аналогичной атакованной в Иране",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008789",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:46:28+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d798f8823f22ae66a67445615d960c0b",
-    "title": "Армия Израиля заявила об ударах в Ливане по АЗС",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008765",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:46:07+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9fe606a1ada7cce043d320e6606b8e79",
-    "title": "Star: над Чёрным морем в Турции заметили редкое рулонное облако",
-    "url": "https://russian.rt.com/world/news/1616163-rulonnoe-oblako-turciya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T17:45:36+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "653309b8a9069527391150866188c787",
-    "title": "Бодниева назвала игру гандболисток ЦСКА в финале Кубка России лучшей в сезоне",
-    "url": "https://tass.ru/sport/27008755",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:45:15+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "70880b27ecbed4d17db8cd88bdf8c28e",
-    "title": "В США возмутились грубым обращением Трампа к Ирану",
-    "url": "https://lenta.ru/news/2026/04/05/v-ssha-vozmutilis-grubym-obrascheniem-trampa-k-iranu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T17:44:04+00:00",
     "no_image": true,
     "priority_boost_minutes": 0
   }
