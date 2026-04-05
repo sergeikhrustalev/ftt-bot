@@ -1,5 +1,41 @@
 [
   {
+    "id": "8abe17d1c5c80d6ba44c2b20cd189e34",
+    "title": "Почти 500 тысяч человек остались без света в ДНР из-за удара ВСУ",
+    "url": "https://russian.rt.com/ussr/news/1616180-vsu-doneck-svet?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:42:01+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d8f255fd3a36a36bee867ce638cf2979",
+    "title": "\"Лидс\" по пенальти обыграл \"Вест Хэм\" и вышел в полуфинал Кубка Англии",
+    "url": "https://ria.ru/20260405/futbol-2085335054.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:41:14+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "f39cb3699715c753694aff42b2f5e1a3",
+    "title": "В Севастополе военные сбили две воздушных цели",
+    "url": "https://lenta.ru/news/2026/04/05/v-sevastopole-voennye-sbili-dve-vozdushnyh-tseli/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T18:40:15+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "68efc12fb02b6c570a7fc847b6415555",
+    "title": "В Сумах прогремел очередной взрыв",
+    "url": "https://ria.ru/20260405/ukraina-2085334927.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:40:09+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "d4628c0308fe9234d3240c0e6bbb3900",
     "title": "В ДНР более 500 тысяч человек остались без света из-за атаки ВСУ",
     "url": "https://ria.ru/20260405/dnr-2085334602.html",
@@ -1032,42 +1068,6 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-05T17:14:07+00:00",
     "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "3bb629a99c3b7a9a6095ee053900ed0d",
-    "title": "Bild: летнюю резиденцию Муссолини продали за €1,2 млн",
-    "url": "https://russian.rt.com/world/news/1616143-rezidenciyu-mussolini-prodali?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T17:12:38+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9f22e053e87148922fd6836b75e2dc29",
-    "title": "Иран жестко ответил на грубые угрозы Трампа",
-    "url": "https://ria.ru/20260405/iran-2085325192.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T17:12:28+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8a4721536b60d5e74ea02f35b049b534",
-    "title": "В Махачкале аэропорт работает в штатном режиме",
-    "url": "https://ria.ru/20260405/aeroport-2085324980.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T17:11:54+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a4e46ed759eec35e0192b8a8ce312662",
-    "title": "В Сербии назвали подозреваемого в диверсии на газопроводе",
-    "url": "https://lenta.ru/news/2026/04/05/v-serbii-nazvali-podozrevaemogo-v-diversii-na-gazoprovode/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T17:09:17+00:00",
-    "no_image": true,
     "priority_boost_minutes": 0
   }
 ]
