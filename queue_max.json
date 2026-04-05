@@ -1,5 +1,41 @@
 [
   {
+    "id": "e4fe7354f702ab2282a9c11e593749df",
+    "title": "В Чечне оползни повредили восемь частных домов",
+    "url": "https://ria.ru/20260405/chechnya-2085340932.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T19:53:47+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "331c82a3c2a13b7dd03f68c71e7faceb",
+    "title": "Порывы ветра увеличили очаги возгорания в ТЦ в Калининграде",
+    "url": "https://ria.ru/20260405/kaliningrad-2085340624.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T19:49:59+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "6fac90e5f7c8640ce2163f4669155db3",
+    "title": "Лавров: Армения продемонстрировала понимание оглашенных Россией озабоченностей",
+    "url": "https://tass.ru/politika/27009381",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T19:49:07+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "77337e6dc53fc5199e1a34ce4dd20075",
+    "title": "Иран заявил о превращении Ближнего Востока в ад из-за США",
+    "url": "https://lenta.ru/news/2026/04/05/irann/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T19:49:00+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "d43c46cb6aef0b6f0aa82be94fb2ca07",
     "title": "Силы ПВО за шесть часов нейтрализовали 58 украинских беспилотников",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188088-neitralizovali-58-bespilotnikov",
@@ -1032,42 +1068,6 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T18:26:36+00:00",
     "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "2a51b0a6153b23ab0ed1a203039bfd99",
-    "title": "В Дагестане двух человек, которых унесло течением реки, спасли местные жители",
-    "url": "https://tass.ru/proisshestviya/27009015",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T18:25:02+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "84375a0a7d376d37c6ed7d4995af57b0",
-    "title": "В Сумах произошел взрыв",
-    "url": "https://tass.ru/proisshestviya/27009007",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T18:23:48+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8ba0022578afe0be795fa42bacc3bf27",
-    "title": "В Черном море произошло землетрясение",
-    "url": "https://ria.ru/20260405/zemletryasenie-2085332692.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T18:22:30+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "b1742370c5feb704dab5580a0a4027d7",
-    "title": "Нефтедоллары пока в пути // Бюджет еще не почувствовал выгод от войны на Ближнем Востоке",
-    "url": "https://www.kommersant.ru/doc/8569699",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T18:22:24+00:00",
-    "no_image": false,
     "priority_boost_minutes": 0
   }
 ]
