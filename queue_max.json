@@ -1,13 +1,5 @@
 [
   {
-    "id": "60a1d24ede0a6ccbf479400d4ab4091d",
-    "title": "SHOT: взрывы прогремели над Воронежем",
-    "url": "https://russian.rt.com/russia/news/1615054-shot-vzryvy-progremeli-voronezh?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-02T23:51:41+00:00",
-    "no_image": false
-  },
-  {
     "id": "67b33ccd22b891a2b0784bbb0966510a",
     "title": "Мужчина провел два года в психбольнице за отказ признавать вину за чужие преступления",
     "url": "https://lenta.ru/news/2026/04/03/muzhchina-provel-dva-goda-v-psihbolnitse-za-otkaz-priznavat-vinu-za-chuzhie-prestupleniya/",
@@ -2390,5 +2382,13 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T01:34:42+00:00",
     "no_image": true
+  },
+  {
+    "id": "770f59594f73a622c4183f4d9d5a61c2",
+    "title": "Россиян предупредили о штрафах за работу стиральной машины ночью",
+    "url": "https://russian.rt.com/russia/news/1615897-rossiyane-shtraf-stirka-noch?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T01:42:02+00:00",
+    "no_image": false
   }
 ]
