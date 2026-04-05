@@ -1,5 +1,23 @@
 [
   {
+    "id": "41c8781dcedbdc9dee44712046ea22f4",
+    "title": "В Дербентском районе Дагестана прорвало земляной вал водохранилища",
+    "url": "https://ria.ru/20260405/mchs-2085332458.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:18:11+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "4f1395c1d461d797924fd9132290904c",
+    "title": "Голосование «по-белому» // Партии добиваются доступности своих ресурсов при ограничении интернета",
+    "url": "https://www.kommersant.ru/doc/8569640",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T18:16:11+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "932de6aa681ce7285995ef7172746cc1",
     "title": "Иран обвинил Трампа в намерении совершить военное преступление",
     "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188065-iran-obvinil-trampa",
@@ -15,6 +33,15 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T18:13:36+00:00",
     "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "5f354b3e15d38480f1175dd9b02e4843",
+    "title": "В Севастополе отражают очередную атаку ВСУ",
+    "url": "https://tass.ru/proisshestviya/27008873",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:12:25+00:00",
+    "no_image": false,
     "priority_boost_minutes": 0
   },
   {
@@ -75,6 +102,15 @@
     "id": "0d843200e44be4785f4737872db92c5b",
     "title": "\"Кончаются ракеты\". СМИ забили тревогу после случившегося в зоне СВО",
     "url": "https://ria.ru/20260405/svo-2085331237.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:05:29+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "2e8c3ecb9e82cd52f23929a6fcc3a07f",
+    "title": "Дания разработала план диверсий в Гренландии, пишут СМИ",
+    "url": "https://ria.ru/20260405/daniya-2085331237.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T18:05:29+00:00",
     "no_image": false,
@@ -1031,42 +1067,6 @@
     "url": "https://tass.ru/proisshestviya/27008395",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T16:34:04+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "2ac94ed6c77ed94c1b6be0630f03c981",
-    "title": "ТАСС: \"деревья правды\" стали самым распространенным способом наказания в ВСУ",
-    "url": "https://tass.ru/armiya-i-opk/27008187",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:33:25+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9ebccbbf576d43c6c8535b01953d0045",
-    "title": "Лавров и Ван И обсудили пути укрепления взаимодействия России и Китая",
-    "url": "https://russian.rt.com/world/news/1616125-lavrov-van-i-otnosheniya-stran?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T16:32:09+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9b0a677ad55a6b0e685a340a649b2e8b",
-    "title": "Аршавин сделал прогноз на матч между «Спартаком» и «Локомотивом»",
-    "url": "https://lenta.ru/news/2026/04/05/arshavin-sdelal-prognoz-na-match-mezhdu-spartakom-i-lokomotivom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T16:31:50+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ce0087b65f0dff252a91c55698a552dc",
-    "title": "Российские волейболистки U17 вышли в полуфинал международного турнира в Италии",
-    "url": "https://russian.rt.com/sport/news/1616126-rossiiskie-voleibolistki-polufinal-turnir?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T16:30:41+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
