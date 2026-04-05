@@ -1,5 +1,23 @@
 [
   {
+    "id": "512d8118b2c17e953b8b546d00d98bb4",
+    "title": "В Британии рассказали о подарке США для России",
+    "url": "https://lenta.ru/news/2026/04/05/v-britanii-rasskazali-o-podarke-ssha-dlya-rossii/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T20:16:12+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "0610b133f18bc5963832c53e824aa311",
+    "title": "В ОАЭ сообщили о четырех пострадавших из-за падения обломков БПЛА",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27009443",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T20:16:08+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "73272186f1052321000217eb9d5dfe28",
     "title": "Два человека, которых вытащили из реки в Дагестане, умерли",
     "url": "https://ria.ru/20260405/dagestan-2085343199.html",
@@ -14,6 +32,24 @@
     "url": "https://russian.rt.com/ussr/news/1616198-bpla-oblomki-krasnodarskii-krai?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T20:14:31+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d8a65656e1757aae2eb9f34228623a27",
+    "title": "На Украине приготовились к новому массированному удару дронов и ракет",
+    "url": "https://lenta.ru/news/2026/04/05/na-ukraine-prigotovilis-k-novomu-massirovannomu-udaru-dronov-i-raket/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T20:13:00+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "f1c70f4efb01b98b6dd38a3014977541",
+    "title": "Головин забил пятый гол в сезоне чемпионата Франции по футболу",
+    "url": "https://tass.ru/sport/27009451",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T20:12:54+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -1031,42 +1067,6 @@
     "url": "https://tass.ru/proisshestviya/27008911",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T18:36:05+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8783de09cc9494768138d06c728dad21",
-    "title": "«Спартак» победил «Локомотив» в матче РПЛ",
-    "url": "https://lenta.ru/news/2026/04/05/spartak-pobedil-lokomotiv-v-matche-rpl/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T18:36:00+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "c38db1edfb8672a5476ddfcd3e2c5bd9",
-    "title": "В Дербентском районе эвакуировали всех жителей из зоны подтопления",
-    "url": "https://ria.ru/20260405/dagestan-2085333869.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T18:35:55+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "2e6cea82f925da90554e0cf75a49f6cb",
-    "title": "Володин раскрыл вступившие в силу законы о защите финансовых прав граждан",
-    "url": "https://lenta.ru/news/2026/04/05/volodin-raskryl-vstupivshie-v-silu-zakony-o/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T18:33:26+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "2636324ef57b62df8269ee89a51f8f5f",
-    "title": "Врач Крупенин посоветовал не заливать клеща подсолнечным маслом",
-    "url": "https://russian.rt.com/nopolitics/news/1616147-vrach-klesch-zdorove?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T18:33:15+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
