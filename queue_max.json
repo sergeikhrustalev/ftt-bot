@@ -1,5 +1,32 @@
 [
   {
+    "id": "d43c46cb6aef0b6f0aa82be94fb2ca07",
+    "title": "Силы ПВО за шесть часов нейтрализовали 58 украинских беспилотников",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188088-neitralizovali-58-bespilotnikov",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T19:47:36+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "4f7e5e0926ca471b7be1f79060d9c4fd",
+    "title": "Хет-трик Капризова помог \"Миннесоте\" обыграть \"Детройт\" в матче НХЛ",
+    "url": "https://ria.ru/20260405/nkhl-2085340316.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T19:46:31+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "92f23eaace26a36a9be0fa17b0607a0f",
+    "title": "В российском регионе при атаке ВСУ погиб один человек",
+    "url": "https://lenta.ru/news/2026/04/06/v-rossiyskom-regione-pri-atake-vsu-pogib-odin-chelovek/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T19:46:01+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "40266ad9f845f5f0b0345d236fa849bf",
     "title": "Хет-трик Капризова принёс «Миннесоте» победу над «Детройтом» в матче НХЛ",
     "url": "https://russian.rt.com/sport/news/1616193-het-trik-kaprizov-minnesota-pobeda?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -1040,33 +1067,6 @@
     "url": "https://www.kommersant.ru/doc/8569699",
     "source": "Коммерсантъ",
     "pub_dt": "2026-04-05T18:22:24+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "39c5eaaf0cae7e0e84466859c8ff6d8d",
-    "title": "В Иране допустили открытие Ормузского пролива после компенсации ущерба от войны",
-    "url": "https://russian.rt.com/world/news/1616174-ormuzskii-proliv-otkrytie-kompensaciya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T18:21:45+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "e6b6f8be2def37aaf7ea4eada94ef519",
-    "title": "На Западе увидели сигнал для Украины и Европы в словах Медведева",
-    "url": "https://lenta.ru/news/2026/04/05/na-zapade-uvideli-signal-dlya-ukrainy-i-evropy-v-slovah-medvedeva/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T18:21:00+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ab79f0c73735bc1f6d140fab591026d8",
-    "title": "Электроэнергия доставляется на все важные объекты Ирана",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008979",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T18:20:22+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
