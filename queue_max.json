@@ -1,13 +1,5 @@
 [
   {
-    "id": "38eac012e78115be1a3a124d01827a5e",
-    "title": "СМИ: администрация Трампа может лишиться ряда чиновников",
-    "url": "https://ria.ru/20260403/tramp-2084894405.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-03T01:21:52+00:00",
-    "no_image": false
-  },
-  {
     "id": "b3d524954cc4a81b53e009433696de02",
     "title": "Вирус водных животных оказался опасен для здоровья человека",
     "url": "https://lenta.ru/news/2026/04/03/virus-vodnyh-zhivotnyh-okazalsya-opasen-dlya-zdorovya-glaz-cheloveka/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/mezhdunarodnaya-panorama/27003999",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T03:01:06+00:00",
+    "no_image": false
+  },
+  {
+    "id": "95e5e90480488befed84ffd02bb2eb5f",
+    "title": "Тольяттинский потрошитель потребовал от суда 300 тысяч рублей",
+    "url": "https://ria.ru/20260405/potroshitel-2085254144.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T03:11:09+00:00",
     "no_image": false
   }
 ]
