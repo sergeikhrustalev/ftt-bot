@@ -1,5 +1,113 @@
 [
   {
+    "id": "f874885d4713d895b15dfad97bfa1960",
+    "title": "Юрист Асанова: односторонний отказ сотрудника от отпуска невозможен",
+    "url": "https://russian.rt.com/russia/news/1616149-yurist-rabota-otpusk?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:29:29+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "6acde6735496a5e192dda9f1d0e64a78",
+    "title": "Психолог Гончарова рассказала, что делать при увольнении с работы",
+    "url": "https://russian.rt.com/russia/news/1616148-psiholog-rabota-uvolnenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:29:13+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "6fddd7570913862469dbeb620dafeb53",
+    "title": "Депутат Толмачёв рассказал о способах помочь ребёнку с выбором работы",
+    "url": "https://russian.rt.com/russia/news/1616145-ekspert-deti-rabota?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:28:48+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "930b27bc8a270db9b587976ac27e3e97",
+    "title": "Врач Халилбеков: большая пломба в ослабленном зубе повышает риск перелома",
+    "url": "https://russian.rt.com/russia/news/1616155-stomatolog-plomba-zub?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:28:24+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "3e007a5f025bf2626e1f13891633cbf9",
+    "title": "В Дербентском районе Дагестана появилась угроза затопления",
+    "url": "https://ria.ru/20260405/dagestan-2085333317.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:28:15+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d2eca2a3bdaa163f1a1d770251e2388a",
+    "title": "В Севастополе при отражении атаки ВСУ сбили две воздушные цели",
+    "url": "https://russian.rt.com/ussr/news/1616177-sevastopol-pvo-bespilotniki?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:28:09+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "3b951be480b6e00ff819b26945d3a558",
+    "title": "Аракчи назвал угрозы США признанием военных преступлений",
+    "url": "https://ria.ru/20260405/arakchi-2085333158.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:28:04+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "0db35b9ecd63efe74478553e5cf24d2a",
+    "title": "Химик Поликарпова: для окрашивания яиц нельзя использовать гуашь",
+    "url": "https://russian.rt.com/nopolitics/news/1616142-himik-okrashivanie-yaic?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:27:43+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "3ba2f4ddbe04984a95ad54bb08b0d91d",
+    "title": "МЧС: в Дагестане произошёл прорыв земляного вала Геджухского водохранилища",
+    "url": "https://russian.rt.com/russia/news/1616178-proryv-zemlyanogo-vala?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:27:02+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "30c1c2b2c2c9fa3de7990136c9d2c036",
+    "title": "Атаку ВСУ на сухогруз в Азовском море назвали преступлением",
+    "url": "https://lenta.ru/news/2026/04/05/ataku-vsu-na-suhogruz-v-azovskom-more-nazvali-prestupleniem/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T18:26:36+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "2a51b0a6153b23ab0ed1a203039bfd99",
+    "title": "В Дагестане двух человек, которых унесло течением реки, спасли местные жители",
+    "url": "https://tass.ru/proisshestviya/27009015",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:25:02+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "84375a0a7d376d37c6ed7d4995af57b0",
+    "title": "В Сумах произошел взрыв",
+    "url": "https://tass.ru/proisshestviya/27009007",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:23:48+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "8ba0022578afe0be795fa42bacc3bf27",
     "title": "В Черном море произошло землетрясение",
     "url": "https://ria.ru/20260405/zemletryasenie-2085332692.html",
@@ -33,6 +141,24 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T18:21:00+00:00",
     "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ab79f0c73735bc1f6d140fab591026d8",
+    "title": "Электроэнергия доставляется на все важные объекты Ирана",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008979",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:20:22+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9bd5b8b1b639c040d9dcb8dee5fc0e5d",
+    "title": "В Дагестане два населенных пункта затапливает из-за прорыва дамбы",
+    "url": "https://tass.ru/proisshestviya/27008927",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:18:45+00:00",
+    "no_image": false,
     "priority_boost_minutes": 0
   },
   {
@@ -941,132 +1067,6 @@
     "url": "https://tass.ru/mezhdunarodnaya-panorama/27008457",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T16:48:12+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d7fcb9230d18b89cb8477c226d2fae60",
-    "title": "КСИР заявил об ударе по израильскому судну в порту Дубая",
-    "url": "https://ria.ru/20260405/iran-2085321502.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T16:47:52+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "5be9724046ad0841a297e7cb28776053",
-    "title": "В военной контрразведке Сербии подозревают в диверсии на газопроводе мигранта",
-    "url": "https://russian.rt.com/world/news/1616129-serbiya-razvedka-migrant?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T16:47:29+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "7391588051898907f812c3b82ec2a849",
-    "title": "Журова: Овечкин в КХЛ вызовет огромный ажиотаж на всех хоккейных площадках нашей страны",
-    "url": "https://russian.rt.com/sport/news/1616133-zhurova-ovechkin-khl-azhiotazh?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T16:46:41+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "947c31490e15c4166268597191715014",
-    "title": "Патрика Руа уволили с поста главного тренера клуба НХЛ \"Айлендерс\"",
-    "url": "https://tass.ru/sport/27008447",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:45:41+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a4c0d7b67384659770c3afdcb0cc98de",
-    "title": "Украинцев под видом эвакуации стали загонять на принудительные работы",
-    "url": "https://lenta.ru/news/2026/04/05/ukraintsev-pod-vidom-evakuatsii-stali-zagonyat-na-prinuditelnye-raboty/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T16:45:00+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9c5c64eeb38da69bca4cd86ea19d86a6",
-    "title": "Иран объявил о новой волне атак на Израиль и военные объекты США",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008439",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:42:55+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "28ed04610de6aad165c423244ad01f6f",
-    "title": "Трамп пригрозил уничтожением электростанций Ирана без открытия Ормузского пролива",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008429",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:42:47+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "910a1cbfa8be68ee5f0400dce41345e9",
-    "title": "Очевидец рассказал об отключении пожарной сигнализации в ТЦ в Калининграде",
-    "url": "https://ria.ru/20260405/kaliningrad-2085321184.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T16:42:23+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f892770b97698f913ad5aed9c954eb76",
-    "title": "В Дагестане завели дело после гибели женщины из-за обрушения дома",
-    "url": "https://tass.ru/proisshestviya/27008211",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:41:35+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9a6fa81a8f4ecc0f673843de57a15001",
-    "title": "В Краснодарском крае при падении обломков БПЛА пострадал мирный житель",
-    "url": "https://russian.rt.com/ussr/news/1616127-krasnodarskii-krai-bpla-oblomki-upali?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T16:41:33+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "e44a7c5818ff6592ba39b67ad86f3444",
-    "title": "Как встать на биржу труда в 2025 году: пошаговая инструкция",
-    "url": "https://ria.ru/20260405/bezrabotnye-1599982658.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T16:41:00+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "570339b747ccc4ae992d787c163e30a8",
-    "title": "В аэропорту Сочи число задерживающихся рейсов выросло до 40",
-    "url": "https://tass.ru/ekonomika/27008375",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:40:41+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a9f499f45bd8b55ecdac8aa0782c6728",
-    "title": "В Новой Каховке из-за атаки ВСУ пострадал человек",
-    "url": "https://tass.ru/proisshestviya/27008411",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:38:03+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "e346d1fea0fec91778258a71b17f7562",
-    "title": "В Сербии иностранца подозревают в попытке диверсии на \"Турецком потоке\"",
-    "url": "https://ria.ru/20260405/serbija-2085320934.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T16:35:44+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
