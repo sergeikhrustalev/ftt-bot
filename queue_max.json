@@ -1,5 +1,59 @@
 [
   {
+    "id": "d2e2680a01248a5d97061abce154af9b",
+    "title": "Трамп допустил заключение сделки с Ираном в понедельник",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188033-tramp-dopustil-zaklyuchenie",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T14:13:01+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "81e79983648f0862adb69dc9044639f9",
+    "title": "Прокуратура начала проверку после крушения сухогруза в Азовском море",
+    "url": "https://ria.ru/20260405/prokuratura-2085308345.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T14:12:43+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "dc795b7be96519a9fa23c547d97f8493",
+    "title": "В Сербии раскрыли новые подробности о найденной взрывчатке",
+    "url": "https://lenta.ru/news/2026/04/05/v-serbii-raskryli-novye-podrobnosti-o-naydennoy-vzryvchatke/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T14:12:39+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "de69e9557516463a71d4ccc575438d40",
+    "title": "Корреспондент RT Суини: более 1 млн человек покинули дома в Ливане",
+    "url": "https://russian.rt.com/world/news/1616074-livan-doma-pokinuli?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T14:12:32+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a9c2bbf04979b5a2370485f09883dbb5",
+    "title": "В Дербентском районе эвакуировали 800 домохозяйств из-за перелива реки",
+    "url": "https://ria.ru/20260405/dagestan-2085308233.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T14:12:31+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "2620128912d16a8e082fd5f7ea6dd904",
+    "title": "Пожар в калининградском ТЦ связали с российским электромобилем",
+    "url": "https://lenta.ru/news/2026/04/05/amber/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T14:09:18+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "a46f1a7a87e794efaf9f5576f819d9c4",
     "title": "Три человека пострадали при пожаре в ТЦ в Калининграде",
     "url": "https://russian.rt.com/russia/news/1616075-pozhar-kaliningrad-tc-postradavshie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -1013,60 +1067,6 @@
     "url": "https://tass.ru/mezhdunarodnaya-panorama/27006847",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T12:56:59+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ec3b8b6c507fd80bee20c905e803cd61",
-    "title": "Стало известно о планах Кореи возобновить закупку нефти и энергоресурсов у России",
-    "url": "https://lenta.ru/news/2026/04/05/stalo-izvestno-o-planah-korei-vozobnovit-zakupku-nefti-i-energoresursov-u-rossii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T12:55:24+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f1b7e3bb00cc8d10a437772c21485427",
-    "title": "В Харькове произошел взрыв",
-    "url": "https://tass.ru/proisshestviya/27006861",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:54:56+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "0bbea731160ea798ca7b8f0352dcad49",
-    "title": "В Махачкале обследуют поврежденные многоэтажные дома",
-    "url": "https://tass.ru/obschestvo/27006855",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:54:13+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "cbeafc9f3a76277eba3cb7f54c40a59c",
-    "title": "Силы ПВО за шесть часов сбили 77 украинских БПЛА над территорией России",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188025-sbili-77-ukrainskih-bpla",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T12:51:53+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "32d6b6c1afa846f77e483f9df135fb49",
-    "title": "Обрушение дома в Махачкале. Главное о происшествии",
-    "url": "https://tass.ru/proisshestviya/27006751",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:51:01+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "66fff3b7be696ff89224cc95e1b49cfe",
-    "title": "В Севастополе осколком сбитого дрона ВСУ повреждена воздушная линия",
-    "url": "https://tass.ru/proisshestviya/27006833",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:48:54+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
