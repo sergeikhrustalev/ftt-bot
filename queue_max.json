@@ -1,5 +1,50 @@
 [
   {
+    "id": "7e26cf93a4ad8f756def8875884e99b2",
+    "title": "ТАСС: пожар на кровле Московского высшего командного училища потушен",
+    "url": "https://russian.rt.com/russia/news/1616029-pozhar-moskva-voennoe-uchilische?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T11:26:31+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "f14966211246ff4a222ddfd3c59045c8",
+    "title": "«Старания врага провалились»: Иран сообщил о сбитых Black Hawk и С-130 во время операции США по спасению лётчика F-15",
+    "url": "https://russian.rt.com/world/article/1615999-iran-ssha-f-15-pilot?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T11:25:48+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ee51b8e78ed3e33ce93deea420a04c1a",
+    "title": "Беспилотник ВСУ ударил по производственному предприятию в Белгороде",
+    "url": "https://russian.rt.com/ussr/news/1616030-bespilotnik-vsu-belgorod?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T11:25:38+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "b35ffa082ba56f3981afe8c4a5046f11",
+    "title": "СМИ: бывшего тренера \"Зенита\" Луческу ввели в состояние искусственной комы",
+    "url": "https://ria.ru/20260405/trener-2085291318.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:24:56+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "560a6a202f3515c0112219e9ad341aa7",
+    "title": "Жена Паши Техника в годовщину его смерти рассказала о желании сына",
+    "url": "https://lenta.ru/news/2026/04/05/zhena-pashi-tehnika-v-godovschinu-ego-smerti-rasskazala-o-zhelanii-syna/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T11:24:55+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "be5fc8abe1581433966571c544487d76",
     "title": "ОАЭИ восстановила контакт с \"Росатомом\", заявил Лихачев",
     "url": "https://ria.ru/20260405/likhachev-2085290683.html",
@@ -970,46 +1015,5 @@
     "source": "RT",
     "pub_dt": "2026-04-05T10:13:10+00:00",
     "no_image": false
-  },
-  {
-    "id": "e268163b1e0d08bd80f2e1a9f9a15aa0",
-    "title": "Средняя номинальная зарплата в России выросла в пять раз с 2010 года",
-    "url": "https://russian.rt.com/russia/news/1615987-zarplata-rost-rossiya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T10:11:27+00:00",
-    "no_image": false
-  },
-  {
-    "id": "1c1006289f523675f9cfc91a3c46a4e4",
-    "title": "Белгородскую область за сутки атаковали более 170 украинских БПЛА",
-    "url": "https://tass.ru/proisshestviya/27005701",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:11:17+00:00",
-    "no_image": false
-  },
-  {
-    "id": "fbf7f12b9ddc19edad9fd2cb537a131a",
-    "title": "Лихачев назвал тревожным смещение красных линий в отношении ядерных объектов",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188011-smeschenie-krasnih-linii",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T10:11:05+00:00",
-    "no_image": false
-  },
-  {
-    "id": "057718f27bf2e553b451154523725d76",
-    "title": "Марокканский футболист \"Оренбурга\" Муфи назвал особенность РПЛ",
-    "url": "https://tass.ru/sport/27005715",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:10:12+00:00",
-    "no_image": false
-  },
-  {
-    "id": "1fc2078eeaa6247da10f9ec3e18fcfbc",
-    "title": "Большунов заявил, что способен покорять любые спортивные вершины",
-    "url": "https://russian.rt.com/sport/news/1616003-bolshunov-mass-start-kommentarii?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T10:10:01+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
   }
 ]
