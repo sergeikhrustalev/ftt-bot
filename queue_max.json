@@ -1,13 +1,5 @@
 [
   {
-    "id": "df5a6a3677351c319b4d3a461780a8aa",
-    "title": "Apple сохранит доступ к iCloud после окончания подписки пользователей из России",
-    "url": "https://www.vedomosti.ru/technology/news/2026/04/02/1187594-icloud-podpiski-rossii",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-02T18:40:49+00:00",
-    "no_image": false
-  },
-  {
     "id": "a7f39a4cd917a35ae7d062dfa40df6c1",
     "title": "В Петербурге задержали собиравшегося поджечь релейные шкафы подростка",
     "url": "https://tass.ru/proisshestviya/26985125",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/ekonomika/27003515",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T20:23:10+00:00",
+    "no_image": false
+  },
+  {
+    "id": "9af42c1a1531e1e038a5bfe582044797",
+    "title": "Жулин назвал крутым номер Ветлугина на «Русском вызове», посвящённый паралимпийцам",
+    "url": "https://russian.rt.com/sport/news/1615852-zhulin-vetlugin-russkii-vyzov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-04T20:31:49+00:00",
     "no_image": false
   }
 ]
