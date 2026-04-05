@@ -1,5 +1,68 @@
 [
   {
+    "id": "9ae9e1e1e86b8fe2b86d25acb74d1ca5",
+    "title": "Дмитриев посоветовал властям ЕС и Британии тщательнее готовиться к кризисам",
+    "url": "https://tass.ru/ekonomika/27006423",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:53:04+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "dee31c92aa0dc9ce42bed770673ee807",
+    "title": "CNN: США потеряли не менее семи военных самолетов в конфликте с Ираном",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006411",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:52:46+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "05846284ad8582300ee5adefb63484b8",
+    "title": "В Махачкале эвакуировали около 300 человек из-за угрозы обрушения",
+    "url": "https://ria.ru/20260405/makhachkala-2085295001.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:52:29+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "513578c26fb5db47637d9b08d434007b",
+    "title": "La Tribune: Франция многократно увеличит выпуск управляемых боеприпасов",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006389",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:51:13+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "0b955b2ced906de7afa662078540cfd8",
+    "title": "Песков назвал вопрос принадлежности Карабаха решением властей Армении",
+    "url": "https://russian.rt.com/world/news/1616008-peskov-karabah-reshenie-armeniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T11:51:02+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a8acc5b198c28710482e9f345043e9a2",
+    "title": "Сийярто назвал попытку диверсии на газопроводе нападением на суверенитет Венгрии",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188019-napadeniem-na-vengrii",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T11:50:59+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "bd4abd5db6496c06ec2e14a6b967fa0d",
+    "title": "Лавров отреагировал на сообщение о прослушке его разговора с Сийярто",
+    "url": "https://lenta.ru/news/2026/04/05/lavrov-otreagiroval-na-soobschenie-o-proslushke-ego-razgovora-s-siyyarto/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T11:48:00+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "be5549eb73d7a66c22e19811c5b55bfe",
     "title": "Дмитриев призвал готовиться к серьезному кризису",
     "url": "https://ria.ru/20260405/dmitriev-2085294633.html",
@@ -990,62 +1053,6 @@
     "url": "https://russian.rt.com/world/news/1616012-peskov-rossiya-plany-armeniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T10:43:26+00:00",
-    "no_image": false
-  },
-  {
-    "id": "afdd55fb2ed90eb85647d35c8bbc0e2b",
-    "title": "ТАСС: в Московском высшем общевойсковом командном училище локализовали пожар",
-    "url": "https://tass.ru/proisshestviya/27005819",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:42:24+00:00",
-    "no_image": false
-  },
-  {
-    "id": "7eef5085affce9df8f38d000aeda54c4",
-    "title": "Россиян не было на задержанном Швецией судне Flora 1, заявил посол",
-    "url": "https://ria.ru/20260405/shvetsiya-2085285920.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T10:41:44+00:00",
-    "no_image": false
-  },
-  {
-    "id": "20e02573d237e401aea6ab3bcd6e980f",
-    "title": "Вучич пообещал «безжалостные разборки» из-за взрывчатки у трубопровода с российским газом",
-    "url": "https://lenta.ru/news/2026/04/05/vuchich-poobeschal-bezzhalostnye-razborki-iz-za-vzryvchatki-u-truboprovoda-s-rossiyskim-gazom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T10:41:33+00:00",
-    "no_image": true
-  },
-  {
-    "id": "94f49ef9b41348514d547dcaa3a1f622",
-    "title": "В Дагестане штормовое предупреждение сохранится до конца суток",
-    "url": "https://tass.ru/obschestvo/27005791",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:40:35+00:00",
-    "no_image": false
-  },
-  {
-    "id": "6dce3c64d2daf70eadefa6910ed9b070",
-    "title": "NYT: спасенного в Иране штурмана американского F-15E доставили в Кувейт",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27005809",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:40:21+00:00",
-    "no_image": false
-  },
-  {
-    "id": "6b6c8032ad838b8f5dedfe1867a6bc52",
-    "title": "Вытолкнувшего проводницу на пути россиянина задержали",
-    "url": "https://lenta.ru/news/2026/04/05/vytolknuvshego-provodnitsu-na-puti-rossiyanina-zaderzhali/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T10:39:43+00:00",
-    "no_image": true
-  },
-  {
-    "id": "e2274f93b3a83ec59a165190b9d9006a",
-    "title": "Российские юниорки вышли в 1/4 финала волейбольного турнира в Италии",
-    "url": "https://tass.ru/sport/27005825",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:39:41+00:00",
     "no_image": false
   }
 ]
