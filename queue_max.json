@@ -1,5 +1,68 @@
 [
   {
+    "id": "1d08d961aba5f1013028c81f66ceafb8",
+    "title": "RT: возможная причина пожара в ТЦ в Калининграде — возгорание авто на парковке",
+    "url": "https://russian.rt.com/russia/news/1616068-tc-kaliningrad-pozhar-prichina?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T13:49:47+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d025df607bec6c9bd02d1cdd3b5124e7",
+    "title": "В районе промзоны на юге Израиля произошел пожар после обстрела из Ирана",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007161",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:46:32+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "24319711747ff9edf0e2484bef623764",
+    "title": "В Махачкале собрались сносить поплывшую многоэтажку",
+    "url": "https://lenta.ru/news/2026/04/05/snosim/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T13:46:30+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "9f347dacf7f26d1b7a73def636c420a2",
+    "title": "Прокуратура Сербии раскрыла новые подробности о найденной взрывчатке",
+    "url": "https://ria.ru/20260405/serbiya-2085305308.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T13:44:34+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d2e7949ab8b6df63dcd3afcee5c9b780",
+    "title": "Следователи завели дело из-за обрушения жилого дома в Махачкале",
+    "url": "https://tass.ru/proisshestviya/27007189",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:44:26+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ff37ed883d5abe6948947f85cdf656a3",
+    "title": "Семь кругов Трампа // Президент США не может выйти из «иранского ада»",
+    "url": "https://www.kommersant.ru/doc/8569561",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T13:44:14+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "49a65f7fd7c9ee1e37fc140810a2a9a3",
+    "title": "Оверчук: при вступлении в ЕС у Армении не будет авиасообщения с РФ",
+    "url": "https://tass.ru/politika/27007181",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:43:56+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "1e78a975cb156a3d89ead9d0d1516886",
     "title": "В Калининграде три человека пострадали во время пожара в ТЦ",
     "url": "https://ria.ru/20260405/pozhar-2085305053.html",
@@ -1004,69 +1067,6 @@
     "url": "https://ria.ru/20260405/ad-2085298915.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T12:28:50+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a0b34bd56017b9e398989466a21d087f",
-    "title": "В Сербии завели дело о диверсии после обнаружения взрывчатки у газопровода",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006707",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:28:49+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "1bc0eb447ee0a640c3dedcb32cc41d68",
-    "title": "Удары по аэродромам, цехам сборки БПЛА и объектам ТЭК: российские войска поразили военные цели на Украине",
-    "url": "https://russian.rt.com/ussr/article/1616010-aerodrom-bpla-energetika-vsu?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T12:27:22+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "bb9760fbb65c816efe876919e70d8ac8",
-    "title": "В Дагестане несколько сел остались без газа из-за повреждения газопроводов",
-    "url": "https://tass.ru/proisshestviya/27006503",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:26:38+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "0d848acecf06ba4dc7e6869871d22710",
-    "title": "В Махачкале после обрушения многоэтажного дома организовали проверку",
-    "url": "https://tass.ru/proisshestviya/27006699",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:26:20+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "eedd03cfd97a70583238192865b6a785",
-    "title": "В Севастополе силы ПВО отражают атаку ВСУ",
-    "url": "https://ria.ru/20260405/sevastopol-2085298788.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T12:25:45+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8f078e4f5f05156ba36cf30092d4577b",
-    "title": "Россия не обсуждает с партнерами запретные темы, заявил Лавров",
-    "url": "https://ria.ru/20260405/lavrov-2085298668.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T12:25:42+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "4463c8b7b35c93005429c75652f27b52",
-    "title": "В Донбасс впервые за 16 лет приехал театр кошек Куклачева",
-    "url": "https://tass.ru/kultura/27006689",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:25:16+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
