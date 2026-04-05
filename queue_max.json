@@ -1,5 +1,23 @@
 [
   {
+    "id": "8a3b265fd2820bdc9ea09d26724ed0e4",
+    "title": "Нагорных: «Локомотив» по-прежнему в чемпионской гонке",
+    "url": "https://russian.rt.com/sport/news/1616181-nagornyh-porazhenie-lokomotiv?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T19:11:51+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "718764ad5b569f7df24bd44eef386877",
+    "title": "Партия Лагно на турнире претенденток завершилась вничью на 135-м ходу",
+    "url": "https://ria.ru/20260405/lagno-2085337824.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T19:11:10+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "9b925117a0591384da04d4d53335710f",
     "title": "\"Реальная истерика\". На Украине забили тревогу из-за состояния Зеленского",
     "url": "https://ria.ru/20260405/zelenskiy-2085337524.html",
@@ -1050,24 +1068,6 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T17:44:04+00:00",
     "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a31e9bbd43c03f099e04ecdec9ddd186",
-    "title": "Пушилин: ДНР и Абхазия начали проработку открытия прямого железнодорожного сообщения",
-    "url": "https://tass.ru/ekonomika/27008759",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:44:00+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ee72845f4eb2cc2f65f17f09fe082db2",
-    "title": "В Израиле при обстреле Хайфы пострадали девять человек",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008729",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:42:55+00:00",
-    "no_image": false,
     "priority_boost_minutes": 0
   }
 ]
