@@ -1,5 +1,77 @@
 [
   {
+    "id": "be5fc8abe1581433966571c544487d76",
+    "title": "ОАЭИ восстановила контакт с \"Росатомом\", заявил Лихачев",
+    "url": "https://ria.ru/20260405/likhachev-2085290683.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:22:18+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "3b2902cfdc73655bd7c86bb138323a47",
+    "title": "Сийярто: Венгрия считает попытку диверсии на газопроводе нападением на свой суверенитет",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006055",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:21:57+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "26f971b6ef2d9d733125516403ef4caa",
+    "title": "В Симферополе организовали ярмарку для сбора средств на нужды детского дома",
+    "url": "https://tass.ru/obschestvo/27006119",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:21:35+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "30419309a28190db90bc9515b79567a6",
+    "title": "В Азовском море потерпел крушение сухогруз",
+    "url": "https://www.vedomosti.ru/society/news/2026/04/05/1188017-krushenie-suhogruz",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T11:21:31+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "aa62a4a9673b7eee70890acd29e3b7e3",
+    "title": "TV5 Monde: война в Персидском заливе грозит Африке взрывным ростом цен",
+    "url": "https://tass.ru/udary-ssha-i-izrailya-po-iranu/27006153",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:20:48+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "28ad40ccbf0d8e6f588d7648cb62f70a",
+    "title": "Planet Labs приостановила публикацию спутниковых снимков Ближнего Востока",
+    "url": "https://russian.rt.com/world/news/1616025-kompaniya-planet-labs-sputnikovye-snimki?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T11:20:38+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "20121d81d0de869391f7d29d05b1b7b4",
+    "title": "Лихачев: Росатом отрабатывает лицензирование блоков ЗАЭС",
+    "url": "https://tass.ru/ekonomika/27006195",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:20:10+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "eb23300be5b33190d6f42b0ad39e0018",
+    "title": "На берегу обнаружили девять членов экипажа затонувшего сухогруза",
+    "url": "https://ria.ru/20260405/saldo-2085290343.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:19:32+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "58b7bd01c4a2ebdcb536ec94faefe971",
     "title": "Песков рассказал о моде на грубость в риторике в некоторых странах",
     "url": "https://ria.ru/20260405/peskov-2085290194.html",
@@ -24,6 +96,15 @@
     "source": "RT",
     "pub_dt": "2026-04-05T11:18:55+00:00",
     "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d5ddee013fa9c1b2a2574a172000d299",
+    "title": "Сухогруз затонул в Азовском море",
+    "url": "https://lenta.ru/news/2026/04/05/suhogruz-zatonul-v-azovskom-more/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T11:18:00+00:00",
+    "no_image": true,
     "priority_boost_minutes": 0
   },
   {
@@ -930,77 +1011,5 @@
     "pub_dt": "2026-04-05T10:10:01+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
-  },
-  {
-    "id": "645b3b1bf953772b4c1bc806383e4b33",
-    "title": "В Крыму пожаловались на заставляющее юг Украины стонать националистическое иго",
-    "url": "https://lenta.ru/news/2026/04/05/v-krymu-pozhalovalis-na-zastavlyayuschee-yug-ukrainy-stonat-natsionalisticheskoe-igo/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T10:10:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "9b0f358041c23154ba42cfed9579629b",
-    "title": "На Новопесчаной улице в Москве отреставрировали дома в стиле неоклассицизма",
-    "url": "https://ria.ru/20260405/moskva-2085282563.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T10:09:36+00:00",
-    "no_image": false
-  },
-  {
-    "id": "7dae20a57fc95d21d671ea79df4c0a94",
-    "title": "Песков: решение по признанию Карабаха принадлежит Армении",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188010-priznaniyu-karabaha",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T10:09:19+00:00",
-    "no_image": false
-  },
-  {
-    "id": "eac86e847ebcaac67c0320343bc0adff",
-    "title": "Раскрыты подробности обнаружения взрывчатки рядом с газопроводом между Венгрией и Сербией",
-    "url": "https://lenta.ru/news/2026/04/05/raskryty-podrobnosti-obnaruzheniya-vzryvchatki-ryadom-s-gazoprovodom-mezhdu-vengriey-i-serbiey/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T10:09:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "5b138cc803f8f0ceb5da9b9f2487da34",
-    "title": "Песков: Россия проявляет повышенный интерес к ориентирам руководства Армении",
-    "url": "https://russian.rt.com/ussr/news/1615998-peskov-rossiya-armeniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T10:07:31+00:00",
-    "no_image": false
-  },
-  {
-    "id": "5361a687621193bb18ec5b9369f11f21",
-    "title": "Иран заявил, что сбил второй транспортный самолет С-130 Hercules армии США",
-    "url": "https://ria.ru/20260405/iran-2085282383.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T10:06:22+00:00",
-    "no_image": false
-  },
-  {
-    "id": "b9900e47542538508b42113228a3e77b",
-    "title": "Сальдо: подполье в Херсоне ослабляет ВСУ и готовит освобождение города",
-    "url": "https://russian.rt.com/ussr/news/1615975-saldo-podpole-herson?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T10:04:21+00:00",
-    "no_image": false
-  },
-  {
-    "id": "6298e09c875738207dd42288b5f20f86",
-    "title": "Подрыв газопровода нанес бы большой ущерб Сербии и Венгрии, заявил Вучич",
-    "url": "https://ria.ru/20260405/vuchich-2085282177.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T10:03:30+00:00",
-    "no_image": false
-  },
-  {
-    "id": "36991fca1f4c9889c9b7b33fc6db8083",
-    "title": "Средние зарплаты в России выросли в пять раз с 2010 года",
-    "url": "https://ria.ru/20260405/zarplata-2085282040.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T10:03:26+00:00",
-    "no_image": false
   }
 ]
