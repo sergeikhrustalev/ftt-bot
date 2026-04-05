@@ -1,13 +1,5 @@
 [
   {
-    "id": "fee00debdbf46837fa05437c92a8f7ba",
-    "title": "Минобороны отчиталось об уничтожении почти сотни украинских беспилотников",
-    "url": "https://lenta.ru/news/2026/04/02/minoborony-otchitalos-ob-unichtozhenii-pochti-sotni-ukrainskih-bespilotnikov/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T18:32:00+00:00",
-    "no_image": true
-  },
-  {
     "id": "df5a6a3677351c319b4d3a461780a8aa",
     "title": "Apple сохранит доступ к iCloud после окончания подписки пользователей из России",
     "url": "https://www.vedomosti.ru/technology/news/2026/04/02/1187594-icloud-podpiski-rossii",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/obschestvo/27003485",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T20:11:51+00:00",
+    "no_image": false
+  },
+  {
+    "id": "b2aada6d0dfe8652eb42fbd527d1976b",
+    "title": "В аэропорту Ульяновска ввели временные ограничения",
+    "url": "https://tass.ru/ekonomika/27003515",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T20:23:10+00:00",
     "no_image": false
   }
 ]
