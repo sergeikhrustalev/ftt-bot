@@ -1,13 +1,5 @@
 [
   {
-    "id": "8759cf2717d1091fa0ab410753dfc454",
-    "title": "Песков: Каллас могла бы внести немного позитивного вклада в починку того, что ЕС наломал",
-    "url": "https://tass.ru/politika/27005901",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:53:43+00:00",
-    "no_image": false
-  },
-  {
     "id": "a221ffe668cc3c79073d650cb86fb68a",
     "title": "Лавров: РФ никогда не обсуждает запретных тем со своими партнерами",
     "url": "https://tass.ru/politika/27005919",
@@ -472,6 +464,15 @@
     "no_image": false
   },
   {
+    "id": "1fc2078eeaa6247da10f9ec3e18fcfbc",
+    "title": "Большунов заявил, что способен покорять любые спортивные вершины",
+    "url": "https://russian.rt.com/sport/news/1616003-bolshunov-mass-start-kommentarii?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:10:01+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "645b3b1bf953772b4c1bc806383e4b33",
     "title": "В Крыму пожаловались на заставляющее юг Украины стонать националистическое иго",
     "url": "https://lenta.ru/news/2026/04/05/v-krymu-pozhalovalis-na-zastavlyayuschee-yug-ukrainy-stonat-natsionalisticheskoe-igo/",
@@ -678,6 +679,15 @@
     "source": "RT",
     "pub_dt": "2026-04-05T09:47:13+00:00",
     "no_image": false
+  },
+  {
+    "id": "8c401cdf9b458982cd6f3c2639788076",
+    "title": "Вяльбе — о конгресе FIS: международным организациям, как и МОК, придётся оттаивать",
+    "url": "https://russian.rt.com/sport/news/1616000-vyalbe-fis-kongress-nadezhda?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T09:45:36+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
   },
   {
     "id": "a9fb2133e379ad6fa70c0b8489e256ab",
@@ -942,13 +952,5 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-05T09:30:10+00:00",
     "no_image": false
-  },
-  {
-    "id": "fd64bab78bdf542087b8dddd543a6082",
-    "title": "Минобороны заявило об улучшении позиций России",
-    "url": "https://lenta.ru/news/2026/04/05/minoborony-zayavilo-ob-uluchshenii-pozitsiy-rossii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T09:29:00+00:00",
-    "no_image": true
   }
 ]
