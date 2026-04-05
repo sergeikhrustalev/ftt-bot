@@ -1,5 +1,32 @@
 [
   {
+    "id": "a46f1a7a87e794efaf9f5576f819d9c4",
+    "title": "Три человека пострадали при пожаре в ТЦ в Калининграде",
+    "url": "https://russian.rt.com/russia/news/1616075-pozhar-kaliningrad-tc-postradavshie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T14:06:25+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "366f9b106590bf51de330f4c35230a54",
+    "title": "Россия и Танзания запустят прямые рейсы",
+    "url": "https://lenta.ru/news/2026/04/05/rossiya-i-tanzaniya-zapustyat-pryamye-reysy/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T14:03:49+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "bb5283691658a67fd45e3932a113fe75",
+    "title": "В Махачкале четыре дома находятся в зоне риска после обрушения здания",
+    "url": "https://tass.ru/obschestvo/27007313",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T14:03:04+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "97585df6c7ca9782297a8119e81661d8",
     "title": "\"Нет другого средства\". В США заговорили о ядерном оружии из-за Ирана",
     "url": "https://ria.ru/20260405/ssha-2085307109.html",
@@ -1041,33 +1068,6 @@
     "source": "ТАСС",
     "pub_dt": "2026-04-05T12:48:54+00:00",
     "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d047c8049b5e4655acc62c503f7e7f88",
-    "title": "Трамп пригрозил Ирану «адом» в случае отказа открыть Ормузский пролив к 6 апреля",
-    "url": "https://russian.rt.com/world/news/1616050-tramp-ad-iran-ormuzskii-proliv?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T12:47:27+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "e8b9fb1f731079204626634c0a329700",
-    "title": "Четыре человека погибли при авиаударе Израиля по пригороду Бейрута",
-    "url": "https://ria.ru/20260405/beyrut-2085300207.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T12:45:50+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "96b7173f219ecd2e0377cadf7628bea9",
-    "title": "Экс-глава МАГАТЭ призвал остановить «безумца» Трампа",
-    "url": "https://lenta.ru/news/2026/04/05/eks-glava-magate-prizval-ostanovit-bezumtsa-trampa/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T12:43:15+00:00",
-    "no_image": true,
     "priority_boost_minutes": 0
   }
 ]
