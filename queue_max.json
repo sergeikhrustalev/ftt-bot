@@ -1,10 +1,136 @@
 [
   {
+    "id": "9b341e4eba6e53fa7c0c2131da320d37",
+    "title": "Polymarket извинился за ставки на судьбу пилотов сбитого в Иране F-15",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188028-polymarket-izvinilsya",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T13:24:47+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "1e7de8b58b440cecc21d523f01f237cc",
+    "title": "Ипотека уйдет от молотка // Торги заложенным имуществом планируется перевести в электронный формат",
+    "url": "https://www.kommersant.ru/doc/8569558",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T13:24:00+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "fdeb911c5b96c9d488b0a4474e54293a",
+    "title": "В Чебоксарах семь школьников обратились в больницу с острой кишечной инфекцией",
+    "url": "https://tass.ru/obschestvo/27006999",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:23:42+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "0a9a8aba169ef03342763d2dd4c0ba66",
+    "title": "В Ленобласти нашли скопление нефтепродуктов на берегу Финского залива",
+    "url": "https://russian.rt.com/russia/news/1616061-finskii-zaliv-nefteprodukty?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T13:23:24+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ba0d7155007107cf1946f61bd36129b6",
+    "title": "После травмирования проводницы в Костромской области завели дело",
+    "url": "https://tass.ru/proisshestviya/27007007",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:23:15+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "23a45799ed4999df255c3ffbe45e05f2",
+    "title": "Mehr: в Иране с начала конфликта погибли 245 учеников",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007017",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:23:04+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "3bdd9cdfc205bccd3c80c015180f2e16",
+    "title": "Глава МИД Ирака поблагодарил Иран за проход танкеров через Ормузский пролив",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27007027",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:22:43+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "bbc34b47dec758c047b3e9b4c9a347b8",
+    "title": "Туктамышева заявила, что её номер на «Русском вызове» посвящён проблеме домашнего насилия",
+    "url": "https://russian.rt.com/sport/news/1616056-tuktamysheva-nomer-russkiy-vyzov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T13:22:38+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "1a141b849112ebf0ed32920b5b2cd9f8",
+    "title": "Пушков: война США на Ближнем Востоке перешла в фазу неприкрытой истерики",
+    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188029-ssha-v-neprikritoi-isteriki",
+    "source": "Ведомости",
+    "pub_dt": "2026-04-05T13:22:29+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ec17a01d4805ff937424f85b4237df55",
+    "title": "Космонавты на МКС посмотрели фильм \"Полет, изменивший мир\"",
+    "url": "https://tass.ru/obschestvo/27006981",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:20:20+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d9a6c1c8c78dfd3d276ce6d89a1b36c6",
+    "title": "Фонд вошел в закрома // УК СФН заключила крупнейшую сделку на складском рынке Башкирии",
+    "url": "https://www.kommersant.ru/doc/8569261",
+    "source": "Коммерсантъ",
+    "pub_dt": "2026-04-05T13:19:53+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "5afad8c887180daa58406e29daec1014",
+    "title": "Транспортная прокуратура проверит обстоятельства крушения судна в Азовском море",
+    "url": "https://tass.ru/proisshestviya/27006965",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:19:32+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "469277c05d3ad05ff50c4c19a5489389",
     "title": "В США выступили с тревожным заявлением после нового удара Ирана",
     "url": "https://ria.ru/20260405/iran-2085302434.html",
     "source": "РИА",
     "pub_dt": "2026-04-05T13:18:59+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "3a8175a35bd56efdb61fd21ca5819043",
+    "title": "Дмитриев: цена на нефть может превысить $150 за баррель в ближайшие две недели",
+    "url": "https://tass.ru/ekonomika/27006993",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:18:54+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d61a607691bf6eed9c9ad54eba932c31",
+    "title": "В Роспотребнадзоре назвали причину отравления жителей района Дагестана",
+    "url": "https://tass.ru/obschestvo/27006985",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T13:18:35+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -941,132 +1067,6 @@
     "url": "https://tass.ru/proisshestviya/27006529",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T12:05:25+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "dd66e2a0d0d468cf1871346815289ad9",
-    "title": "Над российскими регионами уничтожили десятки беспилотников ВСУ",
-    "url": "https://lenta.ru/news/2026/04/05/nad-rossiyskimi-regionami-unichtozhili-desyatki-bespilotnikov-vsu/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T12:04:43+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a0089efae632a73ba5836e8565b630c5",
-    "title": "Лихачёв сообщил о потере линии энергоснабжения Запорожской АЭС",
-    "url": "https://russian.rt.com/russia/news/1616038-zaes-energosnabzhenie-liniya?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T12:03:44+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "f51312dbbdbbc6c7ce378f2569b97000",
-    "title": "Затонувший сухогруз в Азовском море был атакован беспилотником",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188020-atakovan-bespilotnikom",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T12:01:49+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "6d97fc5b936f5a12b9312f7a02fc71c7",
-    "title": "Додик: попытка диверсии на газопроводе в Сербии угрожает всему региону",
-    "url": "https://tass.ru/ekonomika/27006475",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:01:17+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "511a29be0999b3846131b581108c995b",
-    "title": "RT: людей спасают из обрушевшегося из-за потопа дома в Махачкале",
-    "url": "https://russian.rt.com/russia/news/1616039-mahachkala-obrushenie-dom-potop?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T12:00:59+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "69341298768b6d9791f2bb21bfbfd3e0",
-    "title": "Власти Сейшел обсуждают с \"Аэрофлотом\" прямые рейсы на круглый год",
-    "url": "https://tass.ru/ekonomika/27006513",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T12:00:51+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "5591cc5dde391efc4d59a001ebb6122d",
-    "title": "Пожилая женщина воссоединилась с пропавшим 12 лет назад котом",
-    "url": "https://lenta.ru/news/2026/04/05/pozhilaya-zhenschina-vossoedinilas-s-propavshim-12-let-nazad-kotom/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T12:00:50+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "03cf9291a160289f210d6a638ab28c7c",
-    "title": "В Турции появились плакаты с надписью \"НАТО, вон из страны!\"",
-    "url": "https://ria.ru/20260405/plakat-2085296388.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T12:00:39+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "d5cdb9c479948ea31c3e1ac337a8d9a2",
-    "title": "Al Mayadeen: танкер с иракской нефтью прошел через Ормузский пролив",
-    "url": "https://tass.ru/ekonomika/27006465",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:59:18+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "0687218912b63e50929dd1e52cabd645",
-    "title": "ONA: Оман и Иран провели встречу для обсуждения обеспечения прохода через Ормузский пролив",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27006495",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:59:16+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "51f227a6e5f3328a785d45eaf21651f4",
-    "title": "В весенний период МВО направит свыше 35 тыс. призывников на военную службу",
-    "url": "https://tass.ru/armiya-i-opk/27005997",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:57:58+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "1be952414931361099c86000c5099eef",
-    "title": "В Махачкале сохраняется угроза обрушения четырех многоэтажных домов",
-    "url": "https://tass.ru/obschestvo/27006489",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:57:45+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "887c51808d7533fb622d6e2062588da8",
-    "title": "ADAC: в ФРГ цены на дизельное топливо достигли нового рекорда",
-    "url": "https://tass.ru/ekonomika/27006445",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T11:57:18+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "38f98b8c5f02ad5f9cbefd38148e5b52",
-    "title": "\"Расправимся с каждым\". В Сербии сделали заявление после инцидента с бомбой",
-    "url": "https://ria.ru/20260405/bomba-2085295608.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T11:57:07+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
