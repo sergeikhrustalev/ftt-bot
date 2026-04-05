@@ -1,5 +1,122 @@
 [
   {
+    "id": "98aae00f7f4c448fba68d32a39fe86f8",
+    "title": "Стандарты в Европе весьма относительные, заявил Песков",
+    "url": "https://ria.ru/20260405/peskov-2085288648.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:09:26+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "2a3eb78d75e94e0439dbb0f45b8e8224",
+    "title": "Пропавших в Таиланде модель и владельца ритуальной фирмы нашли в Москве",
+    "url": "https://ria.ru/20260405/tailand-2085288191.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:08:17+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "4d9813be4f0462d3357f86e114665c03",
+    "title": "СМИ Ирана опубликовали фотографии сбитой американской техники",
+    "url": "https://ria.ru/20260405/tekhnika-2085288452.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:08:01+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "13aebefdee8c17bc1eb814ddebbab55d",
+    "title": "Разрушение дома в Махачкале попало на видео",
+    "url": "https://lenta.ru/news/2026/04/05/razrushenie-doma-v-mahachkale-popalo-na-video/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T11:08:00+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ef53b5ad0738328be4a469ff806a2786",
+    "title": "Галибаф: ещё три операции, похожие на спасение пилота F-15E, разрушат США",
+    "url": "https://russian.rt.com/world/news/1616022-ssha-razrushenie-pilot-iran?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T11:07:59+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "29ad3b193dab5b303dc0689fb4adbc68",
+    "title": "Состояние перенесшего сердечный приступ  Луческу ухудшилось",
+    "url": "https://ria.ru/20260405/luchesku-2085288318.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:07:55+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "5aae8bff902c828a129241a8db6d6ae0",
+    "title": "Оман и Иран обсудили варианты беспрепятственного прохода судов по Ормузу",
+    "url": "https://ria.ru/20260405/proliv-2085288030.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:06:43+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "7bdc77853926fb5ca331c2defef84cf0",
+    "title": "Лихачев: эвакуированные из Ирана сотрудники Росатома ночью прибудут в Армению",
+    "url": "https://tass.ru/ekonomika/27006063",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:06:19+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "f1303bb022204ea60494c22d8d1af765",
+    "title": "Удары по районам ядерных объектов \"добром не кончатся\", предупредил Лихачев",
+    "url": "https://ria.ru/20260405/lihachev-2085287887.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:06:11+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "17e52f240e60290bca819fa4a5a14832",
+    "title": "В Азовском море затонул сухогруз с пшеницей, есть погибшие",
+    "url": "https://ria.ru/20260405/sukhogruz-2085287789.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:05:44+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "cbb458c7ec7f0f28781d0df3538bd4ae",
+    "title": "Людей эвакуируют из дома в Махачкале из-за угрозы обрушения",
+    "url": "https://ria.ru/20260405/makhachkala-2085287676.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:05:25+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "77e4a0a88dd6e5ac11dde603b364a89e",
+    "title": "ВС РФ уничтожили шесть НРТК и британскую САУ AS-90 ВСУ у Константиновки",
+    "url": "https://tass.ru/armiya-i-opk/27006031",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:04:34+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "5dc6887c610666607df777b078d166c2",
+    "title": "Женщина из Петербурга впервые в России родила \"однояйцевую\" четверню",
+    "url": "https://tass.ru/obschestvo/27006023",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T11:04:25+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "1823a6a6d05aa94ef252f02d8e801cbf",
     "title": "Песков посоветовал Каллас больше не говорить на тему истории",
     "url": "https://ria.ru/20260405/kallas-2085287551.html",
@@ -113,6 +230,15 @@
     "url": "https://tass.ru/ekonomika/27005965",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T10:58:25+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "3eeff68060ba5854d8b5803e616972ed",
+    "title": "В больнице сообщили, что перенёсший инфаркт Луческу не реагирует на лечение",
+    "url": "https://russian.rt.com/sport/news/1616021-luchesku-sostoyanie-bolezn?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T10:57:45+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   },
@@ -856,118 +982,6 @@
     "url": "https://russian.rt.com/world/news/1615994-orban-sovet-oborony?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T09:42:39+00:00",
-    "no_image": false
-  },
-  {
-    "id": "099116b70ce6d4420b8b3781c11c9ba4",
-    "title": "\"Русские уничтожат\". ВСУ ужаснулись из-за произошедшего на Украине",
-    "url": "https://ria.ru/20260405/ukraina-2085280172.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T09:42:21+00:00",
-    "no_image": false
-  },
-  {
-    "id": "735a8eaec646c0af85c8fabe57409ddf",
-    "title": "Темпы развития Армении в составе ЕАЭС выше, чем у стран СНГ, заявил Песков",
-    "url": "https://ria.ru/20260405/peskov-2085280031.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T09:42:19+00:00",
-    "no_image": false
-  },
-  {
-    "id": "8c01c192eda805246eee207ed52e9973",
-    "title": "В мэрии Махачкалы назвали причину подтоплений",
-    "url": "https://tass.ru/obschestvo/27005429",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T09:41:46+00:00",
-    "no_image": false
-  },
-  {
-    "id": "1e82c0ab5962d9fc41ec1fcba7d43585",
-    "title": "Россия проявляет интерес к ориентирам армянского руководства, заявил Песков",
-    "url": "https://ria.ru/20260405/peskov-2085279919.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T09:40:35+00:00",
-    "no_image": false
-  },
-  {
-    "id": "91185a116316ea8c6e013dc7c07fd893",
-    "title": "Песков рассказал об откровенном разговоре Путина и Пашиняна",
-    "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188007-ob-otkrovennom-razgovore",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T09:40:02+00:00",
-    "no_image": false
-  },
-  {
-    "id": "6229872d39356e17a6bf754d10d8fb71",
-    "title": "В России опровергли повреждение нефтепровода после атаки дронов",
-    "url": "https://lenta.ru/news/2026/04/05/ne-popali/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T09:40:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "c23417b9f65f42cf0d8a6b0c10bd36dd",
-    "title": "Лихачев: красные линии в вопросах ядерной безопасности сдвигаются",
-    "url": "https://tass.ru/politika/27005589",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T09:39:27+00:00",
-    "no_image": false
-  },
-  {
-    "id": "e15e443c265a66e911718f4f10c435e5",
-    "title": "Песков объяснил, почему встреча Путина и Пашиняна прошла в закрытом формате",
-    "url": "https://ria.ru/20260405/peskov-2085279697.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T09:39:17+00:00",
-    "no_image": false
-  },
-  {
-    "id": "d97f1bd046ce37fead4ff197106d4ff8",
-    "title": "В Иране заявили о провале миссии США по спасению пилота истребителя F-15E",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27005569",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T09:39:03+00:00",
-    "no_image": false
-  },
-  {
-    "id": "247e367775a0b0d71ecfdc1cfbab254a",
-    "title": "Тревел-блогер описал застольную традицию Грузии фразой «это не алкоголь, это терапия»",
-    "url": "https://lenta.ru/news/2026/04/05/trevel-bloger-opisal-zastolnuyu-traditsiyu-gruzii-frazoy-eto-ne-alkogol-eto-terapiya/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T09:39:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "d9ee9cc951b155c09b1cbab451e413cd",
-    "title": "Песков: РФ вправе обсуждать с Арменией предстоящие там выборы",
-    "url": "https://tass.ru/politika/27005579",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T09:38:45+00:00",
-    "no_image": false
-  },
-  {
-    "id": "95f38e636ae1c63282092a2c5a8d6ad9",
-    "title": "Стали известны подробности пожара в военном институте в Москве",
-    "url": "https://lenta.ru/news/2026/04/05/stali-izvestny-podrobnosti-pozhara-v-voennom-institute-v-moskve/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T09:38:00+00:00",
-    "no_image": true
-  },
-  {
-    "id": "3fca37c117f8d9dc1f89371839c80c3f",
-    "title": "В ЯНАО прошёл 65-й Слёт оленеводов",
-    "url": "https://russian.rt.com/russia/video/1615997-yanao-65-slyot-olenevodov?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T09:37:37+00:00",
-    "no_image": false
-  },
-  {
-    "id": "b847cb4ffcd707cc24278abf1621deb3",
-    "title": "В Иране заявили, что миссии, похожие на спасение пилота F-15E, разрушат США",
-    "url": "https://ria.ru/20260405/iran-2085279538.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T09:37:11+00:00",
     "no_image": false
   }
 ]
