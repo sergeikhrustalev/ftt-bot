@@ -1,5 +1,14 @@
 [
   {
+    "id": "1e63809a1b29f39782460b0c643bf822",
+    "title": "Умер художник Алексей Ги Коровин",
+    "url": "https://tass.ru/kultura/27008517",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:14:07+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "3bb629a99c3b7a9a6095ee053900ed0d",
     "title": "Bild: летнюю резиденцию Муссолини продали за €1,2 млн",
     "url": "https://russian.rt.com/world/news/1616143-rezidenciyu-mussolini-prodali?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -1058,15 +1067,6 @@
     "url": "https://russian.rt.com/world/news/1616098-syomochnaya-gruppa-rt-izrail-ataka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T15:37:55+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "ddac2c9327bb8c6bf6500ce7e63742c2",
-    "title": "Заморозка участия США в НАТО перестала быть невозможной, считает Пушков",
-    "url": "https://ria.ru/20260405/pushkov-2085315791.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T15:37:38+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
