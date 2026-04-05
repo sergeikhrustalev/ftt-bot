@@ -1,5 +1,158 @@
 [
   {
+    "id": "2e6cea82f925da90554e0cf75a49f6cb",
+    "title": "Володин раскрыл вступившие в силу законы о защите финансовых прав граждан",
+    "url": "https://lenta.ru/news/2026/04/05/volodin-raskryl-vstupivshie-v-silu-zakony-o/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T18:33:26+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "2636324ef57b62df8269ee89a51f8f5f",
+    "title": "Врач Крупенин посоветовал не заливать клеща подсолнечным маслом",
+    "url": "https://russian.rt.com/nopolitics/news/1616147-vrach-klesch-zdorove?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:33:15+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "835fbff0c03ae07b1e3d0a34da7c41ec",
+    "title": "HR-эксперт Романова рассказала о тренде на снижение нагрузки в начале рабочей недели",
+    "url": "https://russian.rt.com/russia/news/1616151-hr-ekspert-rabota?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:32:58+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "182e6555e61206998e783df342aac7a6",
+    "title": "Россиян предупредили, что ИИ может воспроизводить мимику и поведение человека",
+    "url": "https://russian.rt.com/russia/news/1616150-ii-poddelka-socset?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:32:42+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "cad5c3354055a81e0209388c10141ddf",
+    "title": "\"Спартак\" в большинстве одолел \"Локомотив\" в домашнем матче РПЛ",
+    "url": "https://ria.ru/20260405/spartak-2085333670.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:32:35+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "e368e745291d012f56a6aa2a8ca75964",
+    "title": "Адвокат Жаров рассказал, что делать для борьбы с курящими соседями",
+    "url": "https://russian.rt.com/russia/news/1616153-advokat-kuryaschie-sosedi?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:32:22+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "6b7033fbe54848e11dd840d125e85b40",
+    "title": "США и Израиль дважды атаковали аэропорт на юго-западе Ирана",
+    "url": "https://ria.ru/20260405/iran-2085333512.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T18:32:11+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "86d603dcf6be47e1f59a6ca350df3f75",
+    "title": "HR-эксперт Мурадян: удалёнка закрепилась, но не стала доминирующей",
+    "url": "https://russian.rt.com/russia/news/1616158-hr-ekspert-udalyonka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:32:06+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ff5611373f8c31cdb25de06874818331",
+    "title": "Экономист Щербаченко: финансовая подушка должна покрывать расходы за 10—12 месяцев",
+    "url": "https://russian.rt.com/russia/news/1616160-ekonomist-finansovaya-podushka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:31:43+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "8b4457fbe528ff2fa285e133bb159353",
+    "title": "Количество нарушений ПДД водителями грузовиков в Москве снизилось на 47%",
+    "url": "https://russian.rt.com/russia/news/1616168-moskva-pdd-statistika?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:31:20+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "bfcd42c453848dbe8d06ae8c3ec6a120",
+    "title": "Почти 500 тыс. абонентов ДНР остались без света из-за атаки ВСУ",
+    "url": "https://tass.ru/obschestvo/27009051",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:31:14+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "d5b121a257ffe159480047ae04aab4b8",
+    "title": "Гол Солари принёс «Спартаку» победу над «Локомотивом» в матче 23-го тура РПЛ",
+    "url": "https://russian.rt.com/sport/news/1616176-gol-solari-spartak-lokomotiv?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:31:10+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "2a55a2497d5f589e65a4f19b78ef1d96",
+    "title": "Турэксперт Воронина рассказала о росте спроса на туры в Китай",
+    "url": "https://russian.rt.com/russia/news/1616164-ekspert-turizm-kitai?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:31:08+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "673f843aeb3a9878d4690dff28dc0ece",
+    "title": "Тренер Чайковская: единственный конкурент россиян — Илья Малинин",
+    "url": "https://russian.rt.com/sport/news/1616161-trener-figurnoe-katanie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:30:55+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "b608eccd8d391e1d3dc9ee3ee6bf87a4",
+    "title": "\"Спартак\" одержал волевую победу над \"Локомотивом\" в матче РПЛ",
+    "url": "https://tass.ru/sport/27009059",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:30:32+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "dab1002c684c1cb3b6ddbf9739afc102",
+    "title": "Юрист Хаминский: выбрасывать документы с персональными данными в мусор небезопасно",
+    "url": "https://russian.rt.com/russia/news/1616157-yurist-personalnye-dannye?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T18:30:32+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "37660362c104d012803e96cf703a5b87",
+    "title": "14-й канал: \"Хезболлах\" по ошибке обстреляла британский корабль",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/27009037",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T18:30:15+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "f874885d4713d895b15dfad97bfa1960",
     "title": "Юрист Асанова: односторонний отказ сотрудника от отпуска невозможен",
     "url": "https://russian.rt.com/russia/news/1616149-yurist-rabota-otpusk?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -915,159 +1068,6 @@
     "source": "Лента",
     "pub_dt": "2026-04-05T17:06:14+00:00",
     "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "7081a3d121cdb0e851fc75996af9c006",
-    "title": "\"Заставят капитулировать\". В США возмутились матерным постом Трампа",
-    "url": "https://ria.ru/20260405/tramp-2085324332.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T17:06:04+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "cf53b0a041d0e91afd29c4a1fe80d6e0",
-    "title": "В Севастополе объявили четвертую за день воздушную тревогу",
-    "url": "https://ria.ru/20260405/sevastopol-2085324187.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T17:05:27+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "2e26e34e452066dad0d99e56f30e0e81",
-    "title": "Более 8 тыс. человек приняли участие в событиях AtomSkills в 2026 году",
-    "url": "https://tass.ru/ekonomika/27008509",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:03:58+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "c825ad75d060e3cf6f057aab56435974",
-    "title": "Axios: США продлили на сутки сроки заключения возможной сделки с Ираном",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008501",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:01:49+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "933c3773b737ee6cb977b84e081f3713",
-    "title": "В Калининграде из-за пожара в ТЦ \"Гиант\" сгорели две машины",
-    "url": "https://tass.ru/proisshestviya/27008481",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:01:27+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "8e092baa21eb9a6d6c92998b8d57efa5",
-    "title": "Психолог оказывает помощь семье девочки, провалившейся под лед в Кузбассе",
-    "url": "https://tass.ru/obschestvo/27008467",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T17:01:08+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "74fc52b9169fcc4fa89cd4f1b5104b98",
-    "title": "ВС Пакистана уничтожили 37 афганских военных при попытке захвата погранпоста",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008489",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:58:15+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "1aaf69d6f46c515284da679548f8f721",
-    "title": "Солдат ВСУ стали чаще наказывать «деревьями правды»",
-    "url": "https://lenta.ru/news/2026/04/05/soldat-vsu-stali-chasche-nakazyvat-derevyami-pravdy/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T16:58:00+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "4ae370bea85e77f7852617e7150a0abf",
-    "title": "Экономист Сакс: БРИКС — значимый и полезный для мира стабилизатор",
-    "url": "https://russian.rt.com/world/news/1616130-briks-mir-stabilizator-saks?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T16:57:58+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "e9110c75eb250754e08476fde31d1d8c",
-    "title": "Жительница Калининграда рассказала, как ТЦ охватывал огонь",
-    "url": "https://ria.ru/20260405/kaliningrad-2085322651.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T16:57:49+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "c6477bc12d0d3e23f7807f01be30b9c3",
-    "title": "Очевидица рассказала, сколько проработала сигнализация в ТЦ в Калининграде",
-    "url": "https://ria.ru/20260405/kaliningrad-2085322493.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T16:57:03+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "e9affde0c60799771f8b2e2d5c2e8983",
-    "title": "Армения движется к катастрофе, выбрав путь в ЕС, считает Киселев",
-    "url": "https://ria.ru/20260405/kiselev-2085322294.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T16:56:16+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "3e11df229cafab2929411e5ce3f21823",
-    "title": "Постпредство Ирана: Трамп намерен совершить военное преступление",
-    "url": "https://russian.rt.com/world/news/1616131-iran-tramp-prestuplenie?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T16:52:38+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "02e072217db2bc737a262e9dfac90dc4",
-    "title": "Есипенко потерпел третье поражение на турнире претендентов",
-    "url": "https://ria.ru/20260405/esipenko-2085322055.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T16:52:30+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "a82918f86733e0a471d56b3d98f9f5f0",
-    "title": "Российские юниорки вышли в полуфинал волейбольного турнира в Италии",
-    "url": "https://tass.ru/sport/27008465",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:50:53+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "86d6bc95c467840ec950e53764414640",
-    "title": "Спецоперация, 5 апреля: ВС России поразили инфраструктуру аэродромов ВСУ",
-    "url": "https://ria.ru/20260405/spetsoperatsiya-2085321640.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T16:48:46+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "bedff2f9f68ea7e6b5c21e1953282f32",
-    "title": "Депутат Рады Цымбалюк: около 1,5 млн украинцев уклоняются от обновления данных в ТЦК",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008457",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:48:12+00:00",
-    "no_image": false,
     "priority_boost_minutes": 0
   }
 ]
