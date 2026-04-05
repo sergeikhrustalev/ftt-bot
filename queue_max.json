@@ -1,5 +1,68 @@
 [
   {
+    "id": "0693381ec05de01866921fbf1524f957",
+    "title": "В Калининграде при пожаре в ТЦ пострадали два человек",
+    "url": "https://ria.ru/20260405/kaliningrad-2085326881.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T17:23:38+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "88bd1dc0b8a5c9b51e915e30113e90c6",
+    "title": "Локальные прорывы произошли на дамбе Геджухского водохранилища в Дагестане",
+    "url": "https://tass.ru/proisshestviya/27008617",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:23:25+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "f9e68310ac27726088e98df3c4ae37c8",
+    "title": "Два агрария погибли в Запорожской области после удара БПЛА ВСУ по трактору",
+    "url": "https://russian.rt.com/ussr/news/1616144-vsu-ataka-zaporozhskaya-oblast?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T17:21:29+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "a877a992d84a94a95e91b05e25aa08e6",
+    "title": "Пушилин: ВСУ пытались перейти в контрнаступление возле Святогорска",
+    "url": "https://tass.ru/armiya-i-opk/27008595",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:20:56+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "ff7fe6f3a49f1e67c78bdcf6581e4f08",
+    "title": "Пушилин: ВС РФ заняли новые позиции в районе освобожденной Александровки",
+    "url": "https://tass.ru/armiya-i-opk/27008589",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:20:34+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "f51cfd2c774d2c5456b3c6f84a083d6c",
+    "title": "В Пакистане из-за ливней погибли не менее 45 человек",
+    "url": "https://tass.ru/proisshestviya/27008555",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:18:36+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "dc6d2c70bde62f6116a9b95d96f88c0d",
+    "title": "Пушилин: группировка войск \"Запад\" продвигается на краснолиманском направлении",
+    "url": "https://tass.ru/armiya-i-opk/27008563",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:18:24+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "1e63809a1b29f39782460b0c643bf822",
     "title": "Умер художник Алексей Ги Коровин",
     "url": "https://tass.ru/kultura/27008517",
@@ -1004,69 +1067,6 @@
     "url": "https://russian.rt.com/russia/news/1616102-moskitnye-setki-gost?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "source": "RT",
     "pub_dt": "2026-04-05T15:46:46+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "6c9ab8fabbfe1c79e00b4e4d3771d797",
-    "title": "Израиль и Палестина: история, причины и возможные последствия конфликта",
-    "url": "https://ria.ru/20260405/konflikt-1915630213.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T15:44:43+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "49041f2e16f5462f4ccbfde89d6a5a29",
-    "title": "Китай заявил о готовности сотрудничать с РФ для деэскалации на Ближнем Востоке",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/27008031",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:43:28+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "9133252ac72d8d2e3c1a7e9deeda0a41",
-    "title": "В части населенных пунктов Дербентского района Дагестана проводят эвакуацию",
-    "url": "https://tass.ru/obschestvo/27008025",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:40:31+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "bfbae46daeeacb434b302a17f8a6761b",
-    "title": "Виллу Муссолини продали за 111 миллионов рублей для спасения от его фанатов",
-    "url": "https://lenta.ru/news/2026/04/05/villu-mussolini-prodali-za-111-millionov-rubley-dlya-spaseniya-ot-ego-fanatov/",
-    "source": "Лента",
-    "pub_dt": "2026-04-05T15:40:28+00:00",
-    "no_image": true,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "0d3576bae93c4e611f677e7b3c78cd34",
-    "title": "Российский углерод сближают с зарубежным // Верификация отчетности о выбросах будет стандартизирована",
-    "url": "https://www.kommersant.ru/doc/8569588",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T15:39:13+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "5ae19d726c7b7442b1856cd215d776e2",
-    "title": "Лавров и Арагчи надеются на отказ США от ультиматумов для возвращения к дипломатии",
-    "url": "https://tass.ru/politika/27007997",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T15:39:12+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "7248f6cf77da82578e2c7da0ac8f28a5",
-    "title": "Израиль мог ударить по журналистам RT в Ливане управляемой бомбой с F-16",
-    "url": "https://russian.rt.com/world/news/1616098-syomochnaya-gruppa-rt-izrail-ataka?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T15:37:55+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
