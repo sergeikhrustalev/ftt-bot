@@ -1,13 +1,5 @@
 [
   {
-    "id": "e11ee0f6fa4ae8b4501bee0a226abaac",
-    "title": "В Европе заявили о подготовке Киевом «цветной революции»",
-    "url": "https://lenta.ru/news/2026/04/02/v-evrope-zayavili-o-podgotovke-kievom-tsvetnoy-revolyutsii/",
-    "source": "Лента",
-    "pub_dt": "2026-04-02T18:20:31+00:00",
-    "no_image": true
-  },
-  {
     "id": "fee00debdbf46837fa05437c92a8f7ba",
     "title": "Минобороны отчиталось об уничтожении почти сотни украинских беспилотников",
     "url": "https://lenta.ru/news/2026/04/02/minoborony-otchitalos-ob-unichtozhenii-pochti-sotni-ukrainskih-bespilotnikov/",
@@ -2389,6 +2381,14 @@
     "url": "https://tass.ru/proisshestviya/27003437",
     "source": "ТАСС",
     "pub_dt": "2026-04-04T20:00:44+00:00",
+    "no_image": false
+  },
+  {
+    "id": "9b2a29f5ebaedb1e6e676f9fda5d24eb",
+    "title": "Танкер Flora 1 получил разрешение покинуть Швецию",
+    "url": "https://tass.ru/obschestvo/27003485",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-04T20:11:51+00:00",
     "no_image": false
   }
 ]
