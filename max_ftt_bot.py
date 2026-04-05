@@ -144,6 +144,7 @@ POSTED_FILE = "posted.json"
 MAX_QUEUE_SIZE = 120
 DEFAULT_CUTOFF_HOURS = 2
 QUEUE_MAX_AGE_HOURS = 8
+MAX_FUTURE_SKEW_HOURS = 6
 
 KNOWN_NOISE_LINES = {
     "мировые 24/7 новости",
@@ -481,6 +482,8 @@ def collect_articles(cutoff_hours=DEFAULT_CUTOFF_HOURS):
 
                 pub = entry.get("published_parsed")
                 pub_dt = datetime(*pub[:6], tzinfo=timezone.utc) if pub else now
+                if pub_dt > now + timedelta(hours=MAX_FUTURE_SKEW_HOURS):
+                    continue
                 if pub_dt < cutoff:
                     continue
 
