@@ -1,5 +1,41 @@
 [
   {
+    "id": "b6cf1b9cabeca9ba0334ce64975d93e7",
+    "title": "Момент прорыва дамбы в Дагестане попал на видео",
+    "url": "https://lenta.ru/news/2026/04/05/moment-proryva-damby-v-dagestane-popal-na-video/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T17:56:44+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "efa22fa1b2db7b2df0cc2f3d0a423d33",
+    "title": "В Дагестане восстановили 50 процентов электроснабжения",
+    "url": "https://ria.ru/20260405/dagestan-2085329293.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T17:56:36+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "299267b7077ea23586ae4e3a9229ec7e",
+    "title": "В США Зеленского назвали безумным карликом",
+    "url": "https://lenta.ru/news/2026/04/05/v-ssha-zelenskogo-nazvali-bezumnym-karlikom/",
+    "source": "Лента",
+    "pub_dt": "2026-04-05T17:55:52+00:00",
+    "no_image": true,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "7799219427f879d85028baf4ee8653fd",
+    "title": "В Калининграде при пожаре в ТЦ \"Гиант\" пострадали два человека",
+    "url": "https://tass.ru/proisshestviya/27008581",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T17:54:25+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "ad4b5ea7fc59d52a109c894973224adc",
     "title": "В Малом театре состоялась премьера спектакля «Проект инженера Гарина»",
     "url": "https://russian.rt.com/nopolitics/news/1615988-malyi-teatr-premera-proekt-inzhenera-garina?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -1031,42 +1067,6 @@
     "url": "https://www.vedomosti.ru/politics/news/2026/04/05/1188045-lavrov-glava-mid-irana",
     "source": "Ведомости",
     "pub_dt": "2026-04-05T16:18:48+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "1cfb644e6a33e23913a6815950fd0db5",
-    "title": "ТАСС: украинский дезертир в Ровно угрожал гранатой сотрудникам ТЦК и полиции",
-    "url": "https://tass.ru/armiya-i-opk/27008161",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:17:54+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "c8a41c6bc0d0ddacfe6d3b37cdc5a0db",
-    "title": "Турист оттолкнулся от дна // Спрос на отдых в Анапе вырос минимум в два раза",
-    "url": "https://www.kommersant.ru/doc/8569639",
-    "source": "Коммерсантъ",
-    "pub_dt": "2026-04-05T16:17:14+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "bb99793422c004fe01c6dd7ba34fd5fe",
-    "title": "ВСУ использовали БПЛА для атаки на сухогруз, затонувший в Азовском море",
-    "url": "https://tass.ru/proisshestviya/27008253",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T16:17:11+00:00",
-    "no_image": false,
-    "priority_boost_minutes": 0
-  },
-  {
-    "id": "94f07ab22e1d42c219166eb5bda89137",
-    "title": "Отец ребенка Лерчек опроверг слухи об ухудшении ее самочувствия",
-    "url": "https://ria.ru/20260405/otets-2085319573.html",
-    "source": "РИА",
-    "pub_dt": "2026-04-05T16:16:54+00:00",
     "no_image": false,
     "priority_boost_minutes": 0
   }
