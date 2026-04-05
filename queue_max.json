@@ -1,5 +1,32 @@
 [
   {
+    "id": "625bf472027fa37e807cc87ee9b3492a",
+    "title": "AI Engineer — две разные профессии под одним названием. Разбираю реальные офферы из LinkedIn",
+    "url": "https://vc.ru/dev/2852385-ai-engineer-dve-professii?from=rss",
+    "source": "vc.ru AI",
+    "pub_dt": "2026-04-05T09:56:48+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 60
+  },
+  {
+    "id": "8976829d817e4d260da042d47693bc6f",
+    "title": "Лихачев: Росатом получил несколько сигналов от руководства по атомной энергетике Ирана",
+    "url": "https://tass.ru/ekonomika/27005933",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:56:21+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "0834b829e73c75cf7ed1d56c52a8cbf9",
+    "title": "Песков: рано или поздно все равно нужно будет чинить и нормализовывать",
+    "url": "https://tass.ru/politika/27005941",
+    "source": "ТАСС",
+    "pub_dt": "2026-04-05T10:55:54+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "a221ffe668cc3c79073d650cb86fb68a",
     "title": "Лавров: РФ никогда не обсуждает запретных тем со своими партнерами",
     "url": "https://tass.ru/politika/27005919",
@@ -927,30 +954,6 @@
     "url": "https://tass.ru/mezhdunarodnaya-panorama/27005481",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T09:30:48+00:00",
-    "no_image": false
-  },
-  {
-    "id": "9081a6c3fee91aa28c81ba7f4e82f050",
-    "title": "Володин: вступили в силу законы о защите финансовых прав граждан",
-    "url": "https://www.vedomosti.ru/finance/news/2026/04/05/1188005-vstupili-v-silu",
-    "source": "Ведомости",
-    "pub_dt": "2026-04-05T09:30:25+00:00",
-    "no_image": false
-  },
-  {
-    "id": "24a879a562a2eb8e83d156d98f68f1b0",
-    "title": "Песков: Ереван понимает невозможность одновременного нахождения в ЕАЭС и ЕС",
-    "url": "https://tass.ru/politika/27005501",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T09:30:15+00:00",
-    "no_image": false
-  },
-  {
-    "id": "f0fdb33c1519084bee40935ed48e152c",
-    "title": "В Хасавюрте сильные осадки повредили несколько торговых контейнеров",
-    "url": "https://tass.ru/obschestvo/27005495",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T09:30:10+00:00",
     "no_image": false
   }
 ]
