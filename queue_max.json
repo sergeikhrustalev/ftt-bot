@@ -1,5 +1,32 @@
 [
   {
+    "id": "be5549eb73d7a66c22e19811c5b55bfe",
+    "title": "Дмитриев призвал готовиться к серьезному кризису",
+    "url": "https://ria.ru/20260405/dmitriev-2085294633.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:47:54+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "71eb8055d9b7d4c8629fa23264d672f7",
+    "title": "Бородавко — о пяти победах Большунова в финале Кубка России: показал уровень",
+    "url": "https://russian.rt.com/sport/news/1616036-borodavko-bolshunov-kubok-uroven?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "source": "RT",
+    "pub_dt": "2026-04-05T11:46:55+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
+    "id": "881a0075e8db968f6f1d59eaf1615a1e",
+    "title": "Лихачев: ударов по ЗАЭС в последние дни не было, но были по Энергодару",
+    "url": "https://ria.ru/20260405/likhachev-2085294477.html",
+    "source": "РИА",
+    "pub_dt": "2026-04-05T11:45:13+00:00",
+    "no_image": false,
+    "priority_boost_minutes": 0
+  },
+  {
     "id": "be93101bf5c93caf50e262f621705348",
     "title": "В аэропорту Сочи ввели ограничения",
     "url": "https://tass.ru/obschestvo/27006373",
@@ -1019,30 +1046,6 @@
     "url": "https://tass.ru/sport/27005825",
     "source": "ТАСС",
     "pub_dt": "2026-04-05T10:39:41+00:00",
-    "no_image": false
-  },
-  {
-    "id": "ef235bb84d6dbae5c3eb7707686365f3",
-    "title": "В Новосибирской области в ДТП погиб человек",
-    "url": "https://tass.ru/proisshestviya/27005805",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:39:26+00:00",
-    "no_image": false
-  },
-  {
-    "id": "3cfb473452d628b636558dcb422f2812",
-    "title": "Посол КНР предложил сделать безвиз с Россией бессрочным",
-    "url": "https://russian.rt.com/world/news/1615996-bezviz-rossiya-kitay?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "source": "RT",
-    "pub_dt": "2026-04-05T10:39:20+00:00",
-    "no_image": false
-  },
-  {
-    "id": "b2e6bf49a8582b1915e0a24fee7069f9",
-    "title": "В католическую Пасху Папа Римский высказался против силы доминирования",
-    "url": "https://tass.ru/obschestvo/27005709",
-    "source": "ТАСС",
-    "pub_dt": "2026-04-05T10:38:26+00:00",
     "no_image": false
   }
 ]
