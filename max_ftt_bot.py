@@ -174,9 +174,6 @@ BOILERPLATE_FRAGMENTS = (
     "подпишитесь",
     "telegram",
     "телеграм",
-    "эта новость в",
-    "материал опубликован",
-    "новость появилась",
 )
 
 FLAGS = [
@@ -543,6 +540,7 @@ def collect_articles(cutoff_hours=DEFAULT_CUTOFF_HOURS):
                         "pub_dt": pub_dt.isoformat(),
                         "no_image": source.get("no_image", False),
                         "priority_boost_minutes": source.get("priority_boost_minutes", 0),
+                        "rss_summary": trim_text(summary) if summary else "",
                     }
                 )
                 queued_ids.add(article_id)
@@ -571,6 +569,8 @@ def send_one():
 
     article = queue[0]
     body, image_url = fetch_article(article["url"])
+    if not body:
+        body = article.get("rss_summary", "")
     if article.get("no_image"):
         image_url = ""
     article["body"] = body
