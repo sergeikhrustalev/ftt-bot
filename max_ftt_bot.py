@@ -174,6 +174,9 @@ BOILERPLATE_FRAGMENTS = (
     "подпишитесь",
     "telegram",
     "телеграм",
+    "эта новость в",
+    "материал опубликован",
+    "новость появилась",
 )
 
 FLAGS = [
@@ -205,6 +208,7 @@ LEADING_NOISE_RE = re.compile(
     r"ria(?:\.ru)?|риа(?:\s+новости)?|тасс|rt|ведомости|лента(?:\.ру)?)\s*[\-–—|:.,]*)+",
     re.IGNORECASE,
 )
+URL_RE = re.compile(r"(?:https?://|www\.)\S+", re.IGNORECASE)
 
 
 def detect_flag(text):
@@ -244,6 +248,10 @@ def strip_html(text):
     return collapse_spaces(re.sub(r"<[^>]+>", " ", text or ""))
 
 
+def strip_urls(text):
+    return collapse_spaces(URL_RE.sub(" ", text or ""))
+
+
 def trim_text(text, limit=TEXT_LIMIT):
     if len(text) <= limit:
         return text
@@ -274,7 +282,7 @@ def looks_like_leading_source_sentence(sentence):
 
 
 def strip_leading_noise(text):
-    cleaned = collapse_spaces(text)
+    cleaned = strip_urls(text)
     if not cleaned:
         return ""
 
@@ -324,6 +332,12 @@ def clean_body(text, title="", source=""):
 
     if title and body.lower().startswith(title.lower()):
         body = body[len(title) :].lstrip(" .,:;|-")
+
+    first_sentence = re.match(r"^([^.!?\n]{8,220}[.!?])\s+(.*)$", body)
+    if first_sentence and normalize_title(first_sentence.group(1)) == title_norm:
+        body = first_sentence.group(2).lstrip(" .,:;|-")
+
+    body = strip_urls(body)
 
     if not body:
         return ""
