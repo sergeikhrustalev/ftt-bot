@@ -16,5 +16,6 @@ jobs:
           username: svkhrys9
           password: ${{ secrets.BEGET_SSH_PASSWORD }}
           script: |
+            git -C ~/ftt-bot pull --ff-only origin main
             ACCESS_TOKEN=${{ secrets.MAX_ACCESS_TOKEN }} python3 ~/ftt-bot/max_ftt_bot.py >> ~/ftt-bot/bot.log 2>&1
             tail -3 ~/ftt-bot/bot.log

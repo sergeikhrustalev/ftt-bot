@@ -139,6 +139,7 @@ HEADERS = {
 }
 
 TEXT_LIMIT = 500
+TEXT_HARD_LIMIT = 700
 QUEUE_FILE = "queue_max.json"
 POSTED_FILE = "posted.json"
 MAX_QUEUE_SIZE = 120
@@ -249,12 +250,31 @@ def strip_urls(text):
     return collapse_spaces(URL_RE.sub(" ", text or ""))
 
 
-def trim_text(text, limit=TEXT_LIMIT):
+def trim_text(text, limit=TEXT_LIMIT, hard_limit=TEXT_HARD_LIMIT):
     if len(text) <= limit:
         return text
-    chunk = text[:limit]
-    dot = chunk.rfind(".")
-    return chunk[: dot + 1] if dot > limit // 2 else chunk.rstrip() + "..."
+
+    # Prefer a complete sentence near the target length. If the current
+    # sentence crosses the target, allow it a little more room instead of
+    # publishing an abruptly chopped thought.
+    sentence_endings = [match.end() for match in re.finditer(r"[.!?](?=\s|$)", text)]
+    endings_before_limit = [ending for ending in sentence_endings if ending <= limit]
+    if endings_before_limit and endings_before_limit[-1] >= limit // 2:
+        return text[: endings_before_limit[-1]].rstrip()
+
+    ending_after_limit = next(
+        (ending for ending in sentence_endings if limit < ending <= hard_limit),
+        None,
+    )
+    if ending_after_limit:
+        return text[:ending_after_limit].rstrip()
+
+    # Exceptionally long sentences still need a cap, but never split a word.
+    chunk = text[:hard_limit].rstrip()
+    word_boundary = chunk.rfind(" ")
+    if word_boundary >= limit // 2:
+        chunk = chunk[:word_boundary].rstrip(" ,;:—-")
+    return chunk + "…"
 
 
 def is_source_credit(line):
